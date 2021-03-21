@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D92B8/
+title=Trình duyệt giúp tìm kiếm website phishing 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Trình_duyệt giúp tìm_kiếm website phishing
+Deepnet Explore , trình_duyệt Internet mới , có_thể giúp bạn đối_phó với nạn   ( phishing ) đang trở_thành vấn_đề nhức_nhối trên thế_giới này .
+ 
+Deepnet Explorer được phát_triển dựa_trên trình_duyệt Internet Explore ( IE ) của Microsoft .
+Nhiệm_vụ của nó là thu_thập , phân_tích và xâu_chuỗi các địa_chỉ website để phát_hiện đâu là site phishing hoặc có liên_quan đến phishing nhằm đưa_ra lời cảnh_báo kịp_thời cho người_sử_dụng .
+
+Phiên_bản chính_thức đầu_tiên , Deepnet Explorer 1.3 , còn giới_thiệu một ứng_dụng cho_phép lướt web mà không lưu lại cookie hay các file của những site mà bạn đã ghé_qua nhằm bảo_vệ thông_tin cá_nhân cho người_sử_dụng .
+Ngoài_ra , phần_mềm này còn cho_phép tạo_ra những nhóm bao_gồm nhiều trình_duyệt trong cùng một cửa_sổ giúp bạn lướt web nhanh hơn .
+
+Phần_mềm này có 2,7 MB , download .
+
+Văn_Thắng ( theo CNet )

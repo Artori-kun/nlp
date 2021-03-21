@@ -1,0 +1,15 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/08/3B9BF6D9/
+title=Tăng cường bảo mật cho Office XP bằng Service Pack 2 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tăng_cường bảo_mật cho Office XP bằng Service Pack 2
+Hôm_nay , Microsoft ra_mắt người_dùng bộ sửa lỗi chương_trình mới nhất cho Office XP .
+Service Pack 2 ( 15 MB ) sẽ bít các điểm_yếu , đồng_thời nâng_cao khả_năng thực_hiện , bảo_mật và tính ổn_định cho Office XP .
+
+Giống như nhiều khác , Office XP Service Pack 2 gồm các bản sửa lỗi , tinh_chỉnh , những phần_mềm cập_nhật tương_thích và các tính_năng bảo_mật .
+Bên_cạnh_đó , phiên_bản này cũng bao_gồm cả chương_trình để bít lỗ_hổng trong phần_mềm e - mail , cũng_như các chương_trình Word , Excel , FrontPage , Publisher , và SharePoint Team Services được phát_hiện từ tháng 4 đến tháng 6 .
+
+Hiện Microsoft đã đưa lên mạng phiên_bản Office XP Service Pack 2 bằng tiếng Anh .
+Người_dùng có_thể vào   của hãng để tải về .
+
+Minh_Nghĩa ( theo News )

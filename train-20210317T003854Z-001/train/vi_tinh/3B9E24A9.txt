@@ -1,0 +1,11 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E24A9/
+title=Giảm tiêu hao điện năng chip 1.000 lần bằng nền 65 nm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Giảm tiêu_hao điện_năng chip 1.000 lần bằng nền 65 nm
+Intel đang chuyển sang quy_trình sản_xuất chip tiêu_thụ điện_năng cực thấp cho các nền_tảng di_động thế_hệ mới , dựa_trên phương_pháp xây_dựng bộ xử_lý   , phiên_bản lõi kép của chip máy_tính xách_tay .
+
+Với số transistor trên_bộ vi xử_lý vượt_mức một_tỷ , điểm mạnh trong từng bóng bán_dẫn sẽ được nhân lên gấp_bội và tạo_ra lợi_ích khổng_lồ cho toàn_bộ thiết_bị , Mark Bohr khẳng_định .
+Quá_trình thử_nghiệm đã chứng_minh bộ_vi xử_lý trên công_nghệ 65 nm của Intel có_thể giảm mức_độ rò rỉ điện_năng của transistor xuống gần 1.000 lần so với chu_trình sản_xuất chuẩn hiện_nay của Intel .
+
+P.T .

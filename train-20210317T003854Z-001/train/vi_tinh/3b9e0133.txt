@@ -1,0 +1,21 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/07/3b9e0133/
+title=Hiển thị nhanh kết quả tìm kiếm với Browster 1.0 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Hiển_thị nhanh kết_quả tìm_kiếm với Browster 1.0
+Một chương_trình hỗ_trợ tương_thích ( plug - in ) miễn_phí dành riêng cho trình_duyệt Internet Explorer ra_mắt ngày hôm_nay , cho_phép trỏ chuột vào kết_nối để xem nhanh nội_dung website thay_vì phải đợi toàn_bộ trang được tải xuống .
+
+Phần_mềm được hãng Browster ( Mỹ ) viết với mục_đích mở nhanh những site có trong danh_sách kết_quả tìm_kiếm .
+Browster 1.0 sử_dụng phương_pháp hiển_thị trang theo dạng " pre - fetching " ( tìm nạp nội_dung trước ) .
+Nghĩa_là khi người_dùng di chuột vào một liên_kết nào_đó , phần_mềm sẽ mở ngay ra một cửa_sổ mới ngay trên đỉnh trang tìm_kiếm gốc để cung_cấp một bản_sao nội_dung trang web nào_đó chỉ trong khoảng một phần nghìn giây .
+
+Người sử_dụng có_thể bấm chuột vào chính những kết_nối và thông_tin bên_trong cửa_sổ mới đó để tải dữ_liệu từ website thực .
+Họ sẽ thoát ra bằng cách di chuột trở_lại trang tìm_kiếm gốc , hoặc bấm trực_tiếp vào một biểu_tượng ngay trên cửa_sổ mới để xem những kết_quả tìm_kiếm khác .
+
+Browster 1.0 hoạt_động với hầu_hết các công_cụ tìm_kiếm hiện_nay như Yahoo và Google , site kinh_doanh eBay , Amazon , những trang có cài công_cụ search như Craigslist , Bloglines , và các trang tin_tức trực_tuyến .
+
+Theo Scott Milener , Giám_đốc điều_hành của Browster , phần_mềm plug - in này đòi_hỏi người_dùng phiên_bản Internet Explorer 5 trở_lên , còn những trình_duyệt khác sẽ được hỗ_trợ trong tương_lai .
+
+Xem_bản demo và tải Browster 1.0 tại .
+
+P.T. ( theo CNet )

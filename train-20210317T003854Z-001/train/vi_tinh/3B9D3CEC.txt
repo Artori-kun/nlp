@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3CEC/
+title=Hệ thống cổng giao dịch Oracle Portal 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hệ_thống cổng giao_dịch Oracle Portal
+Hãng phần_mềm doanh_nghiệp lớn nhất thế_giới vừa ra_mắt phiên_bản DirectEurope bằng tiếng Hungary - trang web trực_tuyến đầu_tiên hỗ_trợ các nhà kinh_tế , doanh_nghiệp và chính_quyền địa_phương tại những quốc_gia thuộc Liên_minh_châu Âu ( EU ) có_ý định xin được nhận nguồn_vốn hỗ_trợ cơ_bản của EU .
+
+DirectEurope Hungary được phát_triển với sự_hỗ_trợ của Văn_phòng_thủ_tướng , Bộ Thông_tin và viễn_thông cùng ngân_hàng Thương_mại và tiết_kiệm quốc_gia Hungary , Công_ty HP và hãng chuyên tư_vấn về công_tác vạch_kế_hoạch đầu tư Leadex .
+
+Sau 7 tuần đi_vào hoạt_động , 1.446 đơn_vị tại Hungary đã đăng_ký qua cổng giao_dịch này , trong_đó có khoảng 164 đơn_vị đang triển_khai các dự_án của mình .
+Đó là các tổ_chức thuộc những lĩnh_vực : viễn_thông , du_lịch , xử_lý nước , hậu_cần , quản_lý giao_thông , giao_thông vận_tải , năng_lượng sinh_học và chăm_sóc trẻ_em .
+
+Việc xin cấp_vốn của EU thường là một tiến_trình phức_tạp và rất nhiều tổ_chức có_thể không có đủ chuyên_môn , nguồn tài_chính hay thời_gian cần_thiết để đạt được sự_chấp_thuận của EU .
+DirectEurope tìm_cách hỗ_trợ những người được hưởng lợi tiềm_năng này trong công_tác chuẩn_bị đệ_trình bằng cách : gắn kết ý_tưởng của họ với những ưu_tiên đầu_tư của các quốc_gia tương_ứng , h ướng dẫn viết đơn_xin vốn , giúp tiếp_cận tới các chuyên_gia có đủ năng_lực thông_qua các thành_viên của DirectEurope .
+
+Ông Alfonso Di Ianni , Phó_chủ_tịch cao_cấp phụ_trách khu_vực cộng_đồng châu Âu mở_rộng của Oracle , phát_biểu : Việc hấp_thụ các nguồn_vốn của EU là rất cần_thiết để giúp các nền kinh_tế phát_triển và lớn_mạnh trong một châu Âu mở_rộng .
+Những kết_quả hôm_nay cho_thấy cổng giao_dịch này có_thể đóng_góp tích_cực vào việc giúp_đỡ những quốc_gia thành_viên mới đạt được mục_tiêu đó .
+
+Vài tháng tới , Oracle sẽ đưa_ra các phiên_bản DirectEurope bằng tiếng Ba_Lan , Cộng hòa Czech và Slovakia .
+Các tổ_chức có_thể tiếp_cận trực_tuyến tới DirectEurope miễn_phí tại địa_chỉ   hoặc thông_qua một đường dẫn tại trang web chính_thức của Văn_phòng Phát_triển quốc_gia Hungary .
+
+Thanh_Tú ( theo_IT )

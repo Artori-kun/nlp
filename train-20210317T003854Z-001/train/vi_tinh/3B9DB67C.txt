@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DB67C/
+title=Chip đầu tiên cho công nghệ giấy điện tử 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip đầu_tiên cho công_nghệ giấy điện_tử
+Tập_đoàn Seiko Epson vừa đưa giấc_mơ về cái gọi_là e - paper tiến thêm một bước gần hơn tới hiện_thực nhờ việc phát_triển thành_công một mẫu bộ_vi xử_lý linh_hoạt .
+
+Chip ACT11 là một bộ_vi xử_lý phi đồng_bộ 8 bit được làm từ 32.000 transistor phim_mỏng ( TFT ) bằng chất polysilicon nhiệt_độ thấp đặt trên tấm nền nhựa_dẻo .
+Có kích_thước 27 mm x 24 mm , chip ACT11 có_thể đạt tốc_độ 500 KHz ở hiệu điện_thế 5 volt .
+Đây là phiên_bản đầu_tiên của loại chip chuyên_dùng cho việc xử_lý dữ_liệu trên .
+
+Seiko Epson cũng đang nghiên_cứu phát_triển một màn hiển_thị gắn trên giá nhựa dẻo có độ dày 0,2 mm .
+Hãng dự_kiến sẽ chế_tạo các bản giấy gấp khổ A4 thay_thế cho tài_liệu văn_phòng hoặc dùng_làm báo hay_sách .
+Nhà sản_xuất hy_vọng sẽ đưa_vào kinh_doanh giấy điện_tử trong_vòng 5 năm tới .
+
+Hiện_tại vẫn còn rất nhiều thông_số và khâu kỹ_thuật trong công_nghệ chip mà Seiko Epson cần cải_thiện trước_khi có_thể thực_sự sản_xuất đại_trà giấy điện_tử .
+Mặc_dù ACT11 có khả_năng hoạt_động khá mạnh , hãng vẫn chưa cho_biết cần bao_nhiêu chiếc để xử_lý dữ_liệu trên mỗi bản e - paper .
+
+Để tạo_ra được giấy điện_tử , Seiko Epson còn phải tích_hợp các TFT polysilicon nhiệt_độ thấp với công_nghệ diode phát_sáng hữu_cơ OLED .
+Chip ACT11 là một trong nhiều dự_án của Seiko Epson sử_dụng công_nghệ in phun để tạo mạch_điện và màn_hình trên chất_nền mỏng .
+Tháng 11 năm_ngoái , hãng đã giới_thiệu một công_nghệ in_phun với khả_năng gắn các vi_mạch lên một tấm nền mỏng 200 micron ( 1 micron bằng một phần triệu mét ) .
+Theo Seiko Epson , cũng_như giấy điện_tử , việc kết_hợp công_nghệ TFT và OLED có_thể dẫn tới sự_ra_đời các màn_hình TV cỡ lớn siêu_mỏng và dẻo trong_vòng 10 năm_nữa .
+
+Phan_Khương ( theo TechWorld )

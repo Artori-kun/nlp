@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi%2Dtinh/San%2Dpham%2Dmoi/2002/12/3B9C3418/
+title=AMD xuất xưởng chip máy chủ tốc độ cao 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+AMD xuất_xưởng chip máy_chủ tốc_độ_cao
+Hôm_qua , nhà_sản_xuất chip tung_ra bộ xử_lý Athlon MP 2400 + với giá 228 USD nhằm_vào các đơn_vị chạy nhiều chương_trình ứng_dụng phức_tạp như doanh_nghiệp lớn , viện nghiên_cứu ...
+Đây là loại chip máy chủ thứ_hai ( sau của hãng được chế_tạo theo quy_trình 0,13 micron tại_Đức .
+ 
+Lãnh_đạo của AMD cho_biết hiệu_suất của MP 2400 + cao hơn dòng_chip MP cũ 5-10 % , thậm_chí cao hơn bộ xử_lý của Intel .
+Tuy chạy với tốc_độ 2 GHz nhưng sản_phẩm mới này có_thể thực_hiện nhiều tác_vụ trong một xung_nhịp hơn so với Xeon 2,4 GHz .
+ 
+Nửa_đầu năm_sau , AMD sẽ giới_thiệu 2 dòng chip 64 bit dành cho máy chủ và máy để_bàn - và Athlon 64 .
+ 
+Thị_phần chip máy_tính cá_nhân của hãng giảm từ 21,8 % trong quý II xuống còn 12,4 % trong quý III .
+Tuy_nhiên , con_số này có khả_năng tăng trở_lại trong nhờ sức mua máy_tính tăng_mạnh .
+
+Minh_Long ( theo Computerworld , ZDN )

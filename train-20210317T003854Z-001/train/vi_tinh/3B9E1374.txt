@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1374/
+title=Chuyển tệp PDF sang dạng Word 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chuyển tệp PDF sang dạng Word
+Chương_trình PDF Text Reader được xây_dựng để thay_đổi file PDF sang dạng văn_bản text một_cách thuận_tiện .
+Điểm_đặc_biệt là phần_mềm được tải hoàn_toàn miễn_phí và không_giới_hạn thời_gian sử_dụng .
+
+Quá_trình chuyển_đổi diễn_ra tương_đối nhanh_chóng với giao_diện thân_thiện .
+PDF Text Reader cũng hỗ_trợ in_văn_bản , sao_chép sang clipboard , tuỳ chọn trang chuyển_đổi , cũng_như có khả_năng hoạt_động độc_lập với Adobe và Acrobat .
+
+VnExpress cũng đã giới_thiệu hai công_cụ chuyển file PDF sang Word với thời_hạn dùng thử 15 ngày nhưng chỉ có khả_năng chuyển_đổi 10 % văn_bản là   và   .
+
+PDF Text Reader , tương_thích Windows 98/ME/2000/XP và 2003 Server , kích_thước 3,25 MB , có_thể tải   .
+
+P.T .

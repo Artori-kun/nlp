@@ -1,0 +1,30 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/10/3B9CCBF0/
+title=Ra mắt thế hệ tương lai của Windows 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ra_mắt thế_hệ tương_lai của Windows
+Trước khoảng 7.000 lập_trình viên tại Los Angeles ( Mỹ ) hôm 27/10 , đích_thân Chủ_tịch hãng phần_mềm Microsoft đồng_thời là kiến_trúc sư_trưởng của chương_trình , giới_thiệu hệ_điều_hành .
+Theo Bill Gates , đây sẽ là thành_tựu vĩ_đại nhất mà ông và các cộng_sự tạo_ra trong thập_kỷ này .
+
+Dòng phần_mềm Windows 95 đang thống_lĩnh khoảng 95 % số màn_hình máy_tính cá_nhân trên toàn thế_giới .
+Tuy_nhiên , theo Bill Gates , hệ_điều_hành mới với những tính_năng vượt_trội , có_lẽ sẽ biến_thế_hệ những ô_cửa_sổ cũ_kỹ trở_thành một dĩ_vãng đẹp .
+
+Những thay_đổi về kỹ_thuật bảo_mật giúp Longhorn có sức_đề_kháng mạnh trước các .
+Longhorn cũng hạn_chế việc xử_lý sai_lầm của PC hay của người_sử_dụng đối_với một_số file quan_trọng .
+Nhiều công_nghệ được tích_hợp sẽ khiến cho việc cài đặt nhanh hơn .
+
+Longhorn còn có một hệ_thống giao_diện được viết_lại hoàn_toàn , có cái_tên Avalon .
+Điều này giúp giải_quyết những giới_hạn về đồ_họa và bộ_nhớ đối_với các máy_tính yếu .
+Người sử_dụng nhờ_đó sẽ không_còn phải khởi_động lại máy thường_xuyên như_trước .
+
+Hệ_thống lưu_trữ dữ_liệu thống_nhất WinFS của Longhorn sẽ sử_dụng những tính_năng áp_dụng trong Internet để tất_cả các file chỉ với một đầu_mối duy_nhất , thay_vì chia ra theo các ứng_dụng như hiện_nay .
+Bill Gates cho_biết , một hệ_thống linh_hoạt như_vậy là rất cần_thiết bởi trong tương_lai , người_ta sẽ " chìm " trong biển thông_tin và luôn cần một công_cụ tìm_kiếm hữu_hiệu .
+
+Cuối_cùng , Longhorn gắn_liền với những công_nghệ hiện_đại nhất của Microsoft trên lĩnh_vực Internet để tạo thuận_lợi cho người_dùng trong việc sử_dụng các dịch_vụ web .
+Bên_cạnh nhiều tính_năng mới , Microsoft cũng giới_thiệu giao_diện của Longhorn .
+Một trong những đặc_điểm nổi_bật của nó là thanh panel thông_minh nằm bên_cạnh màn_hình , có_thể điều_chỉnh để kiểm_soát các ứng_dụng cơ_bản như danh_sách bạn ( buddy list ) , đồng_hồ , đường dẫn tới website yêu_thích , tin_tức hoặc giá chứng_khoán .
+
+Microsoft chưa công_bố thời_điểm chính_thức phát_hành Longhorn , tuy_nhiên , nhiều người dự_đoán sẽ vào_khoảng cuối năm 2005 .
+Như giọt_nước làm tràn_ly , sự_xuất_hiện của Longhorn đã thổi_bùng mối bất_đồng ngấm_ngầm lâu_nay giữa hai đại_gia Microsoft và IBM về tương_lai của Internet .
+
+Thanh_Tùng ( theo BBC )

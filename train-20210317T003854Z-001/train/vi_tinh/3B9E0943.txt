@@ -1,0 +1,31 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E0943/
+title=Treo 650 và LifeDrive đã có mặt tại Việt Nam 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Treo 650 và LifeDrive đã có_mặt tại Việt_Nam
+Điện_thoại thông_minh Treo 650 và thiết_bị quản_lý di_động đầu_tiên   được nhà_sản_xuất Palm giới_thiệu tại TP HCM hôm_qua .
+Đơn_vị phân_phối chính_thức , Công_ty cổ_phần thương_mại dịch_vụ Hồng_Quang , công_bố giá_cả của 2 sản_phẩm này là 715 USD và 520 USD .
+
+Được phát_triển trên nền của Treo 600 , Treo 650 là loại smartphone đầu_tiên của Palm dùng bộ xử_lý XScale PXA270 tốc_độ 312 MHz của Intel , tích_hợp nhiều công_nghệ mới được thiết_kế để đáp_ứng những yêu_cầu về truyền_thông đa phương_tiện và bảo_mật .
+Đây là sự_kết_hợp tuyệt_vời giữa phone và trình_duyệt web , kiểm_tra e - mail , nhắn_tin và quản_lý thông_tin .
+
+Loại_điện_thoại thông_minh này có_thể chạy nhạc MP3 , quay_phim , chụp_hình kỹ_thuật số với màn hình độ_phân_giải cao 320 x 320 và tích_hợp công_nghệ Bluetooth cho_phép kết_nối không dây với các thiết_bị khác .
+Máy được trang_bị bàn_phím Qwerty , thiết_kế giống_hệt bàn_phím của PC giúp người_sử_dụng thao_tác dễ_dàng , thuận_tiện .
+Ngoài_ra , máy còn hỗ_trợ truy_cập Microsoft Exchange Server 2003 bằng chương_trình VersaMail , cho_phép xem các file ảnh , HTML , Word , Excel hay PowerPoint đính_kèm .
+
+Treo 650 cho_phép truy_cập website và không làm gián_đoạn liên_lạc khi đang di_chuyển , thậm_chí là trong_khi đang bay .
+Máy chỉ sử_dụng một inbox cho cả tin_nhắn văn_bản và tin_nhắn hình_ảnh .
+Đặc_biệt , máy đảm_bảo thông_tin an_toàn nhờ hệ_thống non - volatile ngay_cả khi người_sử_dụng quên sạc thiết_bị .
+
+Thiết_bị quản_lý di_động ( Mobile Manager ) sử_dụng ổ_đĩa cứng 4 GB của Hitachi , trình quản_lý file thông_minh , hỗ_trợ chuẩn không dây Wi - Fi và Bluetooth .
+LifeDrive cũng dùng bộ xử_lý XScale của Intel nhưng với tốc_độ 416 MHz cao hơn Treo 650 , nên việc truy_cập các ứng_dụng multimedia và xử_lý công_việc nhanh hơn .
+Máy có màn_hình 65.000 màu với độ_phân_giải 320 x 480 , có_thể chuyển_đổi màn_hình ngang_dọc chỉ bằng 1 nút_bấm .
+
+Máy chứa được hàng nghìn dữ_liệu , 300 bài_hát , 2,5 giờ xem phim , 1.000 tấm_ảnh và nhiều tính_năng phong_phú .
+Hệ_thống quản_lý dữ_liệu thông_minh cho_phép kéo thả dữ_liệu từ PC qua LifeDrive một_cách dễ_dàng và việc truy_cập đến hệ_thống file , thư_mục sẽ nhanh_chóng , an_toàn hơn nhờ các ứng_dụng Word , Excel , PowerPoint và Acrobat .
+Đối_với những người_sử_dụng thường_xuyên công_tác xa thì LifeDrive có_thể thay_thế máy laptop , camera và máy_nghe nhạc MP3 .
+Cho_phép trình_diễn các file thông_qua Projector thuận_tiện nhờ cáp kết_nối , có_thể in_văn_bản ra máy_in hoặc in_ảnh trực_tiếp ...
+
+Theo nhà_cung_cấp sản_phẩm thì các ứng_dụng của thiết_bị quản_lý này rất phù_hợp với đối_tượng là các doanh_nhân , nhà_nhiếp_ảnh , kinh_doanh bất_động_sản và DJ .
+
+Ngọc_Hằng

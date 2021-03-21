@@ -1,0 +1,31 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E20B9/
+title=Microsoft ra mắt sớm công cụ chia sẻ ảnh trong Vista 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft ra_mắt sớm công_cụ chia_sẻ ảnh trong Vista
+Tập_đoàn phần_mềm Mỹ hôm_qua đã cung_cấp miễn_phí chương_trình mang tên Max nhằm phô_diễn khả_năng đồ_họa cải_tiến của phiên_bản .
+
+Max cho_phép người_dùng tự_tạo cách hiển_thị cho ảnh kỹ_thuật số để chia_sẻ với bạn_bè , gia_đình ...
+" Với Max , bạn có_thể hình_dung được ứng_dụng tương_lai trong Vista " , Jim Allchin , Giám_đốc bộ_phận Windows của Microsoft , khẳng_định .
+
+Công_cụ chia_sẻ ảnh Max được xây_dựng dựa_trên những phiên_bản thử_nghiệm đã phát_hành Windows Presentation Framework ( Avalon ) và Windows Communications Framework ( Indigo ) .
+Hai chương_trình này cũng sẽ xuất_hiện trong Vista nhưng khách_hàng sử_dụng Windows XP vẫn có_thể tải về dùng_thử .
+
+Chương_trình được cung_cấp miễn_phí nhưng đòi_hỏi yêu_cầu khá cao về cấu_hình .
+Máy_tính phải chạy trên XP Home hoặc Professional Service Pack 2 , bộ xử_lý 1 GHz , bộ_nhớ 256 MB và dung_lượng ổ cứng còn trống ít_nhất 200 MB .
+Microsoft đề_xuất cấu hình chạy ổn_định với Max là chip 2,4 GHz và bộ_nhớ 512 MB .
+
+Tải công_cụ chia_sẻ ảnh Max .
+
+Trong một diễn_biến khác liên_quan đến Microsoft , hôm_qua , Tòa_án bang Washington ( Mỹ ) đã chấp_thuận cho cựu Phó_giám_đốc   của công_ty này tham_gia xây_dựng trung_tâm nghiên_cứu Internet của Google , dù ông có_thể đã biết nhiều bí_mật thương_mại của tập_đoàn phần_mềm .
+
+Tuy_vậy , toà cũng đặt_ra một số giới_hạn nhất_định với cựu chuyên_gia của Microsoft như ông không_được tham_gia vào những nghiên_cứu liên_quan đến công_nghệ tìm_kiếm hay không được lôi kéo nhân_viên của hãng phần_mềm sang làm_viên cho Google ...
+
+Trong quá_trình điều_tra , tòa nhận_thấy Lee đã không rõ_ràng khi thông_báo việc ông sẽ trở_lại công_ty phần_mềm sau thời_gian nghỉ_phép hay ông đã được Google liên_hệ mời về làm_việc .
+Tòa cũng cho_biết Lee đã hợp_tác với tập_đoàn tìm_kiếm ngay_khi còn đang là chuyên_gia của Microsoft .
+
+Lee đã biết khá nhiều thông_tin mật về chiến_lược hợp_tác với chính_phủ và hoạt_động của Microsoft ở Trung_Quốc .
+Tuy_nhiên , tại Google , ông đóng vai_trò như là chuyên_gia cố_vấn , " đưa_ra những lời_khuyên tổng_quát , không liên_quan đến công_nghệ , về việc kinh_doanh tại Trung_Quốc , và không xâm_phạm đến cam_kết " .
+Lee cũng sẽ không sử_dụng bất_cứ thông_tin về thương_mại nào ông đã biết từ Microsoft .
+
+P.T. ( theo CNet )

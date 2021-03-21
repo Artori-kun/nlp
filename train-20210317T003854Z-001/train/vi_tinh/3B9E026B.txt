@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E026B/
+title=Acer Việt Nam trình làng PC để bàn Veriton 3700GX 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Acer Việt_Nam trình_làng PC để_bàn Veriton 3700GX
+Sản_phẩm này sử_dụng bộ xử_lý Pentium IV nền FSB 800 MHz và chipset 915G mới nhất của Intel , hỗ_trợ đắc_lực khi chạy các ứng_dụng lớn và xử_lý đồ hoạ phức_tạp .
+Thiết_kế nhỏ gọn cho_phép Veriton 3700GX chiếm_dụng ít không_gian .
+
+Acer Veriton 3700GX có chất_lượng đồ_họa cao nhờ tích_hợp Intel Graphics Media Accelerator 900 ( chia_sẻ bộ_nhớ tối_đa lên_đến 224 MB ) , hiển_thị_sắc nét trên màn_hình LCD hoặc màn_ảnh rộng như Plasma 42 , hỗ_trợ xem phim , làm_việc trên hai màn hình độc_lập ( Dual Display ) .
+
+Hệ_thống âm_thanh nổi trung_thực với chức_năng Intel High Definition Audio hỗ_trợ loa 5.1 .
+Khả_năng lưu_trữ có Intel Matrix Storage hỗ_trợ RAID 0/1 giúp tăng tốc_độ truy xuất_dữ_liệu và an_toàn trong trường_hợp một ổ cứng bị hỏng .
+
+Giao_tiếp đồ hoạ mở_rộng của Veriton 3700GX hỗ_trợ PCI Express x16 , ưu_điểm card cắm rời hoặc ADD 2 card , hỗ_trợ 2 màn hình độc_lập ( Dual display ) .
+
+Sản_phẩm được thiết_kế theo kiểu Tool - less , cho_phép dễ_dàng tháo lắp các thiết_bị bên_trong bằng tay không cần dùng vít .
+
+Giá từ 678 USD ( chưa bao_gồm 5 % VAT ) .
+Xem cấu hình chi_tiết .
+
+Q.T .

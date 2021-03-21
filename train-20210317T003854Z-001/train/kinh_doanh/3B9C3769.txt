@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Kinh-doanh/Chung-khoan/2002/12/3B9C3769/
+title=Chưa sẵn sàng cho việc tăng số lần khớp lệnh 
+cat=KINH-DOANH|CHUNG-KHOAN
+
+Chưa sẵn_sàng cho việc tăng số lần khớp_lệnh
+Phần_lớn ý_kiến vừa được các công_ty chứng_khoán gửi đến Trung_tâm giao_dịch chứng_khoán TP HCM ( HSTC ) đều cho_rằng , chưa_thể triển_khai thực_hiện đề_xuất tăng số lần khớp lệnh từ một lên thành hai từ 1/1/2003 .
+
+Theo kiến_nghị của Công_ty Chứng_khoán Sài_Gòn ( SSI ) , thời_gian áp_dụng ngày 1/1/2003 là chưa phù_hợp do công_ty đang sử_dụng phần_mềm chỉ áp_dụng cho 1 lần khớp lệnh trong một ngày .
+Để chỉnh_sửa phần_mềm tương_thích với việc có_nhiều lần khớp lệnh trong một phiên , cần có thời_gian chuẩn_bị thêm ít_nhất 30 ngày .
+
+Đại_diện SSI nhận_xét thêm , tăng số lần khớp lệnh chưa_chắc đã làm_tăng giá_trị giao_dịch của thị_trường mà ngược_lại sẽ làm phát_sinh một số vấn_đề : nạn đầu_cơ , chi_phí chuyển lệnh vào sàn giao_dịch , chi_phí quản_lý
+Công_ty chứng_khoán Đệ Nhất ( FSC ) cho_biết , chưa nhận_được sự_hướng_dẫn thông_báo nào từ phía HSTC về các công_việc kỹ_thuật có liên_quan cho sự_đổi_mới phương_thức hoạt_động của thị_trường chứng_khoán .
+Cụ_thể , việc nhận các file xuất kết_quả giao_dịch khớp lệnh ( deal ) và file xuất các lệnh đặt trong phiên ( order ) sẽ có vấn_đề với phần_mềm hiện_nay .
+Theo công_ty này , nếu thực_hiện tăng số lần khớp_lệnh , toàn_bộ các báo_cáo giao_dịch khớp lệnh sẽ phải gửi_bằng Fax , sau_đó phải kiểm_tra thủ_công , rất mất thời_gian .
+Không_chỉ vậy , với những phiên giao_dịch sôi_động , thời_gian nghỉ 30 phút giữa 2 phiên là không_thể đủ để làm thủ_công những công_việc trên .
+
+Còn Công_ty Chứng_khoán Ngân_hàng Á_Châu ( ACBS ) thì kiến_nghị , cần có đủ thời_gian cho các nhà đầu_tư suy_nghĩ thực_hiện yêu_cầu lệnh_hủy và các bước chuẩn_bị cho đợt khối lượng tiếp_theo .
+Công_ty này đưa_ra sáng_kiến : 8h30 ' - 9h00 ' nhận lệnh đợt 1 và khớp lệnh vào 9h00 ' ; 9h00 ' - 10h00 ' nghỉ và xử_lý kết_quả ; 10h00 ' - 10h40 ' nhận lệnh đợt 2 và khớp lệnh đúng 10h40 ' ; từ 10h40 ' đến 11h00 ' dành cho giao_dịch thỏa_thuận , đóng_cửa thị_trường lúc 11h00 ' .
+
+( Theo Đầu_Tư )

@@ -1,0 +1,14 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/03/3b9dbd18/
+title=Skype cung cấp dịch vụ tin nhắn 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Skype cung_cấp dịch_vụ tin_nhắn
+Người sử_dụng phần_mềm gọi_điện qua Internet miễn_phí này giờ_đây có_thể gửi những thông_điệp text tới các thuê_bao di_động mà không bị tính_phí .
+
+Dịch_vụ do công_ty Connectotel ở London ( Anh ) cung_cấp và đang trong giai_đoạn thử_nghiệm beta .
+Để sử_dụng tiện_ích này , người_dùng phải khởi_động một hội_thoại kiểu chat qua cổng smsgateway của Connectotel và nhập số điện_thoại theo định dạng quốc_tế , tức_là có đủ mã_nước , mã_vùng , tiếp_theo là nội_dung tin_nhắn .
+Cổng sms sau_đó sẽ chuyển_tiếp ( forward ) thông_điệp qua mạng di_động .
+
+Người sử_dụng Skype phải được Connectotel chấp_nhận trước_khi tham_gia dịch_vụ , hiện được cung_cấp bằng các thứ tiếng Basque , Bulgaria , Croatia , Hà_Lan , Anh , Faroe , Pháp , Đức , Ba_Lan và Nga .
+
+P.K. ( theo The Register )

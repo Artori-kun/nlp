@@ -1,0 +1,26 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E483E/
+title=Địa chỉ tên miền với hậu tố tùy chọn 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Địa_chỉ tên miền với hậu_tố tùy_chọn
+Một công_ty công_nghệ Hà_Lan đã thổi luồng_gió mới vào chiến_dịch xóa_bỏ những hậu_tố Internet hiện_nay như .com và thay vào đó là tên_nước , tên công_ty hoặc bất_kỳ một từ thú_vị nào .
+
+Một hệ_thống như_thế cho_phép các quốc_gia , công_ty và cá_nhân sở_hữu địa_chỉ chứa tên riêng nhằm tạo sự_linh_hoạt và độc_lập về ngôn_ngữ , ký_tự .
+" Mục_tiêu của dự_án là cung_cấp tên miền bằng bất_cứ bộ_chữ cái nào " , Erik Seeboldt , Giám_đốc điều_hành hãng UnifiedRoot tại Amsterdam , khẳng_định .
+
+UnifiedRoot xây_dựng bộ hậu_tố không_giới_hạn , khác hoàn_toàn với danh_sách hạn_hẹp hiện tại. " Chúng_tôi đã nhận_được hàng nghìn đăng_ký mỗi_ngày " , Seeboldt cho_biết sau_khi công_ty khai_trương hoạt_động với 13 máy_chủ gốc hệ_thống tên miền Internet được lắp_đặt tại 4 châu_lục .
+
+UnifiedRoot đã ký hợp_đồng với hầu_hết các nhà_cung_cấp dịch_vụ Internet ở Thổ Nhĩ_Kỳ .
+Sân_bay Schiphol của Hà_Lan cũng là một trong những khách_hàng sớm nhất .
+Giá đăng_ký một hậu_tố là 1.000 USD cộng phí thuê_bao hàng_năm 240 USD .
+Các công_ty sau_đó có_thể tự sáng_tạo những địa_chỉ website khác tùy chọn dựa tên tên miền cấp cao nhất ( top lever domain - TLD ) , ví_dụ như flights.schiphol hay parking.schiphol ...
+
+Nhiều người chỉ_trích rằng những công_ty như UnifiedRoot sẽ gây_ra sự_nhập_nhằng trong quản_lý lưu_thông web .
+Hệ_thống địa_chỉ hiện_nay chỉ được nhận_dạng bởi một_số máy_tính nhất_định , dưới sự_quản_lý của Tổ_chức tên miền quốc_tế ( ICANN ) .
+ICANN cũng có_thể quyết_định những máy chủ gốc này được_phép nhận_biết tên miền cấp cao nhất nào .
+
+" Những_ai cho_rằng họ có_thể bổ_sung tên miền cấp cao nhất hay hậu_tố mới thực_chất cũng chỉ là kẻ vi_phạm bản_quyền " , Paul Vixie , thành_viên hội_đồng của ICANN , nói .
+
+Tại Hội_nghị thượng_đỉnh xã_hội thông_tin 2005 ( 16 - 18/11 ) ở Tunisia , nhiều nước bày_tỏ mong_muốn tước_quyền điều_hành của ICANN nhưng phía Mỹ từ_chối nhượng_bộ .
+
+T.N. ( theo CNet )

@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAE0E/
+title=Công cụ xây dựng thương mại điện tử hỗ trợ .NET 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_cụ xây_dựng thương_mại điện_tử hỗ_trợ .NET
+Tuần_tới , Microsoft sẽ tung_ra phần_mềm Commerce Server 2002 tại hội_thảo TechEd của hãng ở New Orleans .
+Đây là một trong những sản_phẩm hỗ_trợ_chiến dịch .Net đầu_tiên của công_ty .
+
+Microsoft sẽ đưa_ra 3 phiên_bản của phần_mềm : Developer trị_giá 499 USD , Standard 6.999 USD và Enterprise 19.999 USD .
+
+Đến cuối tháng 7 , các doanh_nghiệp thuê_bao chương_trình Software Assurance hoặc Upgrade Advantage của Microsoft sẽ có_thể mua Commerce Server với mức_giá giảm tới 70 % so với giá niêm_yết .
+Việc khuyến_mại còn bao_gồm dịch_vụ hỗ_trợ miễn_phí 1 ngày , do một trong 20 đối_tác của Microsoft cung_cấp .
+
+Commerce Server 2002 được thiết_kế để làm_việc với những công_nghệ .Net mới của Microsoft , bao_gồm công_cụ phát_triển Visual Studio .Net và phần_mềm tích_hợp BizTalk Server .
+
+Commerce Server 2002 sẽ cho_phép các nhà điều_hành website quản_lý danh_mục sản_phẩm , dịch_vụ và thiết_kế nội_dung website , tùy_theo sở_thích của khách_hàng .
+Sản_phẩm cũng cung_cấp cho các nhà phát_triển công_cụ xây_dựng các quy_trình mua_hàng và thanh_toán trực_tuyến ; đồng_thời hỗ_trợ phần_mềm quản_lý dữ_liệu SQL Server của Microsoft và dịch_vụ quản_lý thông_tin Activity Directory .
+
+Minh_Thi ( theo ZDN )

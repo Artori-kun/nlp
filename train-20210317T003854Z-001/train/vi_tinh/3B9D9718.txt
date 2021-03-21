@@ -1,0 +1,14 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9718/
+title=Samsung giới thiệu chip bộ nhớ nhanh nhất thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Samsung giới_thiệu chip bộ_nhớ nhanh nhất thế_giới
+Hãng điện_tử Samsung Electronics tuyên_bố đã sản_xuất thành_công sản_phẩm mẫu của chip DDR3 DRAM 512 MB .
+Thông_số kỹ_thuật cho_thấy chip này nhanh hơn_hẳn các sản_phẩm cùng loại với khả_năng xử_lý dữ_liệu lên tới 1,6 Gb / giây .
+
+Theo thông_báo được Samsung đưa_ra hôm thứ 3 , loại chip mới có những ứng_dụng đồ_họa rất rộng_rãi với ưu_điểm như : giảm lượng điện tiêu thụ 50 % , tăng dung_lượng và hiệu_quả làm_việc của bộ_nhớ , đồng_thời nâng hiệu_suất lên gấp_đôi .
+Samsung dự_kiến sẽ đưa chip DDR3 DRAM 512 MB vào sản_xuất hàng_loạt trong năm tới .
+
+Hãng phân_tích thị_trường Mercury dự_báo , trong năm 2005 , thị_trường DRAM đồ_họa toàn_cầu sẽ tăng_trưởng 30 % so với năm_nay với tổng_giá_trị 1,5 tỷ USD , trong_đó doanh_số DDR3 DRAM chiếm khoảng 30 % .
+
+T.N. ( theo News Factor )

@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/12/3b9e4a05/
+title=Yahoo mở màn cho trào lưu đưa RSS vào e-mail 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Yahoo mở_màn cho trào_lưu đưa RSS vào e - mail
+Hôm_qua , hãng dịch_vụ trực_tuyến lớn nhất thế_giới tuyên_bố thử_nghiệm và chỉ phát_hành dưới dạng thư_mời công_cụ đọc trong dịch_vụ Yahoo Mail .
+Đây là một phần trong chiến_dịch " RSS Everywhere " mà họ bắt_đầu thực_hiện cách đây 2 năm .
+
+Người sử_dụng có_thể lựa_chọn những " feed " ( trang cung_cấp tính_năng RSS như BBC , The New York Times hay các ) trong danh_sách có sẵn hoặc tự nhập thủ_công các đường link tùy_ý .
+Hộp_thư cũng_được trang_bị những tính tăng như tự_động forward ( gửi_tiếp ) nội_dung qua e - mail và báo sáng khi có một nội_dung RSS mới .
+Đặc_biệt , " dòng tin_tức " cho_phép mọi người_xem tất_cả những thông_tin của các feed theo thứ_tự từ mới nhất cho_đến những nội_dung cũ hơn .
+
+Yahoo cũng cung_cấp dịch_vụ " Feed Alert " , một tính_năng được xây_dựng dựa_trên nền_tảng Yahoo Alerts để thông_báo tới e - mail , IM ( tin_nhắn nhanh ) , hay điện_thoại di_động mỗi khi một blog hoặc một feed mà họ đăng_ký vừa cập_nhật , thay_đổi .
+
+Scott Gatz , Giám_đốc bộ_phận dịch_vụ cá_nhân_hóa của Yahoo , giải_thích cho quyết_định này : " RSS trong thư_điện_tử là một bước_đi táo_bạo .
+Mọi_người dành nhiều thời_gian cho e - mail , vậy tại_sao ta không cung_cấp nội_dung họ cần ngay trong_đó .
+Thứ_nữa , khi đọc RSS , họ có_thể sẽ muốn gửi_đi ( forward ) cho bạn_bè những gì họ vừa đọc và thấy hấp_dẫn .
+Hơn_thế , nếu chúng_tôi muốn tiếp_cận và thu_hút hàng trăm triệu khách_hàng sử_dụng Yahoo Mail , chúng_tôi phải ' đi_theo ' để đáp_ứng nhu_cầu của họ " .
+
+Mục_tiêu " RSS Everywhere " ( RSS mọi_nơi ) được Yahoo khởi_xướng từ tháng 1/2004 khi đưa tính_năng này vào My Yahoo .
+Microsoft cũng đang xây_dựng kế_hoạch tương_tự và tuyên_bố họ sẽ tích_hợp RSS trong hệ_điều_hành và .
+Nhiều người_dùng hiện_nay cũng chờ_đợi Google đón nhận công_nghệ này và đưa RSS vào hòm thư Gmail .
+
+P.T. ( theo ZDNet )

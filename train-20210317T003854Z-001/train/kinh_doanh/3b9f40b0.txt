@@ -1,0 +1,39 @@
+url=http://vnexpress.net/vietnam/kinh%2Ddoanh/chung%2Dkhoan/2007/01/3b9f40b0/
+title=Chứng khoán ảo 'sốt' cùng sàn thật 
+cat=KINH%2DDOANH|CHUNG%2DKHOAN
+
+Chứng_khoán ảo ' sốt ' cùng sàn thật
+Người tham_gia chơi sẽ được xếp_hạng dựa_trên tổng giá_trị thị_trường của các loại chứng_khoán đang sở_hữu ( tính theo giá khớp lệnh gần nhất ) .
+Nhà_đầu_tư xếp vị_trí 1,2,3 theo từng đợt được_thưởng 300.000-1 triệu đồng .
+
+Đó là một trong những nét hấp_dẫn của sàn chứng_khoán ảo Vinastock 2.0 do Công_ty Cổ_phần Dịch_vụ viễn_thông và công_nghệ thông_tin Việt_Nam ( VTIS ) thực_hiện .
+Khi_thị_trường chứng_khoán bùng_nổ , giao_dịch tại các công_ty trở_nên quá_tải , người_ta tìm tới những sàn giao_dịch ảo đang ngày một đông_hơn .
+
+Tham_gia sàn chứng_khoán ảo Vinastock , nhà đầu_tư có_thể thực_hành mua , bán chứng_khoán trong môi_trường được mô_phỏng như thật .
+Giao_dịch được thực_hiện với các mã chứng_khoán đang niêm_yết tại Trung_tâm Giao_dịch Chứng_khoán TP HCM và giá thực_hiện đều là giá khớp lệnh tại trung_tâm trong mỗi_phiên .
+
+Nhà_đầu_tư có_thể thực_hiện giao_dịch đặt lệnh_mua / bán chứng_khoán trên sàn ảo thông_qua 2 phương_thức : hệ_thống giao_dịch trực_tuyến trên website và hệ_thống giao_dịch qua SMS là VNS EXCHANGE .
+2. Mọi thành_phần nếu đăng_ký là thành_viên website và nạp đủ tiền để thực_hiện giao_dịch mua và bán .
+
+Để có_thể giao_dịch được , thành_viên phải dùng điện_thoại di_động ( có_thể là số điện_thoại đã đăng_ký hoặc số điện_thoại khác ) để nhắn_tin theo cấu_trúc quy_định và gửi tới_số 8218 .
+Tin_nhắn đầu_tiên số_tiền nạp vào tài_khoản giao_dịch là 5 triệu đồng , tin_nhắn thứ_hai được thêm 10 triệu đồng , tin_nhắn thứ_ba được thêm 15 triệu đồng , tin thứ 4 được 20 triệu đồng và từ tin_nhắn thứ 5 được thêm 25 triệu đồng .
+
+Giao_dịch qua hệ_thống tin_nhắn VNS tuân_theo thời_gian khớp lệnh , điều_kiện thực_hiện lệnh như giao_dịch qua giao_diện website .
+Mỗi tin_nhắn phải trả phí cho bưu_điện là 5.000 đồng .
+Hàng_tuần , Ban tổ_chức sẽ xếp_hạng nhà đầu_tư dựa_trên tổng tài_sản .
+Những người xếp vị_trí 1 , 2 , 3 được_thưởng từ 300.000 đến 1 triệu đồng .
+
+Ra_đời từ tháng 8/2006 với phiên_bản đầu_tiên là Vinastock 1.0 , sàn chứng_khoán ảo này đã thu_nạp được gần 500 thành_viên .
+Đến tháng 12/2006 , Ban tổ_chức quyết_định cải_tiến và ra_mắt phiên_bản Vinastock 2.0 nhằm phục_vụ nhu_cầu học_tập , nghiên_cứu và chơi chứng_khoán ngày_càng tăng .
+
+Những cải_tiến cơ_bản của phiên_bản 2.0 thể_hiện ở cách_thức đăng_ký đơn_giản hơn , cách_thức đặt lệnh_mua – bán đơn_giản .
+Riêng cách_thức mua_bán chứng_khoán OTC được thực_hiện theo cơ_chế giống như các sàn giao_dịch của các công_ty chứng_khoán với giá tham_khảo là giá đựơc cung_cấp thường_xuyên bởi các công_ty chứng_khoán .
+
+Thông_tin có liên_quan_phục_vụ việc ra quyết_định mua_bán chứng_khoán được cung_cấp khá đầy_đủ và thuận_tiện cho người_sử_dụng .
+Tin_tức thị_trường chứng_khoán thực cũng được cập_nhật đầy_đủ hơn , đặc_biệt lần_đầu_tiên , biểu_đồ chỉ_số biến_động giá chứng_khoán theo ngành được đưa_vào khai_thác giúp cho người đọc nhanh_chóng nhận_biết được xu_thế biến_động giá chứng_khoán theo ngành .
+
+Minh , nhân_viên Công_ty FPT cho_hay , cậu tham_gia sàn ảo để thử_nghiệm khả_năng trên thị_trường .
+" Tuy không nếm_mùi stress như giao_dịch với tiền thật nhưng hôm_nào chớp được_tin tốt mình thấy khoái lắm " , cậu_kể .
+Hiện Minh đã mở tài_khoản giao_dịch thật song cậu vẫn tham_gia trò_chơi này để thử_nghiệm những quyết_định mạo_hiểm .
+
+Việt_Phong

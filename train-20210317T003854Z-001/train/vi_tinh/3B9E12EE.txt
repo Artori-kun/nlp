@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E12EE/
+title=AMD 4000+ tham vọng thế chân Centrino 
+cat=VI-TINH|SAN-PHAM-MOI
+
+AMD 4000 + tham_vọng thế_chân Centrino
+Hãng sản_xuất chip thứ_hai thế_giới hôm_qua đã cho ra_mắt bộ_vi xử_lý thiết_bị di_động mới dành riêng cho máy_tính xách tay với quyết_tâm đạt doanh_số đủ lớn để lấn_át " đế_chế " Centrino của Intel .
+
+AMD cho_biết Athlon 64 bit 4000 + được thiết_kế cho notebook có kích_thước_chuẩn , màn_hình khoảng từ 15 đến 17 inch .
+Hai hãng Fujitsu Siemens và VoodooPC đã khẳng_định sẽ sử_dụng chip này trong những phiên_bản laptop mới nhất của họ .
+
+Với giá 382 USD / sản_phẩm cho các đơn_hàng mua 1.000 chip , AMD tin_tưởng 4000 + có_thể vận_hành và xử_lý những những công_việc 32 bit và 64 bit .
+Sản_phẩm tích_hợp công_nghệ không dây 802.11a / b/g và cơ_chế chống virus .
+Bên_cạnh 4000 + , AMD tiết_lộ hãng sẽ cung_cấp thêm 5 bộ_vi xử_lý thiết_bị di_động Athlon 64 khác .
+
+Các nhà_sản_xuất PC và chip đặc_biệt quan_tâm đến mùa khai_trường , giai_đoạn nhộn_nhịp thứ_hai sau mùa Giáng_Sinh trên thị_trường máy_tính .
+Cả Intel và AMD gần_đây đều hạ_giá thiết_bị xử_lý để thúc_đẩy doanh_số sản_phẩm .
+
+AMD cắt_giảm giá_thành của chip dùng_cho server Opteron , Turion và Sempron cho notebook , chip đơn lõi và lõi kép Athlon .
+Trong_đó , chip Opteron 152 chỉ còn 417 USD so với 637 USD trước_đó .
+Athlon 64 X2 giảm từ 1.001 USD xuống còn 902 USD .
+Athlon 64 400 + có giá 375 USD thay_vì 482 USD , còn Turion 64 ML - 40 là 354 USD , trong_khi trước đó là 525 USD .
+
+Intel cũng tuyên_bố hạ_giá 5 loại thiết_bị xử_lý , trong_đó chip có mức giảm cao nhất_là Pentium 4 660 3,6 GHz xuống còn 401 USD từ 605 USD .
+Pentium 4 650 3,4 GHz hạ 31,92 % ( 273 USD so với 401 USD ) .
+Chip 670 3,8 GHz cũng giảm 28,91 % chỉ còn 605 USD .
+Chip 630 3 GHz sẽ được bán với giá 178 USD và 640 3,3 GHz là 218 USD .
+
+P.T. ( theo CNet )

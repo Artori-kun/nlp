@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/09/3B9B4660/
+title=EMC giới thiệu sản phẩm công nghệ cao 
+cat=VI-TINH|SAN-PHAM-MOI
+
+EMC giới_thiệu sản_phẩm công_nghệ cao
+Hãng dẫn_đầu về thị_trường ứng_dụng lưu_trữ EMC sẽ cung_cấp hệ_thống lưu_trữ Symmetrix 8830 cao_cấp , được tích_hợp nhiều tính_năng để có_thể để kết_nối với nhiều máy chủ_khác .
+
+Symmetrix 8830 có_thể kết_nối với các máy mainframe , máy chủ cao_cấp và có_thể lưu_trữ trong các cơ_sở_dữ_liệu lớn .
+
+Hệ_thống này có khả_năng lưu 69,5 terabyte dữ liệu trong một máy có kích_cỡ bằng tủ_lạnh , dùng nhiều ổ cứng Barracuda 180 , dung_lượng 181,6 GB của Seagate .
+Nó cũng sử_dụng đồng_thời 80 bộ_vi xử_lý Power PC , tốc_độ 333 MHz , trong_khi_đó , model cũ Symmetrix 8730 chứa 32 bộ , tốc_độ 266 MHz .
+Ngoài_ra , sản_phẩm mới cũng có_thể kết_nối đồng_thời 96 máy_chủ .
+
+Cùng_ngày , EMC đã công_bố sản_phẩm hệ_thống phổ_thông 8530 và 8230 cấp_thấp .
+EMC cho_biết , thiết_kế mới của hãng sẽ cao_cấp hơn các hệ_thống khác của đối_thủ , bao_gồm cả hệ_thống Lightning của Hitachi , HP cũng_như Sun .
+
+Phát_ngôn_viên của EMC cho_rằng , kiến_trúc mới của Hitachi yêu_cầu những người sử_dụng phải thay_đổi phần_mềm của họ , trong_khi các hệ_thống của EMC có_thể cài mà không hề ảnh_hưởng gì .
+
+Minh_Nghĩa ( theo CNet )

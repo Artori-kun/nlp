@@ -1,0 +1,17 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/06/3b9df9aa/
+title=Bản nâng cấp cuối cùng cho Windows 2000 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Bản nâng_cấp cuối_cùng cho Windows 2000
+Nhà_sản_xuất phần_mềm lớn nhất thế_giới Microsoft sẽ chính_thức ra_mắt bản Update Rollup ( Nâng_cấp tổng_hợp ) cho hệ_điều_hành 5 tuổi của họ vào cuối tháng này theo kế_hoạch gia_hạn hỗ_trợ .
+
+Microsoft sẽ không cung_cấp thêm tính_năng nào cho sản_phẩm , mà chủ_yếu tập_hợp lại các bản vá lỗi trước_đây để biến thành một gói tiện_ích mới .
+
+Theo một đại_diện của hãng , bên_cạnh bản sửa lỗ_hổng cũ , Update Rollup " có_thể kèm_theo giải_pháp cho những vấn_đề bảo_mật ở mức " trung_bình " và " thấp " không xuất_hiện trong hàng_tháng của Microsoft " .
+
+Hãng phần_mềm có trụ_sở ở Redmond , Washington ( Mỹ ) đã tuyên_bố hồi tháng 11 năm_ngoái rằng sẽ chỉ tung_ra bản Update Rollup , chứ không_phải gói Service Pack thứ 5 .
+Theo_đó , SP4 ra_mắt tháng 3/2003 trở_thành phiên_bản Service Pack cuối_cùng cho Windows 2000 .
+
+Mặc_dù sau Windows 2000 đã xuất_hiện khá nhiều phiên_bản khác , hệ_điều_hành này vẫn rất phổ_biến trong các doanh_nghiệp , có_mặt trong   số máy_tính được dùng tại những nơi này , theo điều_tra của hãng AssetMetrix mới_đây .
+
+P.T. ( theo CNet )

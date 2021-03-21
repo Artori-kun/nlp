@@ -1,0 +1,29 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5F02/
+title=Router ADSL tích hợp đa dịch vụ SpeedTouch 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Router ADSL tích_hợp đa dịch_vụ SpeedTouch
+Thomson giới_thiệu dòng sản_phẩm truy_cập băng rộng SpeedTouch 716 , 716g tổng_hợp và bổ_sung đầy_đủ tính_năng , vừa truy_cập Internet vừa gọi_điện_thoại đường_dài VoIP thuận_tiện .
+Thiết_bị giúp kết_nối an_toàn và đáp_ứng chia_sẻ tốt trong môi_trường đa ứng_dụng .
+
+Modem này có ưu_điểm nổi_bật trong việc hỗ_trợ VoIP đa giao thức trên SIP hoặc MGCP .
+SpeedTouch 716 , 716g cho_phép thiết_lập cuộc gọi theo 2 hướng qua VoIP hoặc PSTN nhờ 2 cổng cho điện_thoại bàn và 1 cổng cho line điện_thoại PSTN .
+Chức_năng thoại trên thiết_bị này có hỗ_trợ các dịch_vụ gia_tăng như hiển_thị cuộc_gọi đến , cuộc gọi chờ , chuyển cuộc_gọi , hội_nghị 3 chiều ...
+
+SpeedTouch 716 , 716g có tính bảo_mật cao nhờ " tường_lửa " gồm nhiều chính_sách phòng_chống khác_nhau giúp ngăn_ngừa những đợt_tấn_công từ_chối dịch_vụ .
+Các tính_năng như Port forwarding , Port triggerring , DMZ , DNS , DDNS đáp_ứng chia kết_nối ADSL cho nhiều người_dùng , có_thể khai_thác game online mà không ngại tường lửa cũng_như cơ_chế ngăn_cấm truy xuất_cổng .
+Những máy truy_cập không dây còn được trang_bị tính_năng bảo_mật WEP , WPA , WPA - PSK , cơ_chế nhận_thực 802.1x , lập và thực_thi danh_sách cấm hay cho_phép đăng nhập hệ_thống .
+
+Ngoài_ra , QoS và vấn_đề kiểm_soát chất_lượng dịch_vụ được phát_triển và kế_thừa trên nền QoS của thiết_bị Leased Line G.SHDSL Router cấp cao ( SpeedTouch 610s , 690s ) .
+Tính_năng Bridge QoS , IP QoS , Wi - Fi QoS cho_phép ưu_tiên kết_nối hoặc ấn_định băng_thông cho từng người_dùng .
+
+Có_thể cài_đặt , nâng_cấp và sử_dụng thiết_bị này qua web browser , Telnet , SNMP hoặc quản_lý từ xa nhờ những công_cụ hỗ_trợ sẵn_có như DNS , DDNS , Remote Access , TR - 69 protocol ...
+Chức_năng lọc nội_dung hoặc ngăn truy xuất trang web , thống_kê , theo_dõi lưu_lượng ... của SpeedTouch làm_tăng đáng_kể hiệu_quả quản_lý .
+Bên_cạnh_đó , việc hiển_thị thông_tin chi_tiết về kết_nối ADSL và bộ đo BER tích_hợp trong thiết_bị này giúp giám_sát , chẩn_đoán và phát_hiện lỗi dễ_dàng hơn .
+
+SpeedTouch 716 , 716g hỗ_trợ các chuẩn ADSL , ADSL2 , ADSL2 + , hoàn_toàn tương_thích với các dịch_vụ được cung_cấp tại Việt_Nam hiện_nay .
+Đặc_biệt , SpeedTouch 716g hỗ_trợ đồng_thời các chuẩn 802.11b và 802.11g với tốc_độ lên_đến 54 Mbps , sử_dụng điều_chế không dây đa sóng_mang OFDM cho_phép lướt web vô_tuyến ở khoảng_cách_xa và có_nhiều vật cản_sóng .
+
+Sản_phẩm SpeedTouch 716 , 716g hiện_có giá 176 USD và 218 USD .
+
+Ngọc_Hằng

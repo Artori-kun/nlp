@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA7A7/
+title=McAfee phát hành công cụ miễn phí xác định lỗ hổng website 
+cat=VI-TINH|SAN-PHAM-MOI
+
+McAfee phát_hành công_cụ miễn_phí xác_định lỗ_hổng website
+Tiện ích Foundstone SiteDigger 2.0 , được công_bố hôm_qua , sử_dụng hệ_thống tìm_kiếm của Google nhằm giúp các doanh_nghiệp phát_hiện những khe_hở có_thể khiến thông_tin của họ bị rò rỉ trên web .
+
+Theo Mark Curphy , Giám_đốc dịch_vụ tư_vấn của McAfee , SiteDigger 2.0 có sức_mạnh cao hơn 8 lần so với phiên_bản trước ( phát_hành hồi tháng 8/2004 ) trong việc nhận_dạng những nguy_cơ thất_thoát thông_tin .
+
+Công_cụ này sử_dụng dữ_liệu thu_thập qua Google để nhanh_chóng xác_định các mối đe_dọa đối_với password , thông_tin cá_nhân , các hồ_sơ tài_chính và tài_liệu mậttrên website của doanh_nghiệp mà họ không muốn để_lộ ra công_chúng .
+
+Hệ_thống tìm_kiếm cực mạnh của Google gần_đây đã bị kẻ xấu lợi_dụng để khai_thác thông_tin từ các hệ_thống có khiếm_khuyết , tiêu_biểu là việc mới_đây hàng nghìn camera an_ninh được phát_hiện phơi_bày trong hệ_thống chỉ mục của hãng tìm_kiếm trực_tuyến .
+Vì_thế , mục_đích của công_cụ tự_động update SiteDigger 2.0 là phát_hiện những thủ_đoạn lợi_dụng công_cụ search .
+SiteDigger 2.0 được cung_cấp cho download miễn_phí .
+
+Ngoài SiteDigger 2.0 , McAfee cũng vừa phát_hành hệ_thống phát_hiện xâm_nhập Entercept 5.1 , được thiết_kế nhằm phong_tỏa các dạng tấn_công đã được xác_định thông_qua công_nghệ phát_hiện dấu_hiệu bất_thường và xác_thực chữ ký số .
+Giải_pháp này bao_trùm toàn_bộ mạng doanh_nghiệp , bao_gồm từ máy_tính để_bàn , máy xách tay cho tới các máy chủ cao_cấp .
+Entercept 5.1 cho_phép các đơn_vị nằm phân_tán của một doanh_nghiệp có_thể quản_lý một hệ_thống Entercept thống_nhất trên toàn_cầu .
+Tiện ích quản_lý ePolicy Orchestrator trong công_cụ này có_thể hỗ_trợ tới 250.000 thành_phần Entercept đơn_lẻ .
+
+Entercept 5.1 hỗ_trợ và có_thể được điều_chỉnh để bảo_mật cơ_sở_dữ_liệu chung của doanh_nghiệp cũng_như các ứng_dụng trên nền web , ghép tất_cả quy_trình an_ninh của các đơn_vị khác_nhau vào thành một môi_trường đơn_nhất .
+
+P.K. ( theo InternetWeek )

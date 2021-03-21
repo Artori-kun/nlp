@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E17FA/
+title=Microsoft Word có thêm một đối thủ tiềm tàng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft Word có thêm một đối_thủ tiềm_tàng
+Công_ty phần_mềm SoftMaker của Đức_tuần này công_bố thử_nghiệm phiên_bản mới nhất của chương_trình xử_lý văn_bản TextMaker 2005 , được coi là ứng_dụng vượt trội so với chương_trình Word .
+
+TextMaker 2005 có khả_năng hoạt_động trên một loạt hệ_điều_hành từ Linux , Windows Mobile , Qtopia đến FreeBDS và đặc_biệt , phần_mềm tương_thích với định dạng_tệp " .doc " của Microsoft Word .
+Do_đó , người_dùng có_thể dễ_dàng chuyển_đổi tài_liệu Word 6.0 , 95 , 97 , 2000 , Word XP , Word 2003 sang Macintosh .
+
+Ngoài_ra , TextMaker hỗ_trợ nhiều định dạng tệp khác_nhau trong_đó có HTML , RTF , Pocket Word , văn_bản đơn_thuần và Unicode .
+Bên_cạnh_đó , chương_trình có_thể tương_tác với định dạng file OpenOffice , đối_thủ lớn hiện_nay của Microsoft Word .
+OpenOffice là sản_phẩm mã mở miễn_phí , nhưng phiên_bản StarOffice do Sun Microsystems phát_hành lại được bán_ra với giá 49,95 USD .
+
+" Khách_hàng chắc_chắn sẽ quan_tâm đến TextMaker 2005 bởi nhiều lý_do " , Tobias Leissner , phát_ngôn_viên của SoftMaker , khẳng_định .
+" Một trong_số đó là giá bán_lẻ sản_phẩm chỉ khoảng 49,5 USD " .
+
+Người_dùng có_thể tải vản thử_nghiệm TextMaker 2005 tại của SoftMaker .
+Ngoài phiên_bản tiếng Anh , sản_phẩm còn được xây_dựng với tiếng_Đức , Pháp , Tây_Ban_Nha , Bồ_Đào_Nha , Nga và tiếng Trung giản_lược .
+
+P.T. ( theo PC World )

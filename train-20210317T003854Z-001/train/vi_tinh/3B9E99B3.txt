@@ -1,0 +1,37 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/05/3B9E99B3/
+title=Google ra mắt bốn sản phẩm và chiến lược mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google ra_mắt bốn sản_phẩm và chiến_lược mới
+Bốn chương_trình Google Desktop 4 , Google Notebook , Google Trends và Google Co - op mà hãng dịch_vụ tìm_kiếm trực_tuyến khổng_lồ Mỹ giới_thiệu hôm_qua là những tiện ích_hữu_dụng cho cả người_dùng cuối và các nhà kinh_doanh .
+
+Phiên_bản mới hỗ_trợ mọi người khai_thác trực_tiếp những ứng_dụng tương_tác nhỏ của tính_năng Sidebar trong sản_phẩm mà_không cần tải phần_mềm hay mở trình_duyệt web .
+Desktop 4 được tích_hợp với những dịch_vụ khác của Google như mạng xã_hội Orkut hay công_cụ lịch_trình .
+Phần_mềm này cũng có_thể được cấu hình tự_động để tạo một trang_chủ tùy_biến .
+
+Marissa Mayer , Phó giám_đốc sản_phẩm của Google , cũng trình_diễn dự_án Google Notebook , dự_kiến xuất_hiện ngay trong tuần_tới .
+Notebook cho_phép người_sử_dụng bấm vào kết_nối " note this " ( ghi_nhớ thông_tin này ) nằm ở cuối mỗi kết_quả tìm_kiếm và lưu_dữ_liệu đó vào một sổ_tay ảo .
+Mọi_người có_thể kéo - thả thông_tin từ website và gửi e - mail Notebook cho người_khác .
+
+Trong_khi_đó , , sẽ minh_họa bằng đồ_thị xu_hướng quan_tâm của người_dùng trên toàn thế_giới đến về bất_cứ từ_khóa , thuật_ngữ nào .
+" Nếu bạn là một nhà quảng_cáo và muốn tìm_hiểu xu_hướng , nhu_cầu về sản_phẩm nào_đó tại mỗi vùng miền khác_nhau , Google Trend sẽ mang đến nhiều thông_tin rất hữu_ích " , Jonathan Rosenberg , Phó_giám_đốc quản_lý sản_phẩm của Google , khẳng_định .
+
+Sản_phẩm cuối_cùng , tạo điều_kiện cho mọi_người đóng_góp những kinh_nghiệm của bản_thân , tức họ có_thể dán_nhãn ( label ) hay gắn ( tag ) trang web mà họ biết về một chủ_đề nào_đó để Google sẽ hiển_thị trên trang kết_quả tìm_kiếm .
+
+Cũng tại cuộc họp_báo thường_niên 2006 của Google hôm_qua , Giám_đốc điều_hành Eric Schmidt cho_rằng dịch_vụ tìm_kiếm sẽ đóng_vai trò quan_trọng trên Internet và tập_đoàn này đang có lợi_thế lớn do công_cụ search là sản_phẩm chủ_đạo của họ .
+
+" Dịch_vụ nào rồi cũng sẽ mang tính cạnh_tranh hơn trong tương_lai và điều đó có lợi cho người_sử_dụng .
+Tuy_nhiên , không một đối_thủ nào khác chuyên sâu vào công_nghệ tìm_kiếm như chúng_tôi " , Schmidt nhấn_mạnh .
+
+Theo ông , công_ty đạt tốc_độ đổi_mới , cải_tiến_nhanh nhất và thu_hút những đối_tác có tầm ảnh_hưởng lớn sẽ là người_chiến_thắng .
+Đồng_thời , ông cũng lưu_ý rằng Google đang hợp_tác chặt_chẽ với eBay và AOL .
+
+Schmidt tiết_lộ ông đã chu_du trên toàn thế_giới với chương tình tìm_kiếm bản_đồ và hình_ảnh vệ_tinh .
+" Google Earth tạo điều_kiện cho bạn đi du_lịch theo kiểu mới .
+Tôi đã leo lên đỉnh Everest rất thoải_mái tại ... phòng_làm_việc " , Schmidt hài_hước nói .
+
+Schmidt tin rằng dịch_vụ tìm_kiếm và các giao_dịch trên web sẽ liên_tục tăng_lên chứ_không giảm , do tốc_độ mạng đã nhanh hơn 100 lần so với 10 năm_trước .
+
+" Nguyên_tắc đầu_tiên cần ghi_nhớ khi sử_dụng Internet là : mọi_người có rất nhiều điều để_nói " , Schmidt khẳng_định , ngầm đề_cập đến sự_phổ_biến của cộng_đồng wiki - những trang web mà người_dùng có_thể truy_cập và thay_đổi thông_tin .
+
+P.T. ( theo CNet , VNUNet )

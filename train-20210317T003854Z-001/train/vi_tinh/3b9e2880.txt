@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/09/3b9e2880/
+title=Quản lý hàng chuyển phát nhanh từ thiết bị cá nhân 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Quản_lý hàng chuyển phát nhanh từ thiết_bị cá_nhân
+Gói phần_mềm ExpressShipper - Mobile - Manager - Connect , đang được Dịch_vụ chuyển phát nhanh toàn_cầu TNT ứng_dụng , cho_phép người_dùng ngồi tại nhà và kiểm_tra hành_trình chuyến_hàng của mình , in chứng_từ hoặc tra_cứu giá_cước , mã bưu_cục , tên_tỉnh , thành_phố toàn cầu.  
+Trong_đó , phần_mềm ExpressShipper thiết_kế trên nền PC và hệ_điều_hành Windows .
+Đây là công_cụ tiện_lợi phục_vụ khách_hàng in chứng_từ , thông_tin về giá_cước dịch_vụ , thời_gian vận_chuyển , báo_cáo hàng gửi và thông_tin giao_nhận hàng .
+
+ExpressMobile là giải_pháp hỗ_trợ chuyển phát nhanh , dựa_trên những thiết_bị di_động kỹ_thuật số cá_nhân như điện_thoại di_động , PDA ...
+Người sử_dụng các thiết_bị này dễ_dàng theo_dõi tình_hình vận_chuyển hàng_hóa bằng tin_nhắn SMS , dịch_vụ WAP và có_thể gửi yêu_cầu nhận hàng đến dịch_vụ chuyển phát nhanh .
+
+Phần_mềm ExpressManager cũng_được thiết_kế trên giao_diện Windows , giúp khách_hàng cùng một_lúc có_thể gửi_hàng , kiểm_tra giá_cước và theo_dõi hàng gửi một_cách dễ_dàng .
+Khi muốn khởi_động , người_sử_dụng chỉ cần bấm vào biểu_tượng của ExpressManager .
+Còn ExpressConnect là công_cụ giúp theo_dõi hàng gửi một_cách dễ_dàng bằng số_không vận_đơn hoặc mã_số riêng của khách_hàng .
+ExpressConnect sẽ tích_hợp vào trang web của người_sử_dụng , cho_phép truy_cập thông_tin chi_tiết về số_hiệu chuyến_hàng cần tìm trên trang web này .
+Khách_hàng còn có_thể sử_dụng ExpressConnect để tra_cứu mã bưu_cục , tên_tỉnh , thành_phố , các loại_hình dịch_vụ ... toàn_cầu .
+
+Bạn_đọc cần tìm_hiểu thêm các phần_mềm có_thể vào địa_chỉ : .
+
+Thanh_Lương  

@@ -1,0 +1,29 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9DFD8F/
+title=Microsoft CRM 3.0 sẽ xuất hiện trong quý I/2006 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft CRM 3.0 sẽ xuất_hiện trong quý I/2006
+Hôm_qua , hãng phần_mềm Mỹ đã hé_mở những tính_năng mới của phiên_bản nâng_cấp chương_trình quản_lý quan_hệ khách_hàng ( ) và một số công_cụ phát_triển , ứng_dụng server trong triển_lãm TechEd2005 đang diễn_ra tại Amersterdam ( Hà_Lan ) tuần này .
+
+Phiên_bản CRM 3.0 , cùng với bộ phát_triển phần_mềm ( SDK ) , sẽ bắt_đầu đến tay khách_hàng đã sử_dụng chương_trình cũ của Microsoft vào cuối năm_nay .
+Brad Wilson , người quản_lý bộ_phận CRM của Microsoft , cho_biết phiên_bản 3.0 có giao_diện đơn_giản , phù_hợp với Outlook và Web client .
+Nền CRM linh_hoạt cho_phép tùy_biến phù_hợp với mỗi doanh_nghiệp , khả_năng chuyển thông_tin CRM trực_tiếp vào Excel , xử_lý nhanh để giảm chí phí sử_dụng ...
+
+Microsoft CRM 3.0 cũng bắt_kịp những tính_năng đã có trong sản_phẩm của các hãng đối_thủ như chương_trình_tự_động tiếp_thị , quản_lý nguồn và quản_lý theo chu tình_đóng , module lịch_trình kết_hợp yêu_cầu về dịch_vụ để cung_cấp những kỹ_năng cụ_thể ...
+
+Microsoft dự_định chuyển CRM 3.0 thành một phần_mềm dịch_vụ , và giao cho những hãng phân_phối phần mềm độc_lập của họ quản_lý theo hình_thức trả_phí hàng_tháng .
+
+Ngoài_ra , Microsoft cũng giới_thiệu gói ứng_dụng dành_riêng cho doanh_nghiệp nhỏ mang tên Windows Small Business Server 2003 .
+Phiên_bản này là một lựa_chọn thay_thế cho những công_ty hiện đang sử_dụng Office Outlook 2003 .
+
+Cũng trong ngày hôm_qua , Microsoft khẳng_định sẽ ra_mắt Visual Studio 2005 , SQL Server 2005 , BizTalk Server 2006 và bản_thử_nghiệm Microsoft Commerce Server vào ngày 7/11 tại San Francisco ( Mỹ ) .Với Visual Studio 2005 , các nhà lập_trình sẽ có_thể xây_dựng ứng_dụng e - mail Outlook và chương_trình lịch_làm_việc .
+Sản_phẩm tích_hợp công_cụ phát_triển ứng_dụng Windows , sử_dụng chương_trình Avalon và hệ_thống liên_lạc Indigo trong hệ_điều_hành Longhorn .
+
+Đầu năm 2006 , Microsoft sẽ chính_thức giới_thiệu BizTalk Server 2006 , tên mã V - Next .
+Đây là phần_mềm tích_hợp để kết_nối các hệ_thống riêng_rẽ với_nhau .
+Phiên_bản này sẽ giản_lược các thao_tác xây_dựng ứng_dụng dòng công_việc ( workflow ) liên_quan đến nhiều tổ_chức doanh_nghiệp .
+
+Microsoft cũng đang tập_trung phát_triển để ra_mắt bản chính_thức JDBC ( Java Database Connectivity ) , cho_phép các ứng_dụng Java trên nền bất_kỳ có_thể tương_tác với SQL Server 2005 .
+Tải bản SQL Server 2005 JDBC Driver Beta 1 tại , và gói SQL Server Report mới ( đặt_hàng sản_phẩm ) tại của Microsoft .
+
+P.T. ( theo Infoworld , InternetNews )

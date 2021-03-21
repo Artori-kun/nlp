@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DDDD6/
+title=Bluetooth sẽ được tích hợp với UWB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bluetooth sẽ được tích_hợp với UWB
+Hôm 4/5 , một_số hãng phát_triển mạng không dây công_bố kế_hoạch liên_kết hai công_nghệ nói trên để thúc_đẩy việc truyền_hình_ảnh hoặc dữ_liệu có dung_lượng lớn trong tầm ngắn giữa tivi , các hệ_thống giải_trí tại nhà hay giữa máy_vi_tính với_nhau .
+
+Michael Foley , Giám_đốc điều_hành của Hiệp_hội hỗ_trợ ( SIG - thành_lập năm 1998 gồm Ericsson , IBM , Intel , Nokia và Toshiba và hiện_nay có tới 3,400 thành_viên ) cho_biết_việc tích_hợp sẽ giúp các nhà sản_xuất thoải_mái hơn trong việc phát_triển sản_phẩm .
+" Giải_pháp này sẽ thật_sự đẩy_mạnh tốc_độ tiếp_thị cho các thiết_bị băng thông siêu_rộng   mà không phải tốn tiền_đầu_tư phát_triển các sản_phẩm Bluetooth " .
+
+SIG hy_vọng rằng UWB sẽ tăng_cường lượng điểm_tải dữ_liệu và giúp xử_lý các file lớn mà_không cần cáp .
+Tổ_chức này cho_biết họ đã bắt_đầu làm_việc với hai công_ty phát_triển UWB là Hiệp_hội WiMedia và Diễn_đàn UWB ( UWB Forum ) .
+Các cuộc thương_lượng chưa cho_thấy sự_hợp_tác này có tạo_ra được kết_quả gì không nhưng nhu_cầu tích_hợp đã trở_nên rõ_ràng .
+
+Loại Bluetooth phổ_biến nhất có_thể truyền_dữ_liệu đạt đến 1 Mb / giây còn phiên_bản thế_hệ tiếp_theo sẽ đạt tới 3 Mb / giây .
+Tốc_độ của UWB là 100 Mb / giây và sẽ trở_thành cách_thức truyền_dữ_liệu hiệu_quả hơn rất nhiều .
+Điều này có_nghĩa là tín_hiệu UWB có đủ băng_thông để truyền một chương_trình truyền_hình với độ sắc nét cao ( cần đến 22 Mb / giây cho thời_gian xem thực_tế ) .
+
+Mục_tiêu chính của Hiệp_hội hỗ_trợ Bluetooth là triển_khai tương_thích không dây tầm ngắn giữa các thiết_bị cho_phép dùng Bluetooth hiện_nay và các loại máy dùng UWB .
+Kế_hoạch này phải đến năm sau mới hoàn_thành và hiện_nay cũng gặp_phải một số trở_ngại .
+Anders Edlund , Giám_đốc tiếp_thị của SIG , cho_biết vào thời_điểm này UWB mới chỉ được Mỹ thông_qua .
+Do công_nghệ này khá mới_mẻ nên chưa có ứng_dụng thương_mại rộng_rãi nào .
+
+Bluetooth là công_nghệ mạng cá_nhân ( PAN ) không dây do Hiệp_hội hỗ_trợ Buetooth đề_xướng .
+Công_nghệ này là một chuẩn mở cho_phép truyền giọng_nói và dữ_liệu kỹ_thuật_số , hỗ_trợ các trình ứng_dụng song điểm hoặc đa_điểm .
+Một_số ứng_dụng phổ_biến của Bluetooth có_mặt trên điện_thoại di_động , giúp kết_nối không dây đến bộ tai_nghe hoặc trong hệ_thống âm_thanh trên ôtô để rảnh_tay trong_khi lái .
+
+H.P . ( theo_AP , Newsfactor )

@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DDB3E/
+title=SAP liên minh với Microsoft chống Oracle 
+cat=VI-TINH|SAN-PHAM-MOI
+
+SAP liên_minh với Microsoft chống Oracle
+Mendocino , sản_phẩm hợp_tác của 2 hãng phần_mềm lớn nhất thế_giới , hứa_hẹn giúp quá_trình quản_lý nhân_sự hiệu_quả hơn .
+Giới chuyên_môn đánh_giá đây là một động_thái khá khó_chịu đối_với .
+
+Những công_đoạn sắp_xếp thời_gian , kiểm_soát ngân_sách , giám_sát chi_phí và đi_lại trong các phần_mềm của SAP được tích_hợp trực_tiếp với Microsoft Office .
+Ví_dụ : người_sử_dụng có_thể đồng_bộ hoá thông_tin thông_qua phần_mềm Exchange Server như quản_lý e - mail , khai_thác dữ_liệu của SAP trong Microsoft Excel , nhập_dữ_liệu bằng InfoPath của Microsoft Office .
+
+Hiện_nay Oracle không_chỉ là đối_thủ của SAP trong lĩnh_vực phần_mềm doanh_nghiệp mà bản_thân Oracle còn cung_cấp cơ_sở_dữ_liệu phổ_biến nhất để chạy các ứng_dụng của SAP .
+David Bradshaw , nhà phân_tích trong lĩnh_vực quan_hệ khách_hàng của hãng nghiên_cứu Ovum , cho_rằng việc Microsoft tích_hợp cơ_sở_dữ_liệu chạy chương_trình cho SAP sẽ khiến Oracle phải lao_đao .
+
+Mendocino dự_kiến sẽ có_mặt trên thị_trường vào quý IV năm_nay .
+Tập_đoàn Siemens cho_biết họ sẽ ứng_dụng sản_phẩm này và tích_hợp công_nghệ truyền_thông đại_chúng với SAP .
+
+Shai Agassi , một thành_viên trong Hội_đồng quản_trị SAP tuyên_bố : " Việc hợp_tác sản_xuất một sản_phẩm có_ý nghĩa như_thế này sẽ thắt_chặt mối quan_hệ chiến_lược suốt 15 năm của SAP với Microsoft " .
+
+H.P. ( theo VNUNet , AP )

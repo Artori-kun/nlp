@@ -1,0 +1,14 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D51EA/
+title=HP tung ra laptop Linux đầu tiên 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP tung_ra laptop Linux đầu_tiên
+Hãng HP vừa đưa_ra thị_trường loại máy_tính xách tay dành cho doanh_nghiệp Compaq nx5000 được cài sẵn SUSE Linux của Novell .
+Đây là dòng laptop sử_dụng hệ_điều_hành mã nguồn mở đầu_tiên trên thế_giới .
+
+Phát_ngôn viên Jeffrey Wade của HP cho_biết , loại máy_tính xách tay này là kết_quả mới nhất của sự_hợp_tác giữa HP và Novell , được thiết_lập trên cơ_sở xây_dựng thị_trường cho máy_tính sử_dụng hệ_điều_hành Linux nhằm đáp_ứng nhu_cầu của các doanh_nghiệp muốn tích_hợp_phần mềm mã nguồn mở vào hệ_thống .
+
+Máy_tính xách tay Compaq nx5000 dùng hệ_điều_hành SUSE Linux được trang_bị phần_mềm văn_phòng OpenOffice , hỗ_trợ CD - R / RW , DVD , trình đa phương_tiện , kết_nối không dây và Bluetooth .
+Sản_phẩm này được HP hỗ_trợ kỹ_thuật và bảo_đảm dịch_vụ hậu_mãi toàn_phần , có giá bán_lẻ tại thị_trường Mỹ là 1.140 USD .
+
+T.N. ( theo CIO Today )

@@ -1,0 +1,24 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DEFE2/
+title=Thông tin mới về Internet Explorer 7  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thông_tin mới về Internet Explorer 7  
+Gordon Mangione , Giám_đốc điều_hành cao_cấp của Microsoft , đã tiết_lộ thêm nhiều phần nâng_cấp bảo_mật trong phiên_bản mới của Internet Explorer ( IE ) , bao_gồm khả_năng chống và cơ_chế giới_hạn truy_cập .
+
+Gordon khẳng_định IE 7 sẽ chạy mặc định trên chế_độ hạn_chế quyền ưu_tiên ( reduced - privilege ) , để tránh bị tấn_công từ xa qua trình_duyệt - một nguy_cơ khiến các nhà phát_triển đau_đầu và làm_giảm uy_tín của Microsoft thời_gian qua .
+
+Microsoft cho_biết trình_duyệt mới sẽ thay_đổi cách thực_thi file , kèm_theo tính_năng chống spyware và , đồng_thời chặn hình_thức truy_cập cross - domain scripting ( mã liên_vùng ) .
+Ngoài_ra , trình_duyệt sẽ hỗ_trợ tên miền quốc_tế , tích hợp RSS , công_cụ tìm_kiếm và tính_năng in ấn kiểu mới .
+
+Một_số cải_tiến khác bao_gồm giao_diện người_dùng SSL đẹp hơn và được tích_hợp công_cụ .
+
+Microsoft từng tuyên_bố IE 7 sẽ vượt trội_hơn tất_cả những nâng_cấp bảo_mật gần_đây .
+Trình_duyệt , mang tên mã Rincon , sẽ hoạt_động trên , Windows Server 2003 Service Pack 1 và Windows XP Professional x64 .
+Microsoft thậm_chí đã quyết_định những bản IE không phù_hợp với hệ_điều_hành mới .
+
+Hãng cũng khẳng_định IE 7 sẽ cải_tiến 2 chuẩn web chủ_yếu - Cascading Style Sheet ( CSS ) và đồ_họa PNG .
+Từ nhiều năm_qua , sự_hỗ_trợ không đầy_đủ cho những tính_năng này đã khiến các nhà phát_triển web phải tạo_ra hai phiên_bản khác_nhau trên cùng một site của mình - một hỗ_trợ IE và một hỗ_trợ trình_duyệt theo chuẩn như_ý .
+
+Gordon tiết_lộ hiện_nay có tới 30 % hệ_thống máy_tính Windows bị spyware quấy_phá .
+
+Phương_Thúy ( theo TechWorld )

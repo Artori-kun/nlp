@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E8FD3/
+title=Opera 9.0 tích hợp ứng dụng chia sẻ BitTorrent 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Opera 9.0 tích_hợp ứng_dụng chia_sẻ BitTorrent
+Ngoài phần_mềm chia_sẻ file ngang_hàng , phiên_bản thử_nghiệm trình_duyệt mới của Opera còn được trang_bị các " widget " - những ứng_dụng web nhỏ như các feed ( website hỗ_trợ ) hoặc game được tập_hợp trong một cửa_sổ trên desktop .
+
+Phần_mềm này vẫn còn tồn_tại một số lỗi và Opera khuyên người_sử_dụng nên thường_xuyên sao_lưu dữ_liệu để đề_phòng rắc_rối xảy_ra .
+Trình_duyệt mới được và tương_thích với hầu_hết các hệ_điều_hành như Windows và Mac OS .
+Phiên_bản chính_thức Opera 9 sẽ xuất_hiện trong vài tháng nữa .
+
+Theo của công_ty Net Applications , Internet Explorer của Microsoft vẫn đang thống_trị các trình_duyệt web trong_khi đã đạt trên 10 % thị_phần .
+
+Opera hiện đứng ở vị_trí thứ 5 , sau Apple Safari và Netscape , với tỷ_lệ 0,54 % .
+
+T.N. ( theo PC World )

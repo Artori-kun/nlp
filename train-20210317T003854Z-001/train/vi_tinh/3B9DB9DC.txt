@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DB9DC/
+title=Thay vì bấm nút, hãy nói 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thay_vì bấm_nút , hãy_nói
+Ấn nút liên_tục trên điều_khiển từ xa sắp trở thành chuyện_quá_khứ nhờ phần_mềm cho_phép điều_khiển thiết_bị điện_tử bằng âm_thanh mới ra_mắt của hãng Opera ( Na_Uy ) .
+Tính_năng này cũng giúp_việc lướt web dễ_dàng hơn .
+
+Phần_mềm hướng_dẫn chương_trình điện_tử ( Electronic Program Guide - EPG ) được tích_hợp trong các thiết_bị giải_trí sẽ làm hài_lòng người sử_dụng .
+Để gọi được một chức_năng theo ý_muốn , thay_vì phải vượt_qua một ma_trận các menu lớn_nhỏ với rất nhiều phím phối_hợp như trước_đây , người_dùng chỉ cần nói_ra vài tiếng là mọi_việc có_thể đâu vào_đấy .
+Phần_mềm này , được hãng Opera tự_phong là tương_lai của việc giao_tiếp người - máy , có khả_năng tìm_kiếm những cấu_trúc dữ_liệu phức_tạp chỉ bằng khẩu_lệnh .
+EPG được viết bằng ngôn_ngữ XHTML + Voice ( X + V ) , một loại ngôn_ngữ lập_trình .
+
+Ngoài_ra , hãng phần_mềm Na Uy này cũng sẽ đưa_ra phiên_bản trình_duyệt Opera mới có tích_hợp khả_năng nhận_dạng giọng_nói dành cho PC .
+
+Công_nghệ âm_thanh dựa_trên nền_tảng web đang bắt_đầu được sử_dụng rộng_rãi nhằm nâng_cao khả_năng tương_tác của các thiết_bị điện_tử .
+
+Văn_Thắng ( theo Digital Lifestyle )

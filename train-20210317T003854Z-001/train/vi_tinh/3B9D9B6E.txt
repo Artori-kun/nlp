@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9B6E/
+title=Châu Âu dùng grid tạo siêu máy tính 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Châu_Âu dùng grid tạo siêu máy_tính
+4 viện nghiên_cứu tại khu_vực này vừa kết_nối thành_công các supercomputer của họ với_nhau để tạo_ra cỗ máy_điện_toán mạnh hàng thứ 4 trên thế_giới mà không cần bỏ tiền để xây_dựng như thông_thường .
+
+Bằng cách liên_kết thông_qua một mạng cao_tốc và phần_mềm thông_minh , 4 chiếc siêu máy_tính đơn_lẻ có_thể hoạt_động như một .
+Theo Victor Allesandrini , Giám_đốc Viện IDRIS ( Pháp ) , hệ_thống được tạo_ra từ sự_kết_hợp này - được gọi_là megacomputer - sẽ cho_phép các nhà_khoa_học tại 4 viện nghiên_cứu tham_gia dự_án thực_hiện những nghiên_cứu mà bình_thường không thực_hiện được với một_máy .
+
+Allesandrini cho_biết mạng_lưới 4 cỗ máy nói trên sẽ sẵn_sàng hoạt_động vào_đầu năm tới .
+Bên_cạnh Viện IDRIS của Pháp , các cơ_quan nghiên_cứu tham_gia dự_án siêu nói trên bao_gồm Trung_tâm nghiên_cứu Juelich và Viện vật_lý plasma Max - Planck của Đức_cùng với Viện liên_hợp Consorzio của Italy .
+
+Vào giữa năm tới , hệ_thống sẽ có thêm sự_tham_gia của hai viện EPCC và ECMWF ( Anh ) , CSC ( Phần_Lan ) và SARA ( Hà_Lan ) .
+Nếu sức_mạnh của mạng máy grid này được coi là một cỗ máy đơn_nhất thì nó sẽ chỉ xếp sau các siêu máy_tính , và .
+
+P.K. ( theo Reuters )

@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/09/3b9e28e3/
+title=Thẻ nhớ đầu tiên sử dụng phần mềm DRM 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Thẻ nhớ đầu_tiên sử_dụng phần_mềm DRM
+Hãng công_nghệ Mỹ SanDisk khẳng_định thẻ lưu_trữ mini sắp ra_mắt của họ , cho_phép mọi người_xem nội_dung an_toàn trên thiết_bị di_động , sẽ thay_đổi phương_thức kinh_doanh của dịch_vụ nghe_nhìn .
+
+Thẻ nhớ theo công_nghệ TrustedFlash bao_gồm thiết_bị vi xử_lý và một chương_trình mã_hóa , kết_hợp với giải_pháp quản_lý quyền nhạc số DRM , mang lại khả_năng bảo_mật cao hơn những dòng card có_mặt trên thị_trường hiện_nay .
+
+Với phần_mềm DRM , khách_hàng có_thể truy_cập nội_dung nhạc , game , phim ... ngay trên điện_thoại và sử_dụng Internet hoặc mạng di_động một_cách an_toàn .
+Họ cũng dễ_dàng chuyển nội_dung trên TrustedFlash từ thiết_bị di_động này sang 1 thiết_bị khác , hoặc copy dữ liệu tới ổ cứng máy_tính như một biện_pháp sao_lưu dự_phòng .
+
+Dòng thẻ TrustedFlash đầu_tiên , dung_lượng 256 MB , phát_hành vào quý IV năm_nay , sẽ được cài trước album " A Bigger Bang " của ban_nhạc Rolling Stones , kèm ảnh bìa và một số kết_nối tới những album khác của ban_nhạc để khách_hàng có_thể chọn mua .
+
+Hãng dịch_vụ trực_tuyến Yahoo đã cam_kết hỗ_trợ thẻ Gruvi theo công_nghệ này .
+Khách_hàng được quyền đăng nhập trực_tiếp từ máy di_động tới dịch_vụ Yahoo !
+Music để nghe_nhạc và xem ảnh nghệ_sỹ .
+" Chúng_tôi mong_muốn giúp SanDisk phát_hành rộng_rãi thẻ nhạc TrustedFlash trên toàn thế_giới .
+Hiện_nay , họ là những người đi đầu trong quá_trình phát_triển card thế_hệ mới , mang lại cho khách_hàng những dịch_vụ giải_trí thú_vị cả trên PC và di_động " , David Goldberg , Phó_chủ_tịch Yahoo !
+Music , cho_biết .
+
+SanDisk cũng sẽ sớm ra_mắt bộ_nhớ flash 4 GB , chỉ chiếm 4 % diện_tích so với ổ microdrive , cho_phép tích_hợp trong điện_thoại , máy_nghe_nhạc , bộ nghe_nhìn cá_nhân và thiết_bị định_vị toàn_cầu GPS .
+
+P.T. ( theo InfoWorld )

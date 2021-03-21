@@ -1,0 +1,37 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/10/3B9C1003/
+title=Microsoft tiến vào thị trường điện thoại di động 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft tiến vào thị_trường điện_thoại di_động
+Với chiếc điện_thoại cầm_tay đầu_tiên cài phần_mềm của hãng sẽ được tung_ra trong tháng_này , Microsoft chính_thức có chỗ_đứng trên thị_trường điện_thoại di_động ( ĐTDĐ ) toàn_cầu .
+Sản_phẩm sẽ được Orange SA , chi_nhánh của France Telecom SA , giới_thiệu ở Anh trước_tiên .
+
+Phần_mềm Smartphone 2002 của Microsoft được thiết_kế đặc_biệt nhằm biến ĐTDĐ thành máy_tính mini , giúp người_dùng lướt web , xem video clip và chạy nhiều ứng_dụng đa phương_tiện_khác .
+Hãng muốn nhiều công_ty dùng sản_phẩm của mình để cung_cấp dịch_vụ liên_quan đến Internet thông_qua thiết_bị di_động cũng_như máy_tính cá_nhân .
+
+Tuy_nhiên , hầu_hết hãng sản_xuất điện_thoại lớn ( trong_đó có Nokia và Motorola ) đều tự_phát_triển phần_mềm riêng , từ_chối dùng Smartphone 2002 vì không muốn chia_sẻ lợi_nhuận với Microsoft .
+Công_ty phần_mềm hàng_đầu thế_giới đã quay sang các hãng nhỏ hơn , cụ_thể là High - Tech Computer của Đài_Loan , để sản_xuất điện_thoại và thuyết_phục những nhà_cung_cấp dịch_vụ di_động như Orange đưa thương_hiệu của họ vào sản_phẩm .
+
+Hiện_nay , thiết_bị cá_nhân gắn điện_thoại cài phần_mềm của Microsoft đã xuất_hiện ở châu_Âu , nhưng nhiều nhà phân_tích cho_rằng chúng quá cồng_kềnh và đắt_tiền .
+Hãng đang đặt nhiều hy_vọng vào Smartphone 2002 vì nó được thiết_kế riêng cho các sản_phẩm có bàn_phím kiểu điện_thoại và chỉ cần_dùng bằng một tay .
+
+Theo phát ngôn_viên của Orange , giá ĐTDĐ dùng phần_mềm mới này sẽ thấp hơn nhiều so với thiết_bị cài Pocket PC .
+Công_ty viễn_thông Anh mmO2 PLC đang bán sản_phẩm cài Pocket PC với giá 400 bảng ( khoảng 625 USD ) .  
+Sắp_tới , một_số loại điện_thoại khác cũng sẽ dùng phần_mềm của Microsoft .
+Người phát_ngôn của nhà_sản_xuất điện_thoại Sendo ( Anh ) cho_biết hãng sẽ trình_làng sản_phẩm cài Smartphone 2002 ở châu Âu vào tháng 11 .
+Cingular Wireless , liên_doanh giữa SBC Communications và BellSouth , dự_định bán sản_phẩm Sendo ở Mỹ vào cuối năm_nay .
+ 
+Tuy_nhiên , Microsoft không_thể giữ vị_trí độc_tôn trên thị_trường phần_mềm ĐTDĐ .
+Palm và Symbian - tập_đoàn có trụ_sở ở London ( Anh ) do Nokia hậu_thuẫn - đang tích_cực phát_triển phần_mềm phức_hợp dùng_cho điện_thoại đa phương_tiện .
+Nokia đã xuất_xưởng lô thiết_bị đầu_tiên cài phần_mềm hồi_cuối tháng 6/2002 .
+Richard Windsor , phân_tích gia của Nomura ở London , dự_đoán nhà sản_xuất ĐTDĐ lớn nhất thế_giới sẽ bán được hơn 2 triệu sản_phẩm loại này trong năm_nay .
+
+Microsoft từng hy_vọng điện_thoại cài Smartphone 2002 sẽ được bày bán rộng_rãi hồi_cuối năm_ngoái , nhưng nhiều chuyên_gia trong ngành cho_rằng hãng cần phát_triển phần_mềm không có lỗi nhằm kiểm_soát tốt_hơn việc kết_nối với mạng ĐTDĐ .
+
+Vodafone , công_ty viễn_thông lớn nhất châu_Âu , đã thử_nghiệm loại điện_thoại Sendo dùng phần_mềm Microsoft được hơn 1 năm nhưng vẫn chưa tung_ra thị_trường .
+T - Mobile thuộc tập_đoàn Deutsche Telekom AG ( Đức ) cũng đã kiểm_nghiệm sản_phẩm cài Smartphone 2002 và quyết_định chưa thể giới_thiệu trong năm_nay .
+
+Smartphone 2002 không hỗ_trợ Java - ngôn_ngữ lập_trình được nhiều công_ty thông_tin di_động sử_dụng để giúp khách_hàng tiếp_cận các trò_chơi download trên mạng và nhiều chương_trình ứng_dụng khác .
+Sendo cho_biết , hãng sẽ bổ_sung Java vào dòng_điện_thoại mới , Z100 , cài phần_mềm của Microsoft .
+ 
+Minh_Long ( theo MSNBC )

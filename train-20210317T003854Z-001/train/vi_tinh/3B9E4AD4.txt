@@ -1,0 +1,26 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E4AD4/
+title=Văn phòng điện tử của Trung tâm an ninh mạng BKIS 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Văn_phòng điện_tử của Trung_tâm an_ninh mạng BKIS
+Bộ sản_phẩm eOffice , được Trung_tâm an_ninh mạng Đại_học Bách_Khoa BKIS xây_dựng trong 4 năm với định_hướng giúp thông_tin tìm đến người_sử_dụng , vừa ra_mắt chính_thức tại Hà_Nội .
+Có đặc_tính mở nên sản_phẩm này phù_hợp cho doanh_nghiệp , đơn_vị hành_chính hoặc cơ_quan báo_chí .
+
+eOffice - Văn_phòng điện_tử là hệ_thống trao_đổi thông_tin , điều_hành tác_nghiệp và quản_lý trình_duyệt công_văn , văn_bản , hồ_sơ công_việc trên mạng máy_tính .
+Phần_mềm được thiết_kế thân_thiện đối_với người_sử_dụng , giao_diện hoàn_toàn tiếng_Việt .
+
+Ông Nguyễn_Tử_Quảng , Giám_đốc Trung_tâm BKIS đồng_thời là kiến_trúc sư_trưởng của chương_trình này , cho_biết : " Tôi ấp_ủ ý_tưởng về sản_phẩm từ năm 1997 .
+Thực_tế là các cơ_quan có máy_tính thì rất nhiều song sự_giao_tiếp lại không_phải dễ và giao_diện thì toàn bằng tiếng Anh .
+eOffice khắc_phục được tất_cả những trở_ngại này " .
+
+Các tính_năng của Văn_phòng điện_tử gồm gửi nhận_e - mail , thông_báo trong cơ_quan tới từng cá_nhân , một hoặc nhiều nhóm và các phòng , ban .
+Người sử_dụng có_thể hội_thoại , nhắn_tin , gửi file , trưng_cầu ý_kiến , gửi tin_nhắn ra điện_thoại di_động nhắc_việc ( tự nhắc_mình , hoặc người_khác ) , lưu sổ địa_chỉ ... .
+" Đặc_biệt , trên hệ_thống này , người_dùng có_thể xử_lý , tạo , duyệt các công_văn , giấy_tờ theo những chu_trình ( luồng công_việc ) tự định_nghĩa một_cách rất mềm dẻo và tiện_lợi " , ông Quảng mô_tả .
+
+Tính_năng tự_động thông_báo ( notify ) sẽ nhắc_nhở người_sử_dụng mỗi khi có thông_tin mới với đầy_đủ nội_dung trích_yếu , tên và ảnh của người_gửi .
+Và người_dùng trực_tiếp có_thể tùy_biến quy_định những_ai sẽ được thông_báo .
+
+Hiện_tại eOffice được ứng_dụng tại Văn_phòng Quốc_hội , Bộ Nội_vụ , Đài_Truyền_hình Việt_Nam , Xí_nghiệp mặt_đất Nội_Bài ( Hàng_không VN ) , Công_ty Tín_Nghĩa ...
+Trong thời_gian tới , nếu_có được những hưởng_ứng tích_cực sau khi ra_mắt , BKIS có_thể sẽ thương_mại_hóa sản_phẩm này .
+Thông_tin chi_tiết về eOffice có tại :
+Xuân_Kim

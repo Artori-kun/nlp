@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/01/3B9C3EA2/
+title=Ấn Độ phát triển siêu máy tính 1 teraflop 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ấn_Độ phát_triển siêu máy_tính 1 teraflop
+Trung_tâm phát_triển máy_tính cao_cấp ( C - DAC ) của Ấn_Độ vừa sản_xuất 1 siêu máy_tính có_thể thực_hiện 1.000 tỷ phép_tính / giây .
+PARAM Padma có 250 bộ_vi xử_lý , dùng cả 2 hệ_điều_hành Linux và AIX của IBM .
+
+Padma có_thể được dùng để hỗ_trợ dự_báo thời_tiết hay phân_tích dữ_liệu của thị_trường tài_chính .
+Thiết_bị được 200 nhà_khoa_học phát_triển trong 4 năm_qua .
+
+Được thành_lập vào năm 1988 , C - DAC đã phải trải_qua thời_kỳ cấm_vận xuất_khẩu công_nghệ của Mỹ kéo_dài 10 năm , với lý_do Ấn_Độ có_thể sử_dụng công_nghệ cho các mục_đích chính_trị .
+
+Sau khi lệnh cấm_vận được xoá_bỏ , C - DAC đã xây_dựng 4 dòng máy_tính Param , đưa Ấn_Độ trở_thành một trong những cường_quốc về siêu máy_tính , gồm_Mỹ , Nhật , Israel và Trung_Quốc .
+
+Minh_Nghĩa ( theo SMH )

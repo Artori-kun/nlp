@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/10/3B9CC85D/
+title=Phần mềm mới chống rò rỉ thông tin qua e-mail 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm mới chống rò_rỉ thông_tin qua e - mail
+Chương_trình Quản_lý quyền thông_tin ( Information Rights Management ) sẽ được Microsoft chính_thức giới_thiệu trong phiên_bản mới của bộ Office 2003 .
+Nó cho_phép người_sử_dụng gửi_thư điện_tử có khả_năng " tự_xóa " sau một thời_gian định trước .
+
+Ứng_dụng này sẽ rất hữu_ích cho chính_phủ hay các công_ty trong việc ngăn_chặn những thông_tin nhạy_cảm khỏi bị tiết_lộ .
+Tính bảo_mật của e - mail sẽ được nâng_cao và người_dùng khỏi phải đọc lại những bức_thư khó_chịu mà họ đã gửi .
+Họ cũng có_thể hạn_chế những người được_phép đọc_e - mail và ngăn không cho nó bị gửi tiếp cho người_khác hay in ra giấy .
+
+Tuy_nhiên , bất_cứ tổ_chức nào có_ý định tận_dụng tính_năng này có_thể phải đối mặt với luật_pháp .
+Ở Mỹ , việc tiêu_hủy thư_điện_tử cũng_như xé_bỏ các tài_liệu nói_chung là vi_phạm luật liên_bang .
+Nhà chức_trách có_thể sử_dụng những e - mail này để phục_vụ cho công_việc điều_tra .
+Gần_đây nhất , e - mail cá_nhân của các quan_chức chính_phủ Anh và hãng BBC đã bị công_bố sau một cuộc thẩm_tra của Hutton về cái_chết của tiến_sĩ .
+Đầu năm_nay , công_ty môi_giới chứng_khoán Morgan Stanley cũng bị phạt 1,65 triệu USD do không_lưu lại một_số thư_điện_tử .
+Công_ty này biện_hộ rằng đây chỉ_là một sơ_suất chứ không_phải chủ_ý của họ nhằm cản_trở các thanh_tra tài_chính .
+
+Chương_trình còn có khả_năng bảo_vệ thông_tin bí_mật lưu_giữ trong các ứng_dụng của Word hay Excel .
+Nó cũng_được thiết_kế để giúp người_sử_dụng có_thể đọc thông_tin trên mạng dễ_dàng hơn qua một màn_hình hiển_thị mới thay_vì phải in chúng ra như trước_đây .
+
+Thanh_Tùng ( theo BBC )

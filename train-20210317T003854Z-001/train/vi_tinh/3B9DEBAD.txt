@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DEBAD/
+title=Bộ nhớ phân tử thu nhỏ kích thước thiết bị cầm tay 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bộ_nhớ phân_tử thu_nhỏ kích_thước thiết_bị cầm_tay
+Theo một nghiên_cứu mới_đây của các chuyên_gia tại Đại_học Glasgow ( Scotland ) , hiện_tại thiết_bị MP3 như không lớn hơn một hộp danh_thiếp , nhưng chúng thậm_chí có_thể được thiết_kế nhỏ hơn thế .
+
+Các nhà nghiên_cứu tại Scotland đã phát_minh ra một phân_tử nhỏ nhưng có_thể lưu một lượng lớn dữ_liệu , chiếm ít diện_tích , cho_thấy triển_vọng thu_nhỏ kích_cỡ thẻ nhớ kỹ_thuật số và ổ cứng đang dần trở_thành hiện_thực .
+
+Phân_tử mới này sẽ đi tiên_phong trong việc " thu_nhỏ " thẻ nhớ cho điện_thoại di_động , camera số với khả_năng lưu_trữ hàng trăm_nghìn ảnh , cũng_như tích_hợp trong những máy_tính nhỏ ở cấp_độ , cho_phép tập_trung toàn_bộ sức_mạnh điện toán trong một ổ cứng siêu_nhỏ .
+Nó chỉ mỏng bằng 1/10.000 so với sợi_tóc của con_người và sẽ ghi dấu_ấn của mình trong công_nghệ nano , khoa_học nguyên_tử , phân_tử trong chuyển_hóa y_học , và thậm_chí lương_thực vào những năm_tới .
+
+Lee Cronin , trưởng_nhóm nghiên_cứu , phát_biểu : " Nhu_cầu về dung_lượng ngày một tăng cao , nhiều hãng đang tiêu tốn tiền tỷ để có_thể ' nhồi_nhét ' dữ_liệu vào trong bộ_nhớ , cố_gắng thu_hẹp không_gian , nhưng không_thể vượt_quá giới_hạn cho_phép hiện_nay .
+Những gì chúng_tôi đang tiến đến là một phân_tử có khả_năng gộp tới 10.000 bộ_nhớ trong một diện_tích giới_hạn mà công_nghệ hiện_tại không_thể thực_hiện được " .
+
+Tuy_nhiên , để hướng đến những thiết_bị cầm_tay siêu nhỏ vẫn còn phải vượt_qua không ít rào_cản .
+Tiêu_biểu nhất_là kích_thước pin di_động .
+Hiện_tại , pin trong các thiết_bị cầm_tay đã được cải_tiến đáng_kể về thời_gian hoạt_động , nhưng vẫn chiếm tới 20 - 40 % kích_cỡ sản_phẩm .
+Dù_vậy , các nhà_khoa_học tin_tưởng rằng , công_nghệ trong lĩnh_vực phát_triển pin vẫn tiến_triển tốt_đẹp , vì_thế , hạn_chế này sẽ được khắc_phục theo thời_gian .
+
+Phương_Thúy ( theo ECT )

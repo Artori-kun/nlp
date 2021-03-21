@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/10/3B9B535D/
+title=Dùng FlashGet để "xoay xở" với những phần mềm tải về 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dùng FlashGet để " xoay_xở " với những phần_mềm tải về
+Bằng cách chia nhỏ các tệp tin rồi tải chúng về cùng_lúc , FlashGet giúp tăng tốc_độ download từ 2 đến 6 lần .
+Phần_mềm mới này cũng cho_phép bạn quản_lý những chương_trình đã tải xuống một_cách khoa_học .
+
+FlashGet có_thể tạo_ra số_hạng mục không hạn_chế với đường dẫn_xác_định .
+Dựa_vào đặc_điểm riêng của mình , các file đã download sẽ được phân_bổ hợp_lý theo những hạng_mục đó .
+
+Phiên_bản FlashGet v.069a có kích_thước 1,37 MB , chạy trên nền Windows 9.x / NT/2000 .
+Bạn có_thể download miễn_phí .
+
+H.F .

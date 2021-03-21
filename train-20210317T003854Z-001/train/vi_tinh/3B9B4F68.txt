@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/10/3B9B4F68/
+title=Trợ thủ trên đường lướt Web 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Trợ_thủ trên đường lướt Web
+Trên thanh menu của Clickguide có đầy_đủ đường kết_nối đến những cỗ máy tìm_kiếm mạnh , các trang thời_sự , thông_tin về thị_trường , du_lịch , cửa_hàng ...
+Đây có_thể là sự_tiện_lợi mà bạn vẫn luôn mơ_ước .
+
+Thứ_nhất , bạn sẽ không_phải cố_công ghi_nhớ địa_chỉ các website .
+Clickguide còn cung_cấp công_cụ Direct- to - Content , giúp người_sử_dụng đi_thẳng đến phần văn_bản cần tìm thay_vì mày_mò trong mớ tài_liệu dày_cộp mà các chương_trình search khác_thường đem_lại .
+Chỉ cần bôi_đen mấy dòng trên một webpage và chọn nút search bạn sẽ có một lệnh tìm_kiếm .
+Hoặc chọn lệnh đó và đưa_ra các tiêu_chuẩn của bạn ...
+
+Phiên_bản Clickguide 2.0 , với kích_thước 1 MB , chạy trong các môi_trường Windows 98/Me/ NT/ 2000/ XP .
+
+Bạn có_thể download miễn_phí .
+
+H.F .

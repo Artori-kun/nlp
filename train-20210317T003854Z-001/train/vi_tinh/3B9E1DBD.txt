@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E1DBD/
+title=Cách hợp nhất mới cho HD DVD và Blu-ray 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Cách hợp_nhất mới cho HD DVD và Blu - ray
+Những cuộc đàm_phán giữa Sony và Toshiba nhằm đưa_ra một định dạng đĩa quang duy_nhất đã thất_bại .
+Để tránh mạo_hiểm khi lựa_chọn công_nghệ , nhiều nhà_sản_xuất bắt_đầu tính đến chuyện xây_dựng các thiết_bị tương_thích cả_hai .
+
+Hai hãng điện_tử Nhật , hậu_thuẫn cho khác_nhau , đều đã công_bố kế_hoạch phát_triển sản_phẩm riêng , do_đó người_dùng buộc phải tự quyết_định nên sử_dụng Blu - ray ( BD ) hay HD DVD .
+Đĩa BD DVD của Sony cung_cấp dung_lượng lưu_trữ lớn hơn HD DVD nhưng giá_thành cũng sẽ cao hơn nhiều so với công_nghệ do Toshiba dẫn_đầu .
+Quan_trọng hơn , lựa_chọn sai có_thể khiến khách_hàng bị hạn_chế trong việc tiếp_cận nội_dung , mất thời_gian và phải trang_bị nhiều phần_cứng đắt_đỏ .
+Bởi_vậy nhiều người tảng_lờ cả_hai định dạng cho_đến_khi họ xác_định được phe chiến_thắng .
+
+Dự_án về thiết_bị kép mới_đây của Samsung có_thể sẽ là ngòi_nổ phá_vỡ tình_trạng bế_tắc đó .
+Cho đến nay , Samsung vẫn tỏ_ra thiên về định dạng BD , tuy_nhiên , tập_đoàn điện_tử Hàn_Quốc tuyên_bố sẽ chọn giải_pháp an_toàn .
+
+Choi Gee - Sung , Giám_đốc bộ_phận điện_tử dân_dụng của Samsung , cho_biết : " Mọi_người vẫn mong_đợi một chuẩn thống_nhất nhưng không_thể , vì_vậy chúng_tôi sẽ đưa_ra phương_án kết_hợp cho thị_trường .
+Điều này không đơn_giản nhưng thiết_bị ra_mắt trong năm tới của chúng_tôi sẽ giúp khách_hàng phần_nào giảm_bớt sự_lúng_túng " .
+
+Cả Blu - ray ( BD ) và HD DVD đều sử_dụng ánh_sáng laser xanh để tăng khả_năng lưu_trữ cho đĩa quang DVD .
+Tuy_nhiên , chúng chứa những tính_năng , thông_số kỹ_thuật và cấu_trúc file rất khác_nhau .
+Samsung sẽ cần_thiết_kế ít_nhất hai đầu đọc riêng cho đĩa laser xanh , chưa_kể một công_cụ đọc đĩa laser đỏ cho CD và DVD hiện_nay .
+
+P.T. ( theo The Register )

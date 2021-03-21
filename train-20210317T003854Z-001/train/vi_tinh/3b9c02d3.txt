@@ -1,0 +1,21 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2002/09/3b9c02d3/
+title=IBM trình làng ThinkPad X30 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+IBM trình_làng ThinkPad X30
+Hôm_qua ( 12/9 ) , IBM ra_mắt máy_tính xách tay siêu_nhẹ này với trọng_lượng 1,6 kg , kết_hợp công_nghệ quản_lý năng_lượng đã được cấp bằng sáng_chế của hãng , có_thể hoạt_động liên_tục trong 8 giờ .
+
+Theo IBM , ThinkPad X30 có khả_năng sử_dụng hai pin cùng_lúc - một pin lắp trong và một pin mở_rộng , dễ_dàng gắn phía_dưới hệ_thống .
+Với việc sử_dụng phần_mềm wizard Access Connections mới của IBM , X30 cho_phép người_sử_dụng tiện quản_lý các nối mạng không dây và hữu_tuyến , cũng_như thay_đổi vị_trí .
+Đồng_thời , giúp nhanh_chóng phục_hồi dữ_liệu nếu phần_mềm bị hỏng chỉ bằng một_lần ấn_phím .
+Model này tích_hợp công_nghệ bảo_mật theo chuẩn TCPA và công_nghệ Rapid Restore PC ( PC phục_hồi nhanh ) của IBM .
+
+ThinkPad X30 cũng giúp người_sử_dụng làm_việc xa văn_phòng hiệu_quả hơn .
+Module ghép thêm X30 UltraBase mỏng và chỉ nặng 0,72 kg , bổ_sung nhiều tính_năng sử_dụng tuỳ_chọn .
+
+" Máy ThinkPad X30 với những tuỳ chọn pin độc_đáo đem_lại khả_năng tính_toán cả ngày cho những người có nhu_cầu mang máy_tính đi bất_cứ nơi_nào " , ông Trương_Phi_Dũng , Giám_đốc Bộ_phận máy_tính cá_nhân của Công_ty IBM Việt_Nam và Đông_Dương , nói .
+
+Đến nay , hơn 15 triệu máy xách tay ThinkPad đã được tiêu_thụ .
+Kể từ_khi được giới_thiệu lần_đầu_tiên vào năm 1992 ( ThinkPad 700C ) , dòng máy này có_thể sử_dụng được cả trong những điều_kiện khắc_nghiệt nhất , như việc phóng tàu_vũ_trụ con thoi ở độ_cao trên 17.000 feet so với mặt_nước_biển .
+
+T.T .

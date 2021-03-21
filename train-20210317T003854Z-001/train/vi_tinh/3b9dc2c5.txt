@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/03/3b9dc2c5/
+title=Turion 64 bit chính thức có mặt trên thị trường 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Turion 64 bit chính_thức có_mặt trên thị_trường
+Với 7 model , tốc_độ từ 1,6 GHz đến 2 GHz , công_suất tiêu_thụ từ 25-35 watt , AMD hy_vọng sẽ đánh_bại Pentium M của đối_thủ Intel trên thị_trường vi xử_lý dành cho máy_tính xách_tay .
+
+Nhóm sản_phẩm mới này bao_gồm : - ML - 37 ( 2.0 GHz , 1 MB Cache , 35 watt , giá 354 USD ) .
+- ML - 34 ( 1.8 GHz , 1 MB cache , 35 watt , 263 USD ) .
+- ML - 32 ( 1.8 GHz , 512 KB cache , 35 watt , 220 USD ) .
+- ML - 30 ( 1.6 GHz , 1 MB Cache , 35 watt , 184 USD ) .
+- MT - 34 ( 1.8 GHz , 1 MB Cache , 25 watt , 268 USD ) .
+- MT - 32 ( 1.8 GHz , 512 KB Cache , 25 watt , 225 USD ) .
+- MT - 30 ( 1.6 GHz , 1 MB cache , 25 watt , 189 USD ) .
+
+Trong ký_hiệu của các model này , chữ_cái_đầu ( M ) thể_hiện cho dòng_vi xử_lý , chữ_cái sau ( L , T ) thể_hiện cho mức tiêu_thụ năng_lượng .
+Công_suất tiêu_thụ của model ML là 35 watt còn của MT là 25 watt ( dòng Pentium M của Intel có công_suất là 27 watt ) .
+Công_suất tiêu_chuẩn của vi xử_lý AMD dành cho máy desktop là 90 watt .
+Con_số đi_kèm thể_hiện hiệu_suất làm_việc của chip .
+
+Với dòng Athlon và Sempron , AMD đã giành_được 9 % thị_phần vi xử_lý dành cho máy notebook trong năm_qua , những vẫn thua xa so với con_số 86 % của Intel .
+Nhận_thấy thị_trường chip dành cho máy_tính xách tay có tốc_độ tăng_trưởng nhanh hơn , AMD đang chú_trọng hơn vào mặt_hàng này và Turion sẽ là một vũ_khí mới trong cuộc_chiến không khoan_nhượng với đối_thủ số 1 Intel mà cụ_thể là dòng sản_phẩm Pentium M .
+
+Văn_Thắng ( theo Notebookreview )

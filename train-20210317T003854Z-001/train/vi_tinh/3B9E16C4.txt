@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E16C4/
+title=PC chống bụi, sâu bọ và không cần đường điện thoại 
+cat=VI-TINH|SAN-PHAM-MOI
+
+PC chống_bụi , sâu_bọ và không_cần đường điện_thoại
+Tại Diễn_đàn phát_triển Intel ( IDF ) ở San Francisco ( Mỹ ) hôm_qua , hãng sản_xuất chip số 1 thế_giới trình_diễn một mẫu máy_tính chịu_đựng được điều_kiện thời_tiết khắc_nghiệt , điện_lưới bị gián_đoạn và côn_trùng , đồng_thời có_thể truy_cập Internet mà_không cần dây_dẫn .
+
+Được thiết_kế với mục_đích giải_quyết tốt nhất nhu_cầu công_nghệ trong những điều_kiện đặc_thù về vị_trí địa_lý tại tất_cả các khu_vực trên thế_giới , sản_phẩm có tên_gọi Máy_tính Cộng_đồng mang ý_nghĩa đem khả_năng truy_cập Internet tới cho tất_cả dân_cư và làng_xã tại các khu_vực nông_thôn , vùng xa_xôi hẻo_lánh .
+
+Nhờ sử_dụng hệ_thống ắc_quy của xe ôtô , chiếc PC này sẽ có nguồn điện_năng dự_trữ trong trường_hợp điện_lưới không ổn_định .
+Máy có màn_hình mang một bộ_lọc đặc_biệt nhằm giảm số_lượng bụi và sâu_bọ vốn có_thể chui vào thùng_máy , gây_ra trục_trặc .
+
+Máy_tính Cộng_đồng có_thể chịu được nhiệt_độ môi_trường vượt_quá 38 độ C , kết_nối Internet thông_qua một mạng không dây ( công_nghệ băng_thông rộng không dây cho_phép truy_cập Internet tốc_độ cao với khoảng_cách xa hàng chục km ) .
+
+Q.T .

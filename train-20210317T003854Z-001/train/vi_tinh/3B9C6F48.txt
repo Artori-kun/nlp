@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/04/3B9C6F48/
+title=Chương trình diệt virus cho điện thoại di động 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chương_trình diệt virus cho điện_thoại di_động
+Nhà_cung_cấp dịch_vụ điện_thoại hàng_đầu Hàn_Quốc SK Telecom vừa hợp_tác với công_ty bảo_mật Ahn Lab phát_hành các công_cụ chống virus mới dành cho thiết_bị cầm_tay .
+Phần_mềm gần giống sản_phẩm dành cho PC , giúp phát_hiện và ngăn_chặn sự_phát_tán của worm .
+
+Theo SK Telecom , chương_trình được cập_nhật theo_lịch , có_thể vô_hiệu hoá virus mới , quét các file nén trong thời_gian thực và cảnh_báo người_dùng về lỗ_hổng bảo_mật phần_mềm .
+
+Đây là một phần trong nỗ_lực của 2 công_ty nhằm bảo_vệ người_dùng trước những .
+Sắp_tới , SK Telecom đầu_tư thêm 427 triệu USD vào công_nghệ WCDMA .
+
+Ahn Lab - công_ty hiện chiếm 86 % thị_phần phần_mềm diệt virus của Hàn_Quốc - cũng vừa_mắt phiên_bản V3Mobile 1.5 cho thiết_bị cầm_tay dựa_trên hệ_điều_hành Palm .
+
+Minh_Nghĩa ( theo eWeek )

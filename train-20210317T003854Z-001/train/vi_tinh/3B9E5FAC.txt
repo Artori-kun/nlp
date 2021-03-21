@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5FAC/
+title=Thunderbird 1.5 hỗ trợ podcast và RSS 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thunderbird 1.5 hỗ_trợ podcast và RSS
+Tổ_chức phần_mềm mã mở Mozilla vừa phát_hành bản nâng_cấp cho miễn_phí với một loạt tính_năng mới như bảo_mật , cập_nhật tự_động , hạn_chế những rắc_rối trong quá_trình sử_dụng ...
+
+Thunderbird 1.5 hỗ_trợ , cho_phép mọi_người truy_cập qua hộp hội_thoại tới một website hoặc một chương_trình audio .
+Công_cụ e - mail sẽ phân_loại các file âm_thanh và video , sau_đó phát chúng trên phần_mềm tương_ứng trong máy_tính của người_sử_dụng .
+Hệ_thống cũng nhận các thông_tin mới của RSS feed ( trang cung_cấp ) dưới dạng thông_điệp e - mail .
+
+Chương_trình được trang_bị cơ_chế xác_thực Kerberos , bộ_lọc spam và hệ_thống dò nhằm bảo_vệ mọi_người trước những e - mail lừa_đảo .
+Ngoài_ra , bản 1.5 cũng tự_động lưu_e - mail đang soạn dở vào trong Draft ( tương_tự Gmail ) và sửa lỗi chính_tả .
+
+Kể_từ phiên_bản này , hệ_thống sẽ tự nâng_cấp mỗi khi có thay_đổi , do_đó mọi_người không_phải vào tận site của Mozilla để kiểm_tra xem đã có bản mới chưa .
+Trình_duyệt mã mở mới nhất , ra_mắt ngày 29/11 , cũng có tính_năng trên .
+
+Theo Scott MacGregor , Giám_đốc kỹ_thuật của Thunderbird , phần_mềm đã thu_hút hơn 18 triệu lượt_tải và có_thể thay_thế Outlook Express của Microsoft và sánh ngang với chương_trình e - mail doanh_nghiệp như IBM Lotus Notes và Microsoft Outlook .
+MacGregor cho_biết , trên thực_tế đã có không ít công_ty lớn chuyển sang sử_dụng Thunderbird , trong_số đó là những hãng với quy_mô hơn 40.000 nhân_viên .
+
+Có_thể tải Thunderbird 1.5 .
+
+P.T. ( theo InfoWorld )

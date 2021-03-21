@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E129D/
+title=Máy chủ Linux bỏ túi đầu tiên trên thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy chủ Linux bỏ_túi đầu_tiên trên thế_giới
+Được giới_thiệu tại Đại hội LinuxWorld ( Mỹ ) tuần_qua , máy chủ mang tên BlackDog của hãng Realm Systems trông_khá " cổ_quái " .
+Tuy_nhiên nhà_sản_xuất có trụ_sở ở bang Utah tự_tin rằng sản_phẩm sẽ sớm tìm được vị_trí xứng_đáng trong các doanh_nghiệp .
+
+BlackDog , nặng 0,45 kg , chạy bằng năng_lượng lấy qua kết_nối USB và không_cần bất_cứ một phần_mềm đặc_biệt nào để hỗ_trợ tương_thích PC .
+BlackDog được PC ghi_nhận dưới dạng một ổ CD - ROM và tự_động khởi_động khi cắm vào máy_tính .
+Sau_đó , BlackDog có_thể truy_cập bất_cứ nguồn tài_nguyên mạng hay thiết_bị ngoại_vi nào của máy host .
+Realm cho_biết sản_phẩm này tương_thích với PC chạy Linux , Windows 2000 và Windows XP .
+
+" Bạn có cơ hội mang theo cả một mạng riêng_ảo ( VPN ) gọn trong túi " , Shawn Cunningham , Phó giám_đốc thị trường Realm , khẳng_định .
+Do thiết_bị Linux này có_cơ chế nhận_dạng sinh trắc_học ( BlackDog có đầu đọc vân_tay tích_hợp_sẵn ) và có_thể cắm vào bất_cứ PC nào , Cunningham tin_tưởng chúng sẽ hữu_ích và khiến khách_hàng yên_tâm khi đăng nhập_vào VPN của công_ty .
+
+BlackDog sử_dụng bộ xử_lý PowerPC 400 MHz , 64 MB RAM .
+Phiên_bản có bộ_nhớ flash 256 MB giá 199 USD còn loại 512 MB trị_giá 239 USD .
+
+Tháng 9 tới , Realm dự_kiến sẽ giới_thiệu phiên_bản BlackDog dành cho doanh_nghiệp mang tên Mobile Personal Server , dùng kèm với một sản_phẩm khác của họ là thiết_bị định tuyến Realm Management Router , nhằm tạo_ra một phương_thức bảo_mật trong việc truy_cập mạng từ bên_ngoài tường_lửa .
+
+Theo Realm , hiện_tại có_thể chưa có nhiều ứng_dụng thực_tế cho chiếc máy chủ di_động của họ nhưng sự_xuất_hiện của BlackDog là ngòi_nổ kích_hoạt những phát_minh và sáng_tạo mới trong cộng_đồng mã_mở , khởi nguồn cảm_hứng cho các nhà phát_triển tạo thêm nhiều mục_đích sử_dụng xuất_sắc mới cho server Linux .
+
+Q.T. ( theo TechWeb )

@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/02/3B9CFBD5/
+title=Công cụ chuyển đổi file nhạc dBpowerAMP v9.0a 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_cụ chuyển_đổi file nhạc dBpowerAMP v9.0a
+Đừng ngại cái_tên nghe giống như một lỗi đánh_máy của phần_mềm này .
+dBpowerAMP là một chương_trình khá tiện_dụng trong việc chuyển_đổi định dạng các tệp nhạc từ đĩa CD audio sang WAV , MP3 hoặc ngược_lại .
+
+Phần_mềm có tính tùy_chọn này giúp bạn chuyển các định dạng đĩa nhạc thường ( Long Playing - LP ) sang định dạng số và chuyển các file tiếng sang định dạng của Windows Media Audio v8 hay dạng nén OGG .
+
+Chương_trình có một tính_năng cân_bằng volume , đảm_bảo tất_cả các track đều chạy cùng ở một âm_lượng .
+Ngoài_ra , nó còn có tính_năng bảo_tồn đuôi nhận_dạng file ( ID - tag ) và khả_năng truyền tiếng sang đầu máy_nghe nhạc cá_nhân MP3 .
+
+Để_tải miễn_phí dBpowerAMP v9.0a , bấm   .
+
+P.K .

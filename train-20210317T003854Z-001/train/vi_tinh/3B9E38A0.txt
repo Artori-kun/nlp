@@ -1,0 +1,14 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E38A0/
+title=Samsung phát hành mẫu chip đồ họa GDDR 4 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Samsung phát_hành mẫu chip đồ_họa GDDR 4
+Hãng điện_tử Hàn_Quốc vừa cung_cấp cho các công_ty chế_tạo card đồ_họa mẫu sản_phẩm 256 MB , có khả_năng truyền_dữ_liệu với tốc_độ 2,5 Gb / giây , tăng 0,9 Gb / giây so với những thiết_bị hiện_có trên thị_trường .
+
+Không dừng ở_đó , Samsung khẳng_định hãng sẽ phân_phối mẫu 2,8 Gb / giây vào cuối năm_nay .
+Tập_đoàn này cho_biết chip nhớ được xây_dựng theo phương_pháp mới Data Bus Inversion và Multi - Preamble , hỗ_trợ tăng 56 % tốc_độ so với công_nghệ hiện_nay , nhưng không tiết_lộ thông_số chi_tiết .
+
+Từ_khi bắt_đầu giới_thiệu GDDR 2 tốc_độ 128 Mb / giây vào năm 2002 , Samsung luôn dẫn_đầu trên thị_trường DRAM đồ_họa .
+Họ sẽ không sản_xuất GDDR 4 hàng_loạt cho_đến quý II năm tới , nhằm mục_đích duy_trì vị_trí số một trong nửa_sau 2006 , giai_đoạn mà các chuyên_gia dự_đoán sẽ bùng_nổ card đồ_họa cao_cấp .
+
+P.T. ( theo The Register )

@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1440/
+title=Microsoft cung cấp công cụ kết hợp .Net 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft cung_cấp công_cụ kết_hợp .Net
+Hãng phần_mềm số_một thế_giới vừa công_bố bản nâng_cấp ILMerge , được coi " bộ công_cụ quyền_lực cho nhà phát_triển " khi mang lại khả_năng kết_hợp những ngôn_ngữ lập_trình khác_nhau .
+
+Theo một đại_diện của Microsoft , ILMerge có_thể kết_nối ngôn_ngữ .Net tương_tự như gộp nhiều_tài_liệu Word thành một tệp_đơn .
+Ví_dụ , công_cụ cho_phép tạo một file duy_nhất dù một_nửa số_người trong nhóm phát_triển dùng Visual Basic và số còn_lại sử_dụng C # . Cả Visual Audio 2003 và phiên_bản 2005 sắp ra_mắt cũng không có khả_năng lắp_ráp hai ngôn_ngữ khác_nhau như thế.
+" Nếu bạn đang xây_dựng một ứng_dụng .Net phức_tạp , bạn sẽ muốn tách chúng thành nhiều bộ_phận riêng_biệt , ví_dụ như phần giao_diện người_dùng , phần nguyên_lý thiết_kế lõi ...
+Công_cụ ILMerge cho_phép bạn kết_hợp những phần đó thành một file thống_nhất để có_thể sao_chép , cài_đặt và sử_dụng " , Greg DiMichillie , chuyên_gia phân_tích thuộc nhóm " Directions on Microsoft " , khẳng_định .
+
+ILMerge hoạt_động trên Windows 2000 , Windows 2003 và XP .
+Hiện_nay sản_phẩm không_thể tương_thích với Mono , phiên_bản mã mở cho nền phát_triển .Net dựa_trên Unix .
+
+P.T. ( theo TechWorld )

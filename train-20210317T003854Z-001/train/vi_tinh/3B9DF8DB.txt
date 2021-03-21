@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DF8DB/
+title=Danh bạ marketing trên điện thoại di động 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Danh_bạ marketing trên điện_thoại di_động
+Công_ty LantaBrand ( TP HCM ) vừa giới_thiệu ứng_dụng miễn_phí BizPlus , có_thể hoạt_động được trên tất_cả điện_thoại di_động hỗ_trợ Java và cung_cấp cho người_sử_dụng địa_chỉ , số điện_thoại liên_lạc của các công_ty cung_cấp dịch_vụ tiếp_thị uy_tín tại Việt_Nam .
+
+Việc sử_dụng khá đơn_giản , sau_khi cài_đặt ứng_dụng trên điện_thoại , chỉ cần vài thao_tác rất đơn_giản như chọn lĩnh_vực dịch_vụ và địa_điểm thì người_sử_dụng đã có_thể tìm được địa_chỉ và danh_sách các công_ty mình cần .
+
+Ứng_dụng BizPlus bao_gồm 16 danh_mục : Tiếp_thị trực_tiếp , Tổ_chức sự_kiện , Đồ_họa , Nghiên_cứu thị_trường , Tư_vấn tiếp_thị , Đặt chỗ quảng_cáo , Kế_hoạch truyền_thông , Toà_soạn báo , Thiết_kế bao_bì , Nhiếp_ảnh , In_ấn , Quà khuyến_mãi , Quan_hệ cộng_đồng , Tài_trợ , Đài truyền_hình , Sản_xuất phim quảng_cáo .
+Ngoài việc phân_chia theo lĩnh_vực dịch_vụ , BizPlus còn cho_phép phân_loại thành 3 khu_vực khác_nhau là TP HCM , Hà_Nội và các tỉnh_thành khác .
+
+Theo ông Nguyễn_Thanh_Hồng_Đức , Giám_đốc truyền_thông tiếp_thị của LANTABRAND , các doanh_nghiệp có_thể coi BizPlus là một cuốn sổ_tay lưu_sẵn thông_tin liên_lạc liên_quan đến các dịch_vụ tiếp_thị mà doanh_nghiệp thường quan_tâm .
+Khác với các hình_thức danh_bạ trước_đây , BizPlus là một ứng_dụng cài trực_tiếp trên điện_thoại di_động nên sẽ luôn_luôn ở bên_cạnh người_sử_dụng khi cần .
+Với các đơn_vị cung_cấp dịch_vụ tiếp_thị , BizPlus là một công_cụ giúp cho họ luôn hiện_diện bên_cạnh khách_hàng tiềm_năng của mình .
+
+BizPlus có dung_lượng 60 KB và có_thể cài_đặt trên điện_thoại hỗ_trợ Java ( tức_là hầu_hết các loại điện_thoại đang sử_dụng tại Việt_Nam ) .
+Ứng_dụng BizPlus có_thể được cài_đặt thông_qua máy_tính hay trực_tiếp từ máy di_động .
+
+Q.T .

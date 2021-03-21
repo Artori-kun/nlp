@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1363/
+title=Phần mềm nén file MP3 Converter 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm nén file MP3 Converter
+Nếu bạn muốn một công_cụ đơn_giản , dễ sử_dụng nhưng vẫn hiệu_quả và miễn_phí khi chuyển_đổi file M P3 với nhiều lựa_chọn khác_nhau , phiên_bản MP3 Converter 1.4 sẽ khiến bạn hài_lòng .
+
+Phần_mềm này sẽ hữu_ích khi bạn muốn giảm kích_thước file để có_thể gửi tới bạn_bè dễ_dàng và nhanh_chóng hơn , hoặc cần lưu những chương_trình thu từ TV với định dạng nhỏ gọn và thuận_tiện
+Bước đầu_tiên là mở file với công_cụ hỗ_trợ Nullsoft Disk Writer .
+Sau_đó , bạn có_thể sử_dụng MP3 Converter đã mã hoá lại file WAV thành một file MP3 theo những tiêu_chuẩn mới tuỳ_chọn .
+
+MP3 Converter hỗ_trợ chuyển định dạng file RAW và WAV , điều_chỉnh tần_số IO , tốc_độ lấy_mẫu ( 30 KHz - 320 KHz ) , quản_lý quyền ưu_tiên CPU và các chế_độ chuyển_đổi khác_nhau ( mono , stereo , joint stereo ) .
+
+Chương_trình tương_thích Windows 98/ME/2000 và XP .
+Kích_thước tải về là 1,62 MB .
+
+Tải MP3 Converter miễn_phí .
+
+P.T .

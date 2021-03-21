@@ -1,0 +1,20 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2002/09/3b9c04e4/
+title=Phần mềm quản lý tài chính Exact Globe 2000 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Phần_mềm quản_lý tài_chính Exact Globe 2000
+Hôm_nay , tại TP HCM , Công_ty Exact Software Việt_Nam_giới_thiệu phần_mềm này dựa_trên cấu_trúc One - X , sử_dụng một cơ_sở_dữ_liệu và bảng xử_lý giao_dịch , giúp cho việc quản_lý tài_chính dễ_dàng hơn .
+
+One - X là khái_niệm mới được ứng_dụng vào dòng sản_phẩm Exact Globe 2000 và của công_ty .
+
+Exact Globe 2000 cung_cấp cho người_dùng khả_năng hoạch_định nguồn tài_nguyên doanh_nghiệp ( ERP ) , quản_lý nguồn nhân_lực ( HRM ) và quản_lý khách_hàng ( CRM ) ...
+Với phần_mềm này , người_sử_dụng có đầy_đủ thông_tin phân_tích và tổng_hợp quá_trình kinh_doanh của doanh_nghiệp , chỉ sau cú nhấp chuột hoặc Enter .
+
+Exact Globe 2000 bao_gồm các phân_hệ : Kế_toán tài_chính ( E - Account ) , Tài_sản cố_định ( E - Fixed Assets ) , Quản_lý khách_hàng ( E - CRM ) , Quản_lý hoá_đơn ( E - Invoice ) ...
+
+Theo bà Trần_Minh_Chuyên , chuyên_gia tư_vấn tiền kinh_doanh của Exact Sofware , hiện_có hơn 60 công_ty hoạt_động tại Việt_Nam sử_dụng sản_phẩm này thuộc các lĩnh_vực khác_nhau như : thương_mại , sản_xuất , tư_vấn ...
+Giá bán của sản_phẩm phụ_thuộc vào từng phân_hệ do khách_hàng đặt_mua .
+
+Exact Software , trụ_sở chính tại Delft ( Hà_Lan ) , là nhà phát_triển các giải_pháp phần_mềm về kế_toán tài_chính , CRM , ERP và thương_mại điện_tử .
+
+M.T .

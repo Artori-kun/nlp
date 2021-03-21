@@ -1,0 +1,38 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/07/3b9e0703/
+title=Khoá điện tử 'made in Việt Nam' 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Khoá điện_tử ' made in Việt_Nam '
+Thiết_bị xây_dựng trên giao thức USB , còn có tên là USK ( USB Security Key ) , được Nhóm nghiên_cứu của Sở Khoa_học Công_nghệ tỉnh Đồng_Nai thiết_kế , chế_tạo .
+Đây cũng là khoá điện_tử đa chức_năng đầu_tiên của VN có giá chỉ bằng khoảng 50 % sản_phẩm nhập ngoại.  
+Khoá này có khả_năng lưu_trữ chứng_chỉ số theo chuẩn PKI ( Public Key Infrastructure ) dùng để ký và xác_thực trên các tài_liệu , phim , ảnh , mã_nguồn .
+Khoá được tích_hợp bộ_nhớ 128 MB , sử_dụng tuỳ chọn ở chế_độ bảo_mật hoặc chuẩn thông_thường và các ứng_dụng MS Office , giúp hiển_thị chữ_ký , con dấu như văn_bản thật .
+Nó sẽ bảo_vệ nội_dung thư_điện_tử , không cho ai được đọc ngoài người_nhận .
+Thiết_bị cũng tích hợp Acrobat , cho_phép ký và chuyển tài_liệu theo định dạng của hệ_thống công_văn của Chính_phủ .
+
+USK giúp mã hoá và giải_mã mọi tài_liệu được số_hoá với cơ_chế khoá phiên và cho_phép tuỳ chọn giải_thuật mã_hoá .
+Thiết_bị hỗ_trợ đăng nhập và duy_trì hoạt_động của các chương_trình máy_tính , khi người_sử_dụng rút khoá khỏi máy thì chương_trình sẽ tự_động kết_thúc .
+USK có khả_năng lưu_trữ , bảo_mật 100 tài_khoản trên nhiều hệ_thống khác_nhau và có_thể phát_triển mọi ứng_dụng chứng_chỉ số trong thương_mại điện_tử và chính_phủ điện_tử .
+
+Nhóm nghiên_cứu đã tự_phát_triển Hardware , Firmware của USK và nạp vào IC_trắng , đảm_bảo loại_trừ việc cài_đặt và xâm_nhập dữ_liệu trái_phép ( khả_năng back door ) .
+Nhờ chất_liệu và quy_trình sản_xuất đặc_biệt , sản_phẩm bảo_toàn được các tính_năng ngay_cả khi thả_xuống nước .
+
+Theo Trưởng_nhóm nghiên_cứu Phạm_Văn_Sáng , ý_tưởng sản_phẩm xuất_phát từ mong_muốn triển_khai thành_công mô_hình văn_phòng điện_tử , nhằm giảm_thiểu những công_đoạn , giấy_tờ rườm_rà không cần_thiết tại Sở của cả nhóm .
+Quá_trình thiết_kế khoá điện_tử khởi_động từ tháng 11/2004 và hoàn_thành trong tháng 4 năm_nay , với 10 mẫu đưa_vào thực_nghiệm , trang_bị cho cán_bộ chủ_chốt .
+
+Sau 2 tháng , việc ứng_dụng mô_hình văn_phòng điện_tử với sự_hỗ_trợ của thiết_bị trên đã giảm_thiểu nhiều giấy_tờ , công_sức , thời_gian không cần_thiết cho Sở Khoa_học Công_nghệ Đồng_Nai .
+Nếu trước_đây , công_văn gửi đi của Sở phải lưu lại bản_thảo giấy , có bút_tích của lãnh_đạo và người biên_soạn , thì nay , đều lưu trên mạng và được xác_thực bằng chữ_ký điện_tử .
+Các vấn_đề thảo_luận của cấp_ủy , Ban_giám_đốc Sở , chưa được_phép công_bố cũng có_thể thực_hiện và bảo_mật trên mạng
+Thực_nghiệm thành_công , nhóm nghiên_cứu đang triển_khai sản_xuất 100 khóa trang_bị cho cán_bộ công_chức , 12 điểm thông_tin khoa_học công_nghệ thuộc Sở Khoa_học Công_nghệ và các sở , ngành liên_quan , đầu tháng 8 chuyển_giao .
+
+Ông Sáng cho_biết thêm , thị_trường hiện_có một số thiết_bị nhập từ nước_ngoài có khả_năng lưu_trữ được chứng_chỉ_số nhưng việc sử_dụng khó_khăn , không cho_phép tuỳ chọn các giải_thuật ký , không hiển_thị được chữ_ký và con dấu giống như văn_bản thật .
+Chương_trình có giao_diện tiếng Anh khó sử_dụng .
+
+Giá_thành các thiết_bị nhập_ngoại rất cao .
+Thông_thường , sản_phẩm chỉ có chức_năng lưu_trữ chứng_chỉ_số giá là 99 USD , thêm tính_năng sẽ thêm tiền .
+Khả_năng phát_triển những ứng_dụng phải phụ_thuộc vào nhà_cung_cấp nước_ngoài và các thiết_bị này không đảm_bảo có bị lỗi cổng hậu backdoor không .
+Một sản_phẩm đa_năng tương_tự như USK giá xấp_xỉ 312 USD .
+
+Nhóm nghiên_cứu dự_kiến sản_xuất thêm 100 USK , có tích_hợp chứng_thực vân_tay và đưa sản_phẩm ra thị_trường .
+" Mong_muốn nhất của chúng_tôi hiện_nay là thiết_bị sớm được cơ_quan chức_năng kiểm_định chất_lượng " , ông Sáng nói.  
+Thanh_Lương

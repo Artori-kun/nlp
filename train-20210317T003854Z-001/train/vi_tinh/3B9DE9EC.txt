@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE9EC/
+title=Pentium D - chip lõi kép cho PC của Intel 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Pentium D - chip lõi kép cho PC của Intel
+Thiết_bị Pentium D và chipset hỗ_trợ trong máy_tính để_bàn , ra_mắt ngày 24/6 , là dòng Pentium thứ_hai Intel giới_thiệu trong thời_gian qua với giá khoảng 241-530 USD .
+
+Chip Pentium IV Extreme Edition đã có_mặt trước_đó trên thị_trường vào tháng 4 , và bây_giờ , Intel tiếp_tục phát_hành dòng Pentium D 800- series với ba tốc_độ 2 GHz , 3 GHz và 2,8 GHz .
+
+Hai loại chipset mới - 955X và 945G - hỗ_trợ nhiều công_nghệ tiên_tiến , đáp_ứng yêu_cầu khách_hàng , như mạng không dây , , màn hình độ_phân_giải cao , cải_tiến bảo_mật , cho_phép chạy nhiều chương_trình cùng_lúc cũng_như tận_dụng sức_mạnh điện toán của chip lõi_kép .
+
+Chipset 955X được thiết_kế cho những máy_móc đòi_hỏi hiệu_suất cao như máy trạm hay hệ_thống chơi game ...
+Công_nghệ hỗ_trợ bộ_nhớ DDR2 ( Double data - rate 2 ) 8 GB và đồ_họa PCI Express x16 .
+
+Sự_lựa_chọn thứ_hai là 945G , hướng vào các phần nền đa phương_tiện như video và audio .
+Đây là mốc đánh_dấu sự_ra_mắt của công_nghệ IAMT của Intel ( Intel Active Management Technology ) , sử_dụng các bộ_phận trong chip như_là một thiết_bị xử_lý dịch_vụ riêng_biệt trong trường_hợp mất_điện hay cần xây_dựng lại hệ_thống .
+Đây là công_nghệ ban_đầu được tích_hợp trong các sản_phẩm tốc_độ thấp Pentium D cũng_như thiết_bị xử_lý hỗ_trợ công_nghệ siêu_phân luồng của Intel .
+
+Hiện_nay , hầu_hết máy_tính doanh_nghiệp đều sử_dụng thiết_bị xử_lý và chipset của Intel .
+Các nhà_sản_xuất PC như Dell , Gateway , Hewlett - Packard và Lenovo cũng đang bắt_tay vào tích_hợp cải_tiến mới này của Intel .
+Cả bốn hãng đều tuyên_bố sẽ cung_cấp sản_phẩm dựa_trên chipset mới vào cuối tháng_này .
+
+Phương_Thúy ( theo CNet )

@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D72DA/
+title=Máy chủ gia đình của Sony lưu tới 1 terabyte dữ liệu 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy chủ gia_đình của Sony lưu tới 1 terabyte dữ liệu
+Thiết_bị home server mang tên Vaio Type X , chỉ cung_cấp ở Nhật , có tới 4 ổ cứng 250GB , trong_đó 2 cái dùng lưu file PC và 2 cái còn_lại dùng_cho các nội_dung nghe_nhìn như chương_trình TV hoặc nhạc .
+
+Cỗ máy có giá 5.000 USD này còn đi_kèm với 7 bộ dò sóng TV và một giao_diện đặc_biệt cho_phép người_sử_dụng xem những gì mình đã lưu_thông_qua các danh_mục theo kiểu thumbnail .
+
+Cấu_hình kỳ_lạ của Vaio Type X bắt_nguồn từ sự_đa_dạng của mạng truyền_hình ở Nhật_Bản .
+Nước này có tới 7 đài_phát_sóng và đường_cáp thì lại không phổ_biến .
+Với Vaio Type X , người_ta có_thể tự_động thu_lại các chương_trình của cả 7 đài nói trên và rồi_sau đó xóa những cái không cần xem .
+
+Giao_diện của Vaio Type X cho_phép khách_hàng xem danh_mục tất_cả các chương_trình được thu trong_khi vẫn có_thể tìm_kiếm một chương tình nào_đó theo tên .
+Vaio Type X còn xếp theo nhóm những chương_trình cùng loại nội_dung , ví_dụ thể_thao hay thiếu nhi.tùy theo sự_lựa_chọn của người_dùng .
+Mặc_dù có sự_phân_chia phần_cứng giữa ổ cho PC và ổ nghe_nhìn , người_dùng vẫn có_thể tự chuyển file từ ổ này sang ổ_kia .
+Theo đại_diện của Sony , chỉ cần dung_lượng 500GB dành cho TV cũng đã_đủ để thu 6 kênh truyền_hình phát liên_tục 5,5 ngày .
+
+P.K. ( theo PCWorld )

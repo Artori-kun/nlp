@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAB4C/
+title=Phần mềm chống virus mới của Network Associates 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm chống virus mới của Network Associates
+Hôm thứ_hai , công_ty bảo_mật này đã trình_làng sản_phẩm mới , ThreatScan , được thiết_kế dựa_theo phương_châm 1 ounce phòng_chống đáng_giá hơn 1 pound cứu_chữa .
+
+Chương_trình mới dự_định sẽ bổ_sung một công_cụ tiên_phong cho công_nghệ bảo_mật , đang được giới quản_trị hệ_thống sử_dụng để bảo_vệ mạng .
+
+Các phần_mềm chống virus hiện_hành có_thể quét các mã nguy_hiểm trong máy_tính bị nhiễm virus hoặc các file đính_kèm trong e - mail .
+Những phần_mềm này sẽ chờ_đợi cho tới khi có một virus hay một con bọ tấn_công hệ_thống , khi_đó mới xuất_hiện và hành_động .
+ThreatScan thì ngược_lại , nó tìm_kiếm các lỗ_hổng mà virus sẽ tận_dụng , sau_đó thông_báo cho các nhà quản_trị mạng bất_cứ nghi_ngờ nào mà nó tìm_thấy .
+
+Năm_ngoái , sâu Nimda và Code Red từng tận_dụng điểm_yếu trong máy quét của các nhà_sản_xuất phần_mềm chống virus .
+Chúng cũng đã sử_dụng những lỗ_hổng bảo_mật phổ_biến để lây_lan rộng_rãi .
+
+Phần_mềm ThreatScan nhận_diện tất_cả các máy_tính và trong một_số trường_hợp , nó nhận_dạng cả những thiết_bị trên một mạng dễ bị virus tấn_công nhất .
+
+Tuy_nhiên , hạn_chế của sản_phẩm mới này ở chỗ nó chỉ quét các lỗ_hổng đã được virus sử_dụng .
+Thêm_vào đó , nó cũng cần một sản_phẩm khác của Network Associates là ePolicy Orchestrator cùng tham_gia hỗ_trợ các quản_trị hệ_thống khi điều_khiển từ xa mạng máy_tính của một công_ty .
+
+ThreatScan được thiết_kế dựa_trên công_nghệ định_vị lỗ_hổng bảo_mật hiện_hành .
+Network Associates đang phát_triển và bán một máy quét lỗ_hổng dành cho quản_trị mạng để kiểm_soát các loại khe_hở mà hacker có_thể lợi_dụng .
+
+Thanh_Tú ( theo CNet )

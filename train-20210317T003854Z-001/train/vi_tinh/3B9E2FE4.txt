@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2FE4/
+title=Ericsson và Nokia để mắt đến dải tần 450 MHz GSM 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ericsson và Nokia để_mắt đến dải tần 450 MHz GSM
+Ngay_khi tập_đoàn điện_thoại Thụy_Điển vừa tuyên_bố sẽ bắt_đầu triển_khai công_nghệ GSM sử_dụng vùng sóng thấp thì hãng đối_thủ Phần_Lan cũng khẳng_định họ đang nghiên_cứu và áp_dụng phương_pháp này tại các thị_trường mới_nổi .
+
+Mạng sử_dụng băng_tần 450 MHz được coi là giải_pháp đầy hứa_hẹn trong việc giảm chi_phí cho các nhà_cung_cấp dịch_vụ , đặc_biệt tại những vùng hẻo_lánh .
+Dải tần thấp này sẽ cho_phép xây_dựng mạng với ít trạm cơ_sở hơn trên cùng một phạm_vi diện_tích so với thiết_lập trên 3 băng_tần 900 MHz , 1.800 MHz và 1.900 MHz hiện nay.
+" Chúng_tôi sẽ hỗ_trợ các dịch_vụ di_động vươn tới những nơi được cho là không_thể tiếp_cận được .
+Khả_năng phủ sóng rộng với giá_thành hoạt_động thấp hơn là ưu_điểm của công_nghệ mới GSM 450 " , đại_diện của Ericsson nói .
+
+Trong_khi_đó , Nokia cho_biết hãng quan_tâm đến chuẩn quang_phổ 450 GHz là_vì công_nghệ này có_thể giúp họ phát_hành điện_thoại giá_rẻ và giảm mức chi_phí dịch_vụ tại thị_trường các nước đang phát_triển .
+
+P.T. ( theo Reuters )

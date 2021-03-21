@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi%2Dtinh/San%2Dpham%2Dmoi/2002/02/3B9B8ECD/
+title=AMD sẽ ra mắt chip 64 bit đầu tiên 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+AMD sẽ ra_mắt chip 64 bit đầu_tiên
+Bộ xử_lý này có tên mã là Hammer .
+Các phiên_bản mẫu sẽ được Advanced Micro Devices ( AMD ) trình_làng vào quý_II , bản_chính_thức được xuất_xưởng với số_lượng lớn vào cuối năm_nay .
+
+ClawHammer là thành_viên đầu_tiên thuộc dòng Hammer 64 bit của AMD .
+Bộ xử_lý này nhắm vào các máy_tính để_bàn , máy xách_tay , máy_trạm và máy chủ chạy 1 hoặc 2 bộ xử_lý .
+Hiện_nay 80 % các máy chủ chạy 1 hoặc 2 bộ xử_lý .
+
+AMD cho_biết cũng trong quý_II , sẽ ra_mắt người_dùng model thứ_hai , có tên mã là SledgeHammer .
+Chip này chủ_yếu dành cho các máy chủ chạy 2 bộ xử_lý trở_lên .
+
+Bởi Hammer là chip có tốc_độ thực_hiện cao nên nó đặc_biệt thích_hợp khi chạy trên các ứng_dụng doanh_nghiệp và cơ_sở_dữ_liệu .
+
+Minh_Nghĩa ( theo PCW )

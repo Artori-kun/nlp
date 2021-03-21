@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/11/3B9CD56C/
+title=HP trình làng hai loại máy tính mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP trình_làng hai loại máy_tính mới
+Hôm_qua , tại triển_lãm Comdex ở Las Vegas ( Mỹ ) , hãng HP ra_mắt dòng máy_tính được thiết_kế đặc_biệt dành cho dân chơi game và loại PC sử_dụng bộ_vi xử_lý Athlon 64 mới của AMD .
+Các sản_phẩm này đều nhắm vào thị_trường người_dùng cao_cấp .
+
+Có hai model để giới nghiền game chọn_lựa : Compaq X07 ( sẽ do nhà bán_lẻ Best Buy phân_phối ) giá 2.299 USD , bao_gồm Intel Pentium 4 3,0 GHz hỗ_trợ công_nghệ siêu phân_luồng , 875 chipset , 512 MB PC3200 DDR SDRAM , ổ cứng 120 GB , hai ổ CD - RW và DVD - ROM riêng_biệt , và card đồ_họa GeForce FX 5950 Ultra của Nvidia với 256 MB DDR video memory .
+Compaq X09 sẽ được bán tại các cửa_hàng của CompUSA với giá 2.999 USD .
+Model này được trang_bị chip Pentium 4 3,2 GHz với công_nghệ siêu phân_luồng , 875 chipset , 1 GB PC3200 DDR RAM , hai ổ cứng 120 GB có hỗ_trợ công_nghệ , các ổ DVD + RW và CD - RW / DVD - ROM độc_lập , cùng card đồ_họa GeForce FX 5950 Ultra .
+
+Đối_với dòng máy để_bàn , Compaq Presario 8000Z sẽ đến tay người_dùng qua các đại_lý bán_lẻ hoặc trực_tiếp tại hãng .
+Sản_phẩm này sử_dụng bộ_vi xử_lý Athlon 64 3200 + , 256 MB PC3200 DDR SDRAM , ổ cứng 80 GB , một ổ DVD - ROM và card đồ_họa Radeon 9200 của ATI Technologies với 128 DDR video memory .
+Model có giao_diện phù_hợp với hầu_hết người_sử_dụng và giá_rẻ hơn so với loại PC dành cho đối_tượng chơi game .
+
+Thanh_Tú ( theo PCW )
+ 

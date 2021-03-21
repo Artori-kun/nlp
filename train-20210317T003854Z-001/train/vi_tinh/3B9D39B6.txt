@@ -1,0 +1,29 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D39B6/
+title=Máy ảnh số đeo tay giúp cải thiện trí nhớ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy_ảnh số đeo tay giúp cải_thiện trí_nhớ
+Phòng nghiên_cứu tại Cambridge ( Anh ) của hãng Microsoft đã phát_triển một loại camera kỹ_thuật số được gắn nhiều bộ cảm_biến giúp ghi nhanh mọi hình_ảnh khi có sự_thay_đổi về chuyển_động , nhiệt_độ hoặc ánh_sáng .
+Thiết_bị nhằm hỗ_trợ những người bị suy_giảm trí_nhớ .
+
+SenseCam có khả_năng lưu_trữ 2.000 hình_ảnh trên thẻ nhớ 128 MB , giúp mọi_người ghi_lại các sự_kiện .
+Công_nghệ sẽ được thử_nghiệm trong mùa hè này tại bệnh_viện Addenbrookes .
+
+Theo Trưởng_nhóm phát_triển Lyndsay Williams , SenseCam được thiết_kế để hoạt_động như một chiếc hộp_đen với cơ_thể con_người .
+Ông cho_biết : " Mới_đầu , tôi tạo_ra nó để giúp các thành_viên trong gia_đình tìm chìa_khóa .
+Theo_chân từng người là việc rất khó_chịu , vì_vậy , tôi tạo_ra một thiết_bị để giải_quyết vấn_đề .
+
+SenseCam sử_dụng máy_đo gia_tốc để phát_hiện chuyển_động , tia hồng_ngoại để phát_hiện người_khác và các bộ cảm biến kỹ_thuật số để theo_dõi nhiệt_độ và ánh_sáng .
+Những thay_đổi của môi_trường được các bộ cảm_biến ghi_nhận sẽ khiến bộ_phận chụp_ảnh của máy hoạt_động và truyền ảnh vào một hệ_thống có tên MyLifeBits của Microsoft đặt tại San Francisco .
+Tại_đây , hình_ảnh được sắp_xếp như những đoạn_phim có_thể tìm_kiếm dễ_dàng và xem lại với tốc_độ 25 hình / giây .
+Những dữ_liệu do các bộ cảm_biến cung_cấp sẽ được cung_cấp kèm_theo dưới dạng biểu_đồ , giúp người_sử_dụng tìm lại những thời_điểm hoặc vị_trí mà họ muốn xem lại .
+
+Mặc_dù Microsoft chưa có kế_hoạch thương_mại_hóa sản_phẩm , bệnh_viện Addenbrookes ở Cambridge đang chuẩn_bị thử_nghiệm thiết_bị trên bệnh_nhân .
+Theo bác_sĩ Narinder Kapur , dự_án SenseCam có_thể mang lại cho những bệnh_nhân suy_giảm trí_nhớ khả_năng lưu giữ một cuốn nhật_ký bằng hình_ảnh , cải_thiện chất_lượng sống cho họ .
+Bà giải_thích , nhiều bệnh_nhân mất_trí_nhớ do tổn_thương não_bộ vì tai_nạn , bệnh_tật hoặc tuổi_già , được yêu_cầu viết_lại nhật_ký chi_tiết trong từng ngày .
+Đó là điều rất khó với một_số đối_tượng , đặc_biệt là trẻ_em .
+SenseCam là giải_pháp thay_thế hoàn_hảo vì nó giúp người_dùng ghi và xem lại các sự_kiện một_cách nhanh_chóng và dễ_dàng .
+
+Ngoài ứng_dụng trong bệnh_viện , SenseCam có_thể đáp_ứng tốt cho nhiều nhu_cầu khác như phòng cháy chữa_cháy và du_lịch .
+
+Thế_Nghĩa ( theo BBC )

@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2006/03/3b9e73f8/
+title=Microsoft phát triển máy tính ‘siêu di động’ dưới 800 USD 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Microsoft phát_triển máy_tính ‘ siêu di_động ’ dưới 800 USD
+Thiết_bị Origami của Microsoft sẽ rẻ hơn và nhỏ hơn các máy_tính bảng ( Tablet PC ) đang có_mặt trên thị_trường hiện_nay .
+Nhưng cũng_như những dự_án khác , tập_đoàn phần_mềm Mỹ không trực_tiếp sản_xuất mà chỉ cung_cấp phần_mềm cho các công_ty phần_cứng .
+
+Tại một hội_thảo phần_cứng diễn_ra năm trước , Chủ_tịch Microsoft Bill Gates đã nhắc_đến một máy_tính siêu di_động nặng chưa đến 0,5 kg , pin dùng liên_tục trong cả ngày và giá chỉ khoảng 500 USD .
+
+Tuy_nhiên , giờ nó vẫn chỉ_là mục_tiêu của Microsoft và thiết_bị Origami đầu_tiên , dự_kiến ra_mắt trước tháng 5/06 , chưa thể hoàn_thành nhiệm_vụ đó .
+Sản_phẩm bước_đầu sẽ đạt được mức_giá dưới 800 USD với thời_lượng pin 4 giờ .
+
+Gần_đây , Microsoft đã mở_ra một trang web với rất nhiều thông_tin gây tò_mò về Origami và khuyến_khích mọi_người quay_lại site vào hôm_nay ( 3/2 ) để biết thêm thông_tin .
+Nhưng chi_tiết đầy_đủ sẽ chỉ xuất_hiện vào giữa tháng 3 , có_thể là trong triển_lãm CeBit , diễn_ra từ 9 - 15/3 tại Hannover ( Đức ) .
+
+Origami không_phải thiết_bị đầu_tiên trong chiến_dịch thu_nhỏ kích_thước máy_tính .
+Công_ty Mỹ OQO từng kinh_doanh PC siêu nhỏ với bàn_phím trượt .
+Công_ty Dualcor cũng ra_mắt cPC , giá 1.500 USD , được trang_bị màn_hình 5 inch , dùng hệ_điều_hành Windows XP và có_thể thay_thế điện_thoại di_động .
+
+T.N. ( theo CNet )

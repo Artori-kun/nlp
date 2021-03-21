@@ -1,0 +1,39 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/12/3B9CE49C/
+title=Dự thi TTVN: Hệ thống truyền thông hợp nhất CorriDOR 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN : Hệ_thống truyền_thông hợp_nhất CorriDOR
+CorriDOR ( tiếng Anh nghĩa_là hành_lang ) là tập_hợp trí_tuệ và công_sức của 9 thành_viên nhóm DTT Connect .
+Chương_trình được ví_như một hành_lang kết_nối mọi nguồn_thông_tin , giúp các tổ_chức xử_lý tin_tức từ một điểm duy_nhất thay_vì từ nhiều nguồn phân_tán .
+
+Trên thương_trường hiện_nay , ai kiểm_soát tốt thông_tin , người đó sẽ chiến_thắng .
+Dù_vậy , các doanh_nghiệp thường_bị chìm giữa một biển thông_tin đủ loại .
+Với ba bộ_phận chính là Hệ_thống Truyền_tin hợp_nhất ( CorriDOR UM ) , Hệ_thống điện_thoại mềm ( CorriDOR Softphone ) , Hệ_thống Thoại tương_tác ( CorriDOR IVR ) , chương_trình CorriDOR sẽ là giải_pháp hữu_ích cho bài_toán này .
+
+CorriDOR UM cho_phép truy_cập mọi loại tin_nhắn từ mọi_nơi và bằng mọi phương_tiện .
+Chẳng_hạn , người_dùng có_thể nghe và trả_lời e - mail qua điện_thoại hay ngược_lại , nhận thư_thoại ( voicemail ) và fax qua e - mail .
+Ngoài_ra , phần_mềm này cũng hỗ_trợ gửi fax , tin_nhắn SMS hay thư thoại từ máy_tính cá_nhân .
+Nhờ sự_kết_nối liên_tục này , người_sử_dụng nắm_được mọi nguồn khi không có mặt ở văn_phòng .
+Việc quản_lý tin_tức cũng dễ_dàng và nhanh hơn nhiều do không mất_công truy_cập đủ loại chương_trình quản_lý khác_nhau .
+
+Nếu như CorriDOR UM hướng tới nhân_viên trong công_ty thì CorriDOR IVR lại tập_trung thỏa_mãn tối_đa nhu_cầu của khách_hàng bên_ngoài .
+Sẽ không_còn cảnh nhân_viên trực điện_thoại bận_bịu nối_máy , không_còn cảnh khách_hàng bị chuyển điện_thoại vòng_vo , bởi trên cơ_sở_dữ_liệu có sẵn ,   CorriDOR UM   sẽ tự cung_cấp thông_tin cho khách_hàng gọi tới .
+Để thuận_tiện , họ có_thể lựa_chọn phương_thức nhận tin qua fax , e - mail hay thậm_chí giọng_nói tổng_hợp trên điện_thoại .
+
+Điện_thoại mềm CorriDOR Softphone nhận_diện khách_hàng khi chưa_cần nhấc_máy .
+Sau_đó , nó theo_dõi mỗi cuộc gọi để báo về trung_tâm xử_lý .
+Khách_hàng sẽ rất bất_ngờ khi được hệ_thống chào_đón bằng tên của chính mình ngay ở phút đầu_tiên của cuộc điện_thoại .
+
+Là chương_trình đầu_tiên của Việt_Nam tích_hợp hầu_hết các tính_năng của dòng sản_phẩm truyền_thông hợp_nhất , CorriDOR còn có khả_năng mở_rộng không hạn_chế cũng_như giá_thành thấp hơn_hẳn sản_phẩm nước_ngoài .
+Nó tỏ_ra rất hữu_dụng với chính_phủ điện_tử , văn_phòng doanh_nghiệp hay các nhà_cung_cấp dịch_vụ .
+
+Hiện_tại , nhóm DTT Connect đang khắc_phục một_vài điểm_yếu của sản_phẩm .
+Chúng_tôi sẽ cố_gắng tự_chế tạo thiết_bị phần_cứng để khỏi phải nhập của nước_ngoài .
+Sự_tương_thích với Linux cũng sẽ được chú_ý hơn , bạn_Dung , một thành_viên của nhóm , cho_biết .
+
+Được hỏi về khả_năng thương_mại_hóa của CorriDOR , các tác_giả cho_biết hiện_có 40 tổ_chức , doanh_nghiệp ở Australia như Thư_viện quốc_gia , Chợ_cá Sydney ... sử_dụng chương_trình .
+Dù_vậy , tại Việt_Nam , mới chỉ Hội doanh_nghiệp trẻ Việt_Nam và Hà_Nội sử_dụng sản_phẩm này .
+
+Trưởng_nhóm Nguyễn_Thế_Trung_nói : " Qua VnExpress , mình rất muốn những sản_phẩm của người Việt sẽ được người Việt biết đến nhiều hơn " .
+
+Thanh_Tùng

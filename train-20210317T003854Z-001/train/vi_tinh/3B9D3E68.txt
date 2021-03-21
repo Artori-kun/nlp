@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3E68/
+title=Intel mở rộng dòng sản phẩm Centrino 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel mở_rộng dòng sản_phẩm Centrino
+Hôm_nay , hãng chip lớn nhất thế_giới chính_thức ra_mắt hai bộ_vi xử_lý Pentium M 715 và 725 ( tên mã trước_đây là Dothan ) , được sản_xuất dựa_trên công_nghệ xử_lý 90 nanomet .
+
+Dựa_trên nền vi kiến_trúc di_động của Intel , các bộ_vi xử_lý mới được tích_hợp sẵn bộ_nhớ đệm L2 dung_lượng 2 MB , có tốc_độ lần_lượt đạt 1,5 và 1,6 GHz .
+Hai sản_phẩm này cũng có kênh truyền hệ_thống đạt tốc_độ 400 MHz và tương_thích với họ chipset Intel 855 , đồng_thời đều hỗ_trợ công_nghệ Speedstep cải_tiến , giúp tối_ưu_hóa hiệu_suất xử_lý ứng_dụng và điện_năng tiêu_thụ nhằm kéo_dài thời_gian hoạt_động của pin .
+
+Với những đơn_đặt_hàng 1.000 đơn_vị trở_lên , Pentium M 715 và 725 được bán với giá lần_lượt là 209 USD và 241 USD / bộ .
+
+Bộ vi xử_lý Pentium M là một thành_phần chủ_chốt trong công_nghệ di_động   của Intel .
+Từ các hệ_thống máy_tính xách tay được dùng để thay_thế máy để_bàn tới dòng notebook siêu_nhẹ , công_nghệ này mang lại hiệu_suất xử_lý di_động vượt trội và khả_năng kết_nối mạng LAN không dây được tích hợp_sẵn , cùng với tiết_kiệm điện_năng giúp tăng tuổi_thọ của pin .
+
+Thanh_Tú ( theo_IT )

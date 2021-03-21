@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DBF51/
+title=Avantis - phần mềm quản lý tài sản đầu tiên tại VN 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Avantis - phần_mềm quản_lý tài_sản đầu_tiên tại VN
+Phần_mềm ứng_dụng đối_với lĩnh_vực quản_lý tài_sản của doanh_nghiệp mang tên Avantis vừa chính_thức được tung_ra thị_trường .
+Đây là sản_phẩm mới nhất của Công_ty Invensys ( Mỹ ) lần_đầu_tiên xuất_hiện ở Việt_Nam .
+
+Theo công_ty Cổ_phần tin_học Lạc_Việt , đơn_vị phân_phối độc_quyền , với giá khoảng 3.000 USD , phần_mềm Avantis thường được dùng_cho các đơn_vị có giá_trị tài_sản hơn 1 triệu USD .
+
+Phần_mềm này sẽ giúp quản_lý tất_cả các_vị_trí lao_động trong một đơn_vị , như thợ_sửa_chữa , vận_hành thiết_bị , lập_kế_hoạch bảo_trì , quản_lý kho , quản_lý mua hàngvà cả chủ doanh_nghiệp .
+Điều này giúp doanh_nghiệp sử_dụng tối_ưu chi_phí sở_hữu tài_sản , từ_đó nâng_cao được sức cạnh_tranh .
+
+Hiện nhiều nước trên thế_giới đã ứng_dụng công_nghệ thông_tin vào quản_lý với các nhóm phần_mềm tin_học phổ_biến là ERP ( Enterprise Resource Planning ) , EAM ( Enterprise Asset Management ) hay CMMS ( Computerised Maintenance Management Systems )
+Tuấn Dũng

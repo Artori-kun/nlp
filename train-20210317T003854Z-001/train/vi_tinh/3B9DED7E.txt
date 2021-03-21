@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DED7E/
+title=Microsoft hỗ trợ tính năng mới cho ảnh RAW 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft hỗ_trợ tính_năng mới cho ảnh RAW
+Với mục_tiêu làm hài_lòng những người ham_mê nhiếp_ảnh , Microsoft đang có kế_hoạch nâng_cấp hai hệ_điều_hành XP và , cho_phép người_dùng thao_tác với file ảnh RAW dễ_dàng hơn .
+
+Chương_trình sắp ra_mắt này có_thể lấy thông_tin trực_tiếp từ thiết_bị cảm_ứng hình_ảnh trong camera để tăng khả_năng lưu giữ màu_sắc và chi_tiết ảnh .
+
+Không như file JPEG thường chỉnh sửa ngay trong camera , file ảnh RAW được xử_lý trên PC .
+Định dạng này được đánh_giá là mang lại những tấm_hình chất_lượng cao hơn nhưng rất khó có_thể cung_cấp phần_mềm hỗ_trợ vì mỗi_một mẫu camera khác_nhau lại có một_số thay_đổi nhất_định về định dạng file RAW .
+Vì_thế , ứng_dụng ảnh số cần đuợc cập_nhật để hỗ_trợ những khác_biệt này , và Microsoft đang hợp_tác với Adobe , Canon , Fujifilm và Nikon để giải_quyết vấn_đề trong phiên_bản Windows sắp ra_mắt .
+
+Hỗ_trợ nhiều định dạng chỉ_là một trong những tính_năng mới về ảnh trong Longhorn .
+Microsoft đang viết chương_trình cho_phép xem và sắp_xếp ảnh khoa_học cũng_như sử_dụng metadata để phân_loại ảnh theo nhóm , như nhóm Du_lịch , Gia_đình , Đám_cưới ...
+
+Hãng cũng nâng_cấp khả_năng ảnh_số trong hệ_điều_hành Windows XP bằng cách cung_cấp công_cụ mở ảnh dạng Thumbnail , xem trước ( preview ) và in file ảnh RAW của Canon và Nikon trực_tiếp từ Windows Explorer .
+Phần_mềm này sẽ sớm được tải về miễn_phí trên website của Microsoft .
+
+Việc Microsoft hỗ_trợ định dạng RAW gây tiếng_vang và sự_quan_tâm lớn trong giới nhiếp_ảnh và sẽ góp_phần giảm giá thành cho những camera số SLR chất_lượng cao .
+
+Phương_Thúy ( theo PC World )

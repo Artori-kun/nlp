@@ -1,0 +1,18 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2003/04/3b9c722d/
+title=AMD trình làng chip Opteron   
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+AMD trình_làng chip Opteron  
+Hôm_qua , nhà_sản_xuất chip có trụ_sở tại bang California ( Mỹ ) giới_thiệu đầu_tiên của mình mang tên mã Sledgehammer .
+Sản_phẩm được thiết_kế cho máy chủ doanh_nghiệp đắt_tiền - lĩnh_vực béo_bở do đối_thủ Intel chiếm_giữ .
+
+Khác với bộ xử_lý máy_chủ của nhà_sản_xuất chip lớn nhất thế_giới , Sledgehammer cho_phép khách_hàng chạy cả 2 loại ứng_dụng : 32 và 64 bit .
+AMD cho_biết Opteron 240 ( tương_đương với Xeon 2.6 ) có giá_bán 283 USD , trong_khi Opteron 244 ( tương_đương Xeon 3.06 ) được bán với giá 794 USD .
+ 
+AMD dự_định tung_ra bộ xử_lý Athlon 64 bit dành cho máy_tính để_bàn với tên mã Clawhammer vào tháng 9 .
+Tuy_nhiên , Intel - công_ty đang chiếm 80 % thị_phần bộ xử_lý PC - chưa có kế_hoạch cạnh_tranh cụ_thể .
+
+Theo Công_ty dữ_liệu quốc_tế , Xeon của Intel đang thống_trị thị_trường máy_chủ , theo sau là chip Sparc của Sun Microsystems .
+Hiện_nay , bộ xử_lý     64 bit của nhà Intel thường được sử_dụng trong máy chủ đắt_tiền ( trị_giá ít_nhất 25.000 USD ) , nhưng không hỗ_trợ các chương_trình ứng_dụng 32 bit .
+
+Minh_Long ( theo Reuters )

@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E0DCE/
+title=Pin hữu cơ công suất cao không gây hại môi trường 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Pin hữu_cơ công_suất cao không gây hại môi_trường
+Hãng điện_tử Nhật_Bản NEC cho_biết họ đang phát_triển loại pin hữu_cơ công_suất lớn ORB , có khả_năng bảo_vệ các thiết_bị công_nghệ , máy_tính để_bàn ... không bị mất_dữ_liệu khi có trục_trặc điện .
+
+ORB bao_gồm hợp_chất cao phân_tử polymer hữu_cơ , không chứa kim_loại nặng độc_hại như chì và catmi .
+Công_nghệ này cũng_được kiểm_định và xác_nhận là không gây cháy_nổ .
+Pin có kích_thước mỏng 55 x 43 x 4 mm , có_thể sản_sinh 35 watt , và không gây hại môi_trường .
+Lắp 4 pin cùng loại sẽ mang lại khả_năng vận_hành một máy_tính để_bàn 140 watt .
+
+80 % dung_tích ORB có_thể được xạc chỉ trong_vòng 1 phút , do_đó rất phù_hợp cho các ứng_dụng không dây đòi_hỏi quá_trình nạp năng_lượng nhanh_chóng .
+Công_suất ORB cao hơn pin lithium ion cùng kích_cỡ nhưng thời_gian_hoạt_động ngắn hơn .
+Sản_phẩm cũng không_thể duy_trì sự_vận_hành của PC trong_vòng một giờ như UPS ( bộ lưu_điện ) .
+Tuy_nhiên , thể_tích nhỏ và giá thấp là hai lợi_thế quan_trọng để ORB trở_thành tính_năng chuẩn tích_hợp trong máy_tính để_bàn , loại_bỏ hạn_chế về sự_cồng_kềnh và đắt_đỏ của UPS .
+
+Pin hữu_cơ là công_nghệ mới sử_dụng phản_ứng điện hoá_học của các chất_hữu_cơ được NEC giới_thiệu từ năm 2001 .
+Hãng điện_tử này tin_tưởng rằng sản_phẩm sẽ rất hữu_ích và đóng vai_trò như là nguồn năng_lượng thay_thế quan_trọng trong những tình_trạng khẩn_cấp , không_chỉ cho máy_tính doanh_nghiệp và sản_phẩm công_nghệ , mà còn trong thiết_bị điện_tử gia_dụng .
+
+P.T. ( theo TechWeb )

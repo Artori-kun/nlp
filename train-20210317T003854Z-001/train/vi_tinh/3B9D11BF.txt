@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D11BF/
+title=Phần mềm quản lý kho hàng SBIC 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm quản_lý kho_hàng SBIC
+Chương_trình quản_lý hàng_hóa này được thiết_kế phục_vụ các doanh_nghiệp nhỏ và hộ kinh_doanh cá_thể .
+Nó giúp theo_dõi hàng đã bán , hàng đặt_mua và hàng đã nhận cùng với chi_phí và giá_bán .
+SBIC còn hỗ_trợ tính_toán giá_trị hàng trong kho , tổng_số_tiền hàng đã bán , tổng lợi_nhuận và lời_lãi .
+
+Sử_dụng phần_mềm shareware này như_sau :
+Việc đầu_tiên bạn cần làm khi tạo một mục quản_lý hàng mới là điền tên nhà_cung_cấp .
+Đây là điều cần_thiết trước_khi bổ_sung bất_cứ tên mặt_hàng nào vào .
+Tóm_lại là viết tên nhà_cung_cấp trước rồi mới đến tên_hàng .
+
+Sau_khi bổ_sung các mặt_hàng vào thư_mục , bạn có_thể thực_hiện các tính_năng khác như bán , đặt_mua và nhận .
+Nếu một danh_mục hàng có màu xám tức_là bạn đang xem màn hình của chức_năng đó .
+Khi sử_dụng chức_năng nào thì_phải chuyển màn_hình ( màu_xám ) sang chức_năng đó .
+
+Đối_với danh_sách hàng và nhà_cung_cấp , bạn có_thể nhấp đúp chuột trái thẳng vào đó để xem chi_tiết hoặc nhấp đúp chuột phải để biên_tập lại .
+Bạn cũng_nên sao_lưu các file thư_mục hàng_hóa này thường_xuyên và cố_gắng ghi cả ngày tháng vào tên file backup để tiện sử_dụng khi cần_thiết .
+Không nên dùng tên file quá dài .
+
+Chức_năng tự_động đặt_mua và nhận Auto - Ordering / Receiving sử_dụng những lệnh mang nhiều chọn_lựa ( multi - selection ) từ danh_sách hàng_hóa .
+Nó sẽ lướt quanh tất_cả các mặt_hàng đã chọn_lựa và đặt_mua / nhận theo những thông_tin mà bạn đã quy_định khi tạo_ra mục hàng này trong chương_trình , với cấp độ và số_lượng được sắp_xếp lại theo thứ_tự quy_định .
+
+Để_tải miễn_phí SBIC , bấm .
+
+P.K .

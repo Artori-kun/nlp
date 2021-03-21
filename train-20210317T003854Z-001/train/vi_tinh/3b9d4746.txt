@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2004/07/3b9d4746/
+title=Biên tập ảnh bằng phần mềm miễn phí GIMP 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Biên_tập_ảnh bằng phần_mềm miễn_phí GIMP
+Nhiều tạp_chí CNTT quốc_tế đánh_giá GIMP ( GNU Image Manipulation Program ) là phần_mềm miễn_phí xuất_sắc nhất trong lĩnh_vực biên_tập_ảnh .
+Những tính_năng rất mạnh của nó cho_thấy nhận_xét đó là có cơ_sở .
+
+Với GIMP , bạn thực_hiện được các tác_vụ từ tút_ảnh , ghép ảnh tới sáng_tác .
+Bạn có_thể sử_dụng chương_trình như một phần_mềm vẽ đơn_giản , một ứng_dụng tút ảnh chất_lượng cao , một hệ_thống kết xuất ảnh hàng_loạt hay một tiện_ích chuyển_đổi định dạng_ảnh
+GIMP có khả_năng tương_thích rất cao với các plug in của những phần_mềm khác .
+Giao_diện cao_cấp của chương_trình cho_phép tất_cả mọi_thứ , từ những tác_vụ đơn_giản nhất tới những quy_trình chỉnh sửa hình_ảnh phức_tạp nhất đều có_thể được lập_trình dễ_dàng .
+
+Nhược_điểm của chương_trình là hơi khó cài_đặt .
+Bạn sẽ phải tải và chạy_trước khi cài GIMP .
+Tuy_nhiên , những khó_khăn bất_tiện này sẽ được tưởng_thưởng xứng_đáng .
+Phần_mềm có dung_lượng 18,3 MB , có_thể tải .
+
+Thế_Nghĩa

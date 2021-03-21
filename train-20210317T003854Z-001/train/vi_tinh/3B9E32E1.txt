@@ -1,0 +1,28 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E32E1/
+title=Công nghệ flash giảm thời gian khởi động PC 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ flash giảm thời_gian khởi_động PC
+Kỹ_thuật mang tên Robson của Intel cho_phép máy_tính đưa_dữ_liệu , ứng_dụng vào thẻ nhớ flash và phần_mềm của hãng sản_xuất chip .
+Ổ flash phản_ứng nhanh hơn ổ_đĩa_cứng , do_đó giảm đáng_kể thời_gian mở một chương_trình .
+
+Sáng_kiến này giúp người_sử_dụng máy_tính xách tay kéo_dài thời_lượng pin do ổ cứng sẽ không_phải vận_động nhiều .
+Tuy không tiết_lộ chính_xác thời_gian , đại_diện của Intel cho_biết Robson sẽ rút_ngắn quá_trình một ứng_dụng chuyển từ trạng_thái tĩnh sang động và thời_gian khởi_động các chương_trình .
+
+Thẻ Robson , được phát_triển dựa_trên công_nghệ NAND do Samsung , Toshiba và một số hãng khác phát_triển , có dung_lượng từ 64 MB đến 4 GB và bộ_nhớ càng lớn thì quá_trình hoạt_động càng diễn_ra nhanh_chóng .
+Intel , nhưng công_nghệ này không_được sử_dụng cho kiểu tính_năng đọc - viết - xóa như NAND .
+Hãng này chưa công_bố thời_điểm Robson sẽ xuất_hiện trên thị_trường .
+
+Công_nghệ flash đang thâm_nhập sâu hơn vào lĩnh_vực máy_tính và nhiều thiết_bị khác nhờ giá_thành rẻ và khả_năng tăng mật_độ dữ_liệu .
+Đầu năm_nay , Samsung và Microsoft đã trình_diễn một ổ cứng mô_phỏng với chip nhớ flash 1 GB giúp giảm điện_năng tiêu_thụ .
+Trong mô_hình này , dữ_liệu nhập ( ký_tự , ảnh , bài_hát ... ) được ghi toàn_bộ trên thiết_bị xử_lý flash .
+
+Intel cũng đang sản_xuất các phiên_bản mẫu chip 2 , tên mã Montecio , trên nền_tảng 64 bit_chứa 1,72 tỷ bóng bán_dẫn và bộ_nhớ đệm 26,5 MB trên mỗi_lõi .
+
+Đây là kế_hoạch mà Intel đã đưa_ra năm 2002 và họ cũng từng tuyên_bố đến tháng 7/2004 sẽ gắn thành_công 1 tỷ bóng bán_dẫn trên mạch tổ_hợp ( IC ) , nhưng tới thời_điểm này , Montecio mới vượt ngưỡng 1 tỷ .
+
+Intel đã từng_bước tăng số transistor trên thiết_bị xử_lý trong 20 năm_qua .
+Chip 386 năm 1985 chỉ có 275.000 bóng bán_dẫn , và kỷ_lục 1 triệu đã không được lập cho mãi đến 1989 khi chip 486 ra_đời .
+Itanium 2 ban_đầu được gắn hơn 220 triệu transistor .
+
+P.T. ( theo CNet , TechWorld )

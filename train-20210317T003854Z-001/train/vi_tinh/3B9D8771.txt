@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D8771/
+title=Truyền file lớn bằng Pumpkin TFTP 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Truyền file lớn bằng Pumpkin TFTP
+Gửi các tập_tin lớn thông_qua hệ_thống e - mail là việc rất khó vì các mail server đều giới_hạn kích_thước file đính_kèm .
+Khi_đó , bạn cần_dùng một website FTP , nếu_có đủ hiểu_biết về giao thức truyền file này , còn nếu_không , hãy đơn_giản_hóa vấn_đề bằng phần_mềm miễn_phí   Pumpkin TFTP .
+
+Với Pumpkin TFTP , bạn không cần chút kiến_thức nào về FTP và cũng không_phải thông_qua mail server .
+Tất_cả những gì bạn cần là vị_trí của tập_tin trong máy_tính và địa_chỉ IP đích cần_gửi .
+
+Chương_trình có dung_lượng 269 KB dưới định dạng zip .
+Sau_khi tải về , bạn giải nén và chạy file setup .
+Khi muốn gửi tập_tin lớn , bạn chỉ cần tìm file trong ổ nội_bộ , nhập địa_chỉ IP_đích và thiết_lập liên_kết với thông_tin tên người_dùng và mật_khẩu .
+Bạn cũng có_thể nhập vị_trí và tên file cùng với địa_chỉ IP của nguồn để nhận các tập_tin của các hệ_thống từ_xa .
+
+Bạn có_thể tải Pumpkin TFTP .
+
+T.N .

@@ -1,0 +1,28 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DDDFA/
+title=Bảo mật video bằng kỹ thuật khóa lượng tử 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bảo_mật video bằng kỹ_thuật khóa lượng_tử
+Các tệp tin giọng_nói ( voice ) và hình video gửi qua mạng có_thể được thiết_kế cơ_chế bảo_vệ để tránh bị khai_thác , xem trộm trong một_vài năm tới nhờ công_nghệ khóa   ( quantum ) mới của hãng Toshiba .
+
+Toshiba đã nhận_được phản_ứng khá tích_cực từ phía các chính_phủ và tổ_chức tài_chính sau khi trình_diễn thành_công hệ_thống Quantum Key Server tại phòng thí_nghiệm của trường Cambridge ( Anh ) .  
+Phương_pháp cài_khóa cho video này hoạt_động không gây_sự ngắt_quãng nào , đơn_giản chỉ bằng việc đặt mã lượng_tử ( mã_hóa các bit_dữ_liệu ) vào phân_tử photon ánh_sáng .
+Đây là công_nghệ mới trong cách_mạng bảo_mật số .
+
+Phương_pháp mã_hóa phổ_biến hiện_nay không_hề an_toàn .
+Người_ta dùng khóa số bao_gồm một dãy 0 và 1 để chuyển_đổi dữ_liệu mỗi khi cần cài mã tệp dữ_liệu để tránh những cặp mắt tò_mò .
+Người_nhận sẽ mở bằng một bộ dãy số khác , hay còn gọi_là khóa_dữ_liệu .
+
+Bước đột_phá của Toshiba cho_thấy mỗi đoạn video có_thể được mã_hóa bằng khóa riêng_biệt , đồng_nghĩa với việc bẻ khóa video vốn đã khó lại càng trở_nên vô_hiệu trừ_phi tất_cả các đoạn khác cũng đã bị crack .
+
+" Khóa cải_tiến được thiết_kế để hệ_thống vẫn vận_hành liên_tục " , Tiến sỹ Andrew Shields , trưởng_nhóm phát_triển của Toshiba , phát biểu. " Thông_thường , khi nhận_được thư và đọc_nó , không có dấu_hiệu nào báo cho bạn biết rằng có_người đã mở bức_thư đó ra rồi .
+Với giải_pháp này , chỉ cần nhìn_qua , ta có_thể biết nó đã bị mở trước_đó hay chưa " .
+
+Quy_luật vật_lý lượng_tử đảm_bảo tính_chất của photon sẽ thay_đổi nếu ai_đó chặn lại và đọc thông_tin trong nó .
+" Tôi vẫn từng nói cơ_chế này giống như kiểu thông_điệp trong phim Mission Impossible ( Điệp vụ bất_khả_thi ) .
+Nếu ai_đó cố đọc một thông_điệp , nó sẽ tự_động phân_hủy " , Shields nói .
+
+Hệ_thống tự_quản_lý này có_thể hoạt_động 24/24 giờ , liên_tục 7 ngày trong tuần cũng_như có_thể mở_rộng để mã_hóa các tệp_dữ_liệu đòi_hỏi dung_lượng lớn như tài_liệu nhạy_cảm , hồ_sơ thuế hay y_học ...
+Hệ_thống cũng cung_cấp liên_kết tới các site riêng_biệt , cho_phép truyền file bảo_mật qua mạng sợi_quang .
+
+P.Thúy ( theo BBC )

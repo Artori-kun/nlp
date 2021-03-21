@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/09/3B9D6C0B/
+title=Intel xúc tiến chuẩn CE-ATA 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel xúc_tiến chuẩn_CE - ATA
+Cùng với Hitachi , Marvell , Seagate và Toshiba , hãng chế_tạo thiết_bị xử_lý đưa_ra sáng_kiến mới nhằm phát_triển một giao_diện lưu_trữ được thiết_kế riêng cho những nhu_cầu chuyên_biệt của các thiết_bị điện_tử tiêu_dùng xách tay và thiết_bị cầm_tay .
+
+Đây là một giao_diện chuẩn cho các ổ_đĩa có kích_thước nhỏ gọn để giải_quyết những nhu_cầu của thị_trường điện_tử tiêu_dùng và thiết_bị cầm_tay như đòi_hỏi số chân cắm ít , điện_áp_thấp , đạt hiệu_quả cao về mức tiêu_thụ_điện và khả_năng tích_hợp và có chi_phí hợp_lý .
+
+Hiện_nay không có một giao_diện ổ_đĩa nào được thiết_kế riêng để đáp_ứng yêu_cầu của thị_trường điện_tử tiêu_dùng và thiết_bị cầm_tay .
+Vì_vậy người_ta phải sử_dụng các ổ_đĩa này với những giao_diện thay_thế khác phức_tạp và cồng_kềnh hơn nhiều , hay_nói một_cách đơn_giản là không phù_hợp với các nhu_cầu kết_nối ổ_đĩa trong các thiết_bị cầm_tay nhỏ_bé vốn bị hạn_chế về không_gian và điện_năng tiêu_thụ , Knut Grimsrud , kỹ_sư_trưởng cao_cấp phụ_trách chuẩn_CE - ATA của Intel , nói .
+Với sự_bùng_nổ mạnh_mẽ của thiết_bị tiêu_dùng xách_tay , sáng_kiến về chuẩn_CE - ATA đáp_ứng nhu_cầu to_lớn về một giao_diện ổ_đĩa có kích_thước nhỏ gọn và đạt hiệu_quả sử_dụng cao .
+
+Đại_diện của Intel cho_biết những lợi_ích từ_CE - ATA là rất nhiều .
+Đối_với ngành_công_nghiệp , các nhà_cung_cấp ổ_đĩa có kích_thước nhỏ có_thể tận_dụng giao_diện lưu_trữ được thiết_kế riêng này để tạo_ra những thiết_kế có tính tối_ưu_hóa_cao .
+Các nhà_cung_cấp sản_phẩm silicon và các nhà tích_hợp sản_phẩm cũng sẽ hưởng lợi do giao_diện này mang lại với số chân cắm ít , những điện_áp phù_hợp và giao_thức sử_dụng hiệu_quả .
+
+Chuẩn kỹ_thuật mới dự_định sẽ được hoàn_thành vào nửa_đầu của năm 2005 .
+Các sản_phẩm đầu cuối đầu_tiên hỗ_trợ công_nghệ mới này có_thể sẽ có_mặt trên thị_trường một_vài tháng sau_đó .
+
+V.T .

@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9A83/
+title=Thunderbird - Công cụ e-mail tiện lợi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thunderbird - Công_cụ e - mail tiện_lợi
+Nếu luôn bực_mình vì tốn nhiều thời_gian sắp_xếp hơn là đọc các e - mail thì sẽ khiến bạn hài_lòng .
+Chương_trình e - mail miễn_phí này là phần bổ_sung cho trình_duyệt của Mozilla , cung_cấp những tính_năng cao_cấp như sắp_xếp thư , lọc spam hay thao_tác tốc_độ_cao ...
+
+Sử_dụng chương_trình này , bạn có_thể tạo_ra trong inbox những nhóm nhận thư khác_nhau , ví_dụ như " Gia_đình " , " Công_việc " hay " Bạn_bè " ...
+Chỉ_cần xác_định địa_chỉ_e - mail của người_gửi thuộc nhóm_nào , thư của người đó sẽ hiện_ra khi bạn click vào nhóm_ấy .
+Tiện ích này giúp bạn kiểm_soát dễ_dàng hộp_thư của mình .
+Việc tìm_kiếm e - mail hay thư_mục khá nhanh_chóng .
+Ngoài_ra , chương_trình còn cho_phép tạo sổ_điạ chỉ thông_minh , quản_lý cùng lúc nhiều tài_khoản thư_điện_tử bao_gồm cả chế_độ POP3 và IMAP.  
+Thunderbird cung_cấp những công_cụ cần_thiết để phát_hiện những thư rác cố_tình len lỏi vào hộp_thư của bạn .
+Tính_năng bảo_mật như S / MIME , chữ_ký điện_tử , mã hoá tin_nhắn cũng_được cung_cấp đầy_đủ trong phần_mềm này .
+
+Giao_diện chương_trình khá đẹp_mắt nhờ tận_dụng những ưu_điểm về đồ_hoạ của trình_duyệt Firefox , tương_thích với 3 hệ_điều_hành ( Windows , Mac OS và Linux i686 ) , hỗ_trợ 23 ngôn_ngữ khác_nhau .
+Thunderbird được cung_cấp miễn_phí , dung_lượng 5,8 MB , có_thể download .
+
+Văn_Thắng

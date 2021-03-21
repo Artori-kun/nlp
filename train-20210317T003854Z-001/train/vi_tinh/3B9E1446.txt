@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1446/
+title=Sẽ có chuẩn mới thay thế VGA và DVI 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sẽ có chuẩn mới thay_thế VGA và DVI
+Người tiêu_dùng sắp cơ_hội dùng PC , TV và máy chiếu với hình_ảnh sắc nét hơn nếu chuẩn kỹ_thuật mới cho màn_hình qua được vòng kiểm_tra cuối_cùng .
+
+Hiệp_hội các chuẩn điện_tử video VESA đang xem_xét đề_án phát_triển mới nhằm tăng màu , độ_phân_giải và tốc_độ refresh , cũng_như đơn_giản_hoá phương_pháp máy_tính kết_nối tới màn_hình LCD , Plasma , CRT và máy_chiếu .
+
+Bộ thông_số này mang tên DisplayPort , cho_phép âm_thanh chất_lượng cao vẫn có_thể chia_sẻ chung dây_cáp với tín_hiệu video và hỗ_trợ tốc_độ truyền dữ_liệu lên tới 10,8 Gb / giây chỉ qua 4 đường , ít_hơn so với số đường_dây cáp hiện_nay .
+
+Chất_lượng hình_ảnh cũng_được cải_thiện đáng_kể do băng_thông rộng hơn và sử_dụng cơ_chế refresh hình_ảnh thay_vì tải_lại ( reload ) , giúp nâng_cao khả_năng hiển_thị .
+
+" Chuẩn mới được thiết_kế để thay_thế bộ nối DVI ( giao_diện ảo_số - digital visual interface ) và VGA ( dãy đồ hoạ video - video graphics array ) đã được công_nhận từ nhiều năm_nay " , Bill Lempesis , thành_viên của VESA , cho_biết .
+
+Bộ nối VGA và DVI là cổng cắm nhiều chân phía_sau PC và những thiết_bị điện_tử khác .
+VESA cho_rằng VGA chiếm quá nhiều diện_tích và không phù_hợp với nội_dung HD ( chất_lượng cao ) .
+Giao_diện DVI hỗ_trợ TV chất_lượng cao nhưng lại không cho_phép tương_tác giữa các thiết_bị như DisplayPort .
+
+Các công ty ATI , Dell , Genesis Microchip , Hewlett - Packard , Molex , Nvidia , Royal Philips , Samsung và Tyco đã soạn_thảo chuẩn nói trên từ tháng 5 và vừa đệ_trình lên VESA đầu tuần này .
+
+Tuy_nhiên , Paul Semenza , chuyên_gia phân_tích của iSuppli , không tán_thành sự_ra_đời của một chuẩn mới : " Với DisplayPort , sẽ có_nhiều vấn_đề phát_sinh trong quá_trình thay_đổi kết_nối và nó khó có_thể thế_chân DVI hay HDMI ( giao_diện đa phương_tiện chất_lượng cao ) " .
+
+P.T. ( theo CNet )

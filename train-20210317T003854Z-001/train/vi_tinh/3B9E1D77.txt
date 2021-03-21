@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E1D77/
+title=RAM giả tĩnh 256 MB đầu tiên trên thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+RAM giả tĩnh 256 MB đầu_tiên trên thế_giới
+Hãng điện_tử Hàn_Quốc Samsung vừa cho ra_mắt bộ_nhớ truy_cập ngẫu_nhiên đơn bóng bán_dẫn UtRAM sử_dụng công_nghệ xử_lý 90 nanometer cho điện_thoại di_động 3G hoặc các thiết_bị cầm_tay đa chức_năng .
+
+UtRAM ( uni - transistor random access memory ) hoạt_động với xung nhịp 133 MHz và được coi là RAM giả_tĩnh ( pseudo - SRAM hay PSRAM ) nhanh nhất hiện_nay .
+Sản_phẩm có tốc_độ xử_lý dữ_liệu gấp 1,7 lần so với những thiết_bị RAM giả tĩnh 80 MHz trên thị_trường , hỗ_trợ thực_hiện tính_năng đa phương_tiện cao_cấp trong điện_thoại thế_hệ 3 .
+
+PSRAM của Samsung có cấu hình mạch_điện của DRAM và giao_diện giống như thiết_bị SRAM ( RAM_tĩnh ) hay bộ_nhớ flash NOR .
+UtRAM hoạt_động theo chuẩn RAM giả tĩnh của Hội_đồng thiết_bị điện_tử .
+
+UtRAM sẽ được bán_ra như một thiết_bị độc_lập hoặc là thành_tố then_chốt trong gói sản_phẩm đa_chip .
+Samsung sẽ cung_cấp phiên_bản mẫu đầu_tiên cho các nhà_sản_xuất điện_thoại cuối tháng_này và sẽ phát_hành UtRam 256MB hàng_loạt vào cuối 2005 .
+
+Thị_trường toàn_cầu cho RAM giả_tĩnh - trong_đó Samsung chiếm 30 % - ước_tính sẽ đạt tốc_độ phát_triển hàng_năm 33 % vào 2008 .
+Sự tăng_trưởng mạnh_mẽ này xuất_phát từ những thị_trường điện_thoại 3G ngày_càng mở_rộng với những tính_năng cao_cấp .
+Hãng nghiên_cứu IDC dự_đoán điện_thoại thế_hệ 3 sẽ phát_triển 65 % mỗi năm , với khoảng 260 triệu sản_phẩm và chiếm 30 % thị_trường thiết_bị di_động toàn_cầu .
+
+P.T. ( theo VNUNet )

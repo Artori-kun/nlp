@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/09/3B9CB9B9/
+title=Lưu trữ bằng công nghệ ánh sáng 3 chiều (phần 1) 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Lưu_trữ bằng công_nghệ ánh_sáng 3 chiều ( phần 1 )
+Những công_cụ lưu_trữ từ_tính và đĩa CD , DVD chứa thông_tin trên bề_mặt đang dần_dần không đáp_ứng được nhu_cầu thực_tế .
+Để tăng_sức chứa , các nhà_khoa_học đã đi đến một phương_pháp quang_học , lưu_thông_tin bên_dưới lớp bề_mặt và sử_dụng toàn_bộ thể_tích thiết_bị lưu_trữ thay_vì chỉ mỗi diện_tích bên_trên .
+
+Những thiết_bị dùng ánh_sáng để lưu_trữ và đọc_dữ_liệu là công_cụ then_chốt trong CNTT suốt gần hai thập_kỷ qua .
+Đầu những năm 80 , đĩa_nén ( CD ) đã tạo_ra một cuộc cách_mạng với việc lưu nhiều megabyte dữ liệu vào một chiếc đĩa đường_kính chỉ 12 cm , dày khoảng 1,2 mm .
+Năm 1997 , một phiên_bản cải_tiến của đĩa nén là đĩa kỹ_thuật số đa_năng ( DVD ) được tung_ra , cho_phép lưu cả bộ phim trong một đĩa .
+
+Một đĩa CD có_thể lưu 783 Mb tương_đương khoảng 1 tiếng 15 phút_nhạc , còn đĩa DVD hai_lớp ( hai_mặt có_thể chứa 15,9 Gb ) tương_ứng 8 tiếng phim .
+Những thiết_bị thông_thường này có_thể sẽ khó đáp_ứng được nhu_cầu lưu_trữ ngày_càng tăng trong tương_lai .
+
+Lưu_dữ_liệu ba chiều sẽ cho_phép chứa được nhiều thông_tin trong một khoảng_trống nhỏ hơn và thời_gian truyền dữ_liệu sẽ nhanh hơn .
+Công_nghệ này cho_phép chứa 1 Terabyte ( Tb ) dữ_liệu trong một tinh_thể nhỏ bằng hạt_đường ( 1 Terabyte tương_đương 1.000 Gb ) .
+Điều này có_nghĩa là dữ_liệu trong 1.000 đĩa CD có_thể cho vừa vào một thiết_bị lưu ba_chiều .
+Hầu_hết các ổ cứng máy_tính hiện_nay chỉ lưu được từ 10 đến 40 Gb , một phần quá nhỏ so với con_số nêu trên .
+
+Khái_niệm lưu_trữ bằng ánh_sáng 3 chiều bắt_đầu xuất_hiện vào năm 1963 , khi nhà_khoa_học chuyên về màng phân_cực Pieter J . van Heerden tại Trung_tâm Polaroid ( Mỹ ) đưa_ra ý_tưởng lưu_dữ_liệu trong không_gian 3 chiều .
+Về lý_thuyết , đây là một đề_xuất rất ấn_tượng kể_cả so với các công_cụ hiện_nay chỉ lưu_dữ_liệu 2 chiều .
+Việc bổ_sung thêm chiều thứ 3 sẽ làm_cho các thiết_bị hiệu_quả hơn nhiều .
+
+Một thập_kỷ sau_đó , các nhà_khoa_học ở Phòng thí_nghiệm RCA ( Mỹ ) đã giới_thiệu một ứng_dụng của công_nghệ này với việc ghi 500 ảnh ba chiều lên một tinh_thể lithium - niobate pha sắt và 550 ảnh ba chiều có độ_phân_giải cao lên một vật_liệu nhựa nhạy_cảm với ánh_sáng .
+Tuy_nhiên , vào giai_đoạn đó , sự_thiếu_hụt vật_liệu phù_hợp cộng với xu_hướng phát_triển thiết_bị lưu_trữ từ_tính và bán_dẫn đã khiến công_nghệ lưu_dữ_liệu ba chiều không_được quan_tâm .

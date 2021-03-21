@@ -1,0 +1,43 @@
+url=http://www.vnexpress.net/Vietnam/Kinh-doanh/Chung-khoan/2007/01/3B9F1ED3/
+title=Chơi chứng khoán qua mạng 
+cat=KINH-DOANH|CHUNG-KHOAN
+
+Chơi chứng_khoán qua mạng
+Khi một số công_ty chứng_khoán ở VN bắt_đầu cung_cấp dịch_vụ giao_dịch chứng_khoán qua mạng , dân " chơi chứng " không_còn nhất_thiết phải chen_nhau " lên_sàn " .
+Tuy_nhiên , với những hệ_thống mạng như dial - up thì đừng bao_giờ nghĩ tới chuyện chơi chứng_khoán trực_tuyến .
+
+Hiện_nay , nhiều công_ty chứng_khoán đã cho_phép đặt lệnh_mua và bán thông_qua điện_thoại hoặc mạng Internet ( giao_dịch trực_tuyến ) .
+Với dịch_vụ này , người_chơi chứng_khoán không mất thời_gian tới tận sàn để có thông_tin , chỉ cần ngồi_nhà , quán_nước hay bất_kỳ nơi nào có_thể truy_cập vào mạng , sử_dụng tài_khoản của mình để cập_nhật thông_tin và đưa_lệnh .
+
+Một địa_chỉ được nhiều người truy_cập là hệ_thống giao_dịch trực_tuyến của Vietcombank Securities .
+Mô_hình này đã nhanh_chóng thu_hút giới nhân_viên văn_phòng , đặc_biệt là những người trẻ_tuổi , và trở_thành mục_tiêu của các công_ty chứng_khoán trong thời_gian tới .
+
+Dân " chơi chứng " là cổ_cồn trắng_thường " ca_tụng " không tiếc lời về những tiện_lợi của việc chơi chứng_khoán qua mạng , vì nó giúp họ có_thể cùng_lúc " bắt_cá " được mấy_tay .
+Ngay_cả nhiều người về_hưu cũng đã bắt_đầu tính chuyện nối mạng Internet tại nhà và học_hỏi từ các lớp chứng_khoán về kinh_nghiệm giao_dịch trực_tuyến .
+
+Tuy_nhiên , chất_lượng mạng không ổn_định lại có_thể phản tác_dụng , khiến cho nhiều người không_biết tiền mình đang đi về đâu mà cũng không biết hỏi_ai , chỉ vì khi đang đặt lệnh thì mạng thản_nhiên ... rớt .
+
+Giao_dịch chứng_khoán qua mạng chỉ có_thể thực_hiện khi bạn đang ở trong điều_kiện kết_nối tốt , với những hệ_thống mạng như dial - up thì đừng bao_giờ nghĩ tới chuyện chơi chứng_khoán trực_tuyến .
+
+Không những thế , giao_dịch trực_tuyến đòi_hỏi năng_lực hệ_thống mạng và phần_mềm giao_dịch của Trung_tâm giao_dịch chứng_khoán Hồ_Chí_Minh ( VSE ) , Hà_Nội ( HASTC ) và các công_ty chứng_khoán cung_cấp dịch_vụ này phải rất tốt , vì_thế , hiện chưa có nhiều công_ty cung_cấp .
+Cũng chính vì sự_tiện_dụng của việc có_thể đặt lệnh ở bất_kỳ đâu khi sử_dụng dịch_vụ này nên đôi_khi đã dẫn đến kết_quả ngược_lại .
+
+Ví_dụ như khi có quá_nhiều người cùng online và sử_dụng dịch_vụ này trong_khi năng_lực hệ_thống của nhà_cung_cấp không đáp_ứng nổi , việc đặt lệnh sẽ bị quá_tải , từ_đó các lệnh đặt trực_tuyến thường vào hệ_thống khớp lệnh chậm hơn so với đặt lệnh trực_tiếp .
+
+Anh Nguyễn_Thạch_Uyên - kỹ_sư máy_tính , Ngân_hàng thương_mại cổ_phần Toàn_cầu , Hà_Nội - bắt_đầu chơi chứng_khoán qua mạng từ khoảng 2 tháng nay thông_qua một tài_khoản của VCBS .
+Trước_đây , khi còn ít người giao_dịch chứng_khoán qua mạng thì dịch_vụ này rất tiện_dụng , nhất_là cho giới văn_phòng hoặc những người thường_xuyên đi công_tác .
+
+" Tuy_nhiên , hệ_thống của VCBS hiện đang quá_tải .
+Trung_bình một tuần , tôi gặp ít_nhất 3 lỗi .
+Trước_kia Bảo_Việt cũng cung_cấp dịch_vụ này , song do hệ_thống chưa đáp_ứng được nên họ đã phải tạm_ngừng .
+Theo tôi , nhu_cầu về giao_dịch chứng_khoán qua mạng đang ngày_càng cao và các công_ty chứng_khoán sẽ phải đầu_tư rất nhiều vào công_nghệ để cạnh_tranh , vì dịch_vụ này sẽ giúp họ thu_hút thêm nhiều khách_hàng mới " , Uyên_nói .
+
+Theo ông Nguyễn_Đoan_Hùng - Phó Chủ_tịch UBCKNN , giao_dịch trực_tuyến rất phức_tạp , vì_thế sẽ phải chờ đến_khi có Luật Giao_dịch trực_tuyến để quy_định đại_trà .
+
+Hệ_thống xử_lý lệnh của VSE và HASTC cần được đầu_tư nâng_cấp để lệnh của nhà đầu_tư từ các công_ty chứng_khoán tới 2 sàn này không_phải nhập_lại bằng_tay tại_sàn , mà cho_phép chuyển thẳng vào hệ_thống giao_dịch , thì việc áp_dụng lệnh online mới có khả_năng triển_khai tại các công_ty chứng_khoán .
+
+Cũng chính từ nhu_cầu ngày_càng cao của giao_dịch chứng_khoán qua mạng và từ sự_cố tại sàn TP HCM , yêu_cầu về công_nghệ ngày_càng trở_nên cấp_thiết .
+Hiện_tại , có 21 công_ty chứng_khoán đang hoạt_động , dự_kiến con_số này sẽ là 50 vào cuối năm 2007 .
+Ước_tính , đến năm 2010 sẽ có 7 triệu tài_khoản giao_dịch , mỗi_ngày có ít_nhất 35 triệu giao_dịch luân_chuyển .
+
+( Theo Lao_Động )

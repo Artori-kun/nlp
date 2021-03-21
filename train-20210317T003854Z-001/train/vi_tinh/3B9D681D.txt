@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/09/3B9D681D/
+title=IBM ra mắt máy chủ eServer p5 tại Việt Nam 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM ra_mắt máy chủ eServer p5 tại Việt_Nam
+Sáng_nay , IBM đã giới_thiệu hệ_thống máy chủ eSever p5 mới tại Hà_Nội .
+Sản_phẩm sử_dụng các hệ_điều_hành Unix và Linux cùng bộ vi xử_lý Power5 với công_nghệ vi_phân hoạch ( Micro - Partitioning ) giúp nâng_cao khả_năng hoạt_động , độ linh_hoạt và giảm chi_phí quản_lý công nghệ.  
+eServer p5 mới là hệ_thống máy chủ Unix đầu_tiên được thiết_kế giúp khách_hàng chạy nhiều ( tới 10 chiếc ) máy chủ_ảo hay còn gọi_là các vi_phân hoạch trên một bộ xử_lý , giúp hệ_thống có_thể giải_quyết công_việc trước_đây vẫn cần nhiều máy thực_hiện .
+Điều đó cho_phép sử_dụng bộ xử_lý tốt_hơn và tự_động cân_đối công_suất của bộ xử_lý giữa các vi_phân hoạch , đáp_ứng nhu_cầu của doanh_nghiệp .
+Theo IBM , hệ_thống máy chủ eServer p5 mới phá kỷ_lục thế_giới trong một_số xử_lý giao_dịch , tốc_độ web .
+Khả_năng hoạt_động của Java cũng_như các ứng_dụng kinh_doanh khác trong một_số trường_hợp vượt trội gấp 2 đến 3 lần do với máy chủ của HP và Sun.  
+Hệ_thống máy chủ eServer p5 sử_dụng bộ xử_lý Power 5 cho khách_hàng nhiều lựa_chọn khác_nhau , từ máy chủ 2 CPU tới máy chủ 16 CPU , tất_cả đều dùng chuẩn Power Architecture và được thiết_kế nhằm cung_cấp khả_năng hoạt_động cũng_như mở_rộng quy_mô trên các nền_tảng Unix khởi_điểm và tầm_trung , dựa_theo các chuẩn công_nghiệp phổ dụng.  
+Đợt chế_tạo đầu_tiên bao_gồm 3 loại máy_chủ : Máy eServer p5-520 sử_dụng 2 bộ xử_lý , hệ_thống khởi_điểm sử_dụng chip Power 5 tốc_độ 1,65 GHz , bộ_nhớ 32 GB ; eServer p5-550 có 4 bộ xử_lý , được trang_bị bộ_nhớ 64 GB và chip 1,65 GHz ; eServer p5-570 dùng chip 1,9 GHz có khả_năng mở_rộng tới 16 bộ_vi xử_lý .
+Tất_cả đều chạy hệ_điều_hành AIX 5L hoặc Linux .
+Ngoài_ra , còn một model Express của máy chủ eServer p5-570 chạy chip 1,5 GHz và có bộ_nhớ tới 256 GB được thiết_kế nhằm phục_vụ nhu_cầu của các doanh_nghiệp vừa và nhỏ đang phát triển.
+Thế_Nghĩa

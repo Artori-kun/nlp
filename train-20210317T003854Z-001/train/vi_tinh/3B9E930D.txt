@@ -1,0 +1,10 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E930D/
+title=Chip Wi-Fi tăng hiệu suất hoạt động lên 10 lần 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip Wi - Fi tăng hiệu_suất hoạt_động lên 10 lần
+Đại_học Rochester ( Mỹ ) vừa giới_thiệu một chipset mới , có khả_năng giảm tới 90 % lượng điện cần_dùng trong quá_trình truyền_tải dữ_liệu qua điện_thoại di_động và các thiết_bị Wi - Fi , Bluetooth khác .
+
+Thông_thường , hai người sử_dụng muốn liên_lạc được với_nhau qua sóng radio sẽ phải ở trong cùng một dải_tần .
+Do_đó , điện_thoại cần duy_trì xung_nhịp , được tạo từ một mạch đặc_biệt gọi là mạch khóa_pha ( phase - locked loop ) , hoạt_động chính_xác và ổn_định .
+Tuy_nhiên , mạch này rút_ngắn đáng_kể thời_lượng pin của các sản_phẩm không_dây .

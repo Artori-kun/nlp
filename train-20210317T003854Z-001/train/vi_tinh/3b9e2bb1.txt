@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/10/3b9e2bb1/
+title=Office 12 sẽ hỗ trợ PDF 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Office 12 sẽ hỗ_trợ PDF
+Gói ứng_dụng văn_phòng mới của Microsoft , dự_kiến ra_mắt nửa_sau 2006 , sẽ cho_phép người_sử_dụng chuyển_đổi tài_liệu Office sang PDF .
+Tuy_nhiên , họ sẽ vẫn phải cài thêm một phần_mềm riêng để đọc định dạng file này .
+
+Việc hỗ_trợ PDF sẽ thực_hiện trong Word , Excel , PowerPoint , Access , Publisher , OneNote , Visio và InfoPath .
+
+" Chúng_tôi đã nhận_được nhiều phản_hồi rằng việc chia_sẻ tài_liệu giữa các nền_tảng với_nhau và khả_năng lưu_trữ lâu_dài là đặc_biệt quan_trọng với người_sử_dụng " , Brian Jones , Giám_đốc quản_lý chương_trình Microsoft Office , cho_biết .
+" Mỗi tháng có đến 120.000 ý_kiến liên_quan đến tính_năng PDF trong Office .
+
+Microsoft tỏ_ra khá hờ_hững trong_khi các đối_thủ của họ như Corel với WordPerfect Office , Sun với StarOffice đã tích_hợp PDF từ_lâu .
+Công_ty của tỷ phú Bill Gates chỉ bắt_đầu nhận_thấy tầm quan_trọng của việc hỗ_trợ nhiều định dạng tài_liệu sau khi bang Massachusetts ( Mỹ ) , khách_hàng quan_trọng của họ , quyết_định chuyển sang OpenDocument trong các ứng_dụng desktop .
+PDF của Adobe cũng_được coi là định_dạng " open " ( mở ) .
+
+Dù Microsoft để_mắt tới PDF , họ vẫn đang tiếp_tục phát_triển một định dạng tài_liệu mới , mang tên Metro , với nhiều tính_năng tương_tự sản_phẩm của Adobe , dự_kiến ra_mắt vào cuối năm sau_cùng .
+
+" Tuyên_bố của Microsoft chính là một ' chứng_chỉ ' cho_thấy PDF là định dạng cơ_sở của khách_hàng trong công_việc văn_phòng " , Pam Deziel , Giám_đốc nền_tảng của Adobe , tán_thành quyết_định mới của hãng phần_mềm .
+Tuy_nhiên , Deziel cũng thừa_nhận Microsoft sẽ vừa là đối_tác chủ_chốt , vừa là đối_thủ cạnh_tranh đáng_gờm .
+
+Tập_đoàn phần_mềm lớn nhất thế_giới sẽ phát_hành bản Beta Office 12 cho số_lượng người thử_nghiệm hạn_chế vào tháng tới .
+Đăng_ký để nhận thư_mời dùng thử gói ứng_dụng này .
+
+P.T. ( theo CNet )

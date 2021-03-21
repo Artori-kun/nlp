@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DBD37/
+title=Fujitsu sắp ra mắt ổ cứng 120 GB dành cho laptop 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Fujitsu sắp ra_mắt ổ cứng 120 GB dành cho laptop
+Ngoài việc dung_lượng tăng hơn 20 % , ổ cứng mới có tên_gọi MHV2120AT còn được tích_hợp một số_thành tựu tiên_tiến trong công_nghệ lưu_trữ so với sản_phẩm của nhiều đối_thủ khác .
+
+Dung_lượng của ổ cứng tăng nhờ sử_dụng công_nghệ sắp_xếp dữ_liệu sát nhau hơn trên bề_mặt đĩa , cho_phép " nhồi " đến 104 GB dữ liệu chỉ trên diện_tích 1 inch vuông .
+Thiết_bị này có khả_năng đọc / ghi tăng_lên gấp_đôi , đạt con_số 600.000 lần , giảm tiêu_thụ năng_lượng và tăng khả_năng chống_sốc .
+
+Theo dự_báo của nhiều chuyên_gia , cuộc_đua trên thị_trường ổ cứng sẽ quyết_liệt bởi chắc_chắn không lâu_nữa , nhiều đối_thủ khác của Fujitsu cũng sẽ có sản_phẩm tương_tự .
+
+Hiện_tại , ổ cứng của Fujitsu đang giành ưu_thế trên thị_trường .
+Trong hơn một năm_qua , số_lượng ổ cứng do công_ty này bán_ra đạt từ 500.000 đến 1,5 triệu chiếc mỗi tháng .
+Chỉ tính riêng 3 tháng cuối năm 2004 , Fujitsu đã đưa_ra thị_trường 4,2 triệu sản_phẩm 2,5 inch , tăng 27 % so với quý III và 88 % so với cùng kỳ năm năm 2003 .
+Hiện_tại , Fujitsu là nhà_sản_xuất ổ cứng 2,5 inch lớn thứ 2 thế_giới .
+Với dòng sản_phẩm 3,5 inch , quý IV năm 2004 công_ty này cũng bán_ra 1,4 triệu chiếc , tăng 13 % so với 1 năm trước_đó .
+
+Fujitsu còn đang tiếp_tục nghiên_cứu dòng ổ cứng 1,8 inch và 1,0 inch nhưng chưa quyết_định thời_điểm tung_ra thị_trường .
+Sản_phẩm này sẽ được sử_dụng trong nhiều thiết_bị điện_tử như máy_ảnh_số , máy_nghe_nhạc , điện_thoại di_động
+Văn_Thắng ( theo InfoWorld )

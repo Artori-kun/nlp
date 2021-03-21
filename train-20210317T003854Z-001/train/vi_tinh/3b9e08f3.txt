@@ -1,0 +1,18 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/07/3b9e08f3/
+title=Thẻ nhớ SD 4 GB đầu tiên trên thế giới 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Thẻ nhớ SD 4 GB đầu_tiên trên thế_giới
+Trong tháng tới , hãng Pretec của Mỹ sẽ bắt_đầu phát_hành đại_trà trên thị_trường sản_phẩm với dung_lượng tương_đương một ổ cứng và tốc_độ nhanh gấp 400 lần thẻ nhớ SD hiện_nay .
+
+Thẻ SD 4 GB có tốc_độ truy_cập dữ_liệu lên tới 20 MB / giây , và trở_thành thẻ nhanh nhất thế_giới tương_thích với chuẩn SD 1.1 , mặc_dù sản_phẩm hỗ_trợ SD 1.1 không phổ_biến .
+Thẻ nhớ của Pretec cũng hoạt_động với thiết_bị SD 1.0 , tuy_nhiên , khả_năng đọc_dữ_liệu sẽ giảm_xuống chỉ còn 10 MB / giây .
+SD 4 GB được thiết_kế với hai chip SLC NAND Flash 16 Gb , 65 nm ( nanometer ) .
+
+Sản_phẩm sẽ được bán_ra với giá 699 USD , mức_giá không_hề " dễ_chịu " cho những ai muốn sở_hữu một thẻ nhớ như_vậy cho camera số , PDA hay thiết_bị nghe_nhạc .
+
+Pretec cũng giới_thiệu sản_phẩm 2 GB dựa_trên thông_số thẻ đa phương tiện MMC 4 vốn không phổ_biến nhưng Pretec tin_tưởng rằng hiện_nay vẫn có đủ các thiết_bị được thiết_kế để hoạt_động với sản_phẩm mới này .
+MMC 4 có tốc_độ truyền dữ_liệu gấp_đôi SD 1.1 .
+Giá_thành sản_phẩm chưa được tiết_lộ .
+
+P.T. ( theo The Register )

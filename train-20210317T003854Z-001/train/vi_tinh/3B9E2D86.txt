@@ -1,0 +1,27 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2D86/
+title=Web'n'Walk thay đổi phương thức duyệt web 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Web ' n ' Walk thay_đổi phương_thức duyệt web
+T - Mobile vừa phát_hành gói ứng_dụng Internet di_động mới mà họ đảm_bảo là sẽ đủ hấp_dẫn để lôi kéo người_sử_dụng rời_bỏ máy_tính và chuyển sang duyệt web cũng_như gửi_e - mail bằng điện_thoại .
+
+" Internet di_động sẽ sớm xóa dần thói_quen vào mạng bằng phương_tiện cố_định " , Giám_đốc điều_hành Rene Obermann của T - Mobile nói .
+" Nó sẽ dần làm biến_đổi hoàn_toàn cách chúng_ta sống và làm_việc " .
+
+Gói di_động Web ' n ' Walk của T - Mobile có_vẻ giống dịch_vụ quay_số ( dial - up ) hơn là băng_thông rộng ( broadband ) .
+Phí thuê_bao cơ_bản hàng_tháng là xấp_xỉ 53 USD cho 100 phút đàm_thoại và 400 MB dữ liệu , với tốc_độ 384 Kb / giây .
+Brian McBride , Giám_đốc quản_lý tại Anh của T - Mobile , cho_biết : " Nếu chỉ có dữ_liệu , giá_thành sẽ giảm_xuống chỉ còn khoảng 18 USD / tháng .
+Điều này còn hơn_cả những gì người_dùng mong_đợi .
+400 MB tương_đương với khoảng 2.500 e - mail hoặc 500 trang web " .
+
+Tuy_nhiên , T - Mobile không đưa_ra bất_cứ hình_thức khuyến_mại nào , như kiểu 6 tháng sử_dụng i - mode T - zone miễn_phí trên O2 .
+Họ không trực_tiếp so_sánh , nhưng ngầm ám_chỉ rằng_i - mode của O2 như một " khu vườn với tường rào bao_quanh " và người_dùng chỉ được_phép quanh_quẩn trong những site hỗ_trợ dịch_vụ này , trong_khi Web ' n ' Walk mang lại cho khách_hàng " cả thế_giới Internet trong_lòng bàn_tay " .
+Tuy_vậy , " khu_vườn " T - zone của T - Mobile vẫn tiếp_tục tồn_tại và sẽ được kết_nối từ trang_chủ của Web ' n ' Walk .
+
+T - Mobile quyết_định không hỗ_trợ một số dịch_vụ như vì cho_rằng điện_thoại Internet vẫn chưa sẵn_sàng gia_nhập thị_trường lớn : " Hiện_nay không có nhiều nhu_cầu cho VoIP , khách_hàng sử_dụng công_nghệ này đang phải đối mặt với hàng_loạt khó_khăn phức_tạp .
+Chúng_tôi sẽ giới_thiệu VoIP cùng chế_độ bảo_mật trong tương_lai , khi nó đã trở_thành dòng dịch_vụ chính_thống .
+Nhiều người cho_rằng VoIP miễn_phí nhưng họ quên rằng kết_nối Wi - Fi lại vô_cùng đắt_đỏ " .
+
+Web ' n ' Walk tích_hợp chương_trình quản_lý cho_phép T - Mobile cập_nhật , nâng_cấp và sửa lỗi phần_mềm miễn_phí từ_xa .
+
+P.T. ( theo TechWorld )

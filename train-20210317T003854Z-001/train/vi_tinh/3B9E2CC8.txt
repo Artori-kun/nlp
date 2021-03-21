@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2CC8/
+title=Kết hợp ăng-ten để mở rộng Wi-Fi lên 5 km 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Kết_hợp ăng - ten để mở_rộng Wi - Fi lên 5 km
+Công_ty chuyên sản_xuất thiết_bị viễn_thông không dây Nhật_Bản Maspro Denkoh đã xây_dựng thành_công một hệ thống Wi - Fi dựa_trên ăng - ten có khả_năng thu tín_hiệu cao và tương_thích với các thiết_bị chuẩn IEEE 802.11b / g .
+
+Maspro đã phát_hành hai mẫu_ăng - ten hình_ống dài khoảng 40 cm và hình_vuông với kích_thước ngắn hơn , tại Nhật từ tháng 9 nhưng chưa có kế_hoạch phân_phối toàn_cầu .
+
+Khi nối hai_ăng - ten dạng ống với_nhau , khoảng_cách đường truyền có_thể tăng_lên 4,8 km , còn mỗi mẫu riêng_lẻ chỉ thu tín_hiệu trong phạm_vi gần 2 km .
+Trong_khi_đó , hai_ăng - ten vuông có khả_năng hoạt_động với khoảng_cách 1 km .
+Chúng cũng tương_tác với các thiết_bị theo chuẩn LAN không dây chuyên hỗ_trợ ăng - ten_ngoài .
+
+Toàn_bộ hệ_thống bao_gồm một camera , thiết_bị mã hóa video , bộ truyền tín_hiệu và ăng - ten .
+Giá_thành sản_phẩm phụ_thuộc vào_khoảng cách truyền .
+Phiên_bản 5 km có giá 5.255 USD , còn bản 1 km là 4.700 USD .
+
+P.T. ( theo PC World )

@@ -1,0 +1,25 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E62C6/
+title=Phần mềm máy tính tự động 'chấm điểm' bài hát 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm máy_tính tự_động ' chấm_điểm ' bài_hát
+Nếu chương_trình hoạt_động hiệu_quả , các công_ty trong ngành_công_nghiệp âm_nhạc sẽ coi đây là " cây đũa_thần " giúp họ dự_đoán xem một bài_hát nào_đó có xuất_hiện trong bảng xếp_hạng hay_không .
+
+Hai nhà_khoa_học người_Mỹ , Brian Whitman và Tristan Jehan thuộc viện công_nghệ Massachusetts ( MIT ) , cho_biết phần_mềm Echo Nest của họ sẽ thay_đổi cách mọi_người chọn nhạc để thưởng_thức .
+
+Ý_tưởng khiến máy_tính hiểu sự_khác_biệt giữa các phong_cách âm_nhạc và xác_định_liệu một ca_khúc có_được công_chúng đánh_giá cao hay_không cho_đến nay vẫn chỉ_là lý_thuyết .
+Whitman đã " luyện " cho PC nghe nhạc giống như con_người như phân_tích bối_cảnh bài_hát , nhịp_điệu , tốc_độ nhanh_chậm , to_nhỏ ...
+Sau_đó , phần_mềm sẽ tập_hợp lại thành một hồ_sơ riêng , cho_phép phân_loại chi_tiết và chính_xác , hơn là chỉ đơn_giản xếp bài_hát thuộc dòng rock , pop hay classical ( cổ_điển ) .
+
+" Máy_tính còn có_thể kết_nối mạng , vào trong các web cá_nhân ( blog ) để ghi_lại các bài bình_luận , chỉ_trích , đánh_giá , dự_đoán xu_hướng " , Whitman giải_thích .
+" Đồng_thời , máy_tính sẽ ' nghe ' nhạc để xử_lý xác_định âm chủ_đạo , cường_độ , cấu_trúc , giai_điệu và nhạc_điệu " .
+Ông khẳng_định phần_mềm đã dự_đoán chính_xác những bài_hát xuất_hiện trong bảng xếp_hạng Top 10 Billboard của Mỹ vài tuần nhưng từ_chối mô_tả chi_tiết .
+
+Người sử_dụng các kho nhạc trực_tuyến như Amazon vẫn quen_với việc đọc hoặc đưa_ra lời bình_luận khi họ mua CD .
+" Chỉ 10 người_mua đĩa A trong_khi tất_cả những người còn_lại mua đĩa B , khi đó bạn cũng sẽ có xu_thế quan_tâm đến CD B hơn .
+Nhưng biết_đâu thể loại nhạc trong CD A mới phù_hợp với sở_thích âm_nhạc của bạn " , Whitman nói .
+" Trong_khi_đó , Echo Nest không_chỉ phụ_thuộc vào nhận_xét của khách_hàng mà còn dựa_trên những điểm tương_đồng về văn_hóa và kỹ_thuật giữa các bài_hát " .
+
+Mục_tiêu lâu_dài của Brian Whitman và Tristan Jehan là xây_dựng các bộ sưu_tập âm_nhạc cá_nhân phù_hợp sở_thích và tâm_trạng của người_sử_dụng .
+" Bạn có_thể lệnh cho phần_mềm : phát_cho tôi bài gì_đó lãng_mạn và êm_đềm một_chút , hoặc bạn đang chạy_bộ và muốn nghe những giai_điệu đều_đều để duy_trì nhịp_chân " , Whitman bày tỏ.
+( theo The Guardian )

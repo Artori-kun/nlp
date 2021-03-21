@@ -1,0 +1,33 @@
+url=http://www.vnexpress.net/vietnam/kinh%2Ddoanh/chung%2Dkhoan/2007/04/3b9f51af/
+title=Các loại lệnh giao dịch 
+cat=KINH%2DDOANH|CHUNG%2DKHOAN
+
+Các loại lệnh giao_dịch
+Phương_thức khớp lệnh mới áp_dụng từ 7/5 tại Trung_tâm Giao_dịch chứng_khoán TP HCM gồm 4 loại , lệnh giới_hạn , lệnh thị_trường ( MP ) , lệnh giao_dịch tại mức_giá khớp lệnh xác_định giá mở_cửa ( ATO ) và lệnh giao_dịch tại mức_giá khớp lệnh xác_định giá đóng_cửa ( ATC ) .
+
+Lệnh giới_hạn là lệnh_mua hoặc lệnh bán chứng_khoán tại một mức_giá xác_định hoặc tốt_hơn .
+Lệnh giới_hạn có hiệu_lực kể_từ khi lệnh được nhập_vào hệ_thống giao_dịch cho_đến lúc kết_thúc ngày giao_dịch hoặc cho_đến khi lệnh bị hủy_bỏ .
+
+Lệnh_mua của nhà đầu_tư nước_ngoài nhập_vào hệ_thống trong thời_gian khớp lệnh định_kỳ xác_định giá mở_cửa hoặc giá_đóng_cửa nếu không được khớp hoặc chỉ được khớp một phần vào thời_điểm khớp lệnh xác_định giá mở_cửa hoặc giá_đóng_cửa thì lệnh_mua hoặc phần còn_lại của lệnh mua đó sẽ tự_động bị huỷ_bỏ .
+
+Lệnh_mua của nhà đầu_tư nước_ngoài nhập_vào hệ_thống trong thời_gian khớp lệnh liên_tục nếu không được khớp hoặc chỉ được khớp một phần thì lệnh_mua hoặc phần còn_lại của lệnh mua đó sẽ tự_động bị huỷ_bỏ .
+
+Ví_dụ về lệnh giới_hạn :
+là lệnh mua chứng_khoán tại mức_giá bán thấp nhất hoặc lệnh bán chứng_khoán tại mức_giá mua cao nhất hiện_có trên thị_trường .
+Nếu sau_khi so khớp lệnh theo nguyên_tắc ở trên mà khối_lượng đặt lệnh của lệnh MP vẫn chưa được thực_hiện hết thì lệnh MP sẽ được xem là lệnh mua tại mức_giá bán cao hơn hoặc lệnh bán tại mức_giá mua thấp hơn tiếp_theo hiện_có trên thị_trường .
+
+Nếu khối_lượng đặt lệnh của lệnh MP vẫn còn sau khi giao_dịch theo nguyên_tắc ở trên và không_thể tiếp_tục khớp được nữa thì lệnh MP sẽ được chuyển thành lệnh giới_hạn mua tại mức_giá cao hơn một bước giá so với giá giao_dịch cuối_cùng trước_đó hoặc lệnh giới_hạn bán tại mức_giá thấp hơn một bước giá so với giá giao_dịch cuối_cùng trước_đó .
+Trường_hợp giá thực_hiện cuối_cùng là giá trần đối_với lệnh MP mua hoặc giá sàn đối_với lệnh MP bán thì lệnh thị_trường sẽ được chuyển thành lệnh giới_hạn mua tại giá trần hoặc lệnh giới_hạn bán tại giá_sàn .
+
+Các lệnh_mua MP của nhà đầu_tư nước_ngoài nếu không được thực_hiện hết sẽ tự_động bị huỷ_bỏ .
+Các thành_viên không_được nhập lệnh MP vào hệ_thống giao_dịch khi chưa có lệnh giới_hạn đối_ứng đối_với chứng_khoán đó .
+Lệnh MP được nhập_vào hệ_thống giao_dịch trong thời_gian khớp lệnh liên_tục .
+
+Lệnh ATO là lệnh đặt_mua hoặc đặt bán chứng_khoán tại mức_giá mở_cửa .
+Lệnh được ưu_tiên trước lệnh giới_hạn trong_khi so khớp_lệnh .
+Lệnh được nhập_vào hệ_thống giao_dịch trong thời_gian khớp lệnh định_kỳ để xác_định giá mở cửa và sẽ tự_động bị hủy_bỏ sau thời_điểm xác_định giá mở cửa nếu lệnh không_được thực_hiện hoặc không_được thực_hiện hết .
+
+Lệnh ATC : Tương_tự như lệnh ATO nhưng được áp_dụng trong thời_gian khớp lệnh định_kỳ để xác_định giá đóng_cửa .
+
+Ví_dụ về lệnh ATO ( ATC ) :
+( Theo VSE )

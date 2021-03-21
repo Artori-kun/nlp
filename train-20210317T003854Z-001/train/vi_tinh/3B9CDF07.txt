@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/12/3B9CDF07/
+title=Dự thi TTVN: Cổng thoại học đường 3i 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN : Cổng thoại học_đường 3i
+Với tính_năng trả_lời tự_động qua điện_thoại và web , Hệ_thống cổng thoại học_đường 3i là cổng thông_tin thuần Việt theo kiểu Voice - Portal của kỹ_sư Bùi_Quang_Trung ( Viện CNTT , Trung_tâm Khoa_học tự_nhiên và Công_nghệ Quốc_gia ) sẽ là cầu nối hai chiều , đơn_giản mà hiệu_quả giữa phụ_huynh và nhà_trường .
+
+Sản_phẩm này có những chức_năng cơ_bản như trả_lời thông_tin trên điện_thoại và web cho phụ_huynh về điểm_số các môn_học , sự_chuyên_cần , khen_thưởng , kỷ_luật , tình_trạng đóng học_phí của học_sinh sinh_viên , các thông_báo của nhà_trường về thi_cử , hoạt_động ngoại_khoá ...
+
+Hộp_thư thoại của hệ_thống cho_phép liên_lạc hai chiều qua mạng Intranet / Internet giữa nhà_trường , giáo_viên chủ_nhiệm và phụ_huynh học_sinh , giữa phụ_huynh và sinh_viên nội_trú .
+Chức_năng xử_lý tiếng_nói của hệ_thống có_thể nén tiếng_nói , tự_động phát_hiện đoạn tiếng_nói trong thời_gian thực khi thu âm thư thoại để giảm không_gian lưu_trữ và thay_đổi tốc_độ phát_âm trên điện_thoại ( nhanh , bình_thường , đọc_chậm ) .
+Ngoài_ra , hệ_thống này có_thể ứng_dụng trong các lĩnh_vực ngân_hàng ( báo tài_khoản , chuyển_khoản qua điện_thoại ) , thanh_toán tiền_điện , nước , tra_cứu thông_tin theo chủ_đề và mua_bán tự_động qua điện_thoại .
+
+Trung cho_biết để xây_dựng hệ thống Voice - Portal tiếng_Việt , đảm_bảo tính mở , tính tùy_biến của hệ_thống , anh đã sử_dụng VisualC + + 6.0 , VisualC + + Studio.Net làm ngôn_ngữ lập_trình hệ_thống , kết_nối cơ_sở_dữ_liệu và lập_trình thuật_toán .
+Để thiết_lập cơ_sở_dữ_liệu và cổng web , anh dùng Visual Basic 6.0 , SQL Server 2000 , ASP ( Web Portal ) và chạy trên hệ_điều_hành windows .
+
+Trung cho_biết : Vì lý_do thương_mại , hầu_hết hệ_thống của nước_ngoài đều không công_bố thiết_kế nên Cổng thoại học_đường 3i được lập_trình hoàn_toàn bằng công_nghệ tự_phát_triển .
+Không_chỉ đảm_bảo tính ổn_định , dễ_dàng bảo_trì , tuỳ biến theo nhu_cầu ứng_dụng mà giá_thành của hệ_thống vì_thế cũng dễ_chấp_nhận " .  
+Tác_giả tỏ_ra tin_tưởng vào khả_năng ứng_dụng của hệ_thống vì hiện_nay , những cổng_thoại ở Việt_Nam với hình_thức đơn_thuần giải_trí như 19001570 , báo điểm thi qua 1080 đang được đón nhận và ngày một phát_huy lợi_ích .
+Mặt_khác , Việt_Nam đang rất quan_tâm tới phát_triển mạng giáo_dục quốc_gia cộng với giá_thành dễ_chấp_nhận của sản_phẩm nội_địa nên tiềm_năng thị_trường của Cổng thoại học_đường 3i là rất lớn .
+
+Ngọc_Hà

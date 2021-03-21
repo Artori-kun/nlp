@@ -1,0 +1,23 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D4034/
+title=Intel ra mắt chip 32/64 bit 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel ra_mắt chip 32/64 bit
+Hôm_qua , hãng sản_xuất chip lớn nhất thế_giới Intel giới_thiệu bộ_vi xử_lý Xeon có_phần mở_rộng 64 bit .
+Với mã_hiệu Nocona , chip đầu_tiên được thiết_kế cho thị_trường máy_trạm .
+Các phiên_bản 32/64 bit cho máy chủ sẽ được tung_ra trong_vòng 2 tháng tới .
+
+Loại chip mới , có tốc_độ lên tới 3,6 GHz , có khả_năng xử_lý dữ_liệu tốt_hơn chip 32 bit nhưng phần_mềm phải được tối_ưu_hóa để đạt được lợi_ích tối_đa mà phần mở_rộng 64 bit bổ_sung .
+Chip Xeon mới cũng tăng_cường một số chức_năng như bộ_nhớ DDR2 , PCI Express , một bus trước 800 MHz cùng công_nghệ Extended Memory 64 .
+Được chế_tạo theo quy_trình 90 nm , bộ_vi xử_lý này cũng sẽ tận_dụng công_nghệ siêu_phân luồng của Intel .
+
+Intel cũng giới_thiệu chipset mới E7525 được tối_ưu_hóa cho máy_trạm .
+Với mã_hiệu Tumwater , E7525 sẽ tăng khả_năng truyền dẫn của kênh truyền hệ_thống lên 50 % so với các chipset thế_hệ trước .
+
+Nhiều nhà_sản_xuất board và máy_tính đã cam_kết cung_cấp máy trạm dùng chip Xeon mới , trong_đó có Dell , HP , Fujitsu , NEC và Optimus .
+
+Nocona ra_mắt gần một năm sau khi AMD công_bố bộ_vi xử_lý 32/64 bit Opteron được sử_dụng trong máy_tính của những nhà_sản_xuất máy chủ hàng_đầu Hewlett - Packard , IBM và Sun Microsystems .
+
+Trong một tuyên_bố đưa_ra hôm thứ_hai , AMD nhận_xét , vẫn còn " một số lợi_thế rõ_rệt trên nền AMD64 mà cấu_trúc của Intel không có " .
+
+T.N. ( theo Infomation Week )

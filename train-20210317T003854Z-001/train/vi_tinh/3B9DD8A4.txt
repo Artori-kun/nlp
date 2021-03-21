@@ -1,0 +1,26 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DD8A4/
+title= Google ra mắt tính năng tìm kiếm History 
+cat=VI-TINH|SAN-PHAM-MOI
+
+  Google ra_mắt tính_năng tìm_kiếm History
+Dịch_vụ mới đang được thử_nghiệm cho_phép khách_hàng khôi_phục lại các kết_quả search trong quá_khứ thông_qua công_cụ tìm kiếm online .
+Google hy_vọng tính_năng này sẽ thúc_đẩy người lướt web sử_dụng dịch_vụ của hãng thường_xuyên hơn .
+
+Dịch_vụ My Search History có khả_năng ghi_lại toàn_bộ các thông_tin mà người_dùng đã tìm_kiếm trong Google theo từng ngày .
+Để kích hoạt_dịch_vụ , khách_hàng cần tạo ID và mật_khẩu .
+Những người có địa_chỉ_e - mail , username trong nhóm thảo_luận và dịch_vụ trả_lời của Google được_phép dùng trực_tiếp các ID đã có .
+
+Khách_hàng có_thể sử_dụng link ở góc phải trên trang_chủ của Google để đăng nhập_vào hệ_thống , hoặc cho_phép Google tự_động nhớ ID và mật_khẩu trên máy .
+Người sử_dụng được_phép xóa bất_kỳ một danh_sách nào nằm_trong History cũng_như tạm_ngưng tính_năng này khi cần_thiết .
+
+Google hy_vọng công_cụ này sẽ là phương_tiện hữu_hiệu để hãng nắm rõ hơn xu_hướng nhu_cầu thông_tin của người_dùng để kiểm_định lại các hệ_thống quảng_cáo , nâng_cao chất_lượng tìm_kiếm thông_tin , khả_năng bảo_mật ...
+
+Tuy_nhiên , chuyên_gia về quyền cá_nhân Pam Dixon lo_ngại dịch_vụ này sẽ tạo cơ_hội cho những kẻ phá_hoại , thậm_chí cả chính_phủ nhúng_tay vào quá_trình tìm_kiếm của người_dùng .
+Nếu muốn lưu lại kết_quả tìm_kiếm trước_đây , tốt nhất là dùng notebook , vừa riêng_tư lại ít mạo_hiểm , Dixon khuyến_cáo .
+
+Trong_khi_đó , Google tin rằng dịch_vụ hoàn_toàn đảm_bảo bí_mật cá_nhân , mặc_dầu hãng cũng khuyến_cáo khách_hàng dùng chung máy_tính với người_khác không_nên sử_dụng dịch_vụ này .
+
+Tôi không cho là dịch_vụ này phù_hợp và quan_trọng với người_dùng bình_thường " , Charlene Li , nhà_phân_tích thuộc hãng nghiên_cứu Forrester , nghi_ngờ tính_năng mới của Google sẽ được đón nhận nồng_nhiệt .
+" Hầu_hết ai cũng nghĩ họ không việc_gì phải cung_cấp tất_cả các thông_tin của mình cho Google .
+
+P.Thúy ( theo TechWeb , AP )

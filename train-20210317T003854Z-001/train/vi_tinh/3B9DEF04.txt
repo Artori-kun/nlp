@@ -1,0 +1,23 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DEF04/
+title=HP tăng cường các giải pháp 'Thích ứng doanh nghiệp' 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP tăng_cường các giải_pháp ' Thích_ứng doanh_nghiệp '
+Tại diễn_đàn Doanh_Nghiệp HP ENSA @ WORK ( Enterprise Solutions At Work ) tổ_chức ở Đan_Mạch ngày 3/6 , HP chính_thức công_bố các cải_tiến mới dành cho khách_hàng khối doanh_nghiệp , bao_gồm hệ_thống máy chủ Integrity NonStop và phần_mềm quản_trị hạ_tầng hợp_nhất .
+
+Máy chủ HP Integrity NonStop là thương_phẩm đầu_tiên có_thể mở_rộng lên tới hơn 4.080 bộ_vi xử_lý Intel Itanium 2 .
+Máy chủ mới có độ_tin_cậy cao hơn 100 lần so với các hệ_thống trước với chi_phí giảm đến một_nửa .
+Máy này cho_phép đảm_bảo tính liên_tục theo thời_gian , vốn_là yếu_tố rất quan_trọng đối_với một số ngành như sức_khoẻ , dịch_vụ tài_chính , chính_phủ , giao_thông , truyền_thông , bán_lẻ và sản_xuất .
+
+Phần_mềm HP Systems Insight Manager 5.0 ( HP SIM 5.0 ) là nền_tảng hợp_nhất đầu_tiên của ngành điện_toán , tích_hợp khả_năng quản_trị các hạ_tầng máy chủ và máy lưu_trữ , cho_phép khách_hàng giảm chi_phí và tính phức_tạp của việc bảo_trì hệ_thống CNTT , giải_phóng các nguồn lực để tập_trung cải_tiến .
+
+HP SIM 5.0 cho_phép kiểm_soát lỗi , báo_cáo tổng_hợp và quản_trị cấu hình cho các máy HP Proliant , HP Integrity và các hệ_thống HP 9000 , và bây_giờ là HP StorageWorks XP , EVA cũng_như các dòng MSA của loạt máy lưu_trữ .
+Các hệ_thống HP Integrity NonStop cũng có_thể được quản_trị bằng SIM .
+
+Được xây_dựng dựa_trên các chuẩn ngành mới nhất và phần_mềm ứng_dụng nguồn mở từ JBoss , HP SIM 5.0 cho_phép quản_trị các máy chủ và hệ_thống lưu_trữ không thuộc hãng HP và đảm_bảo khả_năng tương_tác với các nền_tảng quản_trị doanh_nghiệp như HP OpenView Operations , HP OpenView Network Node Manager và các công_cụ của nhà_cung_cấp khác .
+
+HP SIM 5.0 tích_hợp một loạt lựa_chọn thêm bao_gồm HP ProLiant Essentials , HP Integrity Essentials , HP Storage Essentials và nhiều tính_năng mở_rộng .
+
+Tham_khảo thêm tại www.hp.com / go / ensa2005 .
+
+P.K .

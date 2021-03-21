@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D71E9/
+title=Thiết bị truy cập hạ tầng băng thông rộng Telindus 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thiết_bị truy_cập hạ_tầng băng_thông rộng Telindus
+Ứng_dụng kỹ_thuật định tuyến TDRE ( Telindus Dynamic Routing Engine ) , hãng Telindus vừa tung_ra thị_trường công_nghệ Việt_Nam nhiều thiết_bị đáp_ứng linh_hoạt khả_năng xây_dựng mới hoặc mở_rộng , nâng_cấp mạng theo nhu_cầu đơn_vị sử_dụng .
+
+Trong_đó , bộ định tuyến 1030 có thông_lượng lên tới 45.000.pps , cung_cấp cổng serial , IDSL hay channelised , cho_phép lựa_chọn đa_dạng các loại giao_tiếp WAN thông_dụng .
+Bộ này còn tự_động dò tìm trên mạng LAN với tốc_độ 10/100Mbps .
+
+Bộ 1061 được thiết_kế modul hoá , giúp lựa_chọn và thay_đổi cấu hình dễ_dàng hơn .
+Sản_phẩm phục_vụ các khách_hàng có kết_nối WAN tốc_độ cao với khoảng 155 Mbps .
+1061 và 1030 đều tích_hợp các chức_năng routing , bridging , hỗ_trợ đắc_lực việc đóng_gói Frame Relay , ATM và PPP .
+
+Đáp_ứng nhu_cầu về thiết_bị đầu cuối tương_thích với cơ_sở hạ_tầng hiện_có như DSLAM , ATM Switch ... là bộ định tuyến 1431 .
+Thiết_bị này tích_hợp sẵn giao_tiếp SHDSL , giúp gắn kết điểm_nối điểm hiệu_quả .
+Nó cũng cung_cấp dịch_vụ kênh thuê riêng tiện_lợi ATM CEF và dịch_vụ Fram - Relay với đóng_gói FRF 5 hay FRF 8 ...
+Các sản_phẩm trên được phân_phối chính_thức qua công_ty Nam_Trường Sơn , TP HCM .
+
+Lương_Nga

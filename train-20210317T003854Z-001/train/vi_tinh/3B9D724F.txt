@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D724F/
+title=PalmOne ra mắt PDA 256 MB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+PalmOne ra_mắt PDA 256 MB
+Thiết_bị trợ_giúp kỹ_thuật số cá_nhân ( PDA ) model Tungsten T5 được giới_thiệu hôm_qua có bộ_nhớ flash 256 MB .
+Đây sẽ là sản_phẩm cầm_tay có dung_lượng bộ_nhớ lớn nhất từ trước tới nay .
+
+Sự_tiện_dụng lớn nhất trong bộ_nhớ flash của T5 là nó có thêm chức_năng của một ổ USB và không bị mất_dữ_liệu khi thiết_bị không_được sạc_điện .
+Trong tổng dung_lượng 256 MB , 215 MB sẽ được dành cho người_dùng và phần còn_lại để chạy các ứng_dụng nội_tại .
+
+Một ứng_dụng truyền file mới cho_thấy nội_dung của ổ_đĩa trong tại một cửa_sổ .
+Nhờ_đó , người_dùng có_thể kéo / thả các tập_tin giữa thiết_bị cầm_tay và máy_tính để_bàn giống như họ vẫn làm với các ổ_đĩa khác trong Windows Explorer .
+Để sử_dụng T5 như một ổ_đĩa flash , người_dùng không_cần phải cài chương_trình Palm Desktop .
+Tính_năng Drive Mode cho_phép họ kết_nối T5 với máy_tính PC hoặc Mac qua một cáp USB như một ổ cứng di_động .
+
+T5 dùng bộ kết_nối đa chiều Multi Connector thay_thế cho Universal Connector của model T3 .
+Nhờ_đó , dữ_liệu và điện đi_theo các cáp riêng_rẽ , cho_phép người_dùng thu_gọn hành_trang trong các chuyến_đi .
+
+Thiết_bị cầm_tay này có thiết_kế hoàn_toàn mới , thanh_mảnh và hào_nhoáng , với màn_hình màu 320 x 480 pixel , được trang_bị công_nghệ không dây Bluetooth .
+Sản_phẩm sử_dụng chip Bulverde CPU XScale của Intel .
+T5 không_được tích_hợp công_nghệ Wi - Fi nhưng PalmOne khẳng_định card Wi - Fi dành cho nó sẽ sớm ra_mắt sau khi nâng_cấp một driver .
+
+T5 sẽ được đưa_ra thị_trường vào đầu tháng 11 với giá 399 USD .
+
+T.N. ( theo PCWorld )

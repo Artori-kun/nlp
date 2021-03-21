@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9944/
+title=VoodooPC tăng gấp đôi tốc độ máy tính chơi game 
+cat=VI-TINH|SAN-PHAM-MOI
+
+VoodooPC tăng gấp_đôi tốc_độ máy_tính chơi game
+Công_ty có trụ_sở ở Calgary , Alberta ( Canada ) vừa tung_ra một dòng computer mới , sử_dụng kỹ_thuật làm mát bằng chất_lỏng chuyên_dùng cho siêu máy_tính .
+Sản_phẩm mang tên Rage f : 5 còn dùng 2 card đồ_họa Nvidia kết_hợp với công_nghệ SLI .
+
+Với cỗ_máy này , dân nghiền game có_thể chơi các trò ưa_thích của họ trên máy_tính với tốc_độ nhanh hơn gấp 2 lần so với trước_đây mà_không lo khả_năng làm mát của những chiếc quạt tản nhiệt trong PC bị quá_tải .
+
+Chúng_tôi kết_hợp sức_mạnh của cả 2 chiếc card để điều_chỉnh đồ_họa trên màn_hình , vì_thế tỷ_lệ khung hình_ảnh được tăng gấp_đôi , Rahul Sood , Chủ_tịch VoodooPC nói .
+Để có_được tốc_độ lớn như_vậy nhà sản_xuất phải đảm_bảo được vấn_đề kết_hợp các bộ_phận với_nhau một_cách chắc_chắn , nếu muốn tối_ưu_hóa cỗ_máy để chạy trong tình_trạng vượt_qua tốc_độ đồng_hồ máy_tính ( overclocking ) , tức_là sử_dụng cùng lúc nhiều bộ xử_lý và các linh_kiện khác ở mức_độ nhanh hơn tốc_độ thực của chúng .
+
+VoodooPC là một trong những công_ty sản_xuất , cung_cấp máy_tính cho giới say_mê game .
+Đây là một thị_trường nhỏ nhưng tiềm_năng thu lời rất cao vì các hãng chế_tạo có_thể triển_khai những công_nghệ mới nhất và bán với mức_giá cao mà vẫn được người_mua chấp_nhận .
+Máy Rage f : 5 của VoodooPC hiện được bán với giá khởi_điểm 5.000 USD .
+
+P.K. ( theo CNet )

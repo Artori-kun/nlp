@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1037/
+title=Trình duyệt Opera siêu gọn cho điện thoại di động 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Trình_duyệt Opera siêu_gọn cho điện_thoại di_động
+Hãng phần_mềm Na Uy vừa công_bố một phiên_bản browser được thiết_kế chuyên biệt cho mục_đích hỗ_trợ lướt web của khoảng 700 triệu thiết_bị liên_lạc cá_nhân giá thấp đang được sử_dụng trên toàn thế_giới hiện_nay .
+
+Trình_duyệt mang tên Opera Mini này tương_thích với các điện_thoại trang_bị J2ME , có WAP , miễn_là các hãng viễn_thông di_động hỗ_trợ dịch_vụ .
+
+Nhà_cung_cấp phần_mềm cho_biết Opera Mini dựa_trên một ứng_dụng khách Java nhỏ cài trên điện_thoại cùng với một phần_mềm server đặt từ_xa , chuyên xử_lý trước các trang web và cấp_phát chúng đến điện_thoại .
+Trình_duyệt mini này còn sử_dụng công_nghệ điều_chỉnh màn hình nhỏ của Opera với đủ các tiện_ích như Bookmarks , History , phân_chia trang web thành những mảng nhỏ để dễ_duyệt ...
+
+Theo Opera , việc cài đặt trình_duyệt này cũng đơn_giản như tải nhạc_chuông vì người_sử_dụng chỉ cần đơn_giản gửi một tin_nhắn SMS hoặc truy_cập vào một đường link thông_qua WAP browser hiện_có .
+
+Lướt web bằng điện_thoại di_động hiện_nay vẫn còn hạn_chế ở những thiết_bị cao_cấp có khả_năng chạy trình_duyệt , Jon S . von Tetzchner , Giám_đốc điều_hành Opera , phát_biểu .
+Với Opera Mini những chiếc mobile phone cấp thấp cũng có_thể lướt web và vì_thế tất_cả mọi_người sẽ khai_thác thông_tin Internet tốt_hơn với thiết_bị hiện_có của mình .
+
+Tham_khảo thêm và download Opera Mini .
+
+P.K. ( theo ZDNet )

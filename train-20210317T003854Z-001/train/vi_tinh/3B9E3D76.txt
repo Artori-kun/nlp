@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E3D76/
+title=Oracle Việt Nam giới thiệu bản Database 10g miễn phí 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Oracle Việt_Nam_giới_thiệu bản Database 10g miễn_phí
+Một tuần sau khi Oracle tuyên_bố sẽ một sản_phẩm không thu_tiền với phiên_bản Express Edition , hôm_nay , chương_trình hướng tới sinh_viên , quản_trị viên và các nhà phát_triển độc_lập này chính_thức ra_mắt tại Việt_Nam .
+
+Là một sản_phẩm mang tính khởi_đầu cho người_sử_dụng phần_mềm thuộc loại đắt tiền trên thế_giới , Oracle Database 10g Express Edition ( viết tắt là Oracle Database XE ) không_chỉ miễn_phí đối_với các nhà phát_triển khi khai_thác và chuyển_giao ứng_dụng của họ mà còn miễn_phí cả đối_với những công_ty cung_cấp phần mềm độc_lập ( ISV ) cũng_như các hãng phần_cứng khi phân_phối hoặc kết_hợp cùng ứng_dụng của riêng họ .
+
+Với Database 10g Express Edition , tập_đoàn phần_mềm nổi_tiếng với những sản_phẩm " tầm_cao " đã chính_thức dành sự_quan_tâm tới mảng khách_hàng ở tầm_thấp , tức giới sinh_viên , các nhà phát_triển ứng_dụng độc_lập và những cơ_quan , tổ_chức với khả_năng tài_chính thấp .
+Oracle cũng mở một diễn_đàn trực_tuyến cho người sử_dụng tự_do đăng_ký và thảo_luận các vấn_đề liên_quan đến Database 10g Express Edition .
+
+Bất_kỳ ứng_dụng nào phát_triển trên Oracle Database 10g Express Edition đều hoạt_động tốt trên mọi phiên_bản khác của Oracle Database 10g mà_không cần chỉnh_sửa , ông Hồ_Thanh_Tùng , Giám_đốc Oracle khu_vực Đông_Dương , khẳng_định .
+Đây là cơ_hội để giới sinh_viên và các nhà phát_triển ứng_dụng độc_lập có_thể tận_dụng lợi_thế chi_phí của phần_mềm miễn_phí và khả_năng hỗ_trợ trực_tuyến của chúng_tôi .
+
+Với việc giới_thiệu Database 10g Express Edition , Oracle đang mở_rộng danh_mục sản_phẩm cơ_sở_dữ_liệu của họ lên tới 6 sản_phẩm ( 5 dòng phần_mềm database hiện_hành của hãng này là Enterprise Edition , Standard Edition , Standard Edition One , Personal Edition , Database Lite ) .
+
+Tham_khảo thêm và tải Oracle Database 10g Express Edition .
+
+Phan_Khương

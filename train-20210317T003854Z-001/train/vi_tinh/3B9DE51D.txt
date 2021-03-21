@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE51D/
+title=Yahoo tập trung vào VoIP trong IM mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Yahoo tập_trung vào VoIP trong IM mới
+Chiều 17/5 , Yahoo đã giới_thiệu bản Yahoo Messenger miễn_phí mới , cải_tiến một_số tính_năng như gửi tin_nhắn nhanh_dạng text chuẩn , gọi_điện qua máy_tính ... .
+
+Ngoài_ra , khách_hàng cũng có_thể gửi thông_điệp ngắn tới điện_thoại di_động , chia_sẻ ảnh ... .
+Đặc_biệt , người_dùng được_phép gửi thông_tin lên trang web cá_nhân ( ) trực_tiếp từ cửa_sổ IM nhờ kết_nối với Yahoo 360 - mạng cung_cấp blog và chia_sẻ nội_dung miễn_phí .
+Download .
+
+Trong lần nâng_cấp này Yahoo chủ_yếu tập_trung vào VoIP với thiết_kế nút " click to call " dễ_thấy trên cửa_sổ , tích_hợp tính_năng voicemail , và tối_ưu_hóa chất_lượng âm_thanh đàm_thoại qua kết_nối băng_thông rộng cũng_như dial - up .
+
+" E - mail đã thống_lĩnh và trở_thành ứng_dụng số một từ cuối những năm 90 , dịch_vụ tin_nhắn nhanh chiếm vị_trí số hai .
+Tuy_nhiên , hiện_nay , VoIP đang mở_ra chương thứ_ba cho các ứng_dụng phổ_biến qua Internet " , Frazier Miller , Giám_đốc Yahoo Messenger , cho_biết .
+" Do_vậy , VoIP chính là tâm_điểm trong phiên_bản nâng_cấp mới của hãng " .
+
+Động_thái này là câu trả_lời tới America Online khi hãng này gần_đây đã tiến_hành thử_nghiệm dịch_vụ IM mới , tích_hợp tính_năng_thoại ( voice ) , dữ_liệu ( data ) , di_động và giao_tiếp video .
+
+Phương_Thúy ( theo CNet )

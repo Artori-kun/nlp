@@ -1,0 +1,31 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DF79A/
+title=Tăng tốc độ chip bằng photon ánh sáng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tăng tốc_độ chip bằng photon ánh_sáng
+Các chuyên_gia của Intel đang trong quá_trình hoàn_tất ý_tưởng đưa ánh_sáng vào ứng_dụng mới của chip lượng_tử để nâng_cấp khả_năng thực_thi cho thiết_bị xử_lý   .
+
+Hãng sản_xuất chip khổng_lồ này tuyên_bố đã khám_phá ra phương_pháp sử_dụng silicon photon - dùng ánh_sáng để truyền_dữ_liệu - thay_thế cho liên_kết điện_tử bằng dây đồng hiện_nay và nâng tốc_độ kết_nối đồng_bộ trong quá_trình chuyển_dữ_liệu vào và ra thiết_bị xử_lý .
+
+Intel cho_rằng kết_nối điện_tử sẽ vẫn tiếp_tục được sử_dụng trong thời_gian tới , nhưng công_nghệ quang_học sẽ thắng_thế vì sẽ ngày_càng khó thực_hiện các quá_trình phức_tạp thông_qua những đoạn dây_điện bằng đồng .
+
+Tạo_lập bus ( kênh ) điều_khiển có_thể di_chuyển nhiều dữ_liệu nhanh hơn sẽ là vấn_đề then_chốt với một hãng như Intel , nhất_là khi hãng sản_xuất này muốn đi_sâu hơn vào địa_hạt chip đa_lõi .
+Intel gần_đây đã giới_thiệu thiết_bị xử_lý lõi kép cho máy để_bàn với hai lõi độc_lập trên cùng một bảng silicon đơn .
+Hãng cũng sẽ bắt_đầu cung_cấp notebook và chip lõi kép máy chủ trong năm_nay .
+Đây là bước đệm quan_trọng cho bộ xử_lý 4 , 8 , và nhiều lõi trong tương_lai .
+
+" Tiềm_năng nằm chính trong những photon ánh_sáng .
+Chúng sẽ được sử_dụng như là công_nghệ củng_cố các bus định tuyến quang_học tương_lai cho thiết_bị xử_lý máy_tính đa_lõi " , Manny Vara , nhà_chiến_lược công_nghệ thuộc Trung_tâm nghiên_cứu của Intel , cho_biết .
+
+Sử_dụng silicon ánh_sáng là một ý_tưởng khá hợp_lý vì nó cung_cấp băng thông_lớn .
+Intel đã xây_dựng trong phòng thí_nghiệm một thiết_bị hoạt_động với tốc_độ 10 Gb / giây và khẳng_định hoàn_toàn có khả_năng thiết_kế trực_tiếp vào trong_chip .
+
+Đầu năm_nay , Intel thông_báo hãng đã thành_công trong việc tích_hợp ánh_sáng laser vào silicon .
+Sự_đột_phá này không_chỉ là điểm_mốc khoa_học quan_trọng , mà sẽ còn là công_cụ hỗ_trợ đắc_lực cho việc gỡ bỏ rào_cản trong lĩnh_vực sinh_học .
+
+Nhiều hãng_khác , trong_đó có Startup Luxtera ( Mỹ ) , cũng đang tìm_hiểu cơ_chế của silicon photon .
+Luxtera đã tập_trung nghiên_cứu bộ_điều_biến cho_phép chuyển_đổi tín_hiệu ánh_sáng sang dạng_dữ_liệu , và hy_vọng có_thể tích hợp trong silicon vào năm tới .
+
+" Chúng_ta đang trong giai_đoạn phôi_thai của một cuộc cách mạng công_nghệ toàn_diện sẽ diễn_ra trong_vòng 20 năm tới " , Marco Paniccia , Giám_đốc Trung_tâm nghiên_cứu công_nghệ Photon của Intel , nhận_định .
+
+P.T. ( theo eWeek )

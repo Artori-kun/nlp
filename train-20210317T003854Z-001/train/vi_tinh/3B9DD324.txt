@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DD324/
+title=Intel giới thiệu chipset 854 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel giới_thiệu chipset 854
+Tại diễn_đàn các nhà phát_triển Intel ( Đài_Loan ) , hãng phần_cứng số 1 thế_giới vừa công_bố nền_tảng phần_cứng điện_tử dân_dụng đảm_bảo cho các thiết_bị như_IP - digital set top box ( IP - STB ) và máy_ghi thông_tin đa phương tiện_kỹ_thuật_số ( digital media recorders - DMR ) có_thể phối_hợp " ăn_ý " với_nhau .
+
+Các chipset Intel 854 mới dành cho các thiết_bị điện_tử dân_dụng là phần_cứng dựng sẵn tốc_độ cao có khả_năng mở_rộng .
+Nó cho_phép các nhà nghiên_cứu lĩnh_vực này khả_năng linh_hoạt và tốc_độ xử_lý ứng_dụng của kiến_trúc điện_toán .
+
+Bên_cạnh_đó , Intel cũng đưa_ra giải_pháp phần_mềm điều_khiển Digital Media Infrastructure nhằm giúp các nhà phát_triển thiết_kế theo chỉ dẫn kỹ_thuật Living Network Alliance ( DLNA ) và Intel Networked Media Product Requirements ( Intel NMPR ) .
+
+Intel Digital Media Infrastructure 3.0 là giải_pháp mở_rộng được tối_ưu_hóa và hợp chuẩn toàn_phần cho các phần_cứng nền_tảng của thiết_bị điện_tử dân_dụng .
+Nó mang đến khả_năng kết_nối mạng bên_ngoài thiết_bị , phát_hiện thiết_bị và giải_pháp chia_sẻ nội_dung dựa_trên các thông_số kỹ_thuật mở để xây_dựng các nền_tảng phần_cứng dân_dụng có khả_năng hoạt_động chung cao .
+
+Ông Glenda Dorchak , Phó_chủ_tịch kiêm Tổng giám_đốc Consumer Electronics Group ( thuộc Intel Digital Home Group ) , cho_biết : " Khả_năng hoạt_động chung là chìa_khóa để phát_triển các thiết_bị điện_tử dân_dụng cũng_như sử_dụng các chương_trình truyền_thông băng_rộng , mạng và dịch_vụ trong ngôi_nhà kỹ_thuật_số .
+Nền_tảng Intel 854 và giải_pháp phần_mềm giải_quyết được các nhu_cầu về thiết_kế và tốc_độ , tạo_ra các thiết_bị hiện_đại cho người_sử_dụng mà vẫn giảm được tổng chi_phí của hệ_thống " .
+
+Hiện_tại , các đối_tác của Intel trong lĩnh_vực điện_tử dân_dụng bao_gồm Eriya , Gigabyte , Handan BroadInfoCom , Hopen , Media Excel , Neusoft , Oregan Networks , Samsung , Tatung , Thomson và Toshiba .
+
+  Xuân_Kim

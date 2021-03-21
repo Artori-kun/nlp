@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DB317/
+title=HP công bố bước đột phá về điện toán phân tử 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP công_bố bước đột_phá về điện toán phân_tử
+Trên tạp_chí vật_lý ứng_dụng Journal of Applied Physics , đơn_vị nghiên_cứu lượng_tử của HP cho_biết thiết_bị siêu nhỏ với chiều_ngang tính bằng nanomét của họ có_thể thực_hiện một trong những chức_năng logic quan_trọng trong điện_toán .
+
+HP đã thiết_kế cái gọi_là chốt giao_điểm ( crossbar latch ) với một dây_dẫn đơn được cắt_ngang bởi 2 dây khác tại những điểm giao cắt nhỏ bằng đơn_vị phân_tử .
+Khi áp_dụng một_chuỗi xung_điện , chốt này có_thể thực_hiện lệnh KHÔNG ( NOT ) , một trong 3 phép_toán cơ_bản tạo_nên logic cơ_sở của một mạch_điện máy_tính , bên_cạnh lệnh_VÀ ( AND ) và HOẶC ( OR ) .
+
+Theo Stan Williams , Giám_đốc bộ_phận nghiên_cứu lượng_tử của HP , khóa nói trên đem_lại một yếu_tố rất quan_trọng cho việc xây_dựng các máy_tính sử_dụng thiết_bị với ưu_thế rẻ_tiền và dễ thiết_lập .
+Chúng_tôi đang tái_phát_minh máy_tính theo quy_mô phân_tử , William phát_biểu .
+
+Công_nghệ mới của HP có_thể được khai_thác để_bổ_sung và thậm_chí thay_thế transistor vì loại thiết_bị bán_dẫn này được dự_báo sẽ đi đến giới_hạn vật_lý trong vài năm tới , điều sẽ cản_trở việc thu_nhỏ chúng hơn_nữa .
+Các chuyên_gia của HP cho_biết công_nghệ của họ có_thể dẫn đến việc máy_tính trở_nên mạnh hơn gấp hàng_nghìn lần so với hiện_nay .
+
+Hiện HP đang cố_gắng tìm_cách triển_khai sản_xuất đại_trà và thương_mại_hóa công_nghệ mới .
+
+P.K. ( theo InfoWorld )

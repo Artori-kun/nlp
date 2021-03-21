@@ -1,0 +1,24 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC57B/
+title=Philips công bố chất thay thế silicon 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Philips công_bố chất thay_thế silicon
+Các nhà nghiên_cứu của công_ty điện_tử Hà_Lan đã phát_triển được một loại vật_liệu có khả_năng thay_thế những dạng bộ_nhớ hiện_hành thông_qua một kỹ_thuật mà họ đã tìm_hiểu suốt nhiều năm_qua .
+
+Vật_liệu này là một hợp_chất antimon và telua mỏng , có_thể sử_dụng để tạo_ra bộ_nhớ chuyển_đổi trạng_thái ( phase change ) với cách hoạt_động giống như đĩa CD và DVD .
+Tia laser được chiếu vào một điểm cực nhỏ trên lớp chất này để thu_nhận sự_phản_chiếu .
+Kết_quả của sự_phản_chiếu này sẽ khác_nhau , tùy_thuộc vào việc các phân_tử ở điểm chiếu laser là vô_định_hình hay kết_tinh .
+Hai dạng phản_chiếu này sau_đó trở_thành các số dữ_liệu nhị_phân 1 và 0 .
+
+Philips cho_biết vật_liệu antimon - telua có_thể chuyển trạng_thái ở hiệu điện_thế 0,7 volt , khá thấp so với chất silicon .
+Việc chuyển pha xảy_ra vô_cùng nhanh , thường chỉ_là 30 nano giây trên vật_liệu .
+Nếu có_thể được thương_mại_hóa , chip sản_xuất từ vật_liệu này có tiềm_năng thay_thế DRAM , thẻ nhớ flash hoặc ổ_cứng , tùy_thuộc vào phương_thức mà các thiết_bị hoạt_động và gắn kết với máy_tính .
+
+Tuy_nhiên , thách_thức hiện_nay là việc đổi một bit thông_tin ở dạng vô_định_hình thành một bit kết_tinh .
+Các vật_liệu chuyển_đổi trạng_thái thường phải được đốt_nóng tới mấy trăm độ C trong vài nano giây ( một hoạt_động đòi_hỏi rất nhiều năng_lượng điện ) đồng_thời lại phải ngăn_chặn năng_lượng thừa phát_ra từ sự_chuyển_đổi trạng_thái của đơn_vị nhớ liền_kề .
+Ví_dụ như thiết_bị Millipede của IBM ghi_dữ_liệu bằng cách đốt_nóng hàng nghìn điểm tới 300 độ C .
+
+Hiện_nay , các nhà nghiên_cứu trên khắp thế_giới vẫn nỗ_lực tìm_kiếm vật_liệu mới thay_thế silicon nhằm giảm bớt chi_phí sản_xuất , đồng_thời tăng đốc_độ hoạt_động , hạ_thấp tiêu_hao năng_lượng và thu_hẹp kích_thước .
+Tuy_nhiên , sớm nhất cũng phải mất 2 thập_kỷ nữa thì những sản_phẩm đầu_tiên của thế_hệ vật_liệu tiếp_theo mới xuất_hiện vì hiện_tại chưa có sự_khẳng_định rõ_ràng nào về khả_năng sản_xuất đại_trà của chúng .
+
+Phan_Khương ( theo CNet )

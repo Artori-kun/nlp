@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DF3AA/
+title=Định dạng video mới cạnh tranh với Microsoft  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Định dạng video mới cạnh_tranh với Microsoft  
+Hãng chuyên về công_nghệ nghe_nhìn DivX vừa giới_thiệu phiên_bản phần_mềm video kỹ_thuật số mới , và tuyên_bố rằng công_cụ này có chất_lượng tương_đương , thậm_chí tốt hơn cả sản_phẩm của Apple hay Microsoft .
+
+DivX 6.0 là phiên_bản chính_thức lần thứ 6 của hãng có trụ_sở_tại San Diego ( Mỹ ) với mục_tiêu nâng_cao vị_thế của DivX trên thị_trường nghe_nhìn , và chủ_yếu hướng vào việc lưu_trữ phim cá_nhân chất_lượng cao .
+
+Bên_cạnh việc hỗ_trợ danh_mục cơ_bản , DivX 6.0 có khả_năng cài_đặt phụ_đề đa_ngôn_ngữ và tích_hợp công_cụ chuyển_đổi những định dạng file khác_nhau thành DivX .
+
+Sản_phẩm sẽ " tương_thích với hàng triệu đầu đĩa DVD của DivX và nhiều thiết_bị khác " , Jordan Greenhall , Trưởng_phòng hành_chính của DivX , khẳng_định .
+" Công_nghệ này mang lại khả_năng thể_hiện tối_ưu với chất_lượng hình_ảnh sắc nét hơn , độ tương_tác cao hơn bất_cứ sản_phẩm video nào trên thị_trường hiện_nay " .
+
+Công_nghệ DivX đã vươn lên từ một sản_phẩm được sử_dụng phổ_biến bởi những người tải phim Hollywood trực_tuyến trái_phép thành_công_cụ nghiêm_túc trong ngành_công_nghiệp điện_tử dân_dụng .
+
+Mặc_dù thiếu nguồn ngân_quỹ lớn để tiếp_thị sản_phẩm như Apple hay Microsoft , DivX đã vượt_qua nhiều cuộc thử_nghiệm trực_tuyến và giữ được khoảng_cách nhất_định với những hãng đối_thủ lớn .
+
+Hiện_nay , phiên_bản Windows Media 9 của Microsoft đã được công_nhận như là chuẩn hỗ_trợ thiết_bị đọc DVD thế_hệ mới .
+Trong_khi_đó , Nero , hãng nổi_tiếng với phần_mềm thu DVD và CD , cũng đang quảng_cáo cho Nero Digital , phiên_bản mới của chuẩn công_nghệ MPEG AVC nhằm thu_hút đầu_tư và hỗ_trợ từ phía các nhà_sản_xuất phần_cứng .
+
+P.T. ( theo CNet )

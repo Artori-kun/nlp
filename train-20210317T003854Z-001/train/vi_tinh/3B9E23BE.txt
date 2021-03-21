@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E23BE/
+title=Điện thoại USB đầu tiên sử dụng phần mềm Skype  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại USB đầu_tiên sử_dụng phần_mềm Skype  
+Được phát_triển bởi hãng Ipevo ( Đài_Loan ) với giá 27,42 USD , hàng nghìn sản_phẩm Free.1 tương_thích với dịch_vụ VoIP đã được tiêu_thụ chỉ trong_vòng 50 giờ sau khi ra_mắt .
+
+Chiếc điện_thoại USB này được thiết_kế đơn_giản với hai màu_đen hoặc trắng , cho_phép khách_hàng không_còn phải dùng_đến micro và tai_nghe để tạo cuộc_gọi qua Internet từ máy_tính sử_dụng phần_mềm phổ_biến của Skype .
+Thay vào_đó , họ sẽ nối Free.1 vào cổng USB , nhấn_nút S màu_đỏ để kích_hoạt và bắt_đầu nói_chuyện với người_khác như bình_thường .
+
+Để dùng dịch_vụ , người_sử_dụng chỉ cần nhấn_phím " + " .
+Nút " List " sẽ mở_ra danh_bạ điện_thoại , và phím điều_khiển ở giữa thiết_bị giúp khách_hàng cuộn xuống để tìm tên người cần_gọi , thay_vì phải dùng chuột như_trước .
+Một tính_năng thú_vị khác là Free.1 được cài nhạc chuông giống với điện_thoại cố_định để thông_báo cuộc gọi đến , do_đó người_dùng không cần phải theo_dõi qua máy_tính .
+
+Sản_phẩm sẽ được bán qua Internet tới người tiêu_dùng Mỹ tại trang bắt_đầu từ tháng 10 .
+Ipevo dự_định sẽ tung_ra thị_trường điện_thoại Skype không dây vào tháng 11 .
+
+P.T. ( theo InfoWorld )

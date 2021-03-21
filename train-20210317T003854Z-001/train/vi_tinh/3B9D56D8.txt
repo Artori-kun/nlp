@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D56D8/
+title=Lavasoft nâng cấp chương trình diệt spyware 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Lavasoft nâng_cấp chương_trình diệt spyware
+Hãng phần_mềm bảo_mật Lavasoft vừa ra_mắt phiên_bản mới của công_cụ diệt phần_mềm gián_điệp ( spyware ) miễn_phí AdAware .
+Với tên_gọi AdAware SE , chương_trình này làm_việc hiệu_quả hơn nhưng hơi chậm hơn bản cũ .
+
+Theo Lavasoft , bản SE có_nhiều cải_tiến lớn .
+Chương_trình có các file được mã_hóa để phòng_ngừa khả_năng bị ứng_dụng khác gỡ_bỏ , đồng_thời ngăn_chặn được cách tấn_công DLL injection ( một phương_pháp hack vào bộ_nhớ hệ_thống chứ không cần ghi thông_tin lên ổ_đĩa ) .
+Các quy_trình quét cũng_được mở_rộng hơn .
+
+AdAware SE cho_phép người_dùng sử_dụng một công_cụ CSI mới để dự_liệu và nhận_dạng hành_vi của phần_mềm gián_điệp mà chương_trình không_lưu trong bộ_nhớ .
+Ngoài_ra , phiên_bản mới này còn được bổ_sung thêm chức_năng chặn quảng_cáo pop up .
+
+Chương_trình tương_thích với các hệ_điều_hành Windows 98/Me / NT/2000/XP và có dung_lượng 2,49 MB .
+Bạn có_thể tải bản dùng_cho cá_nhân   .
+
+Thế_Nghĩa

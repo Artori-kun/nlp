@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE8E9/
+title=MSN công bố kế hoạch tìm kiếm bản đồ vệ tinh 
+cat=VI-TINH|SAN-PHAM-MOI
+
+MSN công_bố kế_hoạch tìm_kiếm bản_đồ vệ_tinh
+Microsoft vừa tiết_lộ ý_định phát_triển ứng_dụng Virtual Earth để tìm_kiếm các hình_ảnh 3D chụp từ trên_cao xuống với góc 45 độ .
+Chương_trình có_thể lấy thông_tin về các đại_lý bán_lẻ , nhà_hàng , điểm kết_nối Wi - Fi cho_đến danh_sách bất_động_sản ...
+
+Công_ty sẽ sử_dụng hình_ảnh lấy từ vệ_tinh của Cơ_quan khảo_sát địa_lý Mỹ và Pictometry International - công_ty hàng_đầu thế_giới về cung_cấp hình_ảnh ăngten kỹ_thuật_số , đồng_thời kết_hợp quảng_cáo bằng cách phủ lên đó các thông_tin về những doanh_nghiệp địa_phương .
+Khi nhấn chuột vào đường link tới các công_ty , người_sử_dụng sẽ truy_cập được vào những trang chi_tiết cho mỗi doanh_nghiệp .
+
+Mark Law , Giám_đốc sản_phẩm bộ_phận MapPoint của Microsoft , nói : " Chúng_tôi có_thể tìm_kiếm bất_kỳ thứ gì trong thế_giới thật để các bạn chiêm_ngưỡng chúng trong thế_giới ảo : nhà_hàng , danh_sách phim , giá gas , tình_hình giao_thông , giải_trí , tin_tức ...
+Ý_tưởng này là lập_nên nhiều mục để người_sử_dụng có_thể nhìn_thấy mọi_thứ ngay_lập_tức " .
+
+Law không cho_biết các lớp dữ_liệu có_được tài_trợ hay_không .
+Ví_dụ như SmartView của Yahoo được Intel hỗ_trợ một công_cụ tìm_kiếm hiển_thị những điểm kết_nối Wi - Fi quanh khu_vực địa_lý được dò_tìm .
+
+Virtual Earth có cùng mục_tiêu với Keyhole của và SmartView của Yahoo .
+Dante Pennacchia , Tổng giám_đốc tiếp_thị của hãng cho_biết : " Sự_khác_biệt giữa Virtual Eartth và Keyhole là rất lớn .
+Phần_mềm của Microsoft còn mang đến cho người_sử_dụng một tầm_nhìn ' toàn_cảnh ' , bao_gồm những biển chỉ_dẫn , cửa_sổ , cửa_ra_vào ... của một địa_điểm nhất_định mà Yahoo không cung_cấp được .
+
+Thuỳ_Hương ( theo   ClickZ )

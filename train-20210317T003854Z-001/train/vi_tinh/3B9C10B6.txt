@@ -1,0 +1,12 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/10/3B9C10B6/
+title=Microsoft ra mắt Content Management Server 2002 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft ra_mắt Content Management Server 2002
+Trong tuần_này , Microsoft sẽ tung_ra thị_trường phiên_bản Content Management Server 2002 , tích_hợp các công_cụ phát_triển của , .Net Framework và hỗ_trợ các dịch_vụ web dựa_trên XML .
+
+Hôm_nay ( 8/10 ) , Microsoft cũng công_bố cung_cấp giải_pháp EAI ( Enterprise Application Integration - Tích hợp Ứng_dụng Doanh_nghiệp ) cho Emery Forwarding , nhà_cung_cấp dịch_vụ vận_tải toàn_cầu và là một bộ_phận của Menlo Worldwide .
+
+Giải_pháp EAI này dựa_trên như Microsoft BizTalk Server và Visual Studio .NET , cho_phép Emery Forwarding dùng để phát_triển và sử_dụng các dịch_vụ web trong những quy_trình nghiệp_vụ của họ .
+
+Minh_Nghĩa ( theo EW )

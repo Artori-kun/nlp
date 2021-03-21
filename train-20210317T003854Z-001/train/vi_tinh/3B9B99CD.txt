@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/03/3B9B99CD/
+title=Điện thoại PDA dùng hệ điều hành Palm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại PDA dùng hệ_điều_hành Palm
+Hãng sản_xuất các thiết_bị điện_tử Hàn_Quốc Samsung dự_kiến tung_ra dòng_điện_thoại cầm_tay hỗ_trợ kỹ_thuật số cá_nhân ( PDA ) , SPH - M330 , sử_dụng hệ_điều_hành Palm .
+Sản_phẩm mới sẽ có_mặt trên thị_trường Mỹ vào tháng 4 .
+
+SPH - M330 là loại điện_thoại cầm_tay nhỏ_gọn , hoạt_động dựa_trên các mạng CDMA 2000 1X .
+Model này cũng có thêm chức_năng hỗ_trợ cho gpsOne , dịch_vụ có_thể nối tín_hiệu từ các trạm dựa_trên công_nghệ CDMA và vệ tinh GPS , nhằm xác_định_vị_trí của người_dùng .
+
+Sản_phẩm có màn_hình LCD cảm_ứng cỡ lớn , hiển_thị 256 màu , độ_phân_giải 160x240 pixel .
+SPH - M330 vừa có khả_năng thực_hiện các cuộc gọi như một chiếc điện_thoại di_động , vừa có chức_năng của một PDA .
+Ngoài_ra , nó còn có các tính_năng khác gồm : lựa_chọn 16 giai_điệu chuông , chức_năng speakerphone , cổng tia hồng_ngoại , chức_năng ghi_âm giọng_nói , quay_số bằng giọng_nói và hỗ_trợ cho camera .
+
+SPH - M330 nặng khoảng 0,14 kg với kích_thước 12x5,5x1,7 cm , nhỏ và nhẹ hơn model hiện_hành .
+Đi_kèm bộ pin chuẩn , sản_phẩm mới có_thể dùng để đàm_thoại trong 4 giờ và thời_gian chờ là 100 tiếng .
+
+Theo phát ngôn_viên của Samsung , Sonia Lee , hãng sẽ phân_phối SPH - M330 qua Sprint PCS Group .
+Hiện Sprint vẫn bán loại điện_thoại PDA đời trước SPH - I300 của hãng .
+
+Thanh_Tú ( theo PCW )

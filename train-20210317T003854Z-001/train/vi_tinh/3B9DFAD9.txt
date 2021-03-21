@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9DFAD9/
+title=Họ calculator cũng có siêu máy tính 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Họ calculator cũng có siêu máy_tính
+Các nhà nghiên_cứu của Đại_học Swanse ( Anh ) đã phát_minh ra một giao_diện mới dành cho loại máy_tính bỏ_túi truyền_thống .
+Họ tin rằng điều này sẽ tạo thuận_lợi hơn rất nhiều cho người_sử_dụng khi xử_lý các phép_tính khó .
+
+Thay_vì phải xác_định trình_tự nhập các thông_số , nguời dùng máy_tính này chỉ cần trình_bày phép_tính giống như làm trên giấy và thiết_bị sẽ làm_nốt phần còn_lại .
+Chiếc máy_tính có_thể kết_nối với những màn_hình cảm_ứng to và người_sử_dụng thậm_chí có_thể dùng ngón_tay để viết các ký_tự hoặc con_số .
+Nhà phát_minh Harold Thimbleby giải_thích rằng nhiều người rất lúng_túng về trình_tự mà họ cần nhập thông_tin trên những chiếc máy_tính mini .
+
+Mẫu thiết_bị của Đại_học Swanse còn có_thể xử_lý các phép_toán gần_như không_thể giải_quyết , chẳng_hạn e iπ , trên calculator thông_thường .
+Ví_dụ , nếu nguời dùng nhập phép_tính : x ! = 5040 thì máy_tính sẽ có_thể tìm_ra giá_trị của x .
+Nó sử_dụng một phần_mềm nhận_dạng ký_tự và đánh_giá những vị_trí tương_quan của các ký_tự để xác_định phép_toán tính cái_gì .
+Một_khi máy_tính đã nhận_ra các ký_tự , người_dùng có_thể di chuyuển hoặc chỉnh sửa khi cần .
+
+Thimbleby và đồng_sự đã mời 9 người_làm thử một loạt phép_toán và nhận_thấy khi dùng các máy_tính thông_thường , tỷ_lệ họ làm_sai do nhập thông_tin lên tới 51 % .
+Ví_dụ khi được yêu_cầu làm_phép tính 4 x - 5 thì họ thường có xu_hướng nhập nguyên xi 4 x - 5 và nhận_được kết_quả - 1 .
+Với thiết_bị của nhóm nghiên_cứu của Thimbleby , tỷ_lệ sai giảm_xuống 19 % .
+
+P.K. ( theo The Register )

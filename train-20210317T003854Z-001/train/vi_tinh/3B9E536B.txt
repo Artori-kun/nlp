@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E536B/
+title=HP mở trung tâm dịch vụ điện toán tiện ích 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP mở trung_tâm dịch_vụ điện toán tiện_ích
+Hệ_thống này cho_phép khách_hàng truy_cập và sử_dụng các nguồn tài_nguyên máy_tính chuyên dụng hiện_có của HP với nhiều mức_giá dịch_vụ khác_nhau .
+
+Thông_qua hệ_thống có tên Dịch_vụ điện toán linh_hoạt ( Flexible Computing Services ) , các doanh_nghiệp có_thể nhanh_chóng khai_thác thêm được nhiều nguồn tài_nguyên CNTT khi cần_thiết .
+Với giá_thành tính theo đơn_vị sử_dụng , dịch_vụ thích_hợp cho khách_hàng có nhu_cầu về điện toán chuyên sâu vượt_quá khả_năng cung_cấp của hệ_thống họ hiện_có .
+
+Flexible Computing Services cung_cấp khả_năng tính_toán dựa_trên tất_cả các nền_tảng công_nghệ , từ 32 bit_đến , bao_gồm hệ_thống máy chủ sử_dụng bộ_vi xử_lý và và máy chủ sử_dụng bộ_vi xử_lý .
+Những server này có_thể chạy với hầu_hết hệ_điều_hành và ứng_dụng phổ_biến hiện_nay .
+
+Các dịch_vụ mới được thiết_kế dành cho các ngành dầu_khí , dịch_vụ tài_chính , chăm_sóc sức_khỏe cũng_như những nhà_cung_cấp phần mềm độc_lập cần kiểm_tra phần_mềm trên kiến_trúc máy_tính lớn trước_khi tung_ra sản_phẩm .
+Xem thêm về dịch_vụ điện toán tiện_ích của HP tại .
+
+P.K .

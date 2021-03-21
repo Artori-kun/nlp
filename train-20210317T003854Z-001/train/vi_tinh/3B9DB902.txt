@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DB902/
+title=Intel ra mắt dòng Pentium IV mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel ra_mắt dòng Pentium IV mới
+Trung_tâm chú_ý của loạt chip cho máy để_bàn công_bố hôm_qua này là bộ_nhớ đệm ( cache ) dung_lượng 2 MB ( gấp_đôi so với Pentium cùng loại hiện_hành ) , tăng_thêm rất nhiều công_suất hoạt_động của máy_tính .
+
+Bốn bộ_vi xử_lý Pentium IV thuộc dòng 600 series mới có tốc_độ từ 3 GHz tới 3,6 GHz và tất_cả đều có bus đạt 800 MHz .
+Trong số này , loại Pentium IV 660 hàng_đầu có giá_bán là 605 USD với yêu_cầu đặt_mua tối_thiểu 1.000 chiếc trong_khi loại 630 có giá 224 USD .
+
+Nhà sản_xuất chip có trụ_sở ở Santa Clara , California ( Mỹ ) cũng mới giới_thiệu một thành_viên khác của gia_đình Pentium IV Extreme Edition với tốc_độ 3,73 GHz và bus 1.066 GHz. Loại chip này được thiết_kế dành giới chuyên_nghiệp và dân_nghiện game .
+
+Loạt sản_phẩm Pentium IV mới của Intel xét về một số mặt có_thể được coi là những phiên_bản cuối_cùng của loại này .
+Bắt_đầu từ quý II năm_nay , Intel sẽ bán_ra dòng thiết_bị xử_lý lõi kép với tốc_độ nhanh hơn nhiều các loại chip lõi đơn hiện_hành .
+
+Đối_thủ cạnh_tranh AMD của Intel cũng sẽ tung_ra chip 2 lõi vào mùa hè này , đồng_thời phát_hành một dòng chip máy_tính xách tay tiết_kiệm năng_lượng có_tên .
+
+P.K. ( theo CNet )

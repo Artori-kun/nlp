@@ -1,0 +1,42 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E0328/
+title=Onspeed tăng tốc độ lướt web 500% 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Onspeed tăng tốc_độ lướt web 500 %
+Giải_pháp tối_ưu cho người_sử_dụng dial - up modem để lướt web , sử_dụng công_nghệ nén " độc_nhất vô_nhị " là Content Sentive Compression ( CSC ) để " gói " các thành_phần cấu_thành một trang web hoặc nội_dung của thư_điện_tử .
+Kết_quả là tốc_độ tải về của website và gửi_thư gia_tăng lên 5 lần .
+
+Phiên_bản mới nhất Onspeed ( OS ) 3.6.68 có dung_lượng 3,01 MB , tương_thích với mọi Windows , hỗ_trợ hầu_hết thiết_bị kết_nối như dial - up modem , IDSN , DSL , cable modem ...
+Có_thể tải bản dùng thử tại : .
+
+Sau_khi cài_đặt , chương_trình sẽ nạp chung vào quá_trình khởi_động Windows và có biểu_tượng quả_bóng màu_xanh trên khay đồng_hồ .
+Click phải chuột vào biểu_tượng đó và chọn Settings để thiết_lập một số tính_năng quan_trọng cho chương_trình .
+
+Trong cửa_sổ Settings , ở tab Image Quality , hãy kéo thanh trượt về tận_cùng bên_trái ( phía Accelerator : Maximum ) để gia_tăng tối_đa khả_năng nén hình_ảnh của OS .
+Khi trang web được tải xong , chất_lượng nguyên_thủy của hình_ảnh sẽ vẫn giữ_nguyên .
+
+Ở tab Connection , gõ vào tên và password đăng nhập bất_kỳ cho chương_trình .
+Tên và password này sẽ luôn xuất_hiện mỗi khi người_dùng kết_nối vào mạng , nó chỉ mất_đi khi chương_trình bị gỡ_bỏ .
+
+Ở tab Features , đánh_dấu cho cả_hai thẻ Enable Macromedia Flash Compression ( nén_dữ_liệu với các file Macromedia flash ) và Block in - page advertisements ( ngăn_chặn toàn_bộ quảng_cáo xuất_hiện trong một trang web ) để cải_thiện hơn_nữa tốc_độ lướt web.  
+Sau khi thiết_lập xong các tính_năng , chọn OK để hoàn_tất .
+
+Tiếp_đó , hãy click phải chuột vào biểu_tượng quả_bóng và chọn thẻ Pop - Up Blocker để thiết_lập một số thông_số khác của chương_trình .
+Tại tab Options , đánh_dấu cho hai thẻ Enable PopUp Blocker ( ngăn_chặn pop up tự_bung ) và Block floating Flash - Ads ( ngăn_chặn các quảng_cáo dạng flash động ) .
+Tab Logging cho_biết chi_tiết số pop - up mà chương_trình đã ngăn_chặn .
+Cuối_cùng , chọn OK để hoàn_tất .
+
+Chương_trình còn có công_cụ chẩn_đoán tốc_độ đường truyền .
+Hãy click phải chuột vào biểu_tượng quả_bóng và chọn Help > Diagnostic .
+Trong cửa_sổ , Diagnostics xuất_hiện , nếu muốn đo_lường tốc_độ đường truyền hiện_thời của modem thì nhấn General .
+Kết_quả sẽ được_thể hiện_tại cửa_sổ Diagnostics .
+
+Cần lưu_ý là OS chỉ tăng_tốc lướt web , không làm_tăng kích_thước các thông_số kết_nối nên sẽ không tăng_tốc download file .
+Do_đó , nên sử_dụng thêm một chương_trình tăng_tốc download song_song với OS , tốt nhất là Internet Download Manger .
+Bên_cạnh_đó , OS không tương_thích để tăng_tốc cho các webite bảo_mật ( HTTPS ) .
+Tính_năng tăng_tốc của chương_trình sẽ tự_động tắt khi người_sử_dụng truy_cập vào các trang web loại này .
+
+Trong_khi lướt web , không_nên chạy thêm bất_cứ một chương_trình thứ_ba nào khác như nghe_nhạc chẳng_hạn .
+
+Nên kết_hợp sử_dụng trình_duyệt Mozilla Firefox với OS để đạt được tốc_độ duyệt web tối ưu nhất.
+( theo Thanh_Niên )

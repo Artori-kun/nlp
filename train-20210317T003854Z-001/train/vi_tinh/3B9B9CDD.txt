@@ -1,0 +1,27 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/03/3B9B9CDD/
+title=Tháng 5, Simputer sẽ xuất hiện trên thị trường 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tháng 5 , Simputer sẽ xuất_hiện trên thị_trường
+Đây là loại   có thiết_kế đơn_giản , rẻ_tiền , do 7 kỹ_sư người Ấn_Độ chế_tạo .
+Máy có_thể nhận_dạng giọng_nói theo tiếng Anh và 3 ngôn_ngữ địa_phương .
+
+Theo Giám_đốc điều_hành của Công_ty Phần_mềm Encore ( trụ_sở ở Bangalore ) , ông Vinay Deshpande , mức_giá dự_kiến của Simputer là 250 USD .
+Nếu dùng loại có màn_hình màu thì nó sẽ được bán với giá 300 USD .
+
+Chúng_tôi hy_vọng sẽ sản_xuất 50.000 máy trong_vòng 1 năm đầu và khoảng 300-500 nghìn chiếc trong 2 năm tiếp_theo , ông Deshpande nói .
+
+Được hỗ_trợ bởi tổ_chức phi lợi_nhuận Simputer Trust , thiết_bị này có kích_cỡ lớn hơn máy_tính cầm_tay thông_thường và sử_dụng hệ_điều_hành Linux miễn_phí .
+Phần_mềm của Simputer được thiết_kế phù_hợp với đối_tượng sử_dụng là nông_dân , giúp họ có_thể dễ_dàng tìm_kiếm giá_cả các loại hàng_hóa .
+Đồng_thời nó cũng có khả_năng nhận_dạng giọng_nói theo ngôn_ngữ địa_phương để giúp những người sử_dụng bị mù_chữ .
+
+Với mức_giá 250 USD , Simputer rẻ chỉ bằng một phần ba máy_tính thông_thường và chỉ bằng giá một chiếc tivi màu .
+Mục_đích của những người chế_tạo_ra Simputer là nhắm vào số_đông những người_sống ở khu_vực nông_thôn ít_có điều_kiện tiếp_cận công_nghệ thông_tin .
+
+Thiết_bị độc_đáo này lần_đầu_tiên được công_bố vào tháng 4 năm_ngoái .
+Nó có_thể kết_nối Internet và có các smart card cá_nhân .
+Simputer cũng nói được_tiếng Anh và một số ngôn_ngữ địa_phương .
+
+Hiện Encore đã ký hợp_đồng với hai công_ty có trụ_sở ở Bangalore để sản_xuất Simputer và liên_doanh với một công_ty ( trụ_sở ở Singapore ) để tiếp_thị sản_phẩm này ở khu_vực châu_Á .
+
+Thanh_Tú ( theo Reuters )

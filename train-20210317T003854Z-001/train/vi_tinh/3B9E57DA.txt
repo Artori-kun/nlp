@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E57DA/
+title=Dự thi TTVN 2005: Thoại với Vn3DPocket 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN 2005 : Thoại với Vn3DPocket
+Phần_mềm gọi_điện qua Internet bằng giao thức SIP không dây cho Pocket PC được thiết_kế bởi Thái_Huỳnh_Nghĩa và Nguyễn_Duy_Hưng , đều là du_học_sinh nước_ngoài .
+Đây là sản_phẩm thuộc loại mới ở Việt_Nam .
+
+Trước thực_tế là các thiết_bị hỗ_trợ cá_nhân số ( PDA - Personal Digital Assistant ) ngày_càng trở_nên quen_thuộc trong cuộc_sống hằng_ngày , nên các tác_giả của Vn3DPocket   đã trăn_trở với ý_tưởng về một phần_mềm gọi_điện ( softphone ) trên hầu_hết các thiết_bị hỗ_trợ cá_nhân số .
+Đầu_tiên là Pocket PC , tiếp đến là SmartPhone , Symbian , PalmOS
+Sản_phẩm Vn3DPocket cho_phép người_sử_dụng gọi_điện miễn_phí từ thiết_bị PDA ( Pocket PC , SmartPhone ) tới PDA hoặc máy_tính trên toàn thế_giới với chất_lượng không khác_gì hệ_thống điện_thoại truyền_thống ; Gửi SMS ( phụ_thuộc vào gateway SMS ) , Chat ( trò_chuyện bằng text ) hay thậm_chí là hội_thảo .
+
+Danh_bạ của Vn3DPocket có_thể lưu hàng chục nghìn số điện_thoại , với bộ_máy tìm_kiếm chọn_lọc cho_phép tìm_kiếm nhanh_chóng và gọi_điện tức_thời chỉ bằng một click vào biểu_tượng .
+Sản_phẩm hỗ_trợ các free codex : G711 , GSM , ilbc , etc và h oạt động với tất_cả các SIP server .
+
+" Điều quan_trọng hơn_cả là Vn3DPocket là một dự_án mã nguồn_mở .
+Vì_vậy mà người_sử_dụng có_thể tạo phong_cách cho riêng mình bằng việc tham_gia phát_triển cùng chúng_tôi " , Huỳnh Thái_Nghĩa cho_biết .
+" Để giúp mọi_người thử_nghiệm , chúng_tôi đã mở trang web www.Vn3DPocket.com và đăng_tải thông_tin về Vn3DPocket " .
+
+Tại địa_chỉ trên , người quan_tâm có_thể đặt câu_hỏi liên_quan tới kỹ_thuật , lập_trình Pocket PC , Smartphone và những vấn_đề xung_quanh Vn3DPocket tại forum của website , đồng_thời cũng_được phép tham_gia thử_nghiệm bản beta 1 của Vn3DPocket .
+
+N.H .

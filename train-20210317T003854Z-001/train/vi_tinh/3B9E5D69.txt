@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5D69/
+title=OpenOffice 2.0.1 trong ổ USB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+OpenOffice 2.0.1 trong ổ USB
+Gói ứng_dụng văn_phòng mã mở giờ đã có_thể được cài trong ổ flash , nhưng một_số chuyên_gia công_nghệ cho_rằng với dung_lượng 144 MB , phần_mềm quá nặng để có_thể thực_sự mang_lại khả_năng lưu_động .
+
+Phiên_bản mới nhất Portable OpenOffice hoạt_động trên ổ USB , hỗ_trợ đầy_đủ Windows 2000 và có tất_cả những ứng_dụng trong bản OpenOffice 2.0.1 .
+Nó chiếm khoảng 144 MB dung_lượng ổ trong_khi bộ ứng_dụng văn_phòng đầy_đủ là 300 MB .
+
+Theo John Haller , chuyên_gia phát_triển Portable OpenOffice , phiên_bản có_thể thay_thế máy_tính xách tay khi đi công_tác xa hoặc được sử_dụng như một bộ sao_lưu dự_phòng ( back up ) cho các ứng_dụng trên PC .
+
+Tuy_vậy , Gary Barnett , Giám_đốc hãng nghiên_cứu Ovum , cho_rằng 144 MB vẫn là quá lớn do ổ USB thông_thường chỉ khoảng 256 MB .
+" Nó quá nặng để có_thể hoạt_động linh_hoạt .
+Tôi nghĩ dung_lượng thích_hợp nhất sẽ là khoảng 40 MB và sản_phẩm không nhất_thiết phải được trang_bị đủ mọi tính_năng .
+Người_dùng chỉ cần các công_cụ xem và chỉnh sửa cơ_bản để có_thể tạo tài_liệu cũng_như duyệt văn_bản của người_khác " , Barnett nói .
+
+Barnett cũng cho_rằng OpenOffice nên được truy_cập trực_tuyến , tương_tự như trình xử_lý văn_bản , thay_vì phụ_thuộc vào ổ USB rất dễ bị thất_lạc .
+" Dù ở bất_cứ đâu , người_ta cũng tìm được một nơi có_thể kết_nối Internet , do_vậy , mọi_người sẽ đánh_giá cao khả_năng lưu tiếp_cận kho tài_liệu và ứng_dụng OpenOffice online " , ông khẳng_định .
+
+Portable OpenOffice.org 2.0.1 có_thể được_tải .
+
+P.T. ( theo CNet )

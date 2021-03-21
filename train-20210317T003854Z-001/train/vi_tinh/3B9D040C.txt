@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D040C/
+title=AMos - giải pháp ERP cho doanh nghiệp vừa và nhỏ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+AMos - giải_pháp ERP cho doanh_nghiệp vừa và nhỏ
+Hôm_qua , tại Hà_Nội , Phòng Thương_mại và công_nghiệp Việt_Nam cùng Công_ty VietSoftware giới_thiệu hệ quản_trị tài_nguyên doanh_nghiệp và định_hướng thương_mại điện_tử .
+Sản_phẩm này có giá từ 5.000 đến 15.000 USD , tùy_theo yêu_cầu của khách_hàng .
+Thời_gian triển_khai hệ_thống tối_thiểu là 6 tháng .
+
+Phần_mềm này được VietSoftware phát_triển dựa_trên công_nghệ của Compiere .
+Giải_pháp giúp sản_phẩm có đầy_đủ nền_tảng ERP cần_thiết để có_thể thiết_kế cho phù_hợp với đặc_thù_riêng của môi_trường hoạt_động kinh_doanh tại Việt_Nam .
+AMos   cho_phép điều_hành và quản_lý doanh_nghiệp từ những nghiệp_vụ cơ_bản như bán_hàng , mua_hàng , kế_toán , tài_chính đến giao_dịch thương_mại điện tử.  
+AMos là một hệ_thống mở , với giao_diện web và desktop .
+Nó có_thể hỗ_trợ cho nhiều hệ kế_toán , cách tính thuế , giá với đa_ngôn_ngữ , phù_hợp với tổ_chức của doanh_nghiệp có văn_phòng giao_dịch và công_ty con_ở nhiều nơi khác_nhau .
+
+Trần_Doãn_Tuấn , Giám_đốc Công_ty cổ_phần Alliant , bày_tỏ : " Tôi thấy sản_phẩm này có ưu_điểm là sử_dụng mã nguồn_mở .
+Nếu ứng_dụng vào thực_tế mà hợp_lý thì giá_thành như_vậy hoàn_toàn không_đắt .
+Tôi sẽ cân_nhắc đến việc mua AMos " .
+
+Tuy_nhiên , nhiều doanh_nhân vẫn còn băn khoăn về khả_năng ứng_dụng của mô_hình vào môi_trường kinh_doanh tại Việt_Nam .
+Thực_tế là đã có_nhiều được giới_thiệu , nhưng ít phát_huy được tính khả_thi .
+
+Chị_Thủy , Kế_toán Công_ty Hồng_Phúc , cho_biết : " Chúng_tôi rất quan_tâm đến mô_hình ERP và trước_đây từng tham_khảo sản_phẩm của nước_ngoài , nhưng không mua được vì quá đắt .
+Tuy_nhiên , tôi cũng không thấy ấn_tượng lắm với những gì VietSoftware giới_thiệu " .
+
+Ông Nguyễn_Văn_Thảo , Giám_đốc Trung_tâm Xúc_tiến phát_triển phần_mềm doanh_nghiệp , lý_giải : " Có_thể AMos chưa hoàn_hảo , nhưng chúng_tôi hy_vọng có_được sự_ủng_hộ của cộng_đồng để việc ứng_dụng công_nghệ thông_tin trong quản_lý thực_sự nâng_cao năng_lực cạnh_tranh của các doanh_nghiệp " .
+
+Nguyễn_Hằng

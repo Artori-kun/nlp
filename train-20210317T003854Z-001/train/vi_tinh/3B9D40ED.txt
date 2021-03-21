@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/07/3B9D40ED/
+title=Juniper Networks thay đổi cách triển khai IPv6 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Juniper Networks thay_đổi cách triển_khai IPv6
+Hôm_qua , hãng cung_cấp giải_pháp mạng và bảo_mật Mỹ tung_ra thị_trường Netscreen ScreenOS , hệ_điều_hành sản_phẩm bảo_mật chuẩn của công_ty , với khả_năng sẵn_sàng hỗ_trợ Giao thức Internet version 6 ( ) .
+ 
+Với sự_sẵn_sàng của hệ_điều_hành ScreenOS hỗ_trợ IPv6 trong các sản_phẩm và hệ thống NetScreen - 5XT , - 204 , - 208 , - 500 và - 5200 , Juniper Networks đã đưa_ra giải_pháp hoàn_toàn hỗ_trợ IPv6 được kiểm_tra và chứng_nhận bao_gồm các sản_phẩm mạng và bảo_mật .
+Những giải_pháp này cho_phép doanh_nghiệp và nhà_cung_cấp dịch_vụ triển_khai hạ_tầng IPv6 từ mạng lõi đến mạng biên , đảm_bảo sự_hài_lòng của người_dùng và giảm rủi_ro khi triển_khai .
+
+Ông Adam Judd , Phó_chủ_tịch Juniper Networks châu_Á - Thái_Bình_Dương , nhận_định : Châu_Á - Thái_Bình_Dương là khu_vực chấp_nhận IPv6 nhanh_nhất .
+Điều này được thúc_đẩy bởi các điều_khoản pháp_lý hỗ_trợ tại một số quốc_gia và dự_đoán về nhu_cầu lớn địa_chỉ dành cho các thiết_bị điện_tử kết_nối IP .
+
+Nhu_cầu ngày_càng tăng về thông_tin di_động trên toàn_cầu , mạng gia_đình , chơi game trực_tuyến , dịch_vụ video và các ứng_dụng đang phổ_biến khác cũng_như sự_thiếu_hụt các địa_chỉ IPv4 đặc_biệt tại những nước đang phát_triển tiếp_tục thúc_đẩy sự_phát_triển của một hạ_tầng IP duy_nhất có khả_năng đáp_ứng được nhu_cầu trong tương_lai .
+Trong_khi IPv6 đưa_ra một lộ_trình chuyển_đổi rõ_ràng , vấn_đề bảo_mật đã được chứng_minh là một trong các thách_thức khó_khăn nhất trong quá_trình triển_khai IPv6 .
+
+Thanh_Tú ( theo_IT )

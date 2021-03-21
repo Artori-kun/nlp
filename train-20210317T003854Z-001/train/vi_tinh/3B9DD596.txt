@@ -1,0 +1,24 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DD596/
+title=Một loạt máy tính dùng chip lõi kép được công bố 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Một loạt máy_tính dùng chip lõi kép được công_bố
+Một_số hãng chế_tạo PC trong_đó có Dell , Alienware vào_đầu tuần tới sẽ bắt_đầu bán_ra các sản_phẩm dùng bộ xử_lý lõi đôi do Intel sản_xuất .
+Công_ty chip số 1 thế_giới dự_kiến đến cuối năm 2006 , 70 % số bộ_vi xử_lý của server và 85 % của máy để_bàn và notebook sẽ là lõi_kép .
+
+Các chip Intel lõi kép có tốc_độ 3,2 GHz ( chậm hơn so với Pentium IV hiện_hành ) và có kênh dẫn bus đạt 800 MHz .
+Mỗi lõi có 1 MB bộ_nhớ tạm_thời cache , thấp hơn mức 2 MB của các chip lõi_đơn .
+Tuy_nhiên , Intel khẳng_định công_suất tổng_thể của các sản_phẩm mới tốt_hơn so với những loại vi xử_lý hiện_hành .
+
+Dòng chip lõi kép mới cũng áp_dụng công_nghệ siêu_phân luồng HyperThreading , cho_phép các lõi thực_hiện đồng_thời nhiều tác_vụ hơn .
+Một phiên_bản ( có tên mã là Smithfield ) của Intel không_dùng HyperThreading sẽ ra_mắt cuối quý này .
+
+Việc phát_hành chip lõi kép của Intel được tiến_hành trùng dịp kỷ_niệm 40 năm ra_đời ( 19/4 ) , lý_thuyết nổi_tiếng về quá_trình tăng gấp_đôi số bóng bán_dẫn ( transistor ) trên chip theo chu_kỳ 2 năm .
+
+Trong_khi_đó , đối_thủ AMD cũng có kế_hoạch phát_hành chip Opteron lõi kép cho server và máy trạm vào ngày 21/4 .
+HP hiện đã đặt_trước một số đơn_hàng cho sản_phẩm này .
+Giới quan_sát bình_luận AMD khó có_thể làm_hỏng bữa đại_tiệc lần_này của Intel .
+Vào năm 2000 , Intel lặng_lẽ rút_ngắn thời_hạn phát_hành chip 1 GHz đầu_tiên của họ từ tháng 6 xuống ngày 8/3 .
+Sau_khi tin này bung_ra , AMD cũng đã lùi ngay ngày trình làng một sản_phẩm tương_tự xuống vài tháng để công_bố vào 6/3 , gây tiếng_vang trước Intel .
+
+Q.T. ( theo CNet )

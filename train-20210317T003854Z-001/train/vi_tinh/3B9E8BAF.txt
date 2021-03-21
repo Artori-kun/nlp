@@ -1,0 +1,23 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E8BAF/
+title=Google ra mắt dịch vụ lưu lịch trình công tác 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google ra_mắt dịch_vụ lưu lịch_trình công_tác
+Hãng sở_hữu công_cụ tìm_kiếm phổ_biến nhất thế_giới vừa phát_hành chương_trình mới , cho_phép lưu và nhắc báo sự_kiện , các buổi gặp_gỡ ... qua web .
+Phiên_bản bắt_đầu được thử_nghiệm trực_tuyến từ ngày 12/4 .
+
+Carl Sjogereen , Giám_đốc sản_xuất của Google , tỏ_ra thận_trọng khi bàn_về Google Calendar .
+Ông phủ_nhận quan_điểm cho_rằng dự_án này liên_quan đến gói ứng_dụng văn_phòng mã mở OpenOffice.org , nhưng tiết_lộ dịch_vụ mới sẽ được tích_hợp trong nhiều sản_phẩm như hòm_thư Gmail và trang_chủ cá_nhân Google .
+
+Người sử_dụng có_thể soạn các thông_tin về sự_kiện mới qua e - mail hoặc dùng tính_năng QuickAdd .
+Mỗi khi có một cuộc hẹn được khởi_tạo , Google Calendar sẽ gửi_thư mời đến những người tham_gia khác và gửi_thư nhắc báo cho người_sử_dụng .
+
+Ngoài_ra , Google cho_phép mọi_người tìm_kiếm và đăng_ký những Calendar công_cộng như lịch thi_đấu của một đội_bóng_đá , lịch chiếu_phim ... và tích_hợp vào Calendar riêng của họ .
+
+Google Calendar , hỗ_trợ chuẩn trao_đổi dữ_liệu iCal , sẽ tạo điều_kiện cho mọi_người chia_sẻ lịch với_nhau bằng công_nghệ và có khả_năng sẽ đánh_bật dịch_vụ gửi_thư_mời trực_tuyến Evite.com của công_ty_IAC / InterActive .
+
+Hơn một năm_nay , cộng_đồng những người viết blog đã tự đoán rằng Google sớm_muộn cũng sẽ tham_gia vào lĩnh_vực Calendar .
+" Tôi đảm_bảo họ sẽ làm điều_đó " , Jeremy Zawodny , một kỹ_sư của Yahoo , viết trên blog từ tháng 2 năm_ngoái .
+" Có quá ít những biến_động trong thế_giới Calendar những năm_qua và có_lẽ Google đang mong_muốn thay_đổi tình_hình đó " .
+
+P.T. ( theo PC World , AP )

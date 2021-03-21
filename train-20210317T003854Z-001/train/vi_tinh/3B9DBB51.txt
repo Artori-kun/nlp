@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DBB51/
+title=AMD thử nghiệm chip Athlon 64 lõi kép 
+cat=VI-TINH|SAN-PHAM-MOI
+
+AMD thử_nghiệm chip Athlon 64 lõi_kép
+Hy_vọng vượt lên trong cuộc_đua hướng tới công_nghệ trước đối_thủ Intel , AMD vừa trình_làng phiên_bản lõi kép của dòng_vi xử_lý Athlon 64 dùng_cho desktop .
+Dự_kiến , sản_phẩm này sẽ có_mặt trên thị_trường vào nửa cuối năm_nay .
+ 
+Bộ vi xử_lý lõi kép Athlon 64 sẽ hoạt_động ở tốc_độ 2,4 GHz với công_suất tối_đa chỉ có 100 W , sử_dụng transitor kích_thước 90 nm .
+Sản_phẩm được sản_xuất tại nhà_máy mới của AMD đặt tại Dresden ( Đức ) .
+ 
+Chúng_tôi đang trong quá_trình sản_xuất và sẽ đưa_ra thị_trường vào_khoảng nửa cuối năm_nay , Teresa deOnis , Giám_đốc quản_lý sản_phẩm của AMD , cho_biết .
+Khi_đó , bộ_vi xử_lý loại này sẽ có_mặt trên từng PC cũng_như trong tay các nhà xây_dựng và phát_triển hệ_thống .
+
+Bộ vi xử_lý đa lõi có_thể chứa 2 hoặc nhiều CPU trên cùng 1 mảnh silicon .
+Đây được xem là giải_pháp nhằm giảm mức tiêu_thụ năng_lượng khi máy_tính hoạt_động ở tốc_độ trên 3,5 GHz .
+Ở mức này , một CPU đơn_thuần sẽ có_thể ngốn hết công_suất 150 W .
+Nếu sử_dụng bộ_vi xử_lý lõi_kép , năng_lượng tiêu_thụ chỉ tương_đương với 1 CPU đơn khi chạy ở tốc_độ 3,5 GHz trong_khi hiệu_quả xử_lý lại tăng_lên gấp_đôi .
+
+Đây là động_thái mới nhất của AMD trong cuộc_đua song_mã với Intel hướng đến công_nghệ đa_lõi .
+Năm_ngoái , cả 2 công_ty bắt_đầu tung_ra thông_tin về phiên_bản lõi kép của dòng_vi xử_lý hiện_tại .
+Đầu tháng 2 , Intel cho_biết sẽ ra_mắt chip Pentium loại này vào quý_II .
+
+Đối_với bộ_vi xử_lý dành cho server , AMD cho_biết phiên_bản lõi kép của đã sẵn_sàng cho việc sản_xuất đại_trà và sẽ có_mặt trên thị_trường vào giữa năm_nay .
+Intel thì dự_kiến bổ_sung loại vi xử_lý này cho dòng Pentium trong thời_gian tới .
+Với_chip , phiên_bản lõi kép sẽ có_mặt trên thị_trường đầu_năm 2006 .
+
+Văn_Thắng ( theo InformationWeek )

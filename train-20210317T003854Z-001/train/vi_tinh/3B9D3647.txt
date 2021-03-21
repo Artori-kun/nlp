@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3647/
+title=Nén tập tin Flash bằng Sparkle SWF Optimizer 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Nén tập_tin Flash bằng Sparkle SWF Optimizer
+Mặc dù flash ( có đuôi mở_rộng * .swf ) là một trong những file chạy có kích_thước nhỏ nhất hiện_nay , bạn vẫn có_thể làm nó trở_nên gọn hơn_nữa với Sparkle SWF Optimizer .
+
+Bằng cách loại_bỏ những yếu_tố trùng_lặp , chương_trình có_thể nén tập_tin flash xuống tới 70 % mà không làm suy_giảm chất_lượng .
+
+Sparkle SWF Optimizer có giao_diện đơn_giản , rất dễ sử_dụng .
+Nếu là người_yêu thích sưu_tầm các loại thiệp và hoạt_hình flash , bạn sẽ tiết_kiệm được rất nhiều không_gian ổ cứng với phần_mềm này .
+Còn nếu bạn là nhà phát_triển web chuyên_nghiệp , chương_trình sẽ giúp bạn xây_dựng những trang web có tốc_độ tải xuống nhanh hơn , tiết_kiệm được băng_thông và hosting .
+
+Phần_mềm nặng 2 MB .
+Bạn có_thể tải bản dùng_thử , bị hạn_chế một số chức_năng , .
+
+T.N .

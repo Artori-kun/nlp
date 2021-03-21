@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/10/3B9B55A7/
+title=Bộ xử lý PowerPC đạt tốc độ 1 GHz 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bộ xử_lý PowerPC đạt tốc_độ 1 GHz
+Tại diễn_đàn Microprocessor , IBM sẽ ra_mắt chip mới có tốc_độ 750 MHz và sẽ đạt 1 GHz trong những bản tiếp_theo .
+PowerPC 750FX là bộ xử_lý đầu_tiên dựa_trên quy_trình sản_xuất CMOS9S .
+
+Được kết_hợp với các công_nghệ cải_tiến mới như dây_đồng , công_nghệ cách_điện ( SOI ) và công_nghệ 0,13 micron , sản_phẩm này sẽ đạt tốc_độ xử_lý cao và tiêu_thụ rất ít điện_năng .
+
+Ông Dean Parker , Giám_đốc marketing sản_phẩm của IBM , cho_biết : Đạt tốc_độ 1 GHz , chip 750FX sẽ chỉ_tiêu_thụ khoảng 5 W điện , như_vậy bạn có_thể sử_dụng nó cho nhiều ứng_dụng khác , bao_gồm những thiết_bị di_động " .
+
+750FX là một phần trong nỗ_lực gần_đây của IBM nhằm tạo_ra một dòng_chip PowerPC 2 GHz với ưu_điểm là tiêu_thụ ít điện_năng .
+
+Apple cho_biết sẽ áp_dụng sản_phẩm này trên các thiết_bị để_bàn và di_động của họ .
+Tuy_nhiên , ông Parker nói , mục_tiêu của họ là nhắm vào các sản_phẩm như bộ định_tuyến , bộ chuyển mạch và những sản_phẩm khác .
+Ngoài_ra , người_dùng có_thể sử_dụng trong các thiết_bị lưu_trữ mạng và các máy chủ loại nhỏ .
+
+Minh_Nghĩa ( theo CNET )

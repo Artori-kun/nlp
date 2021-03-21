@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9DFDA5/
+title=HP giới thiệu nhóm giải pháp bảo vệ doanh nghiệp  
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP giới_thiệu nhóm giải_pháp bảo_vệ doanh_nghiệp  
+Theo chiến_lược Văn_phòng thông_minh dành cho các công_ty vừa và nhỏ , HP cùng các đối_tác Intel và Microsoft vừa công_bố loạt giải_pháp thông_minh mới , giúp khách_hàng bảo_vệ công_việc kinh_doanh khỏi những đe_dọa như virus và thiên_tai .
+
+Nhóm giải_pháp " Bảo_vệ doanh_nghiệp " của HP nhấn_mạnh vào ba lĩnh_vực : b ảo vệ an_toàn bảo_mật ( tránh virus , spyware , spam , xâm_nhập bất_hợp_pháp ... ) , b ảo vệ dữ_liệu ( cung_cấp các công_cụ để có_thể tự_động nhận , gửi và bảo_vệ thông_tin , lưu_trữ và phục_hồi dữ_liệu một_cách nhanh_chóng và đáng_tin_cậy ) , đ ảm bảo tính liên_tục cho doanh_nghiệp ( cho_phép khách_hàng liên_tục vận_hành hệ_thống kinh_doanh kể_cả lúc có sự_cố như mất nguồn_điện , lũ , bão và lốc_xoáy ) .
+
+Những sản_phẩm và dịch_vụ mới bao_gồm HP Smart Desktop Management Service ( bảo_vệ dữ_liệu và bảo_mật mạng máy_tính để_bàn ) ,   HP Proliant Essentials Vulnerability and Patch Management Pack ( cung_cấp công_cụ quản_trị tích_hợp và đánh_giá những điểm_yếu chung của máy_chủ , bên_cạnh các giải_pháp máy_chủ , máy trạm phiến_mỏng , thiết_bị lưu_trữ ... để giúp bảo_vệ và duy_trì dữ_liệu doanh_nghiệp luôn trong tình_trạng sẵn_sàng ) .
+
+Một trong những dòng sản_phẩm mới nhất của nhóm giải_pháp trên là HP StorageWorks Ultrium 448 Tape Drive , loại băng_từ cho_phép phục_hồi sự_cố nhanh và dễ_dàng thông_qua tính_năng khắc_phục sự_cố   Exclusive One - Button Disaster Recovery .
+Được thiết_kế đồng_bộ với các dòng máy chủ sơ_cấp và tầm_trung , Ultrium 448 Tape Drive có khả_năng nén 400 GB và lưu_trữ hơn 172,8 GB / giờ .
+
+Một tính_năng khác có tên HP Integrated Lights - Out Advanced Pack ( iLO ) , được lựa_chọn thêm trên hầu_hết các máy chủ HP ProLiant , giúp duy_trì tính liên_tục trong kinh_doanh khi sử_dụng dữ_liệu từ_xa .
+iLO cho_phép nhân_viên quản_trị máy chủ cài đặt thêm dịch_vụ gia_tăng hoặc cập_nhật phần_mềm , phân_tích và điều_chỉnh cấu hình đặt sẵn trên máy chủ trong văn_phòng từ xa hoặc thậm_chí bằng máy_tính bỏ_túi ngay trên đường .
+
+Theo Philip Lee , Giám_đốc giải_pháp doanh_nghiệp vừa và nhỏ của HP châu_Á - Thái_Bình_Dương và Nhật_Bản , khi gặp các sự_cố bảo_mật hoặc tai_họa , yếu_tố sống_còn của doanh_nghiệp nhỏ là ở khả_năng phục_hồi nhanh_chóng .
+Trong môi_trường kinh_doanh dựa_trên dữ_liệu , sự_chuẩn_bị về hạ_tầng công_nghệ thông_tin là yếu_tố cần_thiết để tiếp_tục kinh_doanh .
+Loạt giải_pháp " Bảo_vệ doanh_nghiệp " mới của HP giúp đơn_giản_hóa quy_trình này .
+
+Tham_khảo thêm về các giải_pháp và dịch_vụ " Bảo_vệ doanh_nghiệp vừa và nhỏ " của HP tại : .
+
+Q.T .

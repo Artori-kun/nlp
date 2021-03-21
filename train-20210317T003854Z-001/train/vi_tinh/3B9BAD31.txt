@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAD31/
+title=Camera hồng ngoại siêu nhỏ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Camera hồng_ngoại siêu_nhỏ
+Những người cần chụp_hình hoặc quay_phim trong bóng_tối sẽ có_thể được trợ_giúp nhờ 2 loại camera hồng_ngoại nhỏ nhất từ trước đến_nay , do hãng Indigo Systems và Irvine Systems tung_ra hồi_đầu tuần ở Mỹ .
+
+Mỗi chiếc đều có kích_cỡ vài cm , vừa nhỏ để khít vào thiết_bị đeo trên đầu_người .
+Các loại camera hồng_ngoại khác_thường phải mất thời_gian để thích_nghi với nhiệt_độ môi_trường , còn máy_ảnh thế_hệ mới này có_thể hoạt_động tức_thì .
+
+Hầu_hết các máy_ảnh hồng_ngoại hoạt_động dựa_vào một bộ cảm_ứng gọi_là microbolometer , hút nhiệt từ môi_trường xung_quanh .
+Một bộ_vi xử_lý sẽ chuyển số_liệu microbolometer đo được thành những bức_ảnh đen_trắng , rồi truyền tới một màn_hình gắn kèm hay hoạt_động từ xa .
+Máy_ảnh hồng_ngoại cũng có_thể hoạt_động trong môi_trường hoàn_toàn không có ánh_sáng , chẳng_hạn trong phòng_tối , dưới đất hoặc giữa đám khói_mù_mịt .
+
+Thông_thường , những máy_ảnh microbolometer hoạt_động tại một nhiệt_độ nhất_định , vì_vậy cần một thiết_bị bên_trong để hâm_nóng hoặc tản_nhiệt .
+Điều này đã hạn_chế thời_gian khi máy_ảnh cần hoạt_động ngay_lập_tức .
+
+Máy_ảnh của hãng Irvine và Indigo đã áp_dụng một phương_án hoàn_toàn khác .
+Các nhà_nghiên_cứu đã định_sẵn một khoảng nhiệt_độ lớn " từ bắc_cực đến sa_mạc " cho bộ cảm_ứng .
+Máy_ảnh lưu_trữ các cài_đặt trong bộ_nhớ và tuỳ trường_hợp , chọn nhiệt_độ thích_hợp nhất thông_qua một nhiệt_kế , cho_phép máy_ảnh có_thể chụp ngay_khi vừa được bật_lên .
+
+Khả_năng này đã mở_ra nhiều ứng_dụng mới cho máy_ảnh như chụp được viên_đạn bắn ra từ khẩu súng hay được khởi_động từ xa thông_qua tiếng_động hay tiếng rung của phương_tiện di chuyển.  
+Minh_Thi ( theo MSNBC )

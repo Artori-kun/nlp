@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/02/3B9C563D/
+title=Sun sẽ gói nhiều phần mềm vào Solaris 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sun sẽ gói nhiều phần_mềm vào Solaris
+Hôm_qua , Sun Microsystems tuyên_bố chuẩn_bị cung_cấp hệ_điều_hành Solaris với hơn một chục chương_trình đi_kèm .
+Trước_tiên , hãng sẽ đóng_gói phần_mềm máy chủ ứng_dụng , nhắn_tin , xử_lý tên truy_cập - mật_khẩu ... và sau_đó là các sản_phẩm quản_lý lưu_trữ dữ_liệu .
+Dự_án này mang tên   Orion .
+ 
+" Orion là một sự_đổi_mới hoàn_toàn đối_với phần_mềm của chúng_tôi .
+Tất_cả sản_phẩm sẽ được phát_hành định_kỳ từng quý một " , Jonathan Schwartz , Giám_đốc bộ_phận phần_mềm của Sun , phát_biểu .
+
+Hiện_nay , phần_mềm của Sun được bán riêng , không_được gói chung cùng Solaris , trong_khi thời_điểm phát_hành bản nâng_cấp và sản_phẩm mới không cố_định .
+
+Hôm_qua , trên thị_trường chứng_khoán Nasdaq , cổ_phiếu của Sun được giao_dịch với giá 3,45 USD , tăng 3 cent .
+ 
+  Mỹ_Linh ( theo Reuters )

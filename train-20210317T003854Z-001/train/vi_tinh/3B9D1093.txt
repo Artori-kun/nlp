@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D1093/
+title=Công cụ 'gác' trình duyệt Browser Hijack Blaster 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_cụ ' gác ' trình_duyệt Browser Hijack Blaster
+Thật khó_chịu khi browser của bạn lại tự_động mở_ra một địa_chỉ lạ mà bạn không cài trong homepage .
+Để_không cho những website này " ngồi " chễm_trệ trong trình_duyệt , phần_mềm này sẽ báo_động cho bạn trước_khi điều đó xảy_ra .
+
+Browser Hijack Blaster theo_dõi một số bộ_phận trong Internet Explorer ( IE ) và đảm_bảo rằng không một trang web nào có_thể " bắt_cóc " trình_duyệt của bạn hoặc thả những chương_trình do_thám spyware lẩn_vào hệ_thống .
+
+Nếu các đối_tượng bên_ngoài muốn thay_đổi trang_chủ mặc_định ( default ) trên IE hay trang Search thì phần_mềm này sẽ báo_động cho bạn_biết .
+
+Chương_trình cũng lưu lại một cơ_sở_dữ_liệu những thông_số phổ_biến về các phần_mềm do_thám để có_thể cung_cấp chi_tiết và hướng_dẫn cụ_thể cho việc loại_bỏ những phần_mềm đó .
+
+Để_tải miễn_phí Browser Hijack Blaster , bấm .
+
+P.K .

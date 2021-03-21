@@ -1,0 +1,33 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D77CA/
+title=Google phát hành công cụ tìm kiếm trên PC 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google phát_hành công_cụ tìm_kiếm trên PC
+Hãng tìm_kiếm trực_tuyến số một thế_giới hôm_qua đã tung_ra ứng_dụng Desktop Search , cho_phép người_dùng lọc thông_tin cần_thiết từ các file đủ loại trên PC cũng_như các mẩu chat trên AOL Instant Messenger và các website họ đã truy_cập .
+
+Desktop Search tạo chỉ mục cho các nội_dung do PC tạo_ra hoặc được trình_duyệt truy_cập mỗi khi máy_tính ở trạng_thái nghỉ ( idle ) 30 giây hoặc lâu hơn .
+Nhờ_đó , các tập_tin sẽ sẵn_sàng cho việc tìm_kiếm hầu_như ngay_sau_khi chúng được tạo_ra .
+Ứng_dụng nhỏ gọn này có dung_lượng chỉ 400 KB và sử_dụng 8 MB bộ_nhớ , tương_thích với Windows XP và Windows 2000 Service Pack 3 hoặc cao hơn .
+Chương_trình đòi_hỏi 500 MB không_gian ổ_cứng , tối_thiểu là 128 MB RAM và bộ_vi xử_lý Pentium 400 MHz hoặc nhanh hơn .
+Người_dùng có_thể thực_hiện lệnh tìm_kiếm qua một biểu_tượng cài_đặt trên thanh tác_vụ của Windows hoặc tại trang web Google.com .
+Lựa_chọn đầu không yêu_cầu phải có kết_nối với Internet .
+
+Marissa Mayer , Giám_đốc sản_phẩm web của Google , cho_biết : " Giao_diện người_dùng có dạng HTML chạy trên máy_tính cục_bộ .
+Chúng_tôi chạy một máy chủ web nhỏ trên máy_tính của bạn .
+Mục_đích của thiết_kế này là làm cảm_giác khi tìm_kiếm trên máy_tính , càng giống tìm_kiếm trên web càng_tốt .
+
+Theo Meyer , hầu_hết người_dùng sẽ truy_cập Desktop Search từ Google.com hoặc thanh công_cụ Google trên trình_duyệt thay_vì thông_qua thanh tác_vụ .
+Bà cho_rằng , trên thực_tế , Google sẽ huấn_luyện người_dùng thực_hiện điều_đó , vì ngay_cả khi người lướt web truy_cập Google.com để tìm_kiếm , ứng_dụng máy khách Desktop Search cũng sẽ lọc thông_tin trên PC .
+Trang kết_quả được cung_cấp sẽ bao_gồm cả một_lời nhắc , rằng có_nhiều thông_tin tương_tự được lưu_trữ trong máy_tính .
+
+Danny Sullivan , biên_tập_viên của trang Search Engine Watch , nhận_xét sản_phẩm mới nhằm_vào những đối_tượng không am_hiểu về công_nghệ , giống như mẹ ông_ta : Desktop Search thật lý_tưởng với bà , không_chỉ giúp tìm_kiếm trên web mà còn tìm những thứ lưu_trữ lộn_xộn trong máy_tính .
+Mẹ tôi không_biết gì về cấu_trúc file hoặc nơi bà đã lưu_trữ dữ_liệu .
+Ông cho_rằng , phần mạnh nhất của Desktop Search là khả_năng tìm_kiếm quá_trình lướt web , một tính_năng các hãng đối_thủ Ask Jeeves , Yahoo và dịch_vụ A9 của Amazon cũng cung_cấp .
+Sự_khác_biệt là Google mở chức_năng này theo mặc_định , hơn_nữa , thông_tin được lưu_trữ trên ổ cứng của người_dùng , thay_vì trên máy_chủ của nhà_cung_cấp .
+
+Cũng trong hôm_qua , hãng America Online tuyên_bố đang thử_nghiệm một công_cụ tìm_kiếm trên PC , tương_tự như Desktop Search của Google .
+Tiện ích này sẽ là một phần của trình_duyệt độc_lập AOL Browser , dự_kiến sẽ ra_mắt trong tháng tới .
+
+Google Destop Search có dung_lượng 446 KB , có_thể tải .
+
+T.N. ( theo Internet News )

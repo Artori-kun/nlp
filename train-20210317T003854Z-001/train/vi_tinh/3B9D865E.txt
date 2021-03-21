@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D865E/
+title=Sờ và ngửi đồ vật trong máy tính 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sờ và ngửi đồ_vật trong máy_tính
+France Telecom vừa đưa sang Việt_Nam thiết_bị Quintesens , một công_cụ cho_phép người_dùng sử_dụng cả thị_giác , thính_giác , khứu_giác và xúc_giác để tương_tác với máy_tính .
+
+Bạn có_thể dùng thử sản_phẩm này tại gian trưng_bày sản_phẩm của FCR Vietnam ở triển_lãm Giảng_Võ , nơi đang diễn_ra Hội_chợ .
+
+Quintesens bao_gồm một máy_tính đi_kèm cặp kính xem ảnh không_gian 3 chiều ( 3D ) , một chuột đặc_biệt sử_dụng bằng_tay trái để di_chuyển trong không_gian ảo và một thiết_bị giống cây_bút để tạo cảm_giác về độ nặng cũng_như chất_liệu của các vật_thể .
+Trong bản demo đơn_giản do France Telecom giới_thiệu tại triển_lãm Giảng_Võ , người_chơi được đưa_vào một lâu_đài Pháp cổ trong không_gian 3 chiều .
+Tại_đó có một chiếc bục bằng thạch_cao , bên_dưới là những trái_cây các loại .
+Dùng cây_bút để chọc thử các đồ_vật trong màn_hình , người_dùng cảm_nhận được sự_khác_biệt về bề_mặt cũng_như trọng_lượng của các vật_thể .
+Khi chọc vào một loại hoa_quả nhất_định , các hộp mùi đặt kế màn_hình máy_tính sẽ hòa trộn với_nhau và tỏa ra hương trái_cây tương_ứng với loại quả_đó .
+
+Trao_đổi với phóng_viên VnExpress , ông Guillaume Prévoteau du Clary , Giám_sát đề_án và quản_lý hệ_thống thông_tin của FCR Vietnam , cho_biết , công_nghệ Quintesens đã được France Telecom phát_triển cách đây 5 năm nhưng mới được công_bố thời_gian gần_đây và tiếp_tục được hoàn_thiện .
+Khi_đó , công_nghệ này sẽ bổ_sung chức_năng tạo vị_giác , cho_phép người_dùng tương_tác với máy_tính thông_qua cả 5 giác_quan .
+
+Ông Clary khẳng_định : Quintesens có rất nhiều ứng_dụng thực_tế , chẳng_hạn như xây_dựng game 3D , đi_chợ ảo trực_tuyến hay tạo_ra các thiết_bị mô_phỏng giúp huấn_luyện điều_khiển các loại phương_tiện giao_thông .
+Ông lấy ví_dụ , người chịu_trách_nhiệm mua vải cho một hãng thời_trang tại Pháp có_thể sử_dụng công_nghệ này để xem mẫu vải của một công_ty Hong_Kong từ xa thay_vì phải đáp_máy_bay sang tận_nơi .
+Thông_qua Quintesens , người này sẽ cảm_nhận được độ_mềm , sự_chun_giãn cùng nhiều đặc_tính vật_lý khác của vải .
+
+Hiện_tại , Quintesens vẫn chưa được sử_dụng trong một ứng_dụng thương_mại nào .
+Việc phổ_biến công_nghệ này cũng sẽ còn mất nhiều thời_gian vì nó khá đắt_đỏ và chưa được hoàn_thiện , ông Clary cho_biết .
+
+T.N .

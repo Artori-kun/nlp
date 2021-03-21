@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DEFCE/
+title=Siêu máy tính mô hình hóa bộ não bằng 3D 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Siêu máy_tính mô_hình hóa bộ_não bằng 3D
+Với sự_trợ_giúp của siêu máy_tính do hãng IBM sản_xuất , các nhà thần_kinh_học thuộc trường đại_học Bách_khoa Lausane ( Thụy Sỹ ) đang lập dự_án Blue Brain để tiến_hành công_việc này trong_vòng 2 năm .
+
+Họ sẽ nghiên_cứu phần vỏ_não được coi là có chức_năng ngôn_ngữ , học_tập , ghi_nhớ và các ý_nghĩ phức_tạp khác .
+Các nhà_nghiên_cứu tin_tưởng rằng dự_án này sẽ mang lại cho họ cái nhìn rõ_ràng hơn về bộ_phận quan_trọng nhất của cơ_thể con_người .
+" Việc mô_hình hóa_não người là công_việc vô_cùng vất_vả vì phải xét tới hàng trăm_nghìn thông_số khác_nhau " , Henry Markram , giáo_sư của trường , cho_biết .
+
+Tuy_nhiên , khả_năng tiến_hành công_việc này có_được là nhờ siêu máy_tính có tên eServer của IBM .
+Hệ_thống này được lắp_đặt ở phòng thí_nghiệm của trường Lausane , chiếm diện_tích tương_đương với 4 chiếc tủ_lạnh , có tốc_độ xử_lý ít_nhất 22,8 tỷ phép_tính / giây ( 22,8 teraflop ) .
+Mới 5 năm trước_đây , không có chiếc máy_tính nào trên thế_giới đạt được tốc_độ hơn 1 teralop .
+
+Dự_án Blue Brain bắt_đầu bằng việc nghiên_cứu phần vỏ_não nhưng các nhà_khoa_học hy_vọng họ sẽ tạo_ra được mô_hình không_gian ba chiều của toàn_thể bộ_não .
+Giới nghiên_cứu đang ngày_càng coi siêu máy_tính là công_cụ chủ_chốt để ứng_dụng những công_trình lớn và giúp họ có_được những hiểu_biết mới về quá_trình hình_thành bệnh_tật , ví_dụ các rối_loạn chức_năng như bệnh tự_kỷ , tâm_thần phân_liệt , suy_nhược thần_kinh ...
+
+Thuỳ_Hương ( theo BBC )

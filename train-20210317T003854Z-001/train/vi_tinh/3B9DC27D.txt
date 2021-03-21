@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC27D/
+title=Thẻ USB dùng công nghệ sinh trắc học 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thẻ USB dùng công_nghệ sinh trắc_học
+Hãng thiết_bị lưu_trữ SanDisk hôm_qua giới_thiệu một loại ổ flash mini mang tên Cruzer Profile , áp_dụng kỹ_thuật nhận_dạng vân_tay với 2 phiên_bản dung_lượng 512 MB và 1 GB .
+
+Ổ Cruzer Profile được kích_hoạt sau khi bộ_phận cảm_ứng nhúng_đọc và xác_thực dấu_tay lăn qua thiết_bị .
+Những hình_ảnh về đặc_điểm vân_tay sẽ được lưu ngay trên ổ .
+Phiên_bản 512 MB có giá 99,99 USD trong_khi loại 1 GB trị_giá 199,99 USD .
+Cả 2 sẽ xuất_hiện trên thị_trường trong tháng tới .
+Các sản_phẩm này được trang_bị phần_mềm phục_vụ việc mã_hóa file dữ liệu và file backup , tương_thích Windows XP , Windows 2000 , Windows ME , Mac OS 10.1.2 + và Mac OS 9.2.1 + .
+Đối_với Windows 98SE thì cần tải thêm trình điều_khiển ( driver ) .
+
+Cùng ngày hôm_qua , SanDisk còn trình_làng một loại ổ USB 2.0 có tên Cruzer Titanium dung_lượng 2 GB .
+Thiết_bị này được làm từ hợp_kim titanium có độ_bền rất cao và khả_năng chống ăn_mòn .
+Cruzer Titanium sẽ được xuất_xưởng trong tháng tới với giá 249,99 .
+Các phiên_bản 512 MB và 1 GB của dòng ổ này hiện được bán với giá lần_lượt 84,99 UDS và 169,99 USD .
+
+SanDisk cũng vừa tung_ra bản nâng_cấp của loại thẻ xD - Picture , dung_lượng 1 GB , tương_thích với camera Fuji và Olympus .
+Khi dùng với máy_ảnh số 5 megapixel , thẻ này có_thể ghi và lưu khoảng 800 hình_ảnh .
+SanDisk cho_biết tháng 4 này họ sẽ bắt_đầu cung_cấp dòng thẻ M Series 1 GB giá 139,99 USD .
+
+P.K. ( theo CNet )

@@ -1,0 +1,48 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E0DBB/
+title=Một số đặc điểm tiêu biểu của Internet Explorer 7 Beta 1 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Một_số đặc_điểm tiêu_biểu của Internet Explorer 7 Beta 1
+Phiên_bản trình_duyệt này chỉ có khoảng 25 % tính_năng sẽ xuất_hiện trong sản_phẩm cuối_cùng .
+Do_đó , chưa thể đưa_ra kết_luận cuối_cùng về Internet Explorer 7 ( ) , nhưng những gì Beta 1 thể_hiện cho_thấy Microsoft đã đi đúng hướng .
+
+Ngay từ_khi IE 5.0 mới ra_đời , hàng triệu người_dùng web đã chờ_đợi một bản nâng_cấp ấn_tượng , và IE 7 Beta 1 dường_như là trình_duyệt đầu_tiên đáp_ứng được điều_đó .
+Có_lẽ thành_công của Firefox đã đánh_thức " gã khổng_lồ " đang ngủ_say .
+Microsoft cuối_cùng đã quyết_định thêm tính_năng duyệt theo tab cũng_như xem và lưu tin_tức RSS trên IE .
+Điều này tạo_nên một khác_biệt lớn cho toàn_bộ sản_phẩm dù mới chỉ_là bản Beta 1 với những tính_năng sơ_bộ .
+
+Beta 1 trông khá đơn_giản , thô_sơ và chưa hoàn_thiện .
+Trình_duyệt có 5 thanh công_cụ chính : thanh duyệt theo tab ( Tab Bar ) , thanh địa_chỉ ( Adress Bar ) , thanh menu ( File - menu Bar ) , thanh điều_khiển phím chức_năng ( Button - function Bar ) , và thanh liên_kết ( Links bar ) .
+
+Tab Bar là tính_năng quan_trọng nhất trong IE 7 .
+Khi người_dùng mở trình_duyệt , nó hiển_thị một tab rộng chứa trang_chủ trên máy và một phím nhỏ màu xám bên_phải tab để mở nhanh tab mới .
+Khi thêm một cửa_sổ tab , độ rộng của tất_cả các tab thu_nhỏ lại tương_tự như cửa_sổ trên Windows Taskbar .
+Tính_năng này hoạt_động khá trơn_tru nhưng không rõ_ràng với người_mới dùng .
+
+Trong Beta 1 , bấm chuột phải vào bất_cứ phím tab hay khoảng_trống nào trên Tab Bar sẽ hiển_thị một menu gồm New Tab ( Tab mới ) , Refresh ( tải lại dữ_liệu ) , Refresh All ( tải lại tất_cả ) , Close Other Tabs ( Đóng những tab khác ) , và Close ( Đóng tab ) .
+Thiếu_sót đáng lưu_ý ở_đây là không_thể sắp_xếp lại vị_trí các tab .
+IE 7 sẽ cần học một_số tính_năng trong Firefox như đóng tab nhanh_chóng bằng tổ_hợp phím chuột Ctrl + Click , sắp_xếp lại trật_tự tab với thao_tác kéo / thả và khả_năng lưu cả bộ tab này để mở lại lần_sau .
+
+Phiên_bản thử_nghiệm chỉ cung_cấp 3 thiết_lập bật / tắt ( on / off ) cho cấu hình trong phần Advanced Tab của Internet Options/ Control Panel :
+1. Luôn mở pop - up trong một cửa_sổ mới 2 .
+Luôn chuyển sang tab mới khi chúng được tạo_ra 3 .
+Kích hoạt khả_năng duyệt theo tab
+Address Bar gồm phím Forward ( trở_lại trang_sau ) và Back ( trở_lại trang_trước ) , trường gõ URL , và phím Refresh / Stop tương_tự trong trình_duyệt Safari của Apple .
+Thanh địa_chỉ cũng có trường tìm_kiếm mới , đặt ở vị_trí giống như trong Firefox .
+Chế_độ tìm_kiếm trên IE 7 được mặc định với MSN Search , nhưng khi kéo_xuống , người_dùng có_thể chọn công_cụ của Google , Ask Jeeves , và AOL thay_thế .
+Theo Microsoft , phiên_bản cuối_cùng sẽ cho_phép người_dùng tự cấu hình và cài_đặt bất_cứ chương_trình tìm_kiếm nào .
+Những thanh công_cụ còn_lại không thay_đổi nhiều so với IE 6.0 .
+
+Đặc_điểm đáng chú_ý là IE 7 có tính_năng tự_động kiểm_tra xem một nguồn RSS đã được cập_nhật hay chưa với biểu_tượng Feeds trên thanh chức_năng .
+Nếu đã được cập_nhật , Feeds sẽ báo đỏ , và khi bấm vào biểu_tượng đó , nó sẽ hiển_thị tất_cả những nguồn_tin đã sẵn_sàng .
+Tuy_nhiên , trong Beta 1 , tính_năng RSS feed của Microsoft gần_như là một bản_sao của Live Bookmarks trong Firefox .
+
+Hãng phần_mềm Mỹ đặc_biệt chú_trọng tới vấn_đề bảo_mật trong IE 7 .
+Một ví_dụ điển_hình là công_cụ lọc Microsoft Phishing Filter , tự_động kiểm_tra những site chứa nội_dung " đáng_ngờ " cũng_như đối_chiếu danh_sách các trang web lừa_đảo và cảnh_báo người_dùng không_nên mở trang_đó , thậm_chí ngăn không cho_phép truy_cập .
+
+Một cải_tiến nhỏ tương_đối nhỏ nhưng chắc_chắn sẽ khiến nhiều người đánh_giá cao là tính_năng in kiểu mới trong IE 7. Người sử_dụng có_thể định dạng_lại hoặc thu_nhỏ trang web để in chúng theo kích_cỡ phù_hợp với khổ giấy cho_phép .
+
+Người_dùng cũng dễ_dàng loại_bỏ những dữ_liệu cá_nhân trên trình_duyệt .
+Ở phần Tools có thêm_lệnh " Delete Browsing History ... " nếu người sử_dụng muốn xoá hoàn_toàn cookies , nhật_ký duyệt web ( History ) , dữ_liệu , mật_khẩu và những file tạm_thời lưu trên web " .
+
+P.T. ( theo TechWeb )

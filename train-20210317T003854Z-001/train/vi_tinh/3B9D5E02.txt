@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D5E02/
+title=Intel bổ sung chuẩn không dây cho chip Centrino 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel bổ_sung chuẩn không dây cho chip Centrino
+Hôm_qua , Intel tuyên_bố đã tích_hợp thêm chuẩn không dây 802.11a vào bộ_vi xử_lý mới nhất của hãng .
+Với bổ_sung mới , loại chip dùng_cho máy_tính xách tay và máy trạm này sẽ hỗ_trợ 3 nền wireless mạnh nhất hiện_nay là 802.11a , b và g.  
+Các phiên_bản trước_đây của Centrino chỉ sử_dụng các chuẩn 802.11b và g , hai phương_pháp truy_cập mạng không dây phổ_dụng .
+Kết_nối mới 3 chế_độ ( tri - mode ) Intel PRO / Wireless 2915ABG , với giá 27 USD , sẽ được đưa_vào tổ_hợp Centrino trong thời_gian sắp_tới .
+Tính_năng bổ_sung này hiện được các nhà_sản_xuất máy_tính lớn thử_nghiệm và dự_kiến sẽ đưa_ra thị_trường trong loạt máy_tính xuất_xưởng vào tháng 9.
+802.11a có tốc_độ 54 MB/ giây , tương_đương với 802.11g .
+Chuẩn đầu_tiên của công_nghệ Wi - Fi , 802.11b , với tốc_độ 11 MB/ giây cũng nhanh hơn hầu_hết các kết_nối băng_thông rộng hiện_nay .
+Các nhà_phân_tích cho_rằng 802.11a có ưu_thế vượt trội so với 2 phiên_bản anh_em của nó do có tốc_độ cao trong_khi không gây tạp nhiễu cho viba ( microwave ) và điện_thoại không_dây .
+Mặc_dù_vậy , do không tương_thích với các công_nghệ Wi - Fi khác , 802.11a ít được phổ_biến .
+Hiện_nay chỉ có 24 thiết_bị được thiết_kế riêng cho mạng 1 băng_tần 802.11a trên tổng_số 1.250 sản_phẩm Wi - Fi .
+
+Intel cũng cập_nhật_phần mềm làm_việc với mạng không dây để phù_hợp với nâng_cấp về phần_cứng .
+Phần_mềm mới , phiên_bản 9.0 của chương_trình PROSet / Wireless , giúp người_dùng dễ_dàng cấu hình mạng không dây , cung_cấp một số tính_năng nâng_cao trong xử_lý lỗi thông_thường và thiết_lập chế_độ bảo_mật tự_động .
+
+Thế_Nghĩa ( theo CBS Marketwatch )

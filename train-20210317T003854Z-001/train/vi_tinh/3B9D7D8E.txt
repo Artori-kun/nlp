@@ -1,0 +1,36 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D7D8E/
+title=Quản trị kinh doanh với EasyBiz 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Quản_trị kinh_doanh với EasyBiz
+EasyBiz là một hệ quản_trị doanh_nghiệp với đầy_đủ các chức_năng từ xử_lý thông_tin nội_bộ đến khách_hàng , cũng_như quá_trình thiết_lập kế_hoạch kinh_doanh .
+Sản_phẩm được đồng tại triển_lãm công_nghệ thông_tin và truyền_thông 2004 .
+
+Easybiz 3.0 có 5 phân_hệ bao_gồm : quản_lý hồ_sơ khách_hàng , quản_trị công_việc , quản_trị đơn_hàng hợp_đồng , quản_lý thông_tin sản_phẩm và quản_trị kinh_doanh doanh_nghiệp và công cụ.  
+Quản_lý hồ_sơ khách_hàng là một trong những khâu đặc_biệt quan_trọng đối_với mỗi doanh_nghiệp .
+Easybiz 3.0 có khả_năng tạo_dựng cơ_sở cho doanh_nghiệp triển_khai các hoạt_động kinh_doanh , tiếp_thị như : gửi_thư chào_hàng , chăm_sóc khách_hàng , giới_thiệu sản_phẩm mới , dịch_vụ mới
+Phân_hệ này có hai phần cơ_bản .
+Thứ_nhất là đa_dạng hoá thông_tin khách_hàng với hệ_thống lưu_trữ , cập_nhật và khai_thác tên , địa_chỉ , ngành_nghề , quy_mô doanh_số ( thông_tin cứng ) của khách_hàng cũng_như toàn_bộ lịch_sử giao_dịch của doanh_nghiệp với khách_hàng như các công_việc liên_quan , thông_tin phát_sinh trong quá_trình giao_dịch , đơn_hàng , sản_phẩm khách_hàng đã mua ( thông_tin phát_sinh ) .
+
+Trong phần thứ_hai là phân_loại khách_hàng có công_cụ tìm_kiếm tra_cứu và người quản_lý có_thể phân khách_hàng cho bộ_phận hoặc nhân_viên cụ_thể chăm_sóc .
+Mỗi sự_thay_đổi thông_tin liên_quan đến khách_hàng sẽ được tự đông_nhắn_tin cho người quản_lý .
+
+Một phân_hệ cũng khá ấn_tượng của   EasyBiz 3.0 là quản_trị công_việc .
+Đây là công_cụ giúp nhà quản_trị tổ_chức và vận_hành bộ_máy kinh_doanh theo một quy_trình nhất_định .
+Từ công_đoạn người quản_lý giao_việc cho nhân_viên , nhân_viên nhận_việc sau_đó thực_hiện rồi báo_cáo tình_trạng kết_quả công việc.Trong quá_trình đó , EasyBiz 3.0 còn hỗ_trợ người_sử_dụng trao_đổi thông_tin nóng như đề_nghị hỗ_trợ , chỉ_đạo , đính_kèm file tài_liệu , tự_động tạo_lập và in các báo_cáo công_việc theo mẫu định_sẵn .
+
+Một chức_năng đặc_biệt trong quản_trị công_việc của EasyBiz 3.0   dành riêng cho giám_đốc và các trưởng_phòng là đồng_bộ quy_trình làm_việc trong phòng kinh_doanh và toàn_bộ công_ty thông_qua việc phân_chia các nhóm công_việc và loại việc cụ_thể .
+Công_cụ này hướng_dẫn các bước thực_hiện cũng_như nội_dung mà nhân_viên cần nắm_được rồi đề_ra các chỉ_tiêu báo_cáo cho từng công_việc .
+
+EasyBiz 3.0 có_thể chạy trên hệ_điều_hành Windows XP , NT hoặc 2000 .
+Trong trường_hợp mạng sử_dụng nhiều hệ_điều_hành mạng phải có ít_nhất một máy chủ được cài một trong các chương_trình trên.Máy chủ cần được cài hệ quản_trị cơ_sở_dữ_liệu SQL Server của Microsoft .
+Các máy trạm làm_việc cần được cài_đặt IE 5.0 trở_lên .
+Yêu_cầu về cấu hình của server gồm : CPU tốc_độ 750 trở_lên , 500 MHz , có ổ CD , RAM từ 256 MB trở_lên .
+Ổ cứng còn trống ít_nhất 200 MB .
+
+Các máy trạm khai_thác hệ_thống phải có Windows 98 , 2000 , NT , hoặc XP .
+Cầu_hình tối_thiểu trên desktop gồm : CPU 750 GHz trở_lên , RAM 128 MB và ít_nhất 64 MB trong HDD còn_trống .
+
+Tuỳ_theo yêu_cầu của khách_hàng mà công_ty Đan_Phong , đơn_vị thiết_kế EasyBiz có_thể định_mức giá từ 2,5 triệu đồng đến 63 triệu đồng .
+
+Xuân_Kim

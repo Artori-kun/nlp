@@ -1,0 +1,20 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2002/09/3b9c034e/
+title=Intel công bố chip Xeon mới cho máy chủ 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Intel công_bố chip Xeon mới cho máy_chủ
+Bộ xử_lý Xeon này tốc_độ 2,6 GHz và 2,8 GHz được thiết_kế cho máy chủ và máy trạm chạy 2 bộ xử_lý .
+Các sản_phẩm được tung_ra thị_trường sớm hơn kế_hoạch 3 tháng , có giá tương_ứng là 433 USD và 562 USD khi mua 1.000 bộ .
+
+Xeon mới có 512 KB bộ_nhớ đệm thứ_cấp và được sản_xuất bằng công_nghệ xử_lý 0,13 micron .
+Sắp_tới , các công_ty sản_xuất máy chủ trên toàn thế_giới như Compaq , Dell , Egenera , Fujitsu - Siemens , Hewlett Packard , IBM , NEC , SuperMicro sẽ ra_mắt người_dùng các hệ_thống chạy_bộ xử_lý này .
+
+Cùng_ngày , Intel cũng công_bố chip Xeon tốc_độ 1,6 GHz tiêu_thụ ít năng_lượng dành cho máy chủ siêu_mỏng .
+Thiết_bị này được bán với giá 350 USD khi mua với số_lượng lớn .
+
+Tại diễn_đàn các nhà phát_triển Intel , ông Mike Fister , Phó_chủ_tịch của Intel , cho_biết cuối năm_nay sẽ tung_ra chipset có tên mã Granite Bay , Placer và Plumas dùng_cho máy trạm và máy_chủ .
+Các chipset này sử_dụng bus hệ_thống 533 MHz , giúp tốc_độ máy_chủ và máy trạm chạy nhanh hơn .
+
+Những sản_phẩm trên cùng bộ xử_lý Xeon sẽ có_mặt trên thị_trường vào quý IV .
+
+Minh_Nghĩa ( theo_IT )

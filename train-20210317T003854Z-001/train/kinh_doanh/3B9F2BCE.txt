@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Kinh-doanh/Chung-khoan/2007/01/3B9F2BCE/
+title=Bảng chứng khoán điện tử lại bị lỗi 
+cat=KINH-DOANH|CHUNG-KHOAN
+
+Bảng chứng_khoán điện_tử lại bị lỗi
+Đầu_giờ giao_dịch sáng_nay , mã cổ_phiếu PPC của Nhiệt_điện Phả Lại xuất_hiện 2 lần trên bảng điện_tử .
+Số_liệu một số mã chứng_khoán khác cũng lệch rất nhiều so với thực_tế .
+
+Các nhà_đầu_tư phản_ánh , giá REE xuống 90 điểm , STB không có số_liệu , PPC có 2 mã .
+Số_liệu lệch như_vậy nhưng vào_đầu phiên giao_dịch nên mới có ít nhà đầu_tư đến sàn .
+Rất may Trung_tâm giao_dịch chứng_khoán TP HCM đã sớm phát_hiện lỗi và nhanh_chóng khắc_phục sự_cố , đến 8h30 bảng giao_dịch trở_lại bình_thường .
+
+Đại_diện bộ_phận tin_học Trung_tâm giao_dịch chứng_khoán TP HCM cho_hay bảng giao_dịch bị lỗi do hôm_nay có thêm cổ_phiếu mới là PPC ( mới chuyển từ sàn Hà_Nội sang ) .
+5 phút sau khi phát_hiện sự_cố , họ đã khắc_phục xong .
+
+Bảng giao_dịch của một số công_ty chứng_khoán trong mấy ngày_nay cũng liên_tục bị_lỗi .
+Hiện bảng giao_dịch của Công_ty chứng_khoán Ngân_hàng Ngoại_thương không có số_liệu về VN - Index cũng_như giá_trị khớp lệnh đợt 1. Hôm_trước , màu trên bảng điện_tử cũng sai lệnh so với quy_định , chẳng_hạn , số_liệu giảm_giá hiển_thị màu_xanh thay_vì màu_đỏ và ngược lại.  
+Qua sự_việc này cũng_như sự_cố trước_đây , nhiều nhà đầu_tư lo_lắng với mức_độ nóng của thị_trường chứng_khoán như hiện_nay mà hệ_thống cơ_sở hạ_tầng của các trung_tâm giao_dịch cũng_như công_ty chứng_khoán không_được nâng_cấp thì sẽ rất nguy_hiểm cho cho nhà đầu_tư , bởi đây là một trong những cơ_sở để họ ra quyết_định mua hay bán chứng_khoán .
+
+Việt_Phong

@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E14F1/
+title=Thương phẩm PC để bàn đầu tiên làm mát bằng nước 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thương_phẩm PC để_bàn đầu_tiên làm mát bằng nước
+NEC mới phát_hành loại desktop Valuestar G Type C có gắn bộ_phận làm mát bằng nước phía_sau khung_máy .
+Nhà_sản_xuất Nhật_Bản tuyên_bố cái tủ_lạnh bổ_sung này sẽ cho_phép bộ_vi xử_lý Intel Celeron bên_trong chạy tẹt ga và giảm tiếng ồn xuống mức thì_thầm 30 decibel .
+
+Máy Valuestar G Type C có giá 925 USD , sử_dụng chip Celeron D 341 lõi kép kèm bộ chipset Intel 945G Express chipset , bộ_nhớ RAM 256 MB , ổ cứng 80 GB và chạy hệ_điều_hành Windows XP Home Edition bản Service Pack 2 .
+
+Tiếng ồn máy_tính do quạt tản nhiệt là nỗi_đau_đầu của các nhà_sản_xuất khi mà những chiếc PC ngày_càng mạnh hơn đòi_hỏi phải có hệ_thống làm mát khỏe tương_ứng và do_đó gây_ra tiếng ồn nhiều hơn .
+
+Khi mà bộ_vi xử_lý và các linh_kiện khác tiêu_hao nhiều năng_lượng do công_suất mạnh_lên , những chiếc quạt to và nhanh hơn đã được chế_tạo để ngăn_chặn sự_cháy_hỏng .
+Từ nhiều năm_nay , những người đam_mê chơi game trên máy_tính cấu hình mạnh cũng đã nghĩ_ra những cách riêng để bảo_vệ chiếc PC của mình , trong_đó có việc dùng tự_chế .
+
+Sử_dụng nước làm mát máy_tính bắt_đầu từ những năm 70 và 80 của thế_kỷ trước với máy_tính lớn mainframe .
+Loại computer này sử_dụng chip lưỡng_cực , được chế_tạo theo cách khác_hẳn với chip silicon .
+
+Hãng Apple cũng đã sử_dụng một khay chất_lỏng làm mát trong những phiên_bản gần_đây của máy .
+Đây là tính_năng mà Quả táo và những người hâm_mộ sản_phẩm của họ gọi là bước đột_phá về công_nghệ .
+Việc bổ_sung thành_phần tản nhiệt này đẩy chi_phí sản_xuất lên 50 USD / chiếc .
+
+Phan_Khương ( theo CNet )

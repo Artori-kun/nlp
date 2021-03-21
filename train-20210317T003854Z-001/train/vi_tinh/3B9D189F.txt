@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/04/3B9D189F/
+title=Bộ vi xử lý mới dành cho điện thoại di động và PDA 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bộ vi xử_lý mới dành cho điện_thoại di_động và PDA
+Nhà sản_xuất chip lớn nhất thế_giới vừa ra_mắt chip mới dựa_trên công_nghệ Intel XScale , có_thể xử_lý nhiều loại_hình kết_nối băng rộng không dây , khả_năng hội_nghị truyền_hình trực_tiếp tới điện_thoại di_động và xử_lý các đoạn_phim chất_lượng cho thiết_bị hỗ_trợ cá nhân.  
+Họ bộ_vi xử_lý PXA27x , tên mã trước_đây là Bulverde , có thêm một số công_nghệ nhằm thỏa_mãn nhu_cầu của người_sử_dụng điện_thoại di_động ( ĐTDĐ ) và các thiết_bị hỗ_trợ cá_nhân ( PDA ) .
+Đây là sản_phẩm đầu_tiên tích_hợp công_nghệ Wireless MMX , nâng_cao hiệu_suất hoạt_động cho các trò_chơi 3 chiều và đoạn_phim có chất_lượng hình_ảnh cao , đồng_thời kéo_dài thời_gian hoạt_động của pin .
+Chip mới cũng sử_dụng công_nghệ Wireless Intel SpeedStep , giúp tiết_kiệm năng_lượng đáng_kể bằng cách quản_lý thông_minh những thay_đổi về điện_áp và tốc_độ xử_lý giống như công_nghệ được sử_dụng trong các bộ xử_lý dành cho máy_tính xách tay của Intel .
+
+Được tối_ưu_hóa để bổ_trợ cho PXA27x , bộ tăng_tốc đa phương_tiện mới Intel 2700G mang lại khả_năng xem phim với chất_lượng của đĩa DVD trên các màn_hình hiển_thị VGA , và hỗ_trợ một loạt định dạng phim như MPEG - 2 , MPEG - 4 và Microsoft Windows Media Video 9.
+PXA27x sẽ được sản_xuất đại_trà từ quý II với nhiều cấu hình tốc_độ từ 312 MHz tới 624 MHz , và bộ_nhớ StrataFlash sử_dụng công_nghệ xếp chồng dung_lượng 64 MB .
+Loại 312 MHz có mức giá khởi_điểm là 32 USD , bộ tăng_tốc đa phương_tiện 2700G được bán với giá 17 USD khi mua từ 10.000 đơn_vị trở_lên .
+
+Thanh_Tú ( theo_IT )

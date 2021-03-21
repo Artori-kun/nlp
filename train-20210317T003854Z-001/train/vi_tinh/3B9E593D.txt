@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E593D/
+title=Mạng Wi-Fi đạt tốc độ ngang với Ethernet 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Mạng Wi - Fi đạt tốc_độ ngang với Ethernet
+Hệ_thống cáp quang Ethernet có tốc_độ truyền_dữ_liệu 100 Mb / giây , nhanh hơn khả_năng 54 Mb / giây trong mạng Wi - Fi .
+Tuy_nhiên , sản_phẩm không dây sử_dụng chip True MIMO của Airgo ( Mỹ ) đang thách_thức ưu_điểm này .
+
+Thiết_bị định tuyến RangeMax 240 của Netgear , giá 180 USD , được xây_dựng trên công_nghệ True MIMO Gen3 .
+Giống như bộ chipset True MIMO đầu_tiên ( trong sản_phẩm Pre - N của Belkin và SRX của Linksys ) , phiên_bản thế_hệ 3 được trang_bị hai_ăng - ten truyền và 3 ăng - ten nhận tín_hiệu nhằm tăng tốc_độ và mở_rộng phạm_vi hoạt_động , trong_khi vẫn duy_trì khả_năng tương_tác với các sản_phẩm theo chuẩn Wi - Fi 802.11g .
+
+Nhân_tố tăng_tốc cho Gen3 nằm ở công_nghệ mở_rộng kênh điều_hợp ( Adaptive Channel Expansion ) , giúp nới_rộng băng_thông bằng cách sử_dụng 2 trong 3 kênh không chồng_chéo lên nhau thuộc băng_tần 802.11g 2,4 MHz .
+Với mã hóa WPA2 , sản_phẩm đạt tốc_độ nhanh tương_đương Ethernet .
+
+Loại tốc_độ này phù_hợp với nhu_cầu sử_dụng tại nhà và văn_phòng , hỗ_trợ ứng_dụng điện_thoại , mạng chơi game , tải video ...
+Ví_dụ , RangeMax 240 cho_phép truyền video theo định dạng DVD từ một ổ cứng desktop tới máy_tính xách tay_không dây cách đó 30 mét mà không hề bị gián_đoạn trong_khi vẫn có_thể duyệt web .
+
+Công_nghệ cũng sẽ có vai_trò quan_trọng đối_với các thiết_bị không_phải laptop như máy_tính để_bàn và sản_phẩm gia_dụng do chúng không_được trang_bị bộ điều_hợp .
+
+T.N. ( theo PC World )

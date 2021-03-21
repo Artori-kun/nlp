@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DD171/
+title=Máy nghe nhạc MP3 sử dụng công nghệ 'túi khí' 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy_nghe nhạc MP3 sử_dụng công_nghệ ' túi_khí '
+Trong tháng_này , các sản_phẩm máy_nghe nhạc cá_nhân sử_dụng ổ cứng mini thế_hệ mới nhất của Sony sẽ xuất_hiện trên thị_trường với hệ_thống chống sốc bảo_vệ ổ_cứng cùng bộ_phận pin tháo lắp linh_hoạt .
+
+Dòng máy NW - HD5 , trang_bị ổ cứng 20 GB , được áp_dụng công_nghệ G Sensor có khả_năng phát_hiện tình_trạng rơi bất_ngờ và tung_ra lớp đệm cho ổ lưu_trữ khi rơi để tránh hỏng_vỡ , mất_dữ_liệu .
+IBM và Apple gần_đây cũng đã bổ_sung cho ổ cứng máy_tính xách tay của họ .
+
+NW - HD5 dùng màn hiển_thị monochrome , có_thể đặt chế_độ text đen trên nền trắng hoặc ngược_lại .
+Màn_hình này còn có_thể xoay hình theo chế_độ hiển_thị dọc hoặc ngang , tùy_theo chiều người sử_dụng cầm thiết_bị trên tay .
+
+Kích_thước của NW - HD5 là 8,9 x 6,0 x 1,4 cm và nặng 135 g .
+Máy sử_dụng các định dạng ATRAC 3 và ATRAC 3 Plus của Sony đồng_thời hỗ_trợ chuẩn MP3 gốc .
+Người sử_dụng cần có_phần mềm SonicStage jukebox để truyền file nhạc từ máy_tính sang công_cụ nghe_nhạc này .
+Pin - có_thể xạc qua kết_nối USB 2.0 - cho_phép nghe nhạc liên_tục trong 30-40 tiếng , tùy_thuộc vào định dạng file MP3 hay ATRAC 3 .
+
+NW - HD5 bắt_đầu có_mặt trên thị_trường Nhật vào ngày 21/4 với giá 324 USD .
+
+Q.T. ( theo The Register )

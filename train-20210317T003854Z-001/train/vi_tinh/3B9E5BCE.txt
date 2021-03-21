@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5BCE/
+title=Công nghệ Live của AMD thách thức Viiv của Intel 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ Live của AMD thách_thức Viiv của Intel
+Hãng sản_xuất thiết_bị xử_lý có trụ_sở tại California ( Mỹ ) chuẩn_bị giới_thiệu thương_hiệu mới , với chiến_lược phát_triển công_nghệ tương_tự của đối_thủ khổng_lồ , tại Triển_lãm điện_tử tiêu_dùng .
+
+Máy_tính Live được xây_dựng với những tính_năng riêng nhằm phục_vụ giải_trí gia_đình , ví_dụ như được trang_bị khả_năng âm_thanh vòm 7.1 .
+AMD sẽ thử_nghiệm sự_tương_thích của Live PC với một_số sản_phẩm khác .
+Tại CES 2006 , công_ty STMicroelectronics cũng sẽ công_bố một thiết_bị chuyển_đổi tính hiệu ( set - top box ) cho máy_tính Live .
+
+AMD chỉ tập_trung vào kinh_doanh một thành_phần duy_nhất - thiết_bị xử_lý - trong máy Live PC .
+Ngược_lại , với Viiv , các hãng sản_xuất máy_tính phải sử_dụng bộ_vi xử_lý , chipset và các thành_tố mạng khác của Intel .
+Hệ_thống cũng chỉ hoạt_động trên phần_mềm do chính Intel tạo_ra .
+
+Live PC sẽ xuất_hiện khoảng giữa_năm 2006 còn Viiv PC chuẩn_bị ra_mắt ngay trong quý I_này .
+
+Cho đến nay , những cố_gắng đưa hệ_thống PC vào phòng_khách vẫn .
+" Máy_tính TV " EPC trước_đó của Intel được tiêu_thụ rất chậm_chạp .
+Những phiên_bản nâng_cấp sau_đó nhỏ gọn hơn nhưng vẫn không thu_hút được nhiều người tiêu_dùng .
+
+T.N. ( theo CNet )

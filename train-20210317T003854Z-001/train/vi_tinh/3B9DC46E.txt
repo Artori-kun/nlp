@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC46E/
+title=Công nghệ PC Card mới tăng sức mạnh cho laptop 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ PC Card mới tăng sức_mạnh cho laptop
+Một chuẩn mở_rộng mới cho PC sắp bắt_đầu xuất_hiện trong các loại máy_tính xách_tay , đem_lại băng_thông lớn hơn nhiều cùng với sự_tương_thích về chuẩn .
+
+Tại Triển_lãm công_nghệ cao ( Hanover , Đức ) , Hiệp_hội thẻ nhớ máy_tính cá_nhân quốc_tế ( PCMCIA ) vừa giới_thiệu những phiên_bản notebook đầu_tiên dùng thẻ ExpressCard , bao_gồm nhiều loại máy_tính xách tay của Fujitsu - Siemens , IBM và Toshiba .
+
+ExpressCard được phát_triển để_trở thành thế_hệ tiếp_theo cho chuẩn PC Card .
+Manny Pitta , Chủ_tịch ủy ban marketing của PCMCIA ( một tổ_chức phi lợi_nhuận ) cho_biết , chuẩn thẻ mới sẽ kết_hợp ưu_thế của công_nghệ kết_nối PCI Express và chuẩn USB 2.0 , nhờ_đó làm_tăng băng_thông cho các chức_năng ngoại_vi như thiết_bị bắt sóng truyền_hình , bộ_điều_hợp Bluetooth hay thẻ nhớ flash .
+PCI Express và USB 2.0 đang trở_thành những tính_năng chuẩn trên các bộ chipset mới của Intel , Nvidia , Silicon và Via .
+
+Những module mới sẽ nhỏ hơn với chiều_rộng chỉ 34 mm so với 54 mm của các loại PC Card cũ .
+Tuy_nhiên , những sản_phẩm ExpressCard đầu_tiên vẫn sẽ có chiều_rộng 54 mm ở phần_đầu thẻ nhưng sẽ thon dần và chỉ còn 34 mm ở đầu_cắm .
+
+Theo Manny Pitta , thẻ nhỏ hơn sẽ tiêu_thụ ít điện_năng hơn và giảm_bớt chi_phí sản_xuất .
+PCMCIA dự_báo sẽ sớm có sự_chuyển_đổi dần sang thẻ 34 mm nhưng một_số loại hiện_nay đòi_hỏi thêm băng thông cho các thiết_bị điện_tử để chạy ứng_dụng .
+Ví_dụ , các sản_phẩm ExpressCard cần băng_thông 54 mm bao_gồm đầu đọc thẻ thông_minh , adapter Compact Flash hay thậm_chí ổ cứng mini .
+
+Hầu_hết những máy_tính xách tay đầu_tiên sử_dụng công_nghệ ExpressCard sẽ vẫn có khe cắm PC Card vì số_lượng máy dùng công_nghệ này hiện vẫn rất lớn .
+Các loại PC Card đời cũ hơn sẽ không lắp vừa vào khe ExpressCard .
+Tại triển_lãm CeBIT , PCMCIA đã giới_thiệu 2 mẫu máy laptop IBM ThinkPad T43 và Toshiba Tecra S2 có cả 2 dạng khe cắm này .
+Tổ_chức này đang tiến_hành một chiến_dịch toàn_diện hơn để kích_thích xu_hướng chuyển sang công_nghệ ExpressCard với hy_vọng sẽ tránh được những vấn_đề liên_thông hoạt_động mà các loại PC Card đang gặp_phải .
+
+Phan_Khương ( theo TechWorld )

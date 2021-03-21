@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2C0A/
+title=i-RAM duy trì dữ liệu 16 giờ sau khi ngắt điện 
+cat=VI-TINH|SAN-PHAM-MOI
+
+i - RAM duy_trì dữ_liệu 16 giờ sau_khi ngắt_điện
+Hãng công_nghệ Đài_Loan Gigabyte vừa công_bố sản_phẩm     mới , một giải_pháp thay_thế ổ_đĩa_cứng máy_tính dựa_trên chip xử_lý DDR SDRAM tốc_độ_cao , thay_vì dùng thiết_bị nhớ flash ổn_định nhưng chậm .
+
+i - RAM là một thẻ PCI bao_gồm 4 rãnh DIMM , có khả_năng hỗ_trợ 4 GB DDR SDRAM 200 , 266 , 333 và 400 MHz .
+Đối_với máy chủ PC , nó hoạt_động như một ổ cứng ATA 1,5 Gb / giây .
+Ổ lưu_trữ này kết_nối tới hệ_thống máy chủ qua cáp SATA .
+Bảng mạch chứa một thiết_bị xử_lý FPGA Xilinx Spartan để chuyển_đổi những chỉ_dẫn ATA thành yêu_cầu dạng_đọc / ghi và ngược_lại .
+
+Ngoài_ra , sản_phẩm mới cũng_được trang_bị pin có_thể xạc lại 1700 mAh để cung_cấp điện_năng cho bộ_nhớ trong trường_hợp hệ_thống máy chủ tắt đột_ngột .
+Gigabyte cho_biết nguồn năng_lượng riêng này có khả_năng duy_trì dữ_liệu trong_vòng 10 - 16 giờ trước_khi chúng bị_xóa .
+
+Gigabyte khẳng_định việc lưu Windows XP trên_i - RAM , thay_vì trên ổ_cứng , sẽ cho_phép hệ_điều_hành khởi_động chỉ bằng 1/15 thời_gian nó cần với ổ SATA 7200 vòng / phút .
+Samsung cũng đang tìm_kiếm phương_pháp để trang_bị bộ_nhớ flash cho ổ cứng với mục_tiêu tương tự.  
+Trước_đây , việc lấy một phần bộ_nhớ máy_tính và biến nó thành ổ cứng ảo đã được nhiều người thực_hiện trên một số_hệ điều_hành và các ứng_dụng độc_lập .
+Tuy_nhiên , mức_độ tiện_dụng của thủ_thuật này khá hạn_chế bởi nó đòi_hỏi người_dùng phải sao_chép dữ_liệu tới một bộ_phận ổn_định trước_khi nguồn_điện máy_tính bị_ngắt .
+
+P.T. ( theo The Register )

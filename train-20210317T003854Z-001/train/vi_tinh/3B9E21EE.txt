@@ -1,0 +1,27 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E21EE/
+title=Hiển thị kết quả khi chưa gõ xong từ khóa 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hiển_thị kết_quả khi chưa gõ xong từ_khóa
+Hôm_qua , hãng dịch_vụ trực_tuyến lớn nhất thế_giới Yahoo đã phát_hành phiên_bản thử_nghiệm công_cụ tìm_kiếm mới có khả_năng cung_cấp nội_dung tương_ứng khi người_dùng vẫn chưa hoàn_thành khâu nhập thông_tin vào hộp search .
+
+Khi một từ đang được nhập , sẽ kiểm_tra và nếu đã có ngay kết_quả tương_ứng , công_cụ sẽ hiển_thị ngay kết_quả dưới hộp tìm_kiếm theo_dạng " speech bubble " ( ô hội_thoại thông_tin ) .
+
+Ví_dụ , gõ từ " Harry " sẽ hiện_ra kết_quả về Daniel Radcliffe , diễn_viên đóng_vai chính trong loạt phim về cậu_bé phù_thủy .
+Khi nhập hoàn_chỉnh khóa " Harry Potter " , Instant Search sẽ đưa_ra trang web chính_thức Harrypotter.warnerbros.com của hãng phát_hành phim Warner Brothers .
+Hoặc gõ " bos " sẽ xuất_hiện link về điều_kiện hiện_tại của sân_bay Logan ở Boston ( Mỹ ) và trang Boston.com sau khi nhập từ " Boston " .
+Nếu những nội_dung trong bubble không chứa kết_quả chính_xác , khi_đó người_dùng mới phải bấm " Enter " hay click vào ô tìm_kiếm " Search the Web " để lấy kết_quả mình cần .
+
+Instant Search sử_dụng công_nghệ AJAX , cho_phép máy khách web không_cần phải kết_nối_lại với web server mỗi khi tải thông_tin .
+Yahoo cho_biết công_cụ vẫn đang trong giai_đoạn phát_triển và sẽ giới_thiệu nhiều đặc_điểm hoàn_thiện hơn trong thời_gian tới .
+
+Sự_cạnh_tranh giữa các công_ty tìm_kiếm đang ngày_càng gay_gắt với hàng_loạt những tính_năng mới xuất_hiện .
+Ngày 14/9 , Google cũng ra_mắt phần_mềm search cho blog , sử_dụng chương_trình để tổ_chức nội dung.
+tìm_kiếm trang web cá_nhân theo thời_gian thực .
+Nhờ tính_năng RSS , nội_dung mới sẽ luôn được cập_nhật và kết_quả được phân_bổ theo ngày_tháng .
+Hiện_nay , tin blog cũ nhất mà công_cụ tìm_kiếm hiển_thị là vào tháng 6/2005 , nhưng Google khẳng_định họ đang xây_dựng giải_pháp mới để có_thể giới_thiệu những tin từ thời_gian trước_đó .
+
+Blog Search cũng có trang tìm_kiếm nâng_cao theo tác_giả , tiêu_đề , trình_tự thời_gian ...
+Kết_quả search được lưu lại và sẽ thông_báo cho người_dùng ngay_khi có tin mới .
+
+P.T. ( theo CNet , AP )

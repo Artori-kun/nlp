@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BADEE/
+title=Flipster - giấc mơ của fan hâm mộ thiết bị bỏ túi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Flipster - giấc_mơ của fan hâm_mộ thiết_bị bỏ_túi
+Flipster là một công_cụ chơi nhạc kỹ_thuật_số , xem video , hiển_thị ảnh_số , ghi_âm giọng_nói và chơi game điện_tử .
+Thiết_bị có kích_thước chỉ bằng một bộ tú lơ_khơ , sẽ được tung_ra trong tháng 4 với giá khởi_điểm là 399 USD .
+
+Theo Bob Fullerton , Giám_đốc Marketing của hãng PoGo Products , Flipster giống như một PC cầm_tay nhưng không có nhiều tính_năng phức_tạp như của máy_tính , do_vậy rất dễ sử_dụng .
+
+Chạy trên hệ_điều_hành Windows CE , thiết_bị có hình vỏ hến với nắp bật_lên để_lộ_ra một màn_hình màu TFT 2,5 inch .
+Flipster chơi được các file MPEG - 4 , MP3 và WMA .
+Đồng_thời nó cũng có_thể kết_nối với PC qua cổng USB và kết_hợp với phần_mềm tương_ứng để download các file trên máy_tính .
+
+Flipster sẽ ra_mắt với hai phiên_bản , một có bộ_nhớ flash 64 MB ( 399 USD ) và một có bộ_nhớ 128 MB ( 449 USD ) .
+Sản_phẩm cũng bao_gồm một khe cắm mở_rộng dành cho thẻ MMC và SD để tăng thêm lượng lưu_trữ thông_tin .
+
+Theo PoGo Products , Flipster có những tính_năng nổi trội so với các sản_phẩm khác như : có khả_năng lưu giữ âm_thanh , cho_phép người_sử_dụng ghi_âm và nghe_được những tin_nhắn qua giọng_nói .
+Tính_năng này có_ích cho giới doanh_nhân bởi họ có_thể sử_dụng Flipster để trình_bày các video quảng_cáo tới khách_hàng .
+
+Minh_Thi ( theo PCW )

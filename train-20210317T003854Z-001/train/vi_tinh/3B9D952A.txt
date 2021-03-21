@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D952A/
+title=AMD áp dụng công nghệ tiết kiệm điện cho chip Opteron 
+cat=VI-TINH|SAN-PHAM-MOI
+
+AMD áp_dụng công_nghệ tiết_kiệm điện cho chip Opteron
+Máy chủ dùng chip của AMD sẽ sớm được hưởng lợi_ích do công_nghệ quản_lý mức tiêu_thụ_điện PowerNow mang_lại .
+Đây là sự_kết_hợp giữa các tệp lệnh cho bộ_vi xử_lý và hệ_điều_hành , giúp tăng hoặc giảm điện_năng cấp cho chip tương_ứng với mức_độ vận_hành của nó .
+
+Tương_tự như công_nghệ Cool ' n ' Quiet được sử_dụng trong các hệ_thống máy để_bàn của AMD , PowerNow sẽ rất hữu_ích với các máy_chủ , giúp cắt_giảm chi_phí về điện_năng và làm mát tại các trung_tâm dữ_liệu .
+Margaret Lewis , nhà phân_tích chiến_lược tiêu_thụ của AMD , nhận_xét : Công_nghệ này giống như việc chiếc quạt trong xe_hơi biết tăng_tốc khi động_cơ đạt đến độ_nóng nhất_định .
+
+Theo Lewis , các tệp lệnh của PowerNow đã được tích_hợp vào chip Opteron từ tháng 5 .
+Những khách_hàng đã mua máy chủ sử_dụng bộ_vi xử_lý này có_thể kích_hoạt PowerNow thông_qua nâng_cấp BIOS ( basic input output system ) sẵn_có trên trang web của AMD và công_nghệ này sẽ được sử_dụng rộng_rãi vào nửa_đầu năm 2005 .
+
+T.N .

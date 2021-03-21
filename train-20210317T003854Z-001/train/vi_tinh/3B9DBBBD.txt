@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DBBBD/
+title=Motorola ra mắt sản phẩm dùng công nghệ CDMA 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Motorola ra_mắt sản_phẩm dùng công_nghệ CDMA
+Motorola vừa gia_nhập " làng " điện_thoại di_động CDMA với model C131 .
+Sản_phẩm được thiết_kế không nắp , không tích_hợp ăngten ngoài , kích_thước chỉ 112 x 46 x 21,5 mm và nặng 90 g .
+
+C131 có màn_hình đơn_sắc , độ_phân_giải 96 x 64 pixel nhưng mọi hiển_thị đều rất rõ_ràng và dễ quan_sát .
+Đặc_biệt , máy tích_hợp sẵn chức_năng SIM RUIM , chỉ cần vài thao_tác là có_thể sử_dụng ngay mà không phải thay_đổi phần_mềm .
+C131 dùng pin Lithium ion với thời_gian đàm_thoại khoảng 180 phút và thời_gian chờ trên 200 giờ .
+Máy còn nhiều tiện_ích khác như : có 2 trò_chơi kết_hợp chức_năng PIM , cài_đặt đề_mục theo ý_thích , kết_nối tốc_độ_cao , danh_bạ lưu trên 200 ký_tự ...
+
+Sản_phẩm có giá 990.000 đồng , bảo_hành 12 tháng , do công_ty TNHH Cúc_Việt , quận 4 , TP HCM , phân_phối .
+Tuy_nhiên , đến hết ngày 28/2 , nếu khách_hàng đăng_ký sử_dụng mạng S - fone sẽ được giảm_giá với chi_phí cả mua máy và hoà mạng là 490.000 đồng .
+
+Thanh_Lương

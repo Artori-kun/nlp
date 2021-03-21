@@ -1,0 +1,14 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E7E7F/
+title=Nhựa bán dẫn đưa giấy điện tử đến gần hiện thực hơn 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Nhựa bán_dẫn đưa giấy điện_tử đến gần hiện_thực hơn
+Một nhóm nhà_khoa_học Mỹ và Anh đã thành_công trong việc tạo_ra vật_liệu polymer có tính_dẫn .
+Điều này có_thể sớm dẫn đến những sản_phẩm điện_tử cho_phép in lên trên mà giới sản_xuất hàng_tiêu_dùng vẫn mong_chờ .
+
+Chuyên_gia của các trung_tâm nghiên_cứu Merck , PARC , Stanfords và Synchrotron Radiation Laboratory của 2 nước nói trên đã hợp_tác với_nhau và tìm_ra cách phá_vỡ cấu_trúc của một hợp_chất cao phân_tử ( polymer ) hữu_cơ để tạo_nên một chất polythiopene bán_dẫn .
+Chất này có nhiều ưu_điểm hơn silicon thông_thường và có_thể áp_dụng các kỹ_thuật in phun đơn_giản , đồng_thời lại tạo_ra ít chất_thải .
+
+Vật_liệu mới có_thể sẽ không thay_thế hoàn_toàn silicon trong các ứng_dụng phần_cứng máy_tính , tuy_nhiên , việc các nhà nghiên_cứu tạo_ra được bóng bán_dẫn transistor bằng công_nghệ nói trên cũng có_nghĩa là khả_năng triển_khai rộng_rãi các sản_phẩm đang đến_gần hơn .
+
+P.K. ( theo Engadget )

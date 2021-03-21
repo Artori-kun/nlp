@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DECCC/
+title=Công nghệ MIMO mới cho laptop Wi-Fi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ MIMO mới cho laptop Wi - Fi
+Máy_tính xách tay kết_nối không dây đã trở_nên thông_dụng trong mùa hè này , nhưng đây là lần_đầu_tiên công_nghệ MIMO ( multi - input , multi - output ) , giúp tăng phạm_vi và tốc_độ truy_cập , được tích_hợp trong sản_phẩm của Samsung .
+
+Chip MIMO có_thể tăng tốc_độ truyền_dữ_liệu trong mạng không dây lên tới 200 Mb / giây và phạm_vi hoạt_động là 180 đến 275 mét , trong_khi phạm_vi trung_bình của chuẩn 802.11g ( Wi - Fi ) chỉ đạt từ 45 đến 90 mét với tốc_độ tối_đa 54 Mb / giây .
+
+Chip sử_dụng công_nghệ MIMO của hãng Airgo ( Mỹ ) dùng trong laptop X - 20 của Samsung sử_dụng hai bộ thu_phát_sóng radio trong_khi đa_phần máy_tính xách tay kết_nối Wi - Fi hiện_nay tích_hợp dòng chip của Intel với một bộ thu_phát_sóng vô_tuyến , nhờ_đó MIMO tránh được hiện_tượng đứt_đoạn tín_hiệu .
+
+Đồng_thời , MIMO được thiết_lập dựa_trên chuẩn 802.11g và 802.11b , cho_phép truyền nhiều hơn hai tín_hiệu mạng qua cùng một kênh vô_tuyến 802.11 tại một thời_điểm mà không bị nhiễu_sóng .
+
+Tổ_chức kỹ_thuật điện_tử IEEE đang xúc_tiến việc xem_xét và thử_nghiệm để phát_triển MIMO trở_thành chuẩn mạng không dây thế_hệ mới 802.11n vào_khoảng năm 2007 .
+
+Phương_Thuý ( theo TechWeb )

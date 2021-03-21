@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE3B4/
+title=Thời lượng pin bằng... tuổi thọ thiết bị 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thời_lượng pin bằng ... tuổi_thọ thiết_bị
+Sử_dụng phương_pháp sản_xuất microchip , các nhà nghiên_cứu đã tạo_ra một đi - ốt hai cực bằng silicon dạng_xốp , có_thể kéo_dài tuổi_thọ của loại pin mang tên BetaBattery đến vài thập_kỷ .
+
+BetaBattery là kết_quả của chương_trình NSF Small Business Innovation Research ( SBIR ) với sự_tham_gia của nhiều nhà nghiên_cứu từ Đại_học Rochester ( Mỹ ) , Đại_học Toronto ( Canada ) và Viện công_nghệ Rochester .
+
+Năng_lượng duy_trì của BetaBattery phụ_thuộc vào nguyên_liệu cấu_thành nó , chất tritium -   đồng_vị phóng_xạ electron của hydro - có khối_lượng gấp ba hydro .
+Chất bán_dẫn silicon dạng xốp sẽ phát_điện bằng việc hấp thụ electron , tương_tự như cơ_chế hấp_thụ photon ánh_sáng trong các thiết_bị chạy bằng năng_lượng mặt_trời .
+
+BetaBattery chứng_minh sự_vượt trội so với các pin hóa học thông_thường với nguồn năng_lượng lớn , chịu rung và xóc , hoạt_động_từ 148 độ Fahrenheit ( khoảng 64 độ C ) đến 302 độ Fahrenheit ( 150 độ C ) , và đặc_biệt là thời_lượng pin ... siêu dài mà có_lẽ người_dùng không_bao_giờ phải thay pin trong_suốt quá_trình hàng chục năm sử_dụng thiết_bị .
+
+BetaBattery không_phải là pin đầu_tiên khai_thác nguồn phóng_xạ , cũng không_phải pin đầu_tiên sử_dụng chất tritium .
+Việc nghiên_cứu chuyển_đổi bức_xạ thành điện qua công_nghệ transistor đã được thực_hiện từ hơn 50 năm trước_đây .
+Điều_chỉnh sự_phân_phối giữa những khoảng nhiều và ít electron trong thiết_bị bán_dẫn ( p - n junction ) đã giúp sản_xuất ra rất nhiều sản_phẩm điện_tử khác_nhau hiện_nay .
+Điểm khác_biệt ở_đây là BetaBattery được cấu_tạo bằng tấm silicon mỏng 0,5 mm khắc axit , giúp tăng diện_tích bề_mặt , tạo cho thiết_bị hoạt_động hiệu_quả gấp 10 lần so với thiết_kế hai chiều .
+" Cấu_hình silicon dạng xốp 3 chiều hấp_thụ hiệu_quả các động_năng của electron nguồn " , Nazir Kherani , nhà nghiên_cứu của Đại_học Toronto , cho_biết .
+" Thay_vì chỉ tích_tụ electron ở lớp bên_ngoài , những bề_mặt sâu bên_trong tấm bảng silicon mỏng giúp thu_được nhiều hơn chất phóng_xạ " .
+
+Phương_Thúy ( theo Mobiledia )

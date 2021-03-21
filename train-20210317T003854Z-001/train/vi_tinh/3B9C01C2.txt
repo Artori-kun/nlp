@@ -1,0 +1,15 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9C01C2/
+title=Bảo vệ máy tính với Personal Firewall 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bảo_vệ máy_tính với Personal Firewall
+Phiên_bản mới 5.0 của hãng Sygate giúp bạn chống_lại phần_mềm gián_điệp , Trojans và nhiều loại virus khác .
+Người_sử_dụng dù không có kinh_nghiệm cũng có_thể dễ_dàng xác_lập các chính_sách bảo_mật chống hacker .
+
+Phần_mềm này có khả_năng phát_hiện và ngăn_chặn nhiều loại tấn_công kiểu từ_chối dịch_vụ .
+Ngoài_ra , nó cung_cấp số_liệu thống_kê chi_tiết về khả_năng tải và tình_trạng hoạt_động thời_gian thực của các chương_trình ứng_dụng .
+
+Personal Firewall 5.0 tương_thích với hệ_điều_hành Windows 95/98/ME / NT/2000/XP .
+Bạn có_thể tải phần_mềm miễn_phí ( dung_lượng 4,7 MB ) qua này .
+
+Minh_Long

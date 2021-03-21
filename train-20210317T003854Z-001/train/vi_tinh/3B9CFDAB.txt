@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/02/3B9CFDAB/
+title=Giải pháp lưu trữ và quản lý thông tin cho doanh nghiệp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Giải_pháp lưu_trữ và quản_lý thông_tin cho doanh_nghiệp
+Hôm_nay , tại Hà_Nội , hãng EMC giới_thiệu các sản_phẩm lưu_trữ dành cho ngân_hàng và tổ_chức tài_chính , nhằm giúp những đơn_vị này có_thể khai_thác lợi_thế của hạ_tầng lưu_trữ nối mạng tự_động để dễ_dàng quản_lý được nhiều thông_tin hơn với chi_phí thấp .
+
+Theo ông Ravi Rajendran , Giám_đốc EMC khu_vực châu_Á - Thái_Bình_Dương , các tổ_chức tài_chính và ngân_hàng hiện_nay cần đến những giải_pháp lưu_trữ , quản_lý , bảo_vệ , phân_phối và xử_lý thông_tin như các giao_dịch thanh_toán qua mạng và để đảm_bảo khả_năng cung_cấp dịch_vụ 24/24 .
+Họ cũng cần phải đáp_ứng các quy_định nghiêm_ngặt về lưu_trữ tài_liệu và báo_cáo giao_dịch .
+
+Các giải_pháp toàn_diện của EMC bao_gồm một hệ_thống_thiết bị có khả_năng lưu_trữ lớn và máy_chủ tập_tin có_thể mở_rộng cùng với phần_mềm quản_lý và phần_mềm chức_năng linh_hoạt , dễ quản_lý .
+Chúng bao_gồm các hệ_thống lưu_trữ nối mạng Clariion , Symmetrix và hệ_thống lưu_trữ gắn với mạng Celerra File Servers .
+
+Ngoài_ra , hãng còn đưa_ra chiến_lược quản_lý vòng đời thông_tin trên cơ_sở giải_pháp lưu_trữ mạng tự_động , bao_gồm tổng_hợp công_nghệ lưu_trữ mạng , thiết_bị lưu_trữ phần_cứng và phần_mềm cùng dịch_vụ để các khách_hàng quản_lý , bảo_vệ và chia_sẻ thông_tin tốt_hơn với chi_phí thấp .
+
+Năm 2003 , doanh_thu của hãng đạt 6,24 tỷ USD .
+Thời_gian tới , EMC dự_kiến tập_trung khuếch_trương sản_phẩm tại những thị_trường mới như Việt_Nam , Thái_Lan , Ấn_Độ và Indonesia nhằm tăng thị_phần .
+
+Thanh_Tú

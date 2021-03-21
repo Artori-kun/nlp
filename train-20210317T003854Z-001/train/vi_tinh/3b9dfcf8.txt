@@ -1,0 +1,20 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/07/3b9dfcf8/
+title=Xử lý ảnh toàn diện với FastStone Image Viewer 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Xử_lý ảnh toàn_diện với FastStone Image Viewer
+Chương_trình với đầy_đủ chức_năng của một trình xử_lý ảnh chuyên_nghiệp bao_gồm : xem , chuyển_đổi , chỉnh kích_cỡ , cắt , chỉnh_màu , tạo hiệu_ứng và một số chức_năng khác .
+
+FastStone Image Viewer được thiết_kế với giao_diện đẹp và dễ sử_dụng , một_số skin được cung_cấp thêm để bạn thay_đổi tránh sự_nhàm_chán .
+Chương_trình có vài hiệu_ứng và bộ_lọc đơn_giản như Lens , Waves và Morphs .
+Bạn có_thể loại_bỏ hiệu_ứng mắt đỏ khi chụp_ảnh ban_đêm , điều_chỉnh ánh_sáng cũng_như độ tương_phản .
+FastStone Image Viewer chuyển_đổi các file ảnh sang một trong những định dạng_sau : GIF , BMP , PSD và PNG .
+Ngoài_ra còn có trình tạo các slide với hơn 60 hiệu_ứng chuyển_đổi .
+Đặc_biệt trong khoảng thời_gian chuyển_đổi giữa các ảnh cho_phép thêm_vào bản_nhạc MP3 .
+
+Chương_trình hỗ_trợ hầu_hết các định dạng ảnh phổ_biến như : BMP , JPEG , JPEG 2000 , GIF , PNG , PCX , PSD ( định_dạng của chương_trình Photoshop ) , TIFF , WMF , ICO và TGA .
+
+FastStone Image Viewer là phần_mềm miễn_phí .
+Phiên_bản mới nhất_là 2.5 bạn có_thể tải .
+
+M.H.  

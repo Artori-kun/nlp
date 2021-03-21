@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/03/3B9C5ED5/
+title=Điện thoại Samsung dùng Palm OS 5.2 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại Samsung dùng Palm OS 5.2
+Hôm_qua , tại triển_lãm công_nghệ , hãng Samsung Electronics vừa ra_mắt người_dùng điện_thoại di_động ( ĐTDĐ ) mang mã_số SGH - I500 chạy phiên_bản mới Palm OS 5.2 .
+Thiết_bị này tích_hợp camera bên_trong , có màn_hình LCD - TFT 65.000 màu với độ_phân_giải 162x176 pixel và một màn_hình ngoài OLED 96x64 pixel .
+
+SGH - I500 hỗ_trợ GSM / GPRS tốc_độ 900/1800/1900 MHz , có 32 MB RAM và cài_bộ xử_lý XScale 300 MHz .
+
+Ngoài phần_mềm Palm 5.2 hỗ_trợ việc mã hoá 128 bit , SSL ( Secure Sockets Layer ) Bluetooth , Wi - Fi ( IEEE802.11b ) và bộ xử_lý ARM , thiết_bị còn có một client MMS , trình_duyệt WAP 2.0 và hỗ_trợ J2ME ( Java 2 Micro Edition ) .
+
+Điện_thoại có kích_thước 87x54x27 mm và nặng 150 gram .
+Tuy_nhiên , Samsung chưa công_bố thời_điểm xuất_xưởng và giá_cả .
+
+Cùng_ngày , hãng cũng ra_mắt người_dùng hai thiết_bị thông_minh khác .
+Một sản_phẩm dùng hệ_điều_hành Symbian và một chạy Pocket PC 2002 .
+Cả hai đều hỗ_trợ GPRS .
+
+Minh_Nghĩa ( theo IDG )

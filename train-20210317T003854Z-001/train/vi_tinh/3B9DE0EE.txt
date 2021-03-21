@@ -1,0 +1,32 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE0EE/
+title=IBM cung cấp miễn phí các mẫu phát triển phần mềm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM cung_cấp miễn_phí các mẫu phát_triển phần_mềm
+Tập_trung vào việc tái sử_dụng mã , IBM vừa đưa_ra 4 mẫu phát_triển phần_mềm doanh_nghiệp với mục_đích giảm tải cho những người_sử_dụng công_cụ thiết_kế phần_mềm Rational của hãng .
+
+Mã tính_năng của các mẫu này có_thể tích hợp trực_tiếp vào công_cụ thiết_kế phần_mềm .
+Các mẫu này hỗ_trợ quá_trình tái sử_dụng và tự_động_hóa thiết_kế ứng_dụng .
+Ví_dụ , một ứng_dụng kiểm_tra cân_đối tài_khoản trên mạng có_thể được kết_hợp với bất_kỳ ứng_dụng khác có yêu_cầu chức_năng " xem cân_đối tài_khoản " .
+
+Angel Diaz , Giám_đốc phát_triển phần_mềm theo yêu_cầu của IBM , cho_biết : " Chúng_ta rất cần lập nên một bộ mã có_thể tái sử_dụng để tích_hợp với các công_cụ Rational , nâng_cao hiệu_suất công_việc và giúp thực_hiện các ứng_dụng doanh_nghiệp với tốc_độ nhanh hơn " .
+
+Bốn mẫu nói trên bao_gồm :
+- Business delegates : cho_phép lấy_được mã chuyên_dụng của các công_ty và kết_nối mã với một dịch_vụ sẽ phải dùng_đến mã_đó .
+Mẫu này có_thể được dùng để thành_lập một .
+
+- Data access object : cung_cấp truy_cập tự_động các dữ_liệu đầu cuối ( back - end ) và cách_ly một ứng_dụng của khách_hàng khỏi những chi_tiết về cách_thức lưu_trữ dữ_liệu .
+Dữ_liệu có_thể được tiếp_cận thông_qua những kỹ_thuật như cuộc_gọi ODBC ( kết_nối cơ_sở_dữ_liệu mở ) và SQL ( ngôn_ngữ chất_vấn có cấu_trúc ) .
+Các nhà phát_triển đều xác_định rõ nguồn_dữ_liệu khi thiết_kế các ứng_dụng này .
+
+- Message facade : tạo_ra một lớp ảo để thông_điệp được truyền_đi giữa các ứng_dụng , hỗ_trợ các cơ_chế như_SOAP ( giao thức truy_cập đối_tượng đơn_giản ) hay MQ ( message queueing ) .
+
+- Session facade : để quản_lý các session , như trong các hoạt_động đăng_nhập .
+
+Mặc_dù 4 mẫu này đều mang tính tổng_quát , IBM cũng hỗ_trợ những nhà_phát_triển phần_mềm muốn xây_dựng các mẫu cụ_thể bằng dịch_vụ   Kiến_trúc_sư phần_mềm ( Software Architect ) .
+Đây là một công_cụ thiết_kế và phát_triển qua UML ( ngôn_ngữ mô_hình hợp_nhất ) .
+
+Theo Carl Zetie , nhà phân_tích của hãng khảo_sát Forrester , với những mẫu này , IBM đang nỗ_lực tích_hợp trực_tiếp những thao_tác tốt nhất vào các công_cụ để nhà lập_trình sử_dụng tiện_lợi hơn .
+Tham_khảo chi_tiết .
+
+H.P. ( theo InfoWorld )

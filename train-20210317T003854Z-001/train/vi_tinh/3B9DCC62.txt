@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DCC62/
+title=Xạc đầy pin trong 60 giây 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Xạc đầy pin trong 60 giây
+Toshiba đã phát_triển thành_công một loại pin Lithium - ion có khả_năng nạp được tới 80 % năng_lượng trong chưa đến một phút .
+Nhà sản_xuất tuyên_bố việc xạc đầy 100 % có_thể chỉ mất vài phút .
+
+Tốc_độ thu_nhận năng_lượng này cao hơn rất nhiều so với các công_cụ lưu điện mini hiện_nay mà thông_thường phải mất từ 1 đến 4 tiếng mới đạt được 80 % dung_lượng .
+Toshiba khẳng_định sản_phẩm mới của họ có_thể đem_lại thời_gian sử_dụng lâu hơn nhiều dòng pin Lithium - ion hiện_có và chỉ bị giảm_sút 1 % công_suất sau 1.000 lần_xạc .
+
+Loại pin này có_thể hoạt_động ở nhiệt_độ - 40 ° C với giới_hạn dung_lượng nạp tối_đa là 80 % .
+Nếu nạp đầy thì nhiệt_độ hoạt_động cho_phép là 25 ° C .
+Ở mức 45 ° C thì tuổi_thọ sản_phẩm sẽ bắt_đầu giảm , mất khoảng 5 % công_suất sau 1.000 lần_xạc .
+
+Nhà_sản_xuất cũng khẳng_định pin mới sẽ góp_phần hạn_chế tác_động môi_trường vì tiêu_thụ ít năng_lượng và thải ít khí carbon dioxide hơn .
+Toshiba cho_biết bí_quyết công_nghệ của họ là việc sử_dụng các phần_tử nano nhằm hạn_chế chất điện_phân hữu_cơ dạng lỏng bị thất_thoát trong quá_trình xạc .
+Những phần_tử siêu nhỏ nói trên nhanh_chóng hấp_thu và lưu_trữ một khối_lượng cực lớn các Lithium - ion và không gây_ra bất_cứ tác_động nào đối_với điện_cực .
+
+Pin mới của Toshiba sẽ bắt_đầu được bán trên thị_trường vào năm tới , ban_đầu phục_vụ các ứng_dụng công_nghiệp và tự_động_hóa , sau_đó sẽ phát_triển cho thiết_bị di_động .
+
+Q.T. ( theo The Register )

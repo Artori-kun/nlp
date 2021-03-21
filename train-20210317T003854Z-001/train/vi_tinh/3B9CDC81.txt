@@ -1,0 +1,24 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/12/3B9CDC81/
+title=Dự thi TTVN: Phần mềm mô phỏng bay OpenSky  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN : Phần_mềm mô_phỏng bay OpenSky  
+" OpenSky khắc_phục được hạn_chế của các phần_mềm Flight Simulator hiện_nay vì nó cho_phép người_dùng tham_gia sửa_chữa các chi_tiết vật_lý của máy_bay và các thông_số bay đầy_đủ , chính_xác " , tác_giả phần_mềm Huỳnh_Đình_Bảo_Phương và Trần_Thị_Quỳnh Như cho VnExpress biết.  
+OpenSky Flight Simulator là một chương_trình mô_phỏng bay , nhằm giúp người_sử_dụng quan_sát trực_quan chuyển_động của máy_bay thực trong không_gian và các đáp_ứng theo điều_khiển .
+Phương và Như đã tập_trung mô_phỏng các loại máy_bay nhỏ có động_cơ chong_chóng , vận_tốc nhỏ , tầm bay không cao , các tính_chất chuyển_động nói_chung không quá phức_tạp .
+Hai tác_giả đã phát_triển một thuật giải mô_phỏng lý_thuyết khá chính_xác để xây_dựng một chương_trình chạy được trên máy_tính cá_nhân .
+
+Phần_mềm này có_thể mô_phỏng các máy_bay nhỏ 1 hoặc 2 động_cơ một_cách hoàn_chỉnh , bao_gồm : chế_độ bay , cất_cánh , hạ_cánh và toàn_bộ chế_độ bay trên_không .
+Người_dùng có_thể kiểm_tra các thông_số và trạng_thái bay nhằm đánh_giá mức_độ ổn_định và khả_năng điều_khiển của máy_bay .
+Phần_mềm còn hỗ_trợ việc nhập và sửa_chữa các thông_số chi_tiết và đặc_trưng khí_động để có_thể kiểm_tra máy_bay mới hoặc còn trong giai_đoạn thiết_kế .
+
+Theo 2 tác_giả , các phần_mềm mô_phỏng bay hiện_nay , điển_hình là dòng Microsoft Flight Simulator , tồn_tại nhiều hạn_chế do mục_tiêu hướng đến người_dùng thông_thường nhằm cung_cấp cho họ cảm_giác gần đúng về điều_khiển bay .
+Còn OpenSky Flight Simulator có_thể sử_dụng để hỗ_trợ thiết_kế , nghiên_cứu về hàng_không , trong viện nghiên_cứu , trường_học .
+Ngoài_ra , có_thể sử_dụng phần_mềm này như một game giải_trí .
+Huỳnh_Đình_Bảo_Phương cho_biết : " Chúng_tôi đang xây_dựng các module cần_thiết để phát_triển thành một phần_mềm giải_trí như Combat Flight Simulator .
+Sản_phẩm sẽ được thương_mại_hóa như các phần_mềm của Microsoft Flight Simulator " .  
+Trao_đổi với VnExpress , Phương và Như bày_tỏ mong_muốn có điều_kiện mô_phỏng thêm nhiều loại máy_bay lớn dùng động_cơ phản_lực ( hiện chưa làm_được vì còn thiếu các thông_số động_cơ cũng_như lý_thuyết mô_phỏng các loại động_cơ này ) và hoàn_thiện phần đồ_họa với những yếu_tố khác như địa_hình thật , cảnh thật.  
+Trong thời_gian tới , Phương và Như sẽ nỗ_lực hoàn_thiện phần_mềm mô_phỏng bay OpenSky trở_thành phần_mềm thương_mại .
+Đồng_thời , các tác_giả sẽ tìm_cách kết_hợp_phần cứng để_chế tạo tay_lái ảo , ghế_ảo , sử_dụng như một công_cụ luyện_tập và giáo_dục cho các sinh_viên hàng_không .
+
+Ngọc_Hà

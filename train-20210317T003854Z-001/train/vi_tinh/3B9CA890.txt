@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/08/3B9CA890/
+title=IBM giới thiệu công nghệ ThinkVantage 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM giới_thiệu công_nghệ ThinkVantage
+IBM Việt_Nam đang cung_cấp một số trên các model mới của máy xách tay ThinkPad và máy để_bàn ThinkCentre , nhằm đưa_tới những hệ_thống máy_tính đơn_giản và an_toàn hơn , giúp khách_hàng bảo_vệ dữ_liệu hiệu_quả .
+
+IBM Embedded Security Subsystem ( hệ_thống bảo_mật ESS ) : Đây là công_nghệ duy_nhất loại này trong ngành công_nghệ thông_tin , ESS mang tới khả_năng bảo_mật cao từ phần_cứng đến phần_mềm , cho_phép người_sử_dụng khoá_dữ_liệu và quản_lý mật_khẩu hiệu_quả .
+
+Access Connections ( Kết_nối ) : Công_nghệ này làm_đơn_giản_hoá việc quản_lý kết_nối hệ_thống mạng , bằng cách cung_cấp thông_tin kịp_thời về tình_trạng nối mạng , bảo_lưu phần cài đặt cho những kết_nối không dây và có_dây , cũng_như dễ_dàng chuyển_đổi giữa các kết_nối .
+
+Rapid Restore PC ( Phục_hồi PC nhanh ) : Là giải_pháp phục_hồi đơn_giản chỉ bằng một nút nhấn_phím , cho_phép người_dùng khôi_phục một tệp thông_tin hay dữ_liệu , bao_gồm cả các trình ứng_dụng và hệ_điều_hành sau khi hệ_thống bị sự_cố .
+
+Image Ultra Builder : Cho_phép người_dùng tạo và quản_lý các hình_ảnh cũng_như giúp loại_bỏ việc cài_đặt các ứng_dụng bằng_tay .
+
+System Migration Assistant ( SMA ) : Giúp chuyển_đổi từ một hệ_thống cũ sang hệ_thống mới thông_qua việc bảo_lưu phần cài đặt_trước_đó .
+
+Access IBM : Cung_cấp khả_năng truy_cập thông_tin hệ_thống của người_sử_dụng , nhằm tăng năng_suất làm_việc .
+
+T.T .

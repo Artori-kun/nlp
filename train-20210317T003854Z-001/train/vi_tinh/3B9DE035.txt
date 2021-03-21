@@ -1,0 +1,34 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE035/
+title=Globus Toolkit 4.0 mở rộng điện toán lưới doanh nghiệp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Globus Toolkit 4.0 mở_rộng điện toán lưới doanh_nghiệp
+Các doanh_nghiệp ngày_nay đang đứng trước yêu_cầu tích_hợp và chia_sẻ mạnh_mẽ nguồn dữ_liệu .
+Bộ sản_phẩm cải_tiến của Liên_minh hỗ_trợ lưới_điện toán GC ( Globus Consortium ) vừa được công_bố hôm 3/5 là một giải_pháp đáng chú_ý .
+
+Điện toán_lưới ( ) là một hình_thức hoạt_động mạng .
+Không giống những mạng thông_thường chú_trọng đến sự_liên_lạc giữa các thiết_bị , công_nghệ này khai_thác các chu_trình xử_lý không_được sử_dụng đến của tất_cả các máy_tính trong một lưới để giảm_áp_lực cho một máy_đơn .
+Do_đó mà phương_pháp này tiết_kiệm được chi_phí và nguồn tài_nguyên .
+Để hoạt_động được , công_nghệ này thường cần đến một phần_mềm đặc_biệt .
+Liên_minh GC vừa được thành_lập vào tháng 1 với sự_tham_gia của những gã khổng_lồ như HP , IBM , Intel , Nortel , Sun Microsystems và Univa nhằm mục_đích phát_triển một phần_mềm như_vậy .
+Họ đã cho ra_bộ Globus Toolkit 3.0 ( GT3 ) và mới_đây là Globus Toolkit 4.0 ( GT4 ) .
+
+GT4 của GC - một chuẩn mã nguồn mở mới - mang lại cho các doanh_nghiệp nền_tảng để xây_dựng một hạ_tầng lưới_điện toán an_ninh cho dịch_vụ web vì sản_phẩm này tích_hợp các chuẩn dịch_vụ web với những tính_năng bảo_mật và bản_quyền mới nhất .
+
+" GT4 cho_phép các nhân_viên trong doanh_nghiệp đưa dịch_vụ web tiêu_chuẩn vào môi_trường điện toán_lưới , tiếp_tục đơn_giản hóa kỹ_thuật định_vị tự_động các tài_nguyên có sẵn trên một grid " , Greg Astfalk , chuyên_gia của văn_phòng chiến_lược và công_nghệ doanh_nghiệp hãng HP , phát_biểu .
+GT4 có rất nhiều tính_năng mới , ví_dụ như dựa_vào các chuẩn liên_kết dịch_vụ web ( WS - I ) để tạo_ra sự_kết_hợp hoạt_động giữa những môi_trường khác_nhau .
+Phần_mềm này còn hỗ_trợ các chuẩn bản_quyền như ngôn_ngữ đánh_dấu bảo_mật ( SAML ) và ngôn_ngữ đánh_dấu_kiểm soát tiếp_cận mở_rộng ( XACML ) .
+
+" GT được coi là một thành_công lớn trong môi_trường điện toán dành cho các hoạt_động thương_mại và nghiên_cứu cấp cao " , Mark Linesch , chuyên_gia của HP và là chủ_tịch Diễn_đàn điện toán toàn_cầu , đánh_giá .
+" Tiếp_tục tương_thích với những chuẩn dịch_vụ web và điện toán mới nhất , GT4 sẽ được ứng_dụng rộng_rãi hơn , nhất_là trong các doanh_nghiệp " .
+
+Theo Steve Tuecke , kiến_trúc sư_trưởng của GC , từ_khi phát_hành phiên_bản GT3 , nhiều chuẩn mới cho dịch_vụ web đã xuất_hiện và có_thể tương_thích được với cơ_sở hạ_tầng của điện toán_lưới .
+Sự_hỗ_trợ mở_rộng cho những chuẩn này thông_qua GT4 cho_phép doanh_nghiệp tích_hợp dễ_dàng hơn các hệ_thống công_nghệ thông_tin hiện_có nhằm tối_đa_hóa việc sử_dụng tài_nguyên mạng và kho_dữ_liệu .
+GC đang cung_cấp mẫu thử_nghiệm để chuyển_đổi từ GT3 lên GT4 .
+
+Wolfgang Gentzsch , cựu quan_chức của hãng Sun , bình_luận .
+" GT4 linh_hoạt hơn phiên_bản trước , dễ_dàng thêm các dịch_vụ khác vào grid như công_tác kế_toán , lập_hóa_đơn , đo_đạc , đánh_giá .
+Vì giờ_đây GT4 dựa nhiều hơn vào dịch_vụ web nên người sử_dụng dễ_dàng liên_hệ với các giao_diện khác có cùng chuẩn dịch_vụ web .
+Vì_vậy sẽ có nhiều công_cụ kinh_doanh hơn được tích_hợp với lưới_điện toán " .
+
+H.P. ( theo Infoworld , Newsfactor , ITPlanet )

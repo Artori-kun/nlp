@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DDA31/
+title=Điện thoại thay đổi âm nhạc theo nhịp chân 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại thay_đổi âm_nhạc theo nhịp_chân
+Siemens vừa phát_triển phần_mềm tích_hợp trong thiết_bị nghe_nhạc , cho_phép tăng_giảm nhịp phù_hợp với tốc_độ người chạy , biến thiết_bị MP3 trong điện_thoại thành máy luyện_tập_thể_dục đa_năng .
+
+Phát_minh của Siemens bao_gồm phần_mềm Jogger kết_hợp với một công_tơ đo bước_chân .
+Thiết_bị này có kích_cỡ bằng hộp diêm gọn_nhẹ , đeo ngang_hông .
+Thông_tin về nhịp chân sẽ được chuyển vào điện_thoại qua cổng Bluetooth và hiển_thị trên màn_hình .
+
+Phần_mềm này cũng đo độ_dài sải_chân , giúp ta biết_được tốc_độ cũng_như lượng calo tiêu_hao trong quá_trình luyện_tập .
+Ngoài_ra , khi kết_nối điện_thoại với máy_tính , người_sử_dụng có_thể dựa_vào thông_tin đã ghi để xây_dựng chương_trình chạy hợp_lý .
+
+MP3 là thiết_bị lý_tưởng cho người đi_dạo hay chạy_bộ .
+Hiện_nay , rất nhiều điện_thoại di_động đã được trang_bị MP3 và có_thể chơi nhạc từ bộ_nhớ trong hoặc thẻ nhớ_ngoài .
+Tuy_nhiên , nghe_nhạc trong_khi chạy đôi_khi gây khó_chịu vì nhịp_điệu không hòa hợp với tốc_độ chạy .
+Phần_mềm của Siemens được thiết_kế nhận_biết và điều_chỉnh âm_nhạc phù_hợp nhịp chạy , mà vẫn giữ_nguyên cường_độ âm_nhạc .
+
+P.Thúy ( Theo Mobileburn )

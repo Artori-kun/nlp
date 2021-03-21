@@ -1,0 +1,30 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D7EB9/
+title=‘Á quân mới’ của làng siêu máy tính 
+cat=VI-TINH|SAN-PHAM-MOI
+
+‘ Á quân mới ’ của làng siêu máy_tính
+Mặc_dù 2 tuần nữa mới ra_mắt , chiếc supercomputer mang tên Columbia của hãng Silicon Graphics ( SGI ) được coi là sẽ nằm_trong nhóm dẫn_đầu cuộc canh tranh phát_triển những cỗ máy_điện_toán mạnh nhất thế_giới .
+
+Hệ_thống_trị giá 50 triệu USD này sử_dụng phần_mềm Linux và đã được SGI ký hợp_đồng bán cho Cơ_quan hàng_không vũ_trụ Mỹ NASA .
+Nó có_thể thực_hiện 42,7 nghìn tỷ phép_tính / giây ( 42,7 teraflop ) .
+Tuy_nhiên , tốc_độ đó chưa phải là tất_cả những gì nổi_bật của siêu máy_tính này : hệ_thống mới chỉ khai_thác có 4/5 công_suất của 10.240 bộ xử_lý Intel Itanium 2 trong toàn_bộ cỗ máy đặt ở trung_tâm nghiên_cứu của NASA ở California ( Mỹ ) .
+
+Tốc_độ nói trên nhanh hơn rất nhiều so với mức 36,1 teraflop ở thiết_bị mà IBM công_bố tháng_trước .
+Khả_năng xử_lý dữ_liệu này từng giúp Big Blue vượt_qua đối_thủ NEC , hãng phát_triển siêu máy_tính dẫn_đầu Top 500 supercomputer suốt từ năm 2002 .
+Tuy_nhiên , mới_đây , NEC đã tung_ra phiên_bản siêu máy_tính   dùng công_nghệ vector , đạt tốc_độ xử_lý 65 teraflop và được coi là máy mạnh nhất thế_giới hiện_nay .
+
+Máy của SGI không giống với hầu_hết các siêu máy_tính hiện_nay thường được tạo_nên theo kiểu cluster , với sự_tham_gia của nhiều cỗ máy giá_rẻ .
+Columbia được thiết_lập từ 20 máy_tính mà mỗi chiếc có 512 bộ xử_lý , kết_nối bằng công_nghệ mạng cao_tốc InfiniBand và đều chạy một hệ_điều_hành độc_lập .
+Cách xây_dựng này rất hữu_ích cho những công_việc như giả lập các yếu_tố khí_động_lực cho tàu không_gian .
+
+Một ứng_dụng khác của siêu máy_tính Columbia là việc dự_báo_bão .
+Phần_mềm cho tác_vụ này đang được thiết_kế và hứa_hẹn khả_năng dự_báo đường_đi của bão sớm 5 ngày với độ_chính_xác như khi dự_báo trước 2 ngày .
+Tuy_nhiên , việc vận_hành siêu máy_tính của SGI cũng phức_tạp hơn nhiều so với một server truyền_thống .
+Sau một_lúc mất_điện ngày hôm_qua , các kỹ_sư đã phải mất 2 tiếng mới khởi_động lại được hệ_thống này .
+Toàn_bộ_máy Columbia chiếm_dụng một diện_tích bằng khoảng 3 sân_bóng_rổ .
+
+Nhận_xét về khả_năng Columbia có_thể sẽ không đứng ở vị_trí số 1 được lâu , Dave Parry , Phó_chủ_tịch thường_trực của SGI , phát_biểu : Rõ_ràng là có một số đối_thủ cạnh_tranh đang dốc sức trở_thành người sở_hữu cỗ máy mạnh_nhất .
+IBM sẽ sớm có những điều_chỉnh để giành lại vị_trí của họ .
+Danh_hiệu_số 1 của làng siêu máy_tính sẽ chính_thức được công_bố trong bảng xếp_hạng Top 500 ( công_bố định_kỳ 2 năm / lần ) tại hội_chợ siêu máy_tính Pittsburg ( Mỹ ) bắt_đầu từ ngày 6/11 .
+
+Phan_Khương ( theo CNet )

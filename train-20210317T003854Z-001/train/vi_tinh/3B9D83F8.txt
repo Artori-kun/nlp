@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D83F8/
+title=Thêm một siêu máy tính mạnh của IBM 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thêm một siêu máy_tính mạnh của IBM
+Với tốc_độ 20,5 teraflop ( nghìn tỷ phép_tính / giây ) , máy MareNostrum không_thể sánh với mà Big Blue vừa công_bố .
+Tuy_nhiên , có_thể coi đây là supercomputer dạng_phiến ( blade ) nhanh nhất thế_giới từng được công_bố .
+
+Máy chủ dạng blade là những thiết_bị có kiểu dáng_mỏng , được xếp sát nhau trên giá và cùng chia_sẻ các nguồn tài_nguyên như_điện và các bộ chuyển mạch trên mạng .
+MareNostrum ( tên tiếng Latin chỉ biển Địa_Trung_Hải ) , chạy hệ_điều_hành Linux , sử_dụng 1.772 blade server JS20 của IBM , có 3.564 bộ xử_lý PowerPC 970 và dùng mạng tốc_độ cao của hãng Myricom .
+Các nhà_thiết_kế cho_biết từ_nay đến hết năm họ sẽ tăng_cường sức_mạnh cho MareNostrum bằng cách bổ_sung thêm 500 máy blade có bộ xử_lý kép .
+
+Được thiết_kế cho Bộ Khoa_học và Giáo_dục Tây_Ban_Nha sử_dụng trong nhiều dạng nghiên_cứu khác_nhau , MareNostrum sẽ là một trong những ứng_cử_viên tiềm_tàng trong danh_sách 500 siêu máy_tính mạnh nhất thế_giới công_bố thường_niên vào ngày 8/11 .
+Hiện_nay , xét về tốc_độ xử_lý , MareNostrum chỉ đứng sau Blue Gene / L cũng của IBM ( 70 teraflop ) , của hãng Silicon Graphics ( 51.9 teraflop ) và của NEC ( 35.9 teraflop ) .
+
+P.K. ( theo CNet )

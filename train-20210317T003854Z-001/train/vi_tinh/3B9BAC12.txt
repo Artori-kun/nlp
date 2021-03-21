@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAC12/
+title=Sharp xuất xưởng các PDA dùng Linux 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sharp xuất_xưởng các PDA dùng Linux
+Thiết_bị kỹ_thuật số cá_nhân Zaurus SL - 5500 của Sharp sẽ có_mặt trên thị_trường vào quý I năm_nay .
+Sản_phẩm này dùng hệ_điều_hành Linux của Lineo , bộ xử_lý StrongARM 206 MHz của Intel , 64 MB bộ_nhớ và hỗ_trợ các khe cắm mở_rộng CompactFlash và Secure Digitava .
+
+Người_dùng có_thể mua thiết_bị giá 500 USD này qua trang bán_lẻ của Amazon .
+
+Zaurus SL - 5500 hỗ_trợ một bàn_phím siêu_nhỏ ( sẽ trượt ra khi dùng ) .
+Chủ_nhân của Zaurus cũng có_thể đưa_dữ_liệu vào máy qua một phần_mềm nhận_dạng chữ viết_tay và một bàn_phím trên màn_hình .
+
+Sharp cho_biết PDA này có các tính_năng tương_tự như những thiết_bị dựa_trên Pocket PC 2002 ( các PDA có giá_đắt hơn Zaurus khoảng 150 USD ) .
+Màn hình của Zaurus SL - 5500 có độ_phân_giải 320 x 240 pixel , hỗ_trợ 16 bit_màu .
+ 
+Minh_Nghĩa ( theo ZDNET )

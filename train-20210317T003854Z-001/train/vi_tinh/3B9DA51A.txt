@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA51A/
+title=Đĩa dung lượng 1 TB dùng công nghệ ánh sáng 3 chiều 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Đĩa dung_lượng 1 TB dùng công_nghệ ánh_sáng 3 chiều
+Hãng InPhase Technologies vừa ra_mắt Tapestry HDS5000 , giống như đĩa DVD thông_thường nhưng có dung_lượng lên tới 1 Terabyte ( tương_đương 1.000 GB ) nhờ ứng_dụng công_nghệ lưu_trữ   .  
+" Tapestry HDS5000 là cú đột_phá vào thị_trường thiết_bị lưu_trữ , sẽ làm mọi_người hài_lòng với giá_rẻ , hiệu_quả sử_dụng cao và dung_lượng lớn " , Nelson Diaz , Giám_đốc điều_hành của InPhase , cho_biết .
+
+InPhase cũng dự_kiến đưa_ra sản_phẩm lưu_trữ có khả_năng ghi được vào năm 2006 .
+Thiết_bị này có dung_lượng lên_đến 200 GB , tốc_độ ghi dữ_liệu 20 Mb / giây , đủ để chứa 14 giờ video chất_lượng cao .
+
+Kỹ_thuật lưu_trữ dữ_liệu bằng ánh_sáng 3 chiều đã bắt_đầu được nghiên_cứu từ những năm 60 của thế_kỷ trước .
+Bằng cách tách đôi ánh_sáng rồi sử_dụng chúng để ghi_dữ_liệu , dung_lượng của đĩa có_thể tăng_lên rất nhiều lần so với phương_pháp ghi thông_thường .
+Công_nghệ này cũng cho_phép khả_năng truy_cập nhanh hơn .
+
+" Kỹ_thuật này tiếp_tục chứng_tỏ sức_mạnh của ánh_sáng laser xanh , giúp nâng_cao dung_lượng cũng_như hiệu_suất hoạt_động của thiết_bị .
+Lưu_trữ bằng công_nghệ không_gian 3 chiều có_nhiều tiềm_năng để_trở thành một phần quan_trọng của kỹ_thuật lưu_trữ quang_học " , Wolfgang Schlichting , chuyên_viên của hãng phân_tích thị trường IDC , nhận_xét .
+
+Văn_Thắng ( theo VNUNet )

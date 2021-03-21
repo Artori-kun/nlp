@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D597E/
+title='Cứu' các tập tin lỡ xóa bằng Restoration 
+cat=VI-TINH|SAN-PHAM-MOI
+
+' Cứu ' các tập_tin lỡ xóa bằng Restoration
+Thùng_rác Recycle Bin của Windows nhiều khi không đủ đáp_ứng nhu_cầu của bạn .
+Nếu bạn cần một trình ứng_dụng mạnh để xóa cũng_như phục_hồi các file tốt_hơn , hãy dùng phần_mềm miễn_phí Restoration .
+
+Chương_trình này có khả_năng " cứu " những file bị vô_tình xóa_bỏ ngay_cả khi chúng không_còn trong Recycle Bin hoặc bị xóa trong_khi giữ chìm phím Shift.   Restoration cũng có một chức_năng cho_phép xóa triệt_để , không_thể phục_hồi để phục_vụ việc xóa những tài_liệu_mật .
+
+Restoration phiên_bản 2.5.14 rất nhỏ gọn , có dung_lượng chỉ 193 KB và có_thể chạy từ đĩa_mềm nên bạn sẽ không vô_ý ghi đè một file " đã_xóa " nhưng thực_ra vẫn nằm đâu_đó trong ổ_cứng .
+
+Bạn có_thể tải chương_trình .
+
+Thế_Nghĩa

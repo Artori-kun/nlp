@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E19DD/
+title=Chip nhớ DDR RAM nhanh nhất thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip nhớ DDR RAM nhanh nhất thế_giới
+Hãng sản_xuất thiết_bị nhớ Elpida của Nhật vừa giới_thiệu chip RAM có tốc_độ truyền_dữ_liệu 1,3 Gb / giây , vượt_qua kỷ_lục 1,06 Gb / giây của Samsung .
+
+Bộ_nhớ DDR3 512 MB hoạt_động nhanh gấp 2 lần thiết_bị DDR2 hiện_nay nhưng lại tiêu_thụ ít năng_lượng hơn , chỉ 1,5 volt so với 1,8 volt của .
+
+" Mục_tiêu của chúng_tôi khi phát_triển bộ_nhớ DDR3 thế_hệ mới là để duy_trì những điểm mạnh sẵn_có của DDR2 , như khả_năng hoạt_động với nguồn_điện thấp , trong_khi vẫn tăng tốc_độ truyền_dữ_liệu " , Jun Kitano , Giám_đốc thị_trường của Elpida Memory , cho_biết .
+" Chúng_tôi sử_dụng các bóng bán_dẫn ' hai_cổng ' ( dual gate ) đầu_tiên với DRAM , cho_phép DDR3 521 MB đạt được khả_năng vận_hành cao trong các ứng_dụng điện toán cải_tiến của tương_lai " ,
+Chip DDR3 521 MB sẽ chính_thức được đưa_vào kinh_doanh cuối năm_nay .
+Elpida chưa công_bố giá_thành sản_phẩm .
+
+P.T. ( theo VNUNet )

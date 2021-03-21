@@ -1,0 +1,30 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/07/3B9CA1FB/
+title=Dell giới thiệu máy xách tay mini mới  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dell giới_thiệu máy xách tay mini mới  
+Nhà_sản_xuất máy_tính này sẽ thay_thế sản_phẩm Latitude X200 ( dùng chip Pentium III - M 933 MHz ) bằng Inspiron 300m và Latitude X300 , với mục_đích hâm_nóng lại loạt sản_phẩm máy_tính di_động mà họ tung_ra đầu năm_nay .
+
+Mặc_dù 3 loại máy mini nói trên đều có chung kiểu_dáng ( nặng dưới 1,36 kg với màn_hình 12,1 inch ) , nhưng hai loại mới hứa_hẹn hiệu_suất hoạt_động cao hơn vì có sử_dụng chip Intel Pentium M 1,2 GHz và khả_năng chuyển_đổi linh_kiện với các sản_phẩm xách tay khác của Dell .
+Đây là một yếu_tố mà mọi khách_hàng trong ngành CNTT đều quan_tâm khi chọn máy .
+
+Thay_vì tiếp_thị một sản_phẩm đơn_lẻ tới một số nhóm khách_hàng , Dell thiết_kế hai loại máy mini ( gần giống_nhau ) với hy_vọng sẽ tạo_ra sức thu_hút lớn hơn .
+
+Inspiron 300m hai màu_xanh - bạc là loại máy nhắm vào đối_tượng sinh_viên học_sinh thích truy_cập qua mạng không dây .
+Dell chấp_nhận rủi_ro khi cho ra_đời sản_phẩm này , vì nó có kích_thước và trọng_lượng nhỏ , trong_khi rất nhiều khách_hàng lại khoái các máy màn_hình 15 inch hoặc to hơn với chip Pentium 4 để thay_thế máy để_bàn .
+Những người như_vậy thường chỉ bị ấn_tượng bởi kích_cỡ màn_hình nhiều hơn là quan_tâm đến sức_mạnh của pin .
+
+Mặc_dù_vậy , Dell vẫn khẳng_định sự_cần_thiết của một số_loại máy siêu nhỏ dành cho các khách_hàng có yêu_cầu phức_tạp hơn .
+Đó là những người thích sử_dụng mạng không dây và đòi_hỏi pin phải hoạt_động được trong thời_gian dài .
+Hơn_nữa , loại Inspiron 300m có khả_năng xử_lý đủ mạnh để thực_hiện các công_việc về hình_ảnh .
+
+Inspiron 300m có giá_bán 1.599 USD với màn_hình 12,1 inch , chip Pentium M 1,2 GHZ , RAM 256 MB , ổ cứng 30 GB và một môđun không dây Intel 802.11b .
+Máy chạy trên hệ_điều_hành Windows XP Home , phần_mềm WordPerfect của Corel và các phần_mềm âm_nhạc , biên_tập xử_lý hình_ảnh của Dell .
+Thời_gian bảo_hành là 1 năm .
+
+Trong_khi_đó , Latitude X300 nhắm vào công_chức và doanh_nghiệp hay đi công_tác và cần loại gọn_nhẹ .
+Máy này cũng có đầy_đủ các tiện_ích như Inspiron 300m , ngoại_trừ ổ cứng nhỏ hơn ( 20 GB ) và chạy Windows XP Professional .
+Latitude X300 sẽ được bán với giá ban_đầu là 1.599 USD và bảo_hành 3 năm .
+Đặc_biệt , model có môđun Media Base của Dell , cho_phép khách_hàng bổ_sung thêm_ổ , pin và các cổng_phụ .
+
+Phan_Khương ( theo CNet )

@@ -1,0 +1,27 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/04/3B9C6C41/
+title=Intel ra mắt công cụ tìm lỗi Hyper-Threading 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel ra_mắt công_cụ tìm lỗi Hyper - Threading
+Nhằm đẩy_mạnh phát_triển những bộ_vi xử_lý thế_hệ mới , hôm_qua , Intel công_bố phần_mềm tìm lỗi mới - Thread Checker 1.0 - dành cho hệ_thống cài Pentium 4 và Xeon ứng_dụng công_nghệ siêu phân_luồng ( Hyper - Threading ) .
+Công_cụ này sẽ giúp các nhà phát_triển xác_định lỗi khó phát_hiện trong những ứng_dụng .
+
+Bộ xử_lý ứng_dụng Hyper - Threading cho_phép nhiều hệ_điều_hành , ứng_dụng coi 1 bộ xử_lý vật_lý như là 2 bộ xử_lý logic và giúp hệ_thống thực_hiện nhanh hơn 40 % .
+
+Phần_mềm Thread Checker sử_dụng cơ_chế phát_hiện lỗi mới để quan_sát việc thực_hiện và xác_định các dòng mã gây lỗi phân_luồng .
+Sản_phẩm mới cũng phân các vấn_đề thành nhiều phần khác_nhau , từ tìm lỗi đến cảnh_báo , chỉ ra các dòng mã_nguồn ...
+
+Jonathan Khazam , Giám_đốc điều_hành của Intel , phát_biểu : Mục_tiêu của_chung tôi là giúp các nhà phát_triển dễ_dàng tận_dụng được các tính_năng của những bộ xử_lý mới .
+Trong_khi tử nghiệm bản beta , phần_mềm đã tìm được những nhược_điểm mà các nhà phát_triển phải bó_tay và thậm_chí họ không_biết là lỗi đó tồn_tại .
+
+Bên_cạnh Thread Checker , Intel còn đưa_ra các bộ sản_phẩm phát_triển phần_mềm bao_gồm những bộ biên_dịch Intel C + + và Fortran , bộ phân_tích VTune và thư_viện phần_mềm Integrated Performance Primitives .
+
+Thread Checker 1.0 giá 1.198 USD cho một người_sử_dụng .
+Sản_phẩm có bán tại và cũng_được phân_phối tại các đại_lý trong quý II/2003 .
+Thread Checker 1.0 có_thể sử_dụng với những hệ_thống chạy_bộ xử_lý Pentium 4 , Xeon và hệ_điều_hành Microsoft Windows XP Professional và 2000 .
+
+Cùng_ngày , Intel cũng tuyên_bố tham_gia một tổ_chức phi lợi_nhuận mang tên WinMAX , nhằm phát_triển khả_năng hoạt_động tương_tác của thiết_bị truy_cập không dây tốc_độ cao dựa_trên chuẩn IEEE 802.16 ( Institute for Electrical and Electronics Engineers ) .
+
+Các thành_viên tham_gia tổ_chức WinMAX gồm : Airspan Networks , Alvarion , Aperto Networks , Ensemble Communications , Fujitsu Microelectronics America , Intel , Nokia , OFDM Forum , Proxim và Wi - LAN .
+
+Minh_Nghĩa

@@ -1,0 +1,32 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D31F3/
+title=Chống sao chép phần mềm bằng Smartcard 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chống sao_chép phần_mềm bằng Smartcard
+Đề_tài do nhóm kỹ_sư của Học_viện Công_nghệ bưu_chính viễn_thông nghiệm_thu tại TP HCM hôm_qua .
+Đây là giải_pháp dựa_trên công_nghệ thẻ thông_minh , áp_dụng cho các phần_mềm trong ngành bưu_chính viễn_thông nói_riêng và phần_mềm Việt_Nam nói_chung .
+
+Smartcard được xem là một máy_tính thu_nhỏ với đầy_đủ thành_phần ROM , RAM , CPU và hệ_điều_hành .
+Nó đáp_ứng các tiêu_chí : khó bẻ_khóa , ít ảnh_hưởng đến phần_mềm và dễ phân_phối .
+Smartcard chỉ cho_phép sử_dụng phần_mềm khi đã nạp_thẻ ( có gắn_IC ) vào máy .
+Các chức_năng đọc , ghi và xóa bộ_nhớ chỉ thực_hiện được khi có thẻ .
+Trước_mắt , nhóm nghiên_cứu đề_xuất sử_dụng Smartcard có sẵn với 2 loại thẻ : memory card và CPU card .
+Memory card , giá từ 1,5 đến 30 USD , phải có password và chỉ dùng_cho 1 nhà_sản_xuất phần_mềm .
+Còn CPU card , giá 10-70 USD , sử_dụng 1 khóa công_khai và 1 khóa bí_mật , có_thể dùng chung_cho nhiều nhà_sản_xuất phần_mềm .
+
+Nhóm kỹ_sư đã thử_nghiệm công_nghệ này vào việc bảo_mật các phần_mềm ngành bưu_chính viễn_thông và bước_đầu có những kết_quả khả_quan .
+
+Về khả_năng ứng_dụng của đề_tài , tiến_sĩ Dương_Anh_Đức , Trưởng_khoa CNTT của Đại_học Khoa_học Tự_nhiên TP HCM đồng_thời là thành_viên hội_đồng nghiệm_thu , nhận_định : Sử_dụng Smartcard bảo_vệ phần_mềm là công_nghệ mới , đáng khuyến_khích phát_triển .
+Nhưng đề_tài này cần thời_gian và kinh_phí nghiên_cứu , hoàn_thiện thêm để có_thể áp_dụng cho nhiều nhà_sản_xuất phần_mềm .
+Trong_đó cũng phải chú_trọng đầu_tư tự sản_xuất thẻ nhằm giảm giá_thành .
+
+Theo điều_tra của công_ty phần_mềm VietSoftware , mức_độ sao_chép phần_mềm ở Việt_Nam hiện rất phổ_biến và tập_trung chủ_yếu trong các cơ_quan quản_lý , doanh_nghiệp Nhà_nước , doanh_nghiệp kinh_doanh công_nghệ thông_tin .
+Những phần_mềm bị vi_phạm nhiều nhất là các sản_phẩm có tính xã_hội cao như : từ_điển Lạc_Việt , English Study , VietKeyĐiển hình là từ_điển Lạc_Việt .
+Phần_mềm này đã cài_đặt trong khoảng 70 vạn máy_tính cá_nhân ở Việt_Nam , nhưng có chưa tới 4.000 máy mua bản_quyền chính_thức .
+
+Các " nạn_nhân " đã áp_dụng nhiều giải_pháp như : Serial Number , Encryption , CD , Floppy , Dongle để bảo_vệ phần_mềm của mình nhưng đều nhanh_chóng bị bẻ_khóa .
+Nguyên_nhân chính vì các giải_pháp đó chỉ dựa_trên phần_mềm và phần_mềm phải chạy trên máy_tính , do_vậy không_thể ngăn cracker dịch ngược mã nhị_phân và cracker sẽ vô_hiệu khóa .
+Thực_tế , cũng_như những lĩnh_vực khác thuộc về bảo_mật thông_tin , không có giải_pháp hoàn_hảo cho việc bảo_vệ phần_mềm .
+Vì_vậy , mục_tiêu nghiên_cứu , xây_dựng của các giải_pháp hiện_nay là gây khó_khăn đủ để làm nản_lòng các cracker .
+
+Thanh_Lương

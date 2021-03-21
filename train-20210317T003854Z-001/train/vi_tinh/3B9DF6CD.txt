@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DF6CD/
+title=Xóa tin nhắn SMS từ xa bằng một tin nhắn khác 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Xóa tin_nhắn SMS từ xa bằng một tin_nhắn khác
+Samsung vừa đăng_ký bản_quyền cho công_nghệ xóa tin_nhắn điện_thoại di_động trên máy người_nhận từ_xa .
+Đây thực_sự là thông_tin tuyệt_vời cho hầu_hết những người_sử_dụng thiết_bị liên_lạc cầm_tay .
+
+Ý_tưởng về việc xóa file từ xa đã có từ khá_lâu , như nhiều người vẫn thường áp_dụng chức_năng này để xóa_e - mail trên máy_tính , nhưng đây là lần_đầu_tiên một hãng điện_tử giới_thiệu một hệ_thống như_thế trên điện_thoại di_động .
+
+Tin_nhắn được tự_động lưu trên điện_thoại của người_gửi cùng lúc nó được gửi tới một máy_khác .
+Nếu muốn lấy_lại tin_nhắn_đó , người_gửi có_thể soạn tiếp một yêu_cầu xóa tới_số máy_kia .
+Điện_thoại của người_nhận sẽ tìm_kiếm tin_nhắn đó và xóa ngay_tức_thì .
+
+Bằng_sáng_chế này được cấp cho Samsung vào ngày 9/6 , do_đó thời_điểm hãng sẽ cung_cấp tính_năng mới vẫn chưa thể_xác_định , nhưng viễn_cảnh có cơ_hội loại_bỏ những tin đáng xấu_hổ trước_khi người_khác có_thể đọc được khiến nhiều người háo_hức và sẵn_sàng chờ_đợi .
+
+P.T. ( theo The Register )

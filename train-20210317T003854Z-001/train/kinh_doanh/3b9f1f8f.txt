@@ -1,0 +1,42 @@
+url=http://www.vnexpress.net/vietnam/kinh%2Ddoanh/chung%2Dkhoan/2007/01/3b9f1f8f/
+title=Các thuật ngữ chứng khoán 
+cat=KINH%2DDOANH|CHUNG%2DKHOAN
+
+Các thuật_ngữ chứng_khoán
+Chứng_khoán là chứng_chỉ hoặc bút_toán ghi_sổ , xác_nhận quyền và lợi_ích hợp_pháp của người sở_hữu chứng_khoán đối_với tài_sản hoặc vốn của tổ_chức phát_hành .
+Chứng_khoán bao_gồm cổ_phiếu , trái_phiếu , chứng_chỉ quỹ đầu_tư và các loại chứng_khoán khác .
+
+Vốn cổ_phần của công_ty_cổ_phần được chia nhỏ thành nhiều phần bằng nhau gọi_là cổ_phần .
+
+Cổ_phiếu : là chứng_chỉ do công_ty_cổ_phần phát_hành xác_nhận quyền sở_hữu cổ_phần của người nắm_giữ cổ_phiếu trong công_ty .
+Người sở_hữu cổ_phiếu là cổ_đông của công_ty_cổ_phần .
+Ngày_nay trên Sở giao_dịch chứng_khoán , cổ_phiếu còn có hình_thức ghi trong máy_tính điện_tử , gọi_là hình_thức phi_vật_chất , rất thuận_tiện cho việc giao_dịch cổ_phiếu một_cách nhanh , chính_xác , an_toàn , tránh được_việc nhàm lẫn trong mua_bán và làm_giả cổ_phiếu .
+
+Cổ_phiếu phổ_thông và cổ_phiếu ưu_đãi : Người sở_hữu cổ_phiếu phổ_thông được quyền biểu_quyết đổi với các quyết_định lớn của công_ty tại Đại_hội Cổ_đông của công_ty_cổ_phần và được hưởng cổ_tức ( cổ_tức này không cố_định , có_thể có và có_thể không có ) .
+
+Người sở_hữu cổ_phiếu ưu_đãi được hưởng cổ tức cố_định ằàng năm mặc_dù công_ty có lãi hay không có lãi và có_thể được hưởng một số quyền biểu_quyết nhưng rất hạn_chế .
+Như_vậy , cổ_phiếu ưu_đãi gần giống với trái_phiếu .
+
+Cổ tức_là khoản_tiền hằng năm công_ty cổ_phần phân_phối cho cổ_đông như_là một khoản lãi .
+Việc_chi_trả cổ_tức do Hội_đồng Quản_trị quyết_định .
+Nếu trong năm , công_ty có lợi_nhuận , thì cổ tức được trích ra từ khoản lợi_nhuận đó .
+Trong một_số trường_hợp công_ty không có lợi_nhuận trong năm , nhưng công_ty vẫn chi_trả cổ tức từ khoản_vay ngân_hàng .
+
+Trái_phiếu là chứng_khoán xác_nhận nghĩa_vụ trả_nợ của tổ_chức phát_hành trái_phiếu .
+Trái_phiếu bao_gồm trái_phiếu công_ty và trái_phiếu chính_phủ .
+Trái_phiếu có_thể có bảo_đảm hoặc không có bảo_đảm .
+
+Trái_phiếu có bảo_đảm có_thể được bảo_đảm bằng phương_thức sau : Bộ Tài_chính hoặc tổ_chức tài_chính bảo_lãnh thanh_toán ; Bảo_đảm bằng tài_sản của tổ_chức phát_hành hoặc một tổ_chức thứ_ba .
+
+Trái_phiếu chuyển_đổi là trái_phiếu có kèm_theo quyền chuyển_đổi quy_định rằng đến một thời_điểm nào_đó ( 1 , 2 , 5 năm sau khi phát_hành ) thì người sở_hữu trái_phiếu có_quyền chuyển_đổi trái_phiếu để lấy cổ_phiếu của công_ty phát_hành trái_phiếu .
+
+Ví_dụ : tháng 10 năm 1998 , công_ty A phát_hành trái_phiếu C kèm_theo quyền chuyển_đổi 1 trái_phiếu C thành 1 cổ_phiếu của công_ty A vào tháng 10 năm 2002 .
+Nếu vào tháng 10 năm 2002 , giá 1 cổ_phiếu là 102.000 đồng và giá trái_phiếu C là 90.000 đồng , thì người nắm_giữ trái_phiếu sẽ chuyển_đổi trái_phiếu đang nắm_giữ sang cổ_phiếu .
+Ưu_điểm của việc phát_hành trái_phiếu chuyển_đổi là nó hấp_dẫn nhà đầu_tư hơn so với trái_phiếu thông_thường .
+
+Trái_phiếu Chính_phủ do Chính_phủ phát_hành .
+Trái_phiếu Chính_phủ của các nước thường do Ngân_hàng Trung_ương tổ_chức đấu_thầu bán_buôn , các tổ_chức tài_chính đứng_ra thầu mua và là người tạo_dựng thị_trường trái_phiếu .
+
+Trái_phiếu công_trình là một loại trái_phiếu Chính_phủ hoặc trái_phiếu chính_quyền địa_phương được Chính_phủ cho_phép , được phát_hành để phục_vụ cho việc xây_dựng một công_trình , theo quy_định của Chính_phủ hoặc địa_phương .
+
+( Nguồn : Hastc.org.vn )

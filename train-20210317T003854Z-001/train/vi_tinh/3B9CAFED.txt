@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/08/3B9CAFED/
+title=Hitachi giới thiệu Microdrive 2 GB và 4 GB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hitachi giới_thiệu Microdrive 2 GB và 4 GB
+Công_ty Nhật_Bản sẽ bắt_đầu cung_cấp những công_cụ này vào tháng 11 tới với giá 500 USD .
+Hai loại ổ cứng mini mới có dung_lượng lưu_trữ dữ_liệu cao hơn từ 2 đến 4 lần so với các sản_phẩm tương_tự hiện_nay .
+
+Sản_phẩm thử_nghiệm của loại ổ 4 GB hiện được cung_cấp cho một_số công_ty sản_xuất camera kỹ_thuật_số .
+Microdrive mới của Hitachi được trình_làng một tháng_sau khi Lexar Media tuyên_bố đã đưa_vào kinh_doanh loại .
+Hãng cũng thông_báo kế_hoạch tung_ra một sản_phẩm tương_tự cuối năm_nay .
+
+Dựa_trên bộ_nhớ chất_liệu cứng thay_vì dùng công_nghệ ổ_cứng , các loại thẻ nhớ có một số ưu_thế so với Microdrive như khả_năng truy_nhập dữ_liệu nhanh và tiêu_thụ ít năng_lượng , mặc_dù giá cao hơn .
+Thẻ của Lexar có giá 1.500 USD , gấp 3 lần so với Microdrive , trong_khi thiết_bị của SanDisk cũng xấp_xỉ 1.000 USD .
+
+Ổ cứng mini của Hitachi dựa_trên hệ_thống file vì hiện_nay , hệ FAT16 phổ_biến trong thẻ nhớ và các thiết_bị lưu_trữ di_động chỉ có dung_lượng 2 GB .
+Với việc chuyển sang FAT32 , khả_năng lưu_dữ_liệu được tăng_thêm rất nhiều và tất_nhiên cũng đòi_hỏi sự_tương_thích của camera kỹ_thuật_số .
+Hiện mới chỉ có một số_ít thiết_bị cá_nhân PDA hỗ_trợ định dạng FAT32 .
+
+Công_nghệ Microdrive trước_đây do IBM phát_triển và được chuyển_giao cho Hitachi , khi hãng này mua_lại bộ_phận sản_xuất thiết_bị lưu_trữ của Big Blue để lập_ra công_ty mới Hitachi Global Storage Technologies .
+
+Phan_Khương ( theo InfoWorld )

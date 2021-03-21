@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/11/3b9e48dc/
+title=Công nghệ bảo mật sinh trắc học bằng mạch máu 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Công_nghệ bảo_mật sinh trắc học bằng mạch_máu
+Hitachi vừa triển_lãm lần_đầu_tiên công_nghệ nhận_dạng cá_nhân dựa_trên việc quét tĩnh_mạch ở bàn_tay hoặc ngón_tay_trong Hội_nghị thượng_đỉnh xã_hội thông_tin tại Tunisia gần_đây .
+Hãng này cũng đã đưa hệ_thống bảo_mật này vào dòng máy_tính xách tay Flora .
+
+Công_nghệ này được Hitachi xây_dựng từ năm 2000 và triển_khai trong nhiều ứng_dụng như hệ_thống ATM tại các tổ_chức tài_chính , cửa_ra_vào và hiện_nay là PC .
+Khi sử_dụng , một luồng ánh_sáng sẽ thâm_nhập_vào ngón_tay để đo và đối_chiếu các mẫu tĩnh_mạch .
+
+Hãng điện_tử Nhật mới_đây cũng giới_thiệu công_nghệ xác_thực tĩnh mạch trên ngón_tay " grip - type " , nghĩa_là một người chỉ phải chạm vào tay_cầm trên cánh_cửa , hệ_thống sẽ nhận_dạng ngay_lập_tức và mở cửa phòng , nhà hoặc xe_hơi .
+Công_nghệ này đã nâng kỹ_thuật bảo_mật lên một trình_độ mới , mang lại sự_tiện_lợi cao nhất , cho_phép mọi_người không_cần phải đem_theo chìa_khóa mỗi khi rời_khỏi nhà .
+
+Peter Jones , Giám_đốc kinh_doanh của Hitachi tại châu_Âu , cho_biết : " Xác_thực mẫu tĩnh_mạch là phương_pháp_học chính_xác nhất và đã chứng_minh sự_thành_công trong nhiều ứng_dụng tại Nhật .
+Chúng_tôi sẽ tiếp_tục mở_rộng công_nghệ trên toàn thế_giới " .
+
+P.T. ( theo Akihabara )

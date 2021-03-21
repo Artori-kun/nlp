@@ -1,0 +1,45 @@
+url=http://vnexpress.net/vietnam/kinh%2Ddoanh/chung%2Dkhoan/2006/12/3b9f12cb/
+title='Sập' sàn giao dịch chứng khoán TP HCM 
+cat=KINH%2DDOANH|CHUNG%2DKHOAN
+
+' Sập ' sàn giao_dịch chứng_khoán TP HCM
+Sáng_nay , toàn_bộ hệ_thống giao_dịch điện_tử của Trung_tâm Chứng_khoán TP HCM và hơn 20 công_ty chứng_khoán bị tê_liệt , các bảng giao_dịch trực_tuyến trống trơn không có bất_cứ số_liệu nào .
+Trung_tâm đã phải quyết_định ngừng giao_dịch ít phút sau khi mở_cửa .
+Nguyên_nhân sự_cố chưa được thông_báo .
+
+Đến 11h trưa , Trung_tâm Chứng_khoán TP HCM vẫn chưa thông_báo chi_tiết về sự_cố cũng_như nguyên_nhân .
+
+Trao_đổi với VnExpress , ông Phạm_Đức_Thắng , Trưởng_phòng Môi_giới Kinh_doanh và Tư_vấn niêm_yết ( Công_ty Chứng_khoán VCBS ) xác_nhận hệ_thống giao_dịch chứng_khoán điện_tử của sàn TP HCM có sự_cố .
+Ông cho_biết ngay từ lúc bắt_đầu đợt giao_dịch đầu_tiên , vào_lúc 8h30 , trên bảng giao_dịch trực_tuyến đã có dấu_hiệu bất_thường , không thấy dữ_liệu mới .
+Lúc_này VCBS vẫn tiếp_tục nhận lệnh của khách_hàng và chuyển vào trung_tâm như_thường_lệ .
+Có tất_cả gần 600 lệnh được chuyển_vào .
+Tuy_nhiên , sau_khi gửi lệnh công_ty không thấy dữ_liệu chuyển_ra , trên bảng chứng_khoán các chỉ_số vẫn không hiện_ra .
+
+" Đoán là có vấn_đề trục_trặc trong khâu truyền_dữ_liệu từ Trung_tâm ra các công_ty , chúng_tôi thông_báo ngay với Trung_tâm và được xác_nhận là đang có sự_cố .
+Bảng giao_dịch của các công_ty chứng_khoán khác cũng gặp sự_cố tương_tự .
+Sau_đó , Trung_tâm quyết_định huỷ 2 đợt giao_dịch tiếp_theo " , ông nói_thêm .
+
+Theo ông_Thắng , hiện chưa biết_rõ chính_xác sự_cố là gì cũng_như nguyên_nhân , song_công_ty đang chờ Trung_tâm xác_minh về kết_quả giao_dịch đợt 1 .
+
+SSI , BSC và các công_ty chứng_khoán khác cũng chuyển được một_ít lệnh vào Trung_tâm trong_đợt 1. Tất_cả đều đang chờ_đợi xem kết_quả giao_dịch đó có_được chấp_nhận hay không. " Thông_tin tôi nghe_được từ Trung_tâm đến phút này là có_thể sẽ huỷ cả kết_quả giao_dịch đợt 1 " , một cán_bộ của BSC cho_biết .
+
+Đến 11h , Trung_tâm Chứng_khoán TP HCM vẫn chưa có thông_báo chính_thức về sự_cố cũng_như nguyên_nhân xảy_ra .
+VnExpress liên_lạc với Giám_đốc trung_tâm Trần_Đắc_Sinh , song câu_trả_lời là : " Tôi đang rất bận " .
+
+Nhiều nhà_đầu_tư tại sàn BSC quá thất_vọng vì sự_cố liền_bỏ sàn ngay từ lúc 10h .
+Các tay_chơi tại sàn SSI thì tiếc_nuối , cố nấn_ná chờ đến cuối buổi_sáng để tìm_hiểu nguyên_nhân và chờ xem kết_quả giao_dịch đợt 1 có_được chấp_nhận hay_không .
+Giới đầu_tư cho_rằng , thiệt nhất trong sự_cố này là những người muốn bán chứng_khoán trong sáng_nay .
+
+" Hôm_qua giá chứng_khoán lên_cao , VN - Index đạt kỷ_lục .
+Chắc sẽ có nhiều người muốn bán_ra kiếm_lời trong phiên sáng_nay .
+Những người đang cần tiền muốn bán gấp sẽ càng khó_khăn hơn , vì họ sẽ phải chờ ít_nhất 3 hôm_nữa , khi sàn giao_dịch mở cửa trở_lại vào sáng thứ 2 " , một nhà_đầu_tư ở sàn SSI tâm_sự .
+
+Giới quan_sát nhận_định sự_cố trên sàn chứng_khoán TP HCM hôm_nay đã được báo_trước .
+Những ngày gần_đây các bảng chứng_khoán điện_tử liên_tục gặp sự_cố , số_liệu nhảy loạn_xạ và đến cuối phiên mới có_thể điều_chỉnh trở_lại .
+Một nguyên_nhân quan_trọng là số_lượng chứng_khoán nhập sàn tăng từng ngày , các nhà đầu_tư mới cũng gia_tăng và ngày một nhiều các công_ty chứng_khoán tham_gia thị_trường .
+
+" Số lệnh giao_dịch quá lớn trong_khi hệ_thống chưa được nâng_cấp , sự_cố xảy_ra là chuyện không ngạc_nhiên " , đại_diện một công_ty chứng_khoán bình_luận .
+
+Theo ông Phạm_Đức_Thắng , những ngày gần_đây , mỗi_ngày VCBS nhận 4.000-4.500 lệnh , song chỉ đáp_ứng được hơn 2.000 lệnh .
+
+Song_Linh - Ánh_Hồng

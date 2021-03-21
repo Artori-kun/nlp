@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2FDC/
+title=Điện thoại di động đầu tiên có thể lưu lại chương trình TV 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại di_động đầu_tiên có_thể lưu_lại chương_trình TV
+Hãng LG Electronics hôm_qua công_bố mẫu thiết_bị liên_lạc cá_nhân có khả_năng thu chương_trình truyền_hình vệ_tinh và ghi vào bộ_nhớ để người_sử_dụng xem lại ngay_sau_khi họ phải tạm dừng để trả_lời một cuộc_gọi .
+
+Sản_phẩm được gọi_là LG - SB130 hoặc KB1300 , tùy_theo phiên_bản của các nhà phát_hành khác_nhau , có_cơ_cấu hoạt_động như_sau : khi có cuộc gọi đến , một thông_báo sẽ xuất_hiện trên màn_hình để người_sử_dụng ra_lệnh tạm_dừng ( pause ) chương_trình TV họ đang xem và bắt_đầu trả_lời cuộc_gọi .
+Khi đã chọn lệnh tạm dừng_đó , điện_thoại sẽ ngay_lập_tức ghi_lại nội_dung chương_trình TV vào bộ_nhớ và giữ_nguyên hình_ảnh trên màn_hình ở thời_điểm người_sử_dụng bấm_dừng .
+Khi cuộc gọi chấm_dứt , điện_thoại bắt_đầu phát_tiếp chương_trình lưu trong bộ_nhớ , giúp người_xem không bỏ_lỡ những nội_dung đã phát và cảm_thấy tiện_dụng như như tạm dừng đĩa hoặc băng .
+
+Bộ_nhớ của chiếc điện_thoại này có dung_lượng 80 MB , cho_phép lưu được 1 giờ nội_dung .
+Các đặc_điểm kỹ_thuật khác bao_gồm màn_hình TFT 2,2 inch độ_phân_giải QVGA ( 240 x 320 pixel ) , nghe nhạc MP3 , ngõ ra TV , tương_thích mạng di_động CDMA .
+Sản_phẩm sẽ được phát_hành chính_thức vào cuối năm_nay với giá dự_kiến khoảng 700 USD .
+
+Điện_thoại thu tín_hiệu truyền_hình bắt_đầu xuất_hiện tại Hàn_Quốc đầu năm nay khi hãng TU Media cung_cấp dịch_vụ phát_sóng các kênh nội_dung video / audio tới thiết_bị liên_lạc cầm_tay từ vệ_tinh .
+Các sản_phẩm của LG , và Pantech đều hỗ_trợ đăng_ký sử_dụng dịch_vụ này nhưng tính_năng tạm dừng và lưu nội_dung đang phát thì là một đặc_điểm hoàn_toàn mới và lần_đầu_tiên xuất_hiện ở sản_phẩm nói trên của LG .
+
+P.K. ( theo InfoWorld )

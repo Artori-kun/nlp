@@ -1,0 +1,27 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E8FD5/
+title=Microsoft dự định phát triển ổ cứng ảo trên web 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft dự_định phát_triển ổ cứng ảo trên web
+Các chuyên_gia MSN đang xây_dựng một dịch_vụ mới , tên mã Live Drive , cho_phép mọi_người lưu_trữ và truy_cập dữ_liệu cá_nhân mọi_lúc mọi_nơi và trên bất_cứ thiết_bị nối mạng nào .
+
+Giám_đốc kỹ_thuật Ray Ozzie của Microsoft đã công_khai kế_hoạch ổ cứng trực_tuyến trong một phỏng_vấn với tạp_chí Fortune ( ) .
+" Microsoft sẽ sử_dụng những hệ_thống máy chủ của mình để lưu tất_cả các thông_tin của mọi_người như phim , nhạc , e - mail đến tài_liệu thuế , file hội_thảo video ... " , Fortune khẳng_định .
+
+Phát_ngôn viên Adam Sohn của Microsoft hôm_qua thừa_nhận sự_tồn_tại của Live Drive .
+Dự_án này cho_phép tìm_kiếm và chia_sẻ file trong Windows Live Messenger giữa các máy_tính và thiết_bị qua tính_năng Sharing Folders ( thư_mục chung ) .
+Họ cũng đang nghiên_cứu phương_pháp đồng_bộ các thư_mục dựa_trên công_nghệ truy_cập từ xa FolderShare mà Microsoft mua_lại hồi tháng 11 năm_ngoái .
+Tuy_nhiên , Sohn từ_chối tiết_lộ thêm thông_tin khác .
+
+Chris Overd , đạt_danh_hiệu Most Valuable Professionnal ( MVP ) của Microsoft và là một trong những người đầu_tiên sử_dụng bản_thử_nghiệm Live , khẳng_định rằng ổ cứng ảo hỗ_trợ mọi_người truy_cập file trên máy_tính Windows thông_qua web .
+Overd cũng nói rằng Live Drive có_thể sẽ được tích_hợp trong tính_năng Mobility Center của .
+
+Microsoft đã để_mắt đến một dịch_vụ như_thế từ ít_nhất 2 năm trước .
+Năm 2004 , họ dự_định phát_hành công_cụ sao_lưu và phục_hồi trực_tuyến cho văn_phòng nhỏ ( SOHO ) .
+Tháng 3 vừa_qua , tập_đoàn phần_mềm Mỹ chính_thức công_bố kế_hoạch biến chương_trình Live thành nền_tảng phục_vụ lợi_ích riêng của các chuyên_gia phát_triển với 3 bộ giao_diện Live : liên_lạc ( contact ) , định_danh ( identity ) và dung_lượng ( storage ) .
+
+Theo một thông_tin tình_cờ đăng trên trang của Google đầu tháng 3 , hãng sở_hữu công_cụ tìm_kiếm phổ_biến nhất thế_giới này cũng đang chuẩn_bị cho ra_mắt 3 dịch_vụ chủ_chốt nhằm lưu_trữ toàn_bộ dữ_liệu của người tiêu_dùng ( Store 100 % ) là .
+
+Google không công_bố thông_tin cụ_thể hay lịch_trình ra_mắt GDrive , cũng_như chưa bình_luận về sự_kiện liên_quan đến Microsoft .
+
+T.N. ( theo PC World , Microsoft - watch )

@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA764/
+title=Acer trình làng laptop Travelmate 8100 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Acer trình_làng laptop Travelmate 8100
+Máy_tính xách tay mới nhất của Acer sử_dụng công_nghệ Intel Sonoma có tích_hợp CPU Pentium M , sản_xuất theo công_nghệ 90 nm ( trước là 130 nm ) , 2 MB L2 cache và 533 MHz FBS nên công_suất nhanh , mạnh hơn mà vẫn tiết_kiệm điện .
+
+TM8100 sử_dụng chipset 915PM Express , công_nghệ hỗ_trợ đồ_họa mới nhất của Intel , đồng_thời cũng_được gắn chipset WLAN là PRO / Wireless 2915ABG , hỗ_trợ các chuẩn 802.11a / b/g .
+Ngoài_ra , WLAN của TM8100 còn hỗ_trợ công_nghệ WLAN Signal Up Wireless độc_quyền của Acer .
+Nhờ_đó , khả_năng bắt tín_hiệu và liên_lạc bằng sóng vô_tuyến tăng_lên 25 % so với các máy_khác .
+
+Màn hình của TM8100 rộng 5,4 " có độ sáng 200 nit - HB , hỗ_trợ độ_phân_giải lên tới 1680 x 1050 với 16,7 triệu màu .
+
+Sản_phẩm mới của Acer có hệ_thống bảo_mật và quản_lý password bằng card điện_tử thông_minh Acer TravelMate Smart Card , giúp bảo_mật dữ_liệu , bảo_vệ máy_tính và chống mất_cắp tốt_hơn .
+
+Theo nhà_sản_xuất máy_tính Đài_Loan , TM8100 dự_kiến có_mặt tại thị_trường Việt_Nam vào cuối tháng 1 với giá khoảng 2.199 USD .
+
+Xuân_Kim

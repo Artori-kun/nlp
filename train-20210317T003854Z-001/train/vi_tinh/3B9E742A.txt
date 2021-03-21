@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E742A/
+title=Dùng chân thay chuột máy tính 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dùng chân thay chuột máy_tính
+Các chuyên_gia nghiên_cứu của Microsoft đang phát_triển một giao_diện người_dùng được điều_khiển bằng_chân nhằm giảm_bớt khối_lượng công_việc của đôi_tay .
+
+Giao_diện StepUI ( Step User Interface ) , đang trong giai_đoạn đầu phát_triển , nằm_trong số 155 dự_án được Microsoft trình_bày trong sự_kiện TechFest diễn_ra tại Redmond HQ tuần này .
+Nó cho_phép người_sử_dụng duyệt e - mail hay phân_loại ảnh bằng cách đưa_chân tới những vị_trí cụ_thể trên tấm_thảm .
+Họ cũng có_thể cuộn thanh_cuốn , mở , đóng , xóa và di_chuyển các thông_điệp qua giao_diện này .
+Ngoài_ra , người_nghe nhạc có_thể gõ_nhịp chân để tăng giảm âm_thanh , điều_chỉnh bài_hát ...  
+StepUI hỗ_trợ đắc_lực những ai bị khuyết_tật hoặc gặp vấn_đề nào_đó liên_quan đến_tay .
+Nhưng ý_tưởng sẽ còn được mở_rộng xa hơn thế. " Chắc_chắn ai cũng muốn dậm mạnh 2 chân để xóa thư_rác " , Kevin Schofield , Tổng giám_đốc chiến_lược và truyền_thông của Microsoft Research , nói .
+" Một_số ứng_dụng mọi_người cần thực_hiện bằng_tay , nhưng sẽ có một_số chương_trình và giao_diện họ lại thích dùng_chân , hoặc cả tứ_chi " .
+
+Theo Schofield , công_nghệ này có khả_năng sẽ xuất_hiện trong các gói sản_phẩm tương_lai của Microsoft , kể_cả hệ_điều_hành Windows .
+" Sẽ không tốt cho sức_khỏe và xương_cốt nếu bạn cứ ngồi bất_động trên ghế cả ngày còn đôi tay thì mỏi_nhừ vì di_chuột " , Schofield nhận xét.
+( theo The Register )

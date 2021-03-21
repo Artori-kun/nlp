@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E011A/
+title=Bản beta Flash Player 8 của Macromedia ra mắt 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bản beta Flash Player 8 của Macromedia ra_mắt
+Ba_tháng sau khi hứa_hẹn những thay_đổi lớn trong phần_mềm hoạt_ảnh web của họ , Macromedia hôm_qua đã phát_hành phiên_bản thử_nghiệm đầu_tiên của chương_trình này với tên mã là Maelstrom .
+
+Đây là cuộc kiểm_tra quan_trọng trước lần phát_hành lớn tiếp_theo của Flash Player 8 , David Mendels , Giám_đốc điều_hành Macromedia , tuyên_bố .
+Chương_trình được cung_cấp cho các nhà phát_triển và người tiêu_dùng chạy_thử nhằm đảm_bảo những gì được phần_mềm xử_lý đều hiển_thị chính_xác và không gặp vấn_đề tương_thích nào .
+
+Bản_thử_nghiệm được thiết_kế cho máy_tính dùng từ hệ_điều_hành Microsoft Windows 98 trở_về sau và từ Macintosh OS X 10.1 trở_đi .
+
+Chương_trình hiển_thị hình flash đã thu_hút sự_quan_tâm đầu_tư ngày_càng lớn của Macromedia khi hãng này tìm_cách xây_dựng nó như một nền ứng_dụng dựa_trên web thay_vì chỉ_là một công_cụ tạo hoạt_ảnh thuần_túy .
+Tháng 4 năm_nay , Adobe công_bố kế_hoạch mua_lại Macromedia nhưng đến nay thương_vụ này còn gặp nhiều vấn_đề liên_quan đến khía_cạnh độc_quyền mà Bộ Tư_pháp Mỹ đang điều_tra .
+
+P.K. ( theo CNet )

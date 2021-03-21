@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5C6E/
+title=Ổ lưu trữ rời sử dụng công nghệ ghi trực giao 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ổ lưu_trữ rời sử_dụng công_nghệ ghi trực_giao
+Công_ty Seagate ( Mỹ ) lần đầu_tiên áp_dụng phương_pháp ghi trực_giao ( perpendicular ) đối_với ổ cứng lưu_động cho máy_tính xách tay Momentus 2,5 inch , 5400 vòng / phút , USB 2,0 và dung_lượng 160 GB .
+
+Công_nghệ mới , ghi các bit dữ_liệu theo phương thẳng_đứng , cho_phép tăng 30 % khả_năng lưu_trữ so với dòng ổ cứng cùng loại đang có_mặt trên thị_trường ( 120 GB ) được sản_xuất bằng phương_pháp ghi theo chiều_ngang hiện_nay .
+
+Sản_phẩm mới của Seagate có kích_thước nhỏ , nặng chưa đến 0,5 kg và hỗ_trợ tốc_độ truyền_dữ_liệu 480 Mb / giây .
+
+Seagate cũng giới_thiệu phiên_bản 500 GB , 3,5 inch , cho ổ cứng rời SATA .
+Dòng sản_phẩm này sử_dụng công_nghệ ghi theo chiều_ngang với giao_diện SATA 3 Gb / giây .
+Về mặt lý_thuyết , nếu chuyển sang phương_pháp trực_giao , ổ sẽ có_thể tăng khả_năng lưu_trữ lên_đến 650 GB .
+
+Ổ cứng rời 160 GB sẽ xuất_hiện trên thị_trường trong tháng 2 với giá bán_lẻ 379 USD , còn ổ SATA PushButton 500 GB dự_kiến ra_mắt tháng 4 nhưng giá_thành chưa được công_bố .
+
+T.N. ( theo TechWorld )

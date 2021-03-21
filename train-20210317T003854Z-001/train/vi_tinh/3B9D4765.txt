@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/07/3B9D4765/
+title=Nén file nhạc MP3 bằng Mp3Trim v1.90a 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Nén file nhạc MP3 bằng Mp3Trim v1.90a
+Định dạng MP3 vốn đã khá nhỏ gọn , tiện cho bạn trao_đổi trên mạng hoặc lưu_trữ trong thiết_bị nghe nhạc kỹ_thuật_số .
+Tuy_nhiên , bạn vẫn có_thể tối_ưu_hóa , làm tập_tin nhỏ hơn_nữa để tăng số_lượng bài_hát trong kho nhạc của mình với chương_trình miễn_phí Mp3Trim v1.90a .
+
+Máy chơi nhạc MP3 có dung_lượng lưu_trữ không_phải là vô_hạn .
+Vì_vậy , loại_bỏ những thông_tin vô_ích là điều_hợp_lý .
+MP3Trim lọc_bỏ tất_cả mọi_thứ , chỉ giữ_lại các khung_nhạc của file MP3 .
+Chương_trình thậm_chí còn có_thể loại_bỏ cả những đoạn_trắng ( im_lặng ) analog cũng_như kỹ_thuật_số .
+Tính_năng này đặc_biệt hữu_ích khi bạn muốn tận_dụng tối_đa sức_chứa của máy chơi_nhạc .
+
+MP3Trim hoàn_toàn miễn_phí khi sử_dụng cho mục_đích cá_nhân .
+Tuy_vậy , bạn cũng đăng_ký với trang_chủ của nó để_được nhận thêm những tiện_ích như hỗ_trợ file mở_rộng Giới chuyên_nghiệp nên sử_dụng MP3Trim Pro , có_nhiều tính_năng hơn .
+
+Bạn có_thể tải bản miễn_phí của chương_trình , có dung_lượng 279 KB , .
+
+Thế_Nghĩa

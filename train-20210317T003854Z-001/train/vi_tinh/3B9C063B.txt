@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9C063B/
+title=Logitech ra mắt bút kỹ thuật số mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Logitech ra_mắt bút kỹ_thuật số mới
+Có kích_thước như một cây_bút_bi , thiết_bị mang tên Io mà Logitech vừa giới_thiệu có khả_năng ghi , lưu lại các trang viết_tay của người_sử_dụng , và có_thể chuyển vào máy_tính khi cần .
+Công_ty hy_vọng sản mới sẽ giúp PC mạnh_mẽ và dễ sử_dụng hơn .
+
+Io được trang_bị một bộ cảm_biến quang_học có_thể ghi_lại nội_dung mà người_sử_dụng viết trên một loại giấy đặc_biệt .
+Bút lưu tới 40 trang viết_tay dưới định dạng file ảnh .
+Các file này được chuyển vào máy_tính qua cổng kết_nối USB và sau_đó có_thể được chuyển thành những file văn_bản thông_thường hoặc gửi qua e - mail .
+
+Tuy_nhiên , những ghi_chép đó không_thể tự_động chuyển sang ký_tự văn_bản được .
+Mặc_dù vấn_đề đó có_thể làm_mất đi tính hấp_dẫn của nó với người_dùng , Logitech quyết_định sẽ không phát_triển một phần_mềm nhận_dạng chữ viết_tay cho thiết_bị này .
+Theo phát ngôn_viên của Logitech , Nathan Papadopulos : Công_nghệ nhận_dạng chữ viết_tay đã được nhiều hãng phát_triển , nhưng chúng_tôi không nghĩ rằng nó đáp_ứng được nhu_cầu của người_dùng .
+
+Bút_Io gần giống với những sản_phẩm trước_đây như CrossPad của hãng A.T .
+Cross và ThinkPad TransNote của IBM .
+Nhưng thiết_bị của Logitech sẽ có giá_rẻ hơn , ví_dụ CrossPad giá 399 USD , thì Io chỉ 200 USD .
+Sản_phẩm này dự_tính sẽ có_mặt trên thị_trường vào tháng 11 tới .
+
+Minh_Nghĩa ( theo ZDNET )

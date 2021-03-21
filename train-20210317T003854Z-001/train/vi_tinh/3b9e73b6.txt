@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2006/03/3b9e73b6/
+title=Điện thoại thông minh bé nhất sắp ra mắt tại Malaysia 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Điện_thoại thông_minh bé nhất sắp ra_mắt tại Malaysia
+Hãng sản_xuất điện_thoại Fifth Media ở nước này vừa công_bố một sản_phẩm smartphone dùng hệ_điều_hành Windows Mobile 5 mà họ khẳng_định là có kích_thước nhỏ hơn bất_cứ thiết_bị cùng loại nào hiện_có trên thị_trường .
+
+Máy Axia 308 của Fifth Media dài 11,3 cm , rộng 4,9 cm và dày 2,1cm , sử_dụng mạng GSM , GPRS và EDGE cộng với kết_nối Bluetooth 1.2 và Wi - Fi 802.11b .
+
+Sức_mạnh xử_lý của chiếc điện_thoại thông_minh này dựa_trên chip Intel PXA272 tốc_độ 416 Mhz , bộ_nhớ 128 MB Flash ROM và 64 MB RAM , mở_rộng thêm bằng khe cắm thẻ MiniSD .
+Axia 308 có màn_hình 2,2 inch 144 màu kèm_theo máy_ảnh 1,3 megapixel .
+Pin dùng_cho sản_phẩm là loại 1500mAh , đủ cho_phép hội_thoại liền 4 tiếng và chờ 120 tiếng .
+
+Fifth Media dự_kiến sẽ phát_hành thiết_bị mới ở nhiều nước vào tháng 4 sau_khi trình_làng tại Triển_lãm công_nghệ ở Hanover ( Đức ) .
+Giá_bán chưa được công_bố nhưng nhà_sản_xuất hứa_hẹn sẽ rất hấp_dẫn .
+
+Q.T. ( theo RegHardware )

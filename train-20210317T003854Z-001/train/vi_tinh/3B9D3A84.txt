@@ -1,0 +1,23 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3A84/
+title=Đăng nhập nhanh bằng RoboForm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Đăng nhập nhanh bằng RoboForm
+Nếu bạn thường_xuyên truy_cập mạng và đăng nhập các trang web đòi bạn phải điền_vào các biểu mẫu cung_cấp thông_tin về tên_tuổi , địa_chỉ , giới_tính ... thao_tác nhập liệu tốn khá nhiều thời_gian .
+Có một lối đi_tắt đơn_giản và an_toàn là sử_dụng RoboForm .
+
+Giao_diện đơn_giản của RoboForm cho_phép bạn_điền các thông_tin cần_thiết chỉ với một cú bấm_chuột .
+Lần đầu_tiên cài_đặt , phần_mềm sẽ yêu_cầu bạn nhập các thông_tin cần_thiết về địa_chỉ , tên_tuổi , số điện_thoại , số thẻ_tín_dụng ... với các identity ( nhận_dạng ) khác_nhau và đó sẽ là lần cuối_cùng bạn phải nhập_dữ_liệu cá_nhân một_cách thủ_công .
+Sau_đó , bạn có_thể truy_cập RoboForm dễ_dàng từ thanh công_cụ của trình_duyệt , menu cảm_ngữ_cảnh , khay biểu_tượng hay một shortcut ở màn_hình .
+
+Bạn có_thể có_nhiều identity khác_nhau , ví_dụ có loại dùng để đăng_ký những nội_dung được cung_cấp miễn_phí trên mạng , có loại dùng để mua_hàng trực_tuyến ...
+Dữ_liệu bạn đưa_vào sẽ được RoboForm mã_hóa DES 3 cấp và lưu_trữ trong một thư_mục duy_nhất có_thể xóa đi dễ_dàng .
+
+Với RoboForm , bạn sẽ tiết_kiệm được nhiều thời_gian khi đăng nhập các website , diễn_đàn đòi_hỏi đăng_ký user name hay ở mức_độ thấp hơn là vào thư_mục chia_sẻ nằm_trong các máy_tính khác của cùng hệ_thống .
+
+Phần_mềm có dung_lượng 1,7 MB .
+Bạn có_thể tải bản dùng thử có thời_hạn 30 ngày .
+
+Lưu_ý : Sau hạn dùng_thử , bạn vẫn sử_dụng được RoboForm nhưng một_số tính_năng sẽ bị hạn_chế .
+
+Thế_Nghĩa

@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E3E61/
+title=ĐTDĐ với hệ điều hành Java đầu tiên trên thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+ĐTDĐ với hệ_điều_hành Java đầu_tiên trên thế_giới
+Hãng điện_tử LG vừa công_bố điện_thoại thông_minh chạy trên nền Java , chuẩn_bị chính_thức tham_gia vào_cuộc đọ sức với Windows Mobile của Microsoft và hệ_điều_hành Symbian do Nokia phát_triển .
+
+Ứng_dụng Java đã được sử_dụng trong một số tính_năng như game nhưng đây là lần_đầu_tiên tất_cả các chức_năng của máy , kể_cả giao_diện người_dùng , được vận_hành bởi nền_tảng này .
+
+Hệ_điều_hành mở có tên SavaJe trong điện_thoại của LG , dựa_trên công_nghệ Java của Sun Microsystems , là bước_tiến quan_trọng ,   thúc_đẩy khả_năng hội_tụ giữa các thiết_bị , bởi về lâu_dài mọi_người có_thể tải nhiều ứng_dụng Java trên máy_tính trực_tiếp tới điện_thoại .
+
+  " SavaJe và khả_năng vận_hành của một hệ_điều_hành Java hoàn_chỉnh trên điện_thoại di_động sẽ mở_rộng cơ_hội cho các nhà phát_triển , hãng cung_cấp và người_sử_dụng đầu cuối " , Alan Brenner , Phó_giám_đốc bộ_phận hệ_thống Client của Sun , khẳng_định .
+
+SavaJe cũng tạo điều_kiện cho các nhà phát_triển desktop xây_dựng ứng_dụng không dây trên thiết_bị mobile , với hỗ_trợ đồ_họa cải_tiến API .
+Java API hiện được sử_dụng trong IM , tin_nhắn đa phương_tiện , hệ_thống file và truy_cập PIM .
+
+Điện_thoại sử_dụng SavaJe sẽ xuất_hiện trên thị_trường vào năm 2006 .
+Sản_phẩm có thiết_kế theo kiểu dáng_trượt , màn_hình màu TFT 176 x 220 , camera 1,3 megapixel , Bluetooth và thẻ nhớ SD 1 GB cùng với nhiều tính_năng như nghe_nhạc MP3 , AAC , AAC + , xem_ảnh , video H.263 và MPEG4 .
+
+P.T. ( theo TelecomsKorea )

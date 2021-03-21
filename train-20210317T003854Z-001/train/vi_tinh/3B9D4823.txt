@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/07/3B9D4823/
+title=Xây dựng mô hình ba chiều bằng 3D Canvas 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Xây_dựng mô_hình ba chiều bằng 3D Canvas
+Thế_giới đồ_họa ba chiều vẫn bị thống_trị bởi những tên_tuổi nổi_tiếng và đắt_giá như Maya , 3D Studio Max , Softimage hoặc Renderman .
+Tuy_vậy , phần_mềm miễn_phí 3D Canvas vẫn tìm được chỗ_đứng cho riêng mình nhờ sự_đơn_giản nhưng độc_đáo và hiệu_quả .
+
+Chương_trình mang tính trực_quan rất cao , với các đối_tượng và bảng_màu được bố_trí hợp_lý trên các panel và tab , giúp bạn truy_cập thuận_tiện .
+Khởi tạo một hình ba chiều trong 3D Canvas rất đơn_giản .
+Bạn chỉ cần_kéo một phôi mẫu từ bảng Component vào không_gian làm_việc và đặt đối_tượng vào khung_cảnh .
+Bạn có_thể tô_màu cho các đối_tượng 3D và tạo hoạt_ảnh bằng cách biến_đổi hình_dạng và vị_trí của chúng trong thời_gian thực rồi ghi_lại theo định dạng AVI .
+
+Trong 3D Canvas , phần Tutorials và các hình vẽ mẫu của chương_trình cũng_như các tập_tin trợ_giúp được thực_hiện rất xuất_sắc , có_thể xem như một khởi_đầu lý_tưởng cho các bạn muốn làm_quen với công_nghệ 3D .
+Giao_diện của chương_trình cũng khá giống 3D Studio Max - phần_mềm đồ_họa 3D phổ_biến nhất tại Việt_Nam hiện_nay - nên sau_khi đã thành_thạo 3D Canvas , bước kế_tiếp của bạn với Max sẽ thuận_lợi hơn rất nhiều .
+
+Phần_mềm có dung_lượng 5,9 MB .
+Bạn có_thể download .
+
+T.N .

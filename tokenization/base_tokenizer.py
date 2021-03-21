@@ -1,6 +1,7 @@
 import sys
 import re
 import unicodedata as ud
+
 __author__ = "Ha Cao Thanh"
 __copyright__ = "Copyright 2018, DeepAI-Solutions"
 
@@ -58,4 +59,3 @@ class BaseTokenizer(object):
             patterns = patterns.decode('utf-8')
         tokens = re.findall(patterns, text, re.UNICODE)
         return [token[0] for token in tokens]
-

@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D5B0A/
+title=Giải pháp bảo mật mới cho doanh nghiệp vừa và nhỏ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Giải_pháp bảo_mật mới cho doanh_nghiệp vừa và nhỏ
+Được thiết_kế dựa_trên sản_phẩm VPN SSL ( Secure Sockets Layer ) tiên_tiến nhất hiện_nay là Instant Virtual Extranet ( IVE ) của Juniper Networks , NetScreen Remote Access 500 được tối_ưu hoá riêng cho thị_trường doanh_nghiệp vừa và nhỏ với ưu_thế sản_phẩm trọn_bộ , giá_cả và triển_khai dễ_dàng .
+
+NetScreen Remote Access 500 hoàn_thiện dòng sản_phẩm NetScreen Secure Access hiện_tại của Juniper Networks với các tính_năng đưa_ra những tuỳ chọn truy_cập băng_thông rộng từ_xa , tăng hiệu_suất hoạt_động lớn , tạo_ra các điểm truy_cập dành_riêng cho môi_trường Intranet và Extranet phức_tạp .
+Cả hai dòng sản_phẩm đều phát_huy thiết_kế bảo_mật mạnh_mẽ của nền IVE bao_gồm xác_thực , uỷ_quyền và kiểm_soát cho môi_trường doanh_nghiệp , bảo_mật điểm cuối và cấu_trúc bảo_mật lõi đã được kiểm_chứng bởi các chuyên_gia bảo_mật hàng đầu độc_lập như TruSecure Corporation , Cryptography Research .
+
+Ông Adam Judd , Phó_chủ_tịch khu_vực châu_Á - Thái_Bình_Dương của Juniper Networks , cho_biết : Các doanh_nghiệp vừa và nhỏ chiếm phần_lớn trong thị_trường khu_vực .
+Thiết_kế của Remote Access 500 đáp_ứng trực_tiếp nhu_cầu của đối_tượng khách_hàng này .
+Các công_ty nhỏ thường không có bộ_phận CNTT lớn và dòng sản_phẩm mới cho_phép khách_hàng bảo_vệ mạng của mình với độ bảo_mật cao và linh_hoạt cho_dù họ có một nguồn_lực CNTT hạn_chế .
+
+Theo nghiên_cứu mới nhất của Công_ty Infonetics Research , Juniper Networks dẫn_đầu thị_trường SSL VPN với 45 % thị_phần .
+Nitin Achrekar , Giám_đốc Frost & Sullivan , nhận_định : Châu_Á - Thái_Bình_Dương có nhu_cầu rất lớn về mạng riêng ảo dựa_trên công_nghệ SSL .
+Chúng_tôi dự_đoán rằng thị_trường SSL VPN tại khu_vực này sẽ đạt giá_trị tối_thiểu là 10 triệu USD trong năm 2004 , bởi riêng quý I đã đạt tới 4,4 triệu USD doanh_thu .
+
+Thông_tin chi_tiết về sản_phẩm có_thể tham_khảo tại trang web :
+T.T .

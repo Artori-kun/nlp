@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE9E9/
+title=Gửi ảnh qua Yahoo chỉ với thao tác kéo - thả 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Gửi ảnh qua Yahoo chỉ với thao_tác kéo - thả
+Chương_trình mới nhất này của Yahoo là một cải_tiến tuyệt_vời , giúp chia_sẻ ảnh dễ_dàng mà_không gặp rắc_rối như khi gửi file đính_kèm ( attachment ) , vốn chiếm dung_lượng lớn và mất thời_gian .
+
+Phần_mềm PhotoMail sẽ quét ảnh trên ổ cứng người_dùng hay từ trang web bất_kỳ , cho_phép kéo - thả ảnh tới thông_điệp trong mail , thay_vì phải attach như_trước .
+
+Người_dùng có_thể chèn tới 300 ảnh chỉ trong một e - mail và gửi tới hàng trăm người_khác , mà không sợ bị từ_chối do dung_lượng lớn vì mỗi_ảnh ( dạng Thumbnail ) chỉ khoảng từ 3 đến 5 KB .
+Ảnh gốc chèn vào mail sẽ được lưu trên Yahoo server , người_nhận sẽ click vào Thumbnail để mở_ra và xem ảnh với độ_phân_giải cao nhất .
+
+Để sử_dụng dịch_vụ này , người_dùng cần có tài_khoản mail tại Yahoo và cài phần_mềm PhotoMail tương_đối nhỏ , hoặc tải trực_tiếp từ trang Yahoo Mail .
+Bấm chuột vào Insert Photos , một thông_báo sẽ được đưa_ra để lựa_chọn có tải tính_năng mới về hay_không , trong_đó bao_gồm cả công_cụ tìm_kiếm nhanh của Yahoo .
+E - mail kèm ảnh gửi qua PhotoMail sẽ tương_thích với người_dùng dịch_vụ mail khác như Hotmail , AOL ...
+
+Theo Andy Spillance , Phó_giám_đốc bộ_phận Yahoo Mail , mọi_người hiện_nay vẫn thường gặp rắc_rối khi gửi_ảnh : " Việc tìm ảnh_lưu , attach như_thế_nào , cũng_như bị người nhận từ_chối mở do dung_lượng quá lớn vẫn khiến không ít người lo_lắng và ngại gửi_ảnh .
+Dịch_vụ miễn_phí mới của Yahoo là một giải_pháp thay_thế hoàn hảo. "
+Bên_cạnh dịch_vụ ảnh , Yahoo cũng giới_thiệu công_cụ chặn mail không mong_muốn và tăng_thêm 6 ngôn_ngữ mới .
+Như_vậy , hiện_nay Yahoo Mail hỗ_trợ tất_cả 21 loại ngôn_ngữ .
+
+Những cải_tiến này của Yahoo càng nới_rộng khoảng_cách số một của mình với hai đối_thủ cạnh_tranh đang bám đuổi sát_sao là Hotmail của Microsoft và AOL của Time Warner .
+
+Phương_Thúy ( theo_AP , Techtree )

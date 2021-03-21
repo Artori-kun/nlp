@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5E01/
+title=Công nghệ Centrino Duo tăng tính di động cho máy tính  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ Centrino Duo tăng tính di_động cho máy_tính  
+Tập_đoàn Intel vừa công_bố nền_tảng vi xử_lý dành cho thế_hệ máy_tính xách tay mới , trong_đó gồm chip Intel Core Duo lõi kép và bộ chipset siêu tốc Intel 945 .
+
+Bộ vi xử_lý lõi kép được sản_xuất trên công_nghệ 65 nm của Intel có kích_cỡ chỉ tương_đương một tem thư cỡ_lớn .
+Nhờ_đó , các chương_trình giải_trí hoặc ứng_dụng công_việc đạt hiệu_suất hoạt_động mạnh hơn 70 % nhưng lại tiết_kiệm được 28 % điện_năng so với các thế_hệ trước .
+
+Centrino Duo cũng tích_hợp hệ_thống kết_nối Intel PRO / Wireless 3945ABG , mạng không dây thế_hệ tiếp_theo của Intel , nhằm nâng_cao hiệu_suất kết_nối mạng LAN di_động trong các hệ_thống sử_dụng chuẩn Wi - Fi .
+Công_nghệ này còn giúp nâng_cao khả_năng xử_lý đồ_họa 3 chiều_cao gấp_hai lần so với các thế_hệ trước , hỗ_trợ âm_thanh vòm lên tới 8 kênh và công_nghệ âm_thanh Dolby Digital , khi được kết_hợp với Intel High Definition Audio .
+
+Nền_tảng công_nghệ di_động mới gồm cả tính_năng truyền_thông thoại và hình_ảnh sử_dụng giao thức_IP , đồng_thời nâng_cao thời_gian hoạt_động của pin .
+Centrino Duo còn được hỗ_trợ công_nghệ quản_lý Intel Active Management và công_nghệ ảo_hóa Intel Virtualization , nhằm nâng_cao khả_năng quản_lý và tăng_cường tính bảo_mật .
+
+Giá mỗi bộ_vi xử_lý Intel : Core Duo T2300 , T2400 , T2500 và T2600 , lần_lượt là 241 USD , 294 USD , 423 USD và 637 USD , áp_dụng với những đơn_đặt_hàng 1.000 bộ .
+Thông_tin chi_tiết xem tại địa_chỉ : .
+
+Thanh_Lương

@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E0790/
+title=Chip đa năng cho điện thoại di động Wi-Fi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip đa_năng cho điện_thoại di_động Wi - Fi
+Hãng công_nghệ Sandbridge ( Mỹ ) vừa giới_thiệu chip mới có khả_năng thực_hiện kết_nối cho nhiều giao_thức cũng_như xử_lý ứng_dụng đa phương_tiện , nhằm giảm_giá sản_phẩm và hỗ_trợ tương_thích với camera và những thiết_bị khác .
+
+Theo Guenter Weinberger , Giám_đốc điều_hành của Sandbridge , điện_thoại và những sản_phẩm tích_hợp chip mang tên SB300 này sẽ có khả_năng trở_thành bất_cứ thiết_bị nào mà một hãng sản_xuất mong_muốn : , thiết_bị định_vị toàn_cầu GPS , máy tiếp sóng đa phương_tiện ...
+Chip hoạt_động trên cả_hai mạng GSM và CDMA .
+
+SB3000 cung_cấp đủ năng_lượng để vận_hành và xử_lý các ứng_dụng đa phương_tiện và được thiết_kế riêng cho điện_thoại 3G .
+Năm_tới , Sandbridge sẽ giới_thiệu chip tốc_độ cao dành cho mạng 3,5G và .
+Giá_thành sản_phẩm chưa được tiết_lộ nhưng Weinberger khẳng_định sẽ có tính cạnh_tranh cao .
+
+Không như chip điện_thoại hiện_nay dùng ngôn_ngữ assembly ( hợp_ngữ - ngôn_ngữ lập_trình bậc_thấp ) , SB3000 được lập_trình bằng ngôn_ngữ C .
+Theo chuyên_gia Strauss , đây là một lợi_thế đặc_biệt quan_trọng vì " viết mã bằng C rẻ hơn rất nhiều so với hợp_ngữ " .
+
+Ngoài_ra , các nhà_cung_cấp cũng có cơ_hội phát_triển điện_thoại đa chế_độ mà_không cần tăng_thêm một băng_tần cơ_sở riêng hay một chip xử_lý cho mỗi loại mạng khác_nhau , cho_phép giảm khoảng 30 USD chi_phí sản_xuất .
+Chuyên_gia phân_tích Will Strauss của công_ty Forward Concepts , Arizona ( Mỹ ) cho_rằng với những tính_năng mới này , các hãng sản_xuất điện_thoại lớn khó có_thể làm_ngơ trước đề_nghị hợp_tác cùng Sandbridge .
+
+Tuy_nhiên , nhiều chuyên_gia khẳng_định sẽ khó cho Sandbridge cạnh_tranh với những " ông_lớn " như Freescale Semiconductor , Texas Instruments và Intel trong lĩnh_vực chip điện_thoại , bởi việc chuyển_đổi công_nghệ sang dùng một cơ_cấu chip khác là rất đắt_đỏ cho nhà_sản_xuất .
+Do_đó , dù sản_phẩm của Sandbridge gây ấn_tượng mạnh với giới công_nghệ , hãng sẽ cần tìm_hướng phát_triển trong những thiết_bị của các nhà_sản_xuất mới .
+
+P.T. ( theo IDG )

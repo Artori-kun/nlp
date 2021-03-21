@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/04/3B9D1718/
+title=RealPlayer 10 mở rộng định dạng hỗ trợ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+RealPlayer 10 mở_rộng định dạng hỗ_trợ
+Hôm_qua , RealNetworks vừa tung_ra phiên_bản mới nhất phần_mềm nghe_nhạc của mình .
+Nó hỗ_trợ mọi định dạng file âm_thanh chính trên Internet .
+
+Như_vậy , bên_cạnh RealAudio và RealVideo , RealPlayer 10 còn hỗ_trợ Windows Media của Microsoft , QuickTime MPEG - 4 của Apple , cũng_như MP3 và Advanced Audio Coding ( AAC ) .
+
+Với RealPlayer 10 , khách_hàng rốt_cuộc đã có trong tay một sản_phẩm có_thể chạy tốt với máy_nghe di_động và chơi mọi thể loại âm_nhạc miễn_phí trên Internet , Richard Wolpert , người vạch chiến_lược hoạt_động của RealNetworks , khẳng_định trong một thông_cáo .
+
+Ngoài_ra , RealPlayer 10 còn có một_vài cải_tiến , chẳng_hạn khả_năng tua tiến và lùi mà không phải ngắt , cũng_như tích_hợp với kho nhạc trực_tuyến RealPlayer .
+Khách_hàng có_thể tải chương_trình về từ .
+
+Thanh_Tùng ( theo Eweek )
+ 

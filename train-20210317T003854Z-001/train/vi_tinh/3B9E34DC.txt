@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E34DC/
+title=IBM thiết kế lại dòng máy chủ phiến 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM thiết_kế lại dòng máy chủ_phiến
+Hãng sản_xuất máy_tính lớn nhất thế_giới sẽ giới_thiệu cấu_trúc khung mới cho dòng server này vào năm 2006 , nhằm thúc_đẩy các tính_năng về mạng và tăng_cường sự_linh_hoạt .
+
+Khung mới sẽ tương_thích với sản_phẩm dạng_phiến ( blade server ) được giới_thiệu từ 3 năm trước_đây của IBM .
+Điều này có_nghĩa là những phiến hiện_tại sẽ kết_hợp được với mô_hình mới , và những phiến mới lại có khả_năng hoạt_động trên các cấu_trúc cũ .
+
+Máy chủ phiến ra_mắt năm tới sẽ sử_dụng chip .
+Đây là phiên_bản lõi kép của thiết_bị xử_lý dùng trong server JS20 của IBM .
+PowerPC 970MP cũng sẽ có_mặt trong hệ_thống máy_tính Power Mac mới nhất của Apple .
+
+Blade server đang phát_triển mạnh trên thị_trường máy_chủ nói_chung .
+Dòng BladeCenter của IBM hiện dẫn_đầu với 42 % trong tổng_số 419 triệu USD doanh_thu tiêu_thụ máy chủ blade quý II vừa_qua .
+Hewlett - Packard cũng chứng_tỏ là một đối_thủ đáng_gờm khi chiếm tới 34 % thị_trường .
+" Big Blue " cho_biết thu_nhập từ máy chủ phiến của hãng đã tăng 90 % trong_quý II so với cùng kỳ năm_ngoái .
+Tập_đoàn này không tiết_lộ con_số cụ_thể , nhưng chuyên_gia phân_tích Chris Foster củaTechnology Business Research ( Mỹ ) ước_tính khoảng 250 triệu USD .
+
+Máy chủ phiến mỏng tương_tác với_nhau qua_đường chia_sẻ dữ_liệu backplane .
+Blackplane trong dòng BladeCurrent hiện_tại có tốc_độ truyền 4 Gb / giây trong_khi hệ_thống_thiết_kế lại sẽ đạt tới 40 Gb / giây .
+Công_ty máy_tính Dell đang đưa thiết_bị lõi_kép , tên mã Paxville , vào trong sản_phẩm dạng phiến của họ .
+Trong_khi_đó , IBM quyết_định đợi chip Dempsey của Intel , bởi họ cho_rằng Paxville lõi kép chỉ_là sản_phẩm " ngắn_hạn " .
+Paxville ban_đầu được thiết_kế cho server với 4 thiết_bị xử_lý , nhưng Intel đã tạo một phiên_bản 2 thiết_bị xử_lý để cạnh_tranh với chip lõi kép của AMD .
+Intel chỉ phát_hành Paxville 2,8 GHz nhưng sẽ mở_rộng hơn trong mẫu Dempsey ra_mắt nửa_đầu 2006 .
+
+T.N. ( theo CNet )

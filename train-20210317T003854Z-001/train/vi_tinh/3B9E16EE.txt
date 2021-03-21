@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E16EE/
+title=Công cụ nhắn tin trực tuyến hỗ trợ tìm kiếm da kênh  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_cụ nhắn_tin trực_tuyến hỗ_trợ tìm_kiếm da_kênh  
+Phần_mềm mang tên Meetro cho_phép không_chỉ nhắn_tin tức_thời với những người trong danh_sách có sẵn mà còn tìm_kiếm bất_kỳ thành_viên khác tuỳ_theo mục_đích giao_tiếp của bạn .
+Có_thể tải về miễn_phí phiên_bản beta tại địa_chỉ .
+
+Meetro nối kết c ác tin_nhắn tức_thời với một cỗ máy tìm_kiếm cục_bộ .
+Người_dùng sau khi đăng nhập sẽ tìm_kiếm hay đọc_lướt qua các hồ_sơ của những thành_viên khác để tìm_kiếm những người thích_hợp đang ở gần hoặc cũng đang đăng_nhập .
+Khu_vực tìm_kiếm có_thể hẹp hoặc trong chu_vi vài km .
+
+Meetro - tương_thích với dịch_vụ nhắn_tin tức_thời AOL , Yahoo Messenger và ICQ - được bổ_sung thêm khả_năng tìm_kiếm người bên_ngoài một danh_sách bạn_bè của một cá_nhân .
+Nhiều nguồn_tin cho_rằng Google đang có kế_hoạch sáp_nhập công_ty cung_cấp phần_mềm này .
+
+Meetro tìm_kiếm dựa_trên ba_hướng : qua tín_hiệu tại các điểm truy_cập hotspot của mạng không dây Wi - Fi , qua địa_chỉ bình_thường của mỗi máy_tính và qua dữ_liệu GeoIP .
+Hiện_tại , Meetro chỉ mới có_thể tìm_kiếm giữa người_dùng trong nước Mỹ , và theo nhà phát_triển , hy_vọng đến năm 2006 Meetro sẽ hỗ_trợ được cho mọi_người trên toàn thế_giới .
+
+    Hồng_Hạnh ( theo Internetnews )

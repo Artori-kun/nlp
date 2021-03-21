@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E0D67/
+title=Yahoo thử nghiệm công cụ tìm kiếm file âm thanh 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Yahoo thử_nghiệm công_cụ tìm_kiếm file âm_thanh
+Người sử_dụng có khả_năng tìm_kiếm 50 triệu bài_hát và tệp âm_thanh miễn_phí qua Internet nhờ công_cụ mới của hãng dịch_vụ trực_tuyến lớn nhất thế_giới .
+
+Hãng bắt_đầu thử_nghiệm dịch_vụ     từ ngày 2/8 .
+Người_dùng chỉ cần gõ những từ hoặc cụm_từ liên_quan đến bài_hát và Yahoo sẽ liệt_kê một danh_sách các file âm_thanh , cho_phép khách_hàng nghe trực_tuyến trên trang .
+
+Công_cụ tìm_kiếm âm_nhạc này hoạt_động dựa_trên khả_năng đọc nội_dung được nhúng trong tệp âm_thanh , còn được gọi_là metadata , để phân_loại kết_quả tìm_kiếm .
+
+Nếu một bài_hát nào_đó được lấy về từ trang web yêu_cầu phải trả_tiền , ví_dụ hoặc Napster , Yahoo Audio sẽ liên_kết tới trang đó để người_dùng thực_hiện việc mua_nhạc .
+
+Yahoo Audio cũng bao_gồm dịch_vụ   , cung_cấp các đoạn ghi_âm cho_phép người_dùng xem trên máy_tính hoặc thiết_bị số cá_nhân như của Apple .
+
+Dịch_vụ này cũng dẫn người_dùng đến trang tin_tức , ảnh và website của các nghệ_sỹ cũng_như nhiều thông_tin liên_quan đến sự_nghiệp của họ .
+
+P.T. ( theo PC World )

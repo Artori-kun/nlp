@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/02/3B9E6F8C/
+title=Thẻ RFID đã đủ nhỏ để gắn trên đồ dùng cá nhân 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thẻ RFID đã_đủ nhỏ để gắn trên đồ_dùng cá_nhân
+Impinj , hãng chuyên về công_nghệ xác_nhận tần sóng của Mỹ , đã tìm_ra phương_pháp mới hỗ_trợ các nhà sản_xuất và đại_lý bán_lẻ cài thẻ trên áo sơ_mi , CD và những mặt_hàng gia_dụng khác.
+Gói sản_phẩm GrandPrix , gồm trình đọc_thẻ , thẻ RFID và phần_mềm , của Impinj hiện chủ_yếu được đặt trong trong các gói hàng lớn .
+Thẻ RFID , tùy_thuộc vào khả_năng truyền_điện_từ , có_thể được nhận_dạng trong phạm_vi 10 mét với ăng - ten dài 88 mm .
+" Chúng quá lớn để đặt trong một ống kem_đánh_răng " , Bill Colleran , Giám_đốc điều_hành của Impinj , cho_biết .
+
+Công_ty này đã phát_triển lại GrandPrix , trong_đó thẻ RFID mới vẫn sử_dụng vi xử_lý cũ nhưng được trang_bị ăng - ten nhỏ hơn và kết_nối từ_tính để liên_lạc .
+Do_vậy , chúng chỉ nhỏ khoảng 9 mm dù chỉ hoạt_động trong khoảng 1 mét .
+
+Thông_thường , mỗi thẻ RFID chứa một số nhận_dạng duy_nhất , do_đó chúng đóng vai_trò như các số serie .
+Nhưng GrandPrix được xây_dựng trên chuẩn RFID Gen 2 và có_thể bị vô_hiệu_hóa ngay tại thời_điểm bán .
+
+Một_số nhóm khách_hàng đã phản_đối quyết_định áp_dụng công_nghệ RFID trên các mặt_hàng cá_nhân .
+Họ sợ rằng về lâu_dài , các tổ_chức luật_pháp sẽ dùng thẻ này để theo_dõi hoạt_động mua_sắm của họ .
+
+Dù không_được người tiêu_dùng đón nhận , thẻ xác_định tần sóng trên các mặt_hàng gia_dụng sẽ vẫn được triển_khai tại nhiều bang ở Mỹ trong năm tới như Florida , California ... Các đại_lý bán_lẻ cũng tỏ_ra quan_tâm đến công_nghệ này nhằm giảm số_vụ trộm_cắp đĩa CD , DVD , quần_áo , hoặc giúp nhân_viên dễ_dàng xác_định đồ_dùng nào đang bị đặt sai vị_trí trên quầy ...
+
+T.N. ( theo CNet )

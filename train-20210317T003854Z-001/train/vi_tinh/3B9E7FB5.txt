@@ -1,0 +1,25 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E7FB5/
+title=Bon Echo - cột mốc đầu tiên của Firefox 2.0 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bon Echo - cột mốc đầu_tiên của Firefox 2.0
+Dù mới chỉ được trang_bị những gì cơ_bản nhất tại thời_điểm này , phiên_bản Mozilla Firefox 2.0 Bon Echo đã báo_hiệu một hiệp đấu căng_thẳng tiếp_theo giữa trình_duyệt mã mở và Internet Explorer .
+
+Cuộc_chiến browser đầu_tiên là sự_so_sánh từng đặc_điểm giữa Netscape và Microsoft Internet Explorer .
+Đợt cạnh_tranh mới dường_như cũng sẽ diễn_ra tương_tự khi cả Mozilla và Microsoft đều cố_gắng tích_hợp nhiều tính_năng nhất có_thể cho trình_duyệt .
+
+Bản " alpha " đầu_tiên mang tên Bon Echo này rất khác với những đợt phát_hành trước_đó của Firefox .
+Ví_dụ , mã của Alpha 1 ( Deer Park ) ngay_khi ra_mắt đã thực_sự ổn_định .
+Ngược_lại , Bon Echo chứa nhiều tính_năng vẫn chưa được thử_nghiệm đầy_đủ .
+
+Phiên_bản Alpha 1 của Firefox 2.0 đã cập_nhật giao_diện người_dùng , thư_mục History , hệ thống Bookmark , tìm_kiếm , và bảo_mật .
+Nó chứa một chương_trình quản_lý đuôi mở_rộng , có_thể chặn hoạt_động của những file có đuôi nguy_hiểm .
+Việc đăng_ký và đọc feed ( các trang hỗ_trợ RSS ) cũng trở_nên đơn_giản hơn .
+
+Phần dễ nhận_thấy nhất là phong_cách và màu_sắc của nhiều biểu_tượng ( icon ) mặc_định , tồn_tại 2 năm qua của Firefox , đã được thiết_kế lại .
+
+Theo lộ_trình phát_triển của Mozilla , Alpha 2 , dự_kiến xuất_hiện trong tháng 5 , sẽ là phiên_bản " hoàn_thiện với đầy_đủ mọi tính_năng " .
+
+Tải bản Bon Echo - Mozilla Firefox 2.0 Alpha 1 - .
+
+T.N. ( theo InternetNews )

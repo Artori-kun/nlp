@@ -1,0 +1,14 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/10/3B9C0FFD/
+title=Biến ảnh thành biểu tượng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Biến ảnh thành biểu_tượng
+Bạn muốn tự tay tạo icon cho các chương_trình ứng_dụng và tệp_tin ?
+Picture to Icon Converter v1.0 của Pinxy sẽ giúp bạn đổi file hình ở nhiều định dạng khác_nhau ( JPG , BMP , GIF ) sang tệp tin biểu_tượng ( đuôi ICO ) với vài cú nhấp_chuột .
+
+Sau_khi tải phần_mềm về máy , bạn giải_nén , chạy tệp tin Pic2Ico.exe , mở file ảnh , di_chuyển hình_vuông ở đầu con trỏ tới vị_trí tuỳ_thích , kích chuột trái để chọn , rồi ấn Alt + F + S .
+Trong quá_trình lựa phần_ảnh , bạn có_thể kích chuột phải để huỷ_chọn .
+
+Tiện ích có dung_lượng 14 KB , tương_thích với hệ_điều_hành Windows 9.x và có_thể được download .
+
+Minh_Long

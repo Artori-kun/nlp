@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DCDA1/
+title=Dell ra mắt máy laptop nhẹ nhất 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dell ra_mắt máy laptop nhẹ nhất
+Phiên_bản Latitude X1 mới nặng 1,13 kg được thiết_kế cho đối_tượng khách_hàng là doanh_nhân .
+Vỏ máy được cải_tiến có khả_năng chống bị vật_nặng đè và bàn_phím kín hạn_chế tác_động khi đánh_đổ chất_lỏng lên trên .
+
+Kích_thước của máy cũng_được thu_nhỏ nhờ sử_dụng biến_thể điện và pin nhỏ hơn .
+Sản_phẩm xuất_xưởng đại_trà đi_kèm với pin 3 khoang nhưng nếu khách_hàng muốn thì có_thể mua riêng loại pin 6 khoang cho_phép sử_dụng máy trong thời_gian 6 tiếng .
+
+Cấu hình cơ_sở của loại laptop giá 1.699 USD này bao_gồm chip Intel Pentium M Ultra Low Voltage ( hiệu điện_thế siêu_thấp ) , bộ_nhớ RAM 256 MB DDR2 , ổ cứng 30 GB , ổ CD - ROM , chip mạng không dây Intel 802.11b / g và màn_hình rộng 12,1 inch .
+
+Loại laptop nhẹ nhất của HP , một hãng chế_tạo máy_tính xách tay nổi_tiếng khác , hiện là 1,5 kg nhưng sử_dụng phiên_bản chip Intel Pentium M thông_thường nên công_suất mạnh hơn loại Ultra Low Voltage .
+Sản_phẩm có tên HP Compaq Business Notebook nc4010 này cũng dùng pin 6 khoang .
+
+P.K. ( theo InfoWorld )

@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D0BAA/
+title=Sharp trình làng máy xách tay mỏng và nhỏ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sharp trình_làng máy xách tay mỏng và nhỏ
+Chiếc laptop sử_dụng bộ_vi xử_lý Efficeon mới nhất của hãng Transmeta sẽ lần_đầu_tiên được bán ở Mỹ và Nhật_Bản từ tháng 4 .
+Actius MM20 được hãng Sharp công_bố hôm 16/3 .
+
+Terry Hanly , Giám_đốc marketing sản_phẩm của Sharp Systems - một bộ_phận thuộc Sharp Electronics , cho_biết Actius MM20 là phiên_bản kế_tiếp của MM10 - sử_dụng chip Crusoe cũ của Transmeta tiết_kiệm điện_năng nhưng khả_năng xử_lý dữ_liệu thấp .
+Bộ xử_lý Efficeon TM8600 đã khắc_phục được nhược_điểm này và duy_trì ưu_điểm .
+Thử_nghiệm mới nhất của Sharp cho_thấy Efficeon có_thể xử_lý nhanh gấp 1,4 lần so với Crusoe .
+
+Sharp cũng tăng tốc_độ xử_lý của MM20 , nặng chưa đến 1 kg , bằng PC2100 ( 266 MHz ) DDR SDRAM .
+Sản_phẩm có bộ_nhớ 512 MB , tăng từ 256 MB của MM10 .
+
+Thời_lượng pin chuẩn của model này là 3 tiếng .
+Một pin ngoài sẽ cho_phép máy hoạt_động liên_tục trong 6 giờ .
+Cấu_hình cơ_bản của MM20 là chip Efficeon 1 GHz , 512 MB bộ_nhớ , ổ cứng 20 GB và màn_hình 10,4 inch .
+Sản_phẩm có giá 1.499 USD .
+
+Bà Hanly cho_biết hãng chưa có kế_hoạch xuất MM20 sang châu_Âu .
+
+Thanh_Tú ( theo PCW )

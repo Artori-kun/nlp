@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/02/3B9C553E/
+title=Intel công bố 3 bộ xử lý mạng đầu tiên 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel công_bố 3 bộ xử_lý mạng đầu_tiên
+Ba chip mới mang mã_số IXP420 , IXP421 và IXP422 dành cho gia_đình , doanh_nghiệp vừa và nhỏ .
+Dòng sản_phẩm này cung_cấp những lựa_chọn trong việc tích_hợp tính_năng xử_lý dữ_liệu , thoại và bảo_mật cho các ứng_dụng hữu_tuyến và vô_tuyến .
+
+Chip IXP422 được thiết_kế cho các cổng_riêng , điểm truy_cập không_dây , các bộ định tuyến và chuyển mạch , trong_đó bao_gồm cả trợ_giúp mã_hóa .
+IXP421 hỗ_trợ tốt cho ứng_dụng Voice over IP ( VoIP ) .
+Còn chip IXP420 được tối_ưu hoá cho ứng_dụng truy_cập băng_thông rộng như cổng kết_nối và các bộ định tuyến trong văn_phòng nhỏ , gia_đình sử_dụng modem ngoài .
+
+Ba model trên sẽ được tung_ra vào tháng 4 với giá từ 20 đến 62 USD , tuỳ_thuộc vào tốc_độ .
+
+Dòng sản_phẩm IXP4XX của Intel đã được các nhà_cung_cấp thiết_bị mạng , như Linksys , lựa_chọn .
+
+Minh_Nghĩa ( theo_IT )

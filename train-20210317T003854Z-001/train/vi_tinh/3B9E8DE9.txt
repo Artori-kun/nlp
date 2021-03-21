@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E8DE9/
+title=Venus 2.2 quản lý khách hàng với dữ liệu 40 nghìn địa chỉ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Venus 2.2 quản_lý khách_hàng với dữ_liệu 40 nghìn địa_chỉ
+Công_ty BSC vừa ra_mắt phiên_bản mới nhất phần_mềm quản_lý quan_hệ khách_hàng Venus với giải_pháp tự_động_hóa chiến_lược kinh_doanh hướng vào việc tìm_kiếm , chọn_lựa và duy_trì quan_hệ với những đối_tác giá_trị nhất .
+Giá sản_phẩm cho máy chủ khoảng 6,8 triệu đồng , máy_đơn là 980.000 đồng .
+
+Venus 2.2 là phần_mềm thuần_Việt , từ ngôn_ngữ cho_đến các nhóm chức_năng hỗ_trợ người_dùng , đáp_ứng yêu_cầu quản_lý về bán_hàng , marketing và kinh_doanh của doanh_nghiệp .
+Sản_phẩm này có cơ_sở_dữ_liệu gồm hơn 40.000 địa_chỉ các đơn_vị , cơ_quan , tổ_chức ... .
+
+Các chức_năng chính của Venus 2.2 bao_gồm : quản_lý hồ_sơ khách_hàng , phân_tích và phân_loại khách_hàng , đánh_giá phản_hồi , quy_hoạch thị_trường , kiểm_soát khách_hàng tiềm_năng , thống_kê tình_hình kinh_doanh đa chiều , quản_lý giao_dịch , lập_kế_hoạch marketing , tự_động thúc_đẩy công_việc hằng_ngày ...
+
+Theo mô_tả của Chủ_tịch Hội_đồng quản_trị của BCS Nguyễn_Quốc_Toàn thì sản_phẩm mới này có_thể thiết_lập , lắp_ghép kế_hoạch marketing của từng giai_đoạn , nhân_viên kinh_doanh , nhóm thị_trường hoặc của nhóm sản_phẩm cùng kênh phân_phối .
+" Điều này rất quan_trọng vì sau một thời_gian tác_nghiệp với thị_trường , bộ_phận kinh_doanh sẽ có_nhiều kết_quả cần tổng_hợp lắp_ghép từ các phân_khúc rời_rạc có phản_ứng tương_đồng " , ông Toàn_nói .
+
+Hiện_có khoảng trên 40 đơn_vị đang sử_dụng Venus , trong_đó có_nhiều lĩnh_vực ngành_nghề như : nhựa , du_lịch , phần_mềm , sản_xuất kinh_doanh thiết_bị , nội_thất ; đào_tạo , dịch_vụ vận_tải , dược_phẩm , thủ_công mỹ_nghệ ... .
+
+Đại_diện BSC cũng khẳng_định doanh_nghiệp này sẽ hỗ_trợ đào_tạo , tư_vấn miễn_phí sau cài đặt cho các khách_hàng dùng Venus .
+
+Xuân_Kim

@@ -1,0 +1,25 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E3F21/
+title=HP cải tiến khả năng phân quyền trong máy in 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP cải_tiến khả_năng phân_quyền trong máy_in
+Hewlett - Packard vừa nâng_cấp phần_mềm quản_lý máy_in và cho ra_mắt trình điều_khiển " tất_cả trong một " tương_thích với nhiều hệ_thống cùng_lúc , đồng_thời giới_thiệu dòng máy chiếu kỹ_thuật số mới nhất .
+
+Theo Tom Codd , Giám_đốc thị_trường thuộc bộ_phận in ấn của HP , phần_mềm Web Jetadmin 8.0 được trang_bị thêm khả_năng tập_hợp dữ_liệu và phân_chia_quyền sử_dụng đối_với người_dùng trong doanh_nghiệp .
+Ví_dụ , nhà quản_lý có_thể cài đặt_để chỉ những thành_viên trong phòng quảng_cáo hoặc những tài_liệu được tạo trên ứng_dụng nhất_định được_quyền in_màu .
+Điều này sẽ giúp tiết_kiệm đáng_kể chi_phí cho công_ty .
+
+Ngoài_ra , bản nâng_cấp phần_mềm có khả_năng thông_báo tình_trạng nguồn mực và tự_động yêu_cầu hộp mực mới khi cần .
+Web Jetadmin được tải miễn_phí .
+
+Codd khẳng_định Web Jetadmin 8.0 cũng hoạt_động trên dòng máy chiếu mới của HP .
+Hệ_thống xp7000 có giá thấp nhất_là 1.999 USD , sử_dụng công_nghệ xử_lý ánh_sáng kỹ_thuật_số ( DLP ) của hãng Texas Instruments ( Mỹ ) .
+Để kết_nối máy chiếu tới mạng LAN qua cổng USB , khách_hàng sẽ cần trang_bị thêm một thiết_bị điều_hợp mạng Network Projector Manager pn1050 ( 299 USD ) .
+
+Cùng thời_điểm , HP ra_mắt phần_mềm Universal Print Driver , có khả_năng tương_thích với bất_cứ máy_in_màu hay đơn_sắc nào của HP được sản_xuất từ tháng 1/1997 .
+
+Quản_lý với phần_mềm máy_in luôn là vấn_đề đau_đầu với nhiều khách_hàng của HP , bởi họ thường phải bao_quát hàng tá các hệ_thống in ấn khác_nhau trong công_ty .
+" Một_số_người sẽ muốn sử_dụng những trình điều_khiển chuyên biệt cho từng loại máy_in để kiểm_soát chặt_chẽ hơn độ mờ trong máy_in_màu hay độ_phân_giải của máy_in đen_trắng .
+Tuy_nhiên , những người này chỉ chiếm một tỷ_lệ nhỏ trong tổng_số khách_hàng của HP " , Codd cho_biết .
+
+P.T. ( theo PC World )

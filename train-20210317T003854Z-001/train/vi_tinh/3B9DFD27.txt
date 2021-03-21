@@ -1,0 +1,40 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9DFD27/
+title=Trình biên dịch giản lược cho C++ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Trình biên_dịch giản_lược cho C + +
+Nhằm giảm gánh_nặng cho lập trình_viên , cũng_như tận_dụng tối_đa khả_năng của thiết_bị và đa phân luồng trong quá_trình viết phần_mềm , Peter Buhr , nhà_khoa_học máy_tính người Canada , đã phát_triển một bộ tiện_ích mở_rộng cho ngôn_ngữ C + + .
+
+" Trong vòng 5 năm nữa , bạn sẽ khó có_thể tìm mua được một máy_tính không tích_hợp thiết_bị lõi_kép " , giáo_sư khoa_học máy_tính tại trường đại_học Waterloo này cho_biết .
+" Cần có những phần_mềm cho_phép các chuyên_gia lập_trình có cơ_hội tận_dụng hết khả_năng của công_nghệ mới .
+Chúng_tôi đang hạn_chế sự_phức_tạp hiện_nay của C + + " .
+
+Dự_án của Buhr mang tên micro - C + + , tăng_thêm 4 lớp ngôn_ngữ mới chưa có trong C + + gốc , được lập_trình viên sử_dụng để phân_loại các luồng riêng_biệt trong mã .
+" Chỉ cần tưởng_tượng bạn muốn chương_trình sẽ được chia nhỏ ra như_thế_nào , và sau_đó viết mã để biến chúng thành đa phân_luồng " , Buhr giải_thích .
+" Những luồng này sau_đó có_thể chạy độc_lập và bạn không_phải quan_tâm đến những mã tầng_thấp ( low - level ) .
+Micro - C + + sẽ giúp quá_trình phát_triển gọn hơn và rành_mạch hơn " .
+
+Do phần mở_rộng không thuộc ngôn_ngữ C + + chuẩn , Buhr triển_khai micro - C + + như_là một trình biên_dịch .
+Nó đọc tất_cả các chương_trình được viết với phần mở_rộng và dịch chúng sang ngôn_ngữ C + + chuẩn .
+Sau_đó , qua trình biên_dịch , chúng liên_kết mã nguồn với thư_viện cập_nhật micro - C + + của Buhr .
+
+Nghiên_cứu của Buhr được hỗ_trợ tài_chính bởi Gelato Federation , tổ_chức do Intel và Hewlett Packard hậu_thuẫn .
+Tổ_chức này được thành_lập nhằm để xây_dựng chip Itanium của Intel trong ứng_dụng điện toán chạy trên Linux với khả_năng vận_hành cao .
+Mặc_dù Gelato chỉ tập_trung vào Linux , micro - C + + hỗ_trợ cho cả thiết_bị xử_lý và hệ_điều_hành chạy trên x86 , Sparc và MIPS .
+
+" Trong 6 năm_qua , giới công_nghệ đã nghiêng hẳn về Java , và không_ai chú_ý đến công_trình của tôi .
+Nhưng hiện_giờ mọi_người lại đang bắt_đầu quay_lại với C + + " , Buhr nói .
+" Không chỉ hợp_tác với Intel và HP , chúng_tôi cũng đang đàm_phán với Sun Microsystems về việc phát_triển ứng_dụng cho bộ mở_rộng này " .
+
+Về lâu_dài , lập_trình viên chuyên về C + + sẽ không_phải phụ_thuộc vào phần mở_rộng của Buhr như là một phần_mềm riêng_biệt .
+Liên_minh C + + đang xem_xét để đưa những tính_năng này vào chuẩn ngôn_ngữ lập_trình .
+
+Micro - C + + hiện được cung_cấp   và Buhr khẳng_định sẽ chính_thức phát_hành nó như một phần_mềm mã_mở .
+
+Micro - C + + là nỗ_lực giản_lược C + + mới nhất nhưng không_phải là cải_tiến đầu_tiên .
+Trước_đó ,   , còn gọi_là pthreads , là một bộ Procedure Call ( cuộc gọi thủ_tục ) cũng đã được phát_triển để sử_dụng trong ngôn_ngữ C .
+Tuy_nhiên , pthreads bị coi là cồng_kềnh vì nó đòi_hỏi lập_trình viên phải thực_hiện quá nhiều thao_tác để đảm_bảo những luồng dữ_liệu khác_biệt không chèn lên_nhau .
+Ngoài_ra còn có những dự_án của , thư_viện luồng C + + trên trang web phần_mềm nguồn_mở , bộ công_cụ của ...
+Tuy_nhiên , chưa_có chương_trình nào được phổ_biến rộng_rãi và trở_thành một phần chính_thức của C + + .
+
+P.T. ( theo TechWeb )

@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E4836/
+title=Sử dụng vi khuẩn để... chụp ảnh 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sử_dụng vi_khuẩn để ... chụp_ảnh
+Các nhà nghiên_cứu vừa phát_triển một loại phim dùng trong camera độc_nhất vô nhị từ những lớp vi_khuẩn nhạy_cảm với ánh_sáng .
+Tuy cần đến 4 giờ để chụp và chỉ hoạt_động với ánh_sáng đỏ , chất_lượng của phim cũng đạt tới độ_phân_giải cao .
+
+Camera sống này sử_dụng ánh_sáng để chuyển_đổi gene trong vi_khuẩn , sau_đó tạo_ra một chất_hóa_học ghi_hình ảnh có_thể làm tối_màu .
+Với kích_thước nhỏ , vi_khuẩn cho_phép thiết_bị cảm biến truyền tải độ_phân_giải 100 megapixel/2,5 cm 2 .
+
+Để xây_dựng bộ cảm_biến sinh_học , nhóm nghiên_cứu do Chris Voigt dẫn_đầu tại đại_học California ( Mỹ ) chọn vi_khuẩn E.Coli trong thức_ăn nhiễm_độc .
+Họ đưa các gene từ tảo xanh_lục quang_hợp vào trong màng tế_bào của E.Coli .
+Mỗi gene sẽ mã_hóa một protein để có_thể phản_ứng trước ánh_sáng đỏ .
+Sau_khi được kích_hoạt , protein đó sẽ tắt khả_năng hoạt_động của một gene thứ_hai và biến_chất chỉ_thị sang màu_đen .
+Kết_quả là một bức_hình đơn màu sẽ hiển_thị trên lớp biến_thể E.Coli dày_đặc .
+
+Camera sống sẽ không_bao_giờ xuất_hiện tại các gian_hàng mà chỉ phục_vụ trong nghiên_cứu gene .
+Nhưng thành_công của họ khi tạo chuỗi vi_khuẩn phản_ứng với ánh_sáng đã mở_đường cho sự_phát_triển của công_nghệ nano mà trong_đó những chất li_ti được sản_xuất với độ_chính_xác cao nhờ các tia_sáng .
+
+Nhóm nghiên_cứu đang tiếp_tục mở_rộng dải màu trong bộ cảm_biến .
+Có_thể họ sẽ dùng retinol , chất giúp võng_mạc cảm_nhận được những màu_sắc khác_nhau .
+
+P.T. ( theo NewScientist )

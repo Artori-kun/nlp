@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E35AD/
+title=Flock - trình duyệt hội tụ của công nghệ Web 2.0 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Flock - trình_duyệt hội_tụ của công_nghệ Web 2.0
+Ngày 21/10 , Bart Decrem , cựu thành_viên của Mozilla , và các đồng_nghiệp đã giới_thiệu browser tích_hợp hầu_như tất_cả những tính_năng ưu_việt của web thế_hệ mới như nhập_nội_dung , bookmark , và chia_sẻ ảnh.
+cung_cấp công_cụ blogging với khả_năng kéo - thả ảnh tương_tự như Flickr của Yahoo , hỗ_trợ , và phần_mềm chia_sẻ file .
+Ngoài_ra , không như bookmark ( lưu lại những trang web , đường link hay ) trong các trình_duyệt truyền_thống , danh_sách trang web được đánh_dấu của Flock tích_hợp với del.icio.us , dịch_vụ trực_tuyến cho_phép người_sử_dụng lưu , tạo danh_mục và chia_sẻ với tất_cả mọi_người , cũng_như thay_đổi bookmark trên bất_cứ máy_tính nào .
+
+Tính_năng RSS reader hỗ_trợ khách_hàng đọc thông_tin trên các blog yêu_thích mà_không cần phải mở lần_lượt từng trang cá_nhân .
+Nhiều website và chương_trình phần_mềm đã cung_cấp tính_năng này , nhưng Flock là một trong những dịch_vụ đầu_tiên tổng_hợp nó trong một trình_duyệt .
+
+Browser tích_hợp nhiều chương_trình blogging phong_phú và phổ_biến , trong_đó có Wordpress , Six Apart và Blogger .
+
+Flock hoạt_động trên Windows , Mac OS X và Linux .
+Decrem đang xây_dựng kế_hoạch hợp_tác cùng Yahoo và Google để đưa hộp tìm_kiếm vào trong trình_duyệt .
+
+Tải và dùng thử Flock tại của trình_duyệt .
+
+T.N. ( theo CNet )

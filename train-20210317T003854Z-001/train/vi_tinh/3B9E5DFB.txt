@@ -1,0 +1,50 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5DFB/
+title=5 máy tính xách tay dùng chip lõi kép thế hệ mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+5 máy_tính xách tay dùng chip lõi kép thế_hệ mới
+Ngay_khi Intel giới_thiệu công_nghệ dành cho thiết_bị di_động ( trước_đó mang tên Napa ) , hàng_loạt các nhà_sản_xuất phần_cứng cho notebook tuyên_bố sẽ sử_dụng nền_tảng mới này .
+
+Centrino Duo được cho là sẽ mang tới bộ_nhớ phù_hợp với tốc_độ FSB 667 MHz , chipset 945 GM / PM và công_nghệ không dây 802.11 a / b/g mới của Intel .
+Tâm_điểm trong nền_tảng này là thiết_bị xử_lý lõi_kép .
+
+Acer đã giới_thiệu hai sản_phẩm mới với công_nghệ Centrino Duo .
+Aspire 5670 , giá 1.499 USD , có RAM DDR2 2 GB , ổ cứng 120 GB và hệ_thống đồ hoạ ATI Mobility Radeon X1400 , độ_phân_giải 1.200 x 800 trên màn_hình 15,4 inch .
+
+Camera CMOS 1,3 megapixel được đặt phía trên màn_hình , hoạt_động với phần_mềm nhận_dạng khuôn_mặt và hội_thoại video của Acer .
+Công_ty cũng cung_cấp một chương_trình dễ sử_dụng , giúp mã hoá các file quan_trọng , sao_lưu dự_phòng , khôi_phục và tuỳ biến ổ cứng cũng_như điều_chỉnh thiết_lập hệ_thống chỉ bằng một_vài lần nhấp_chuột .
+
+Sản_phẩm thứ_hai TravelMate 8200 có thông_số tương_tự Aspire 5650 , bao_gồm camera và đồ hoạ ưu_việt ATI Mobility Radeon X1600 512 MB , mang tới độ_phân_giải 1.690 x 1.050 cho màn_hình 15,4 megapixel .
+Đặc_biệt , TravelMate 8200 sử_dụng lớp vỏ bằng sợi carbon , hiện mới chỉ có trong dòng notebook Ferrari của Acer .
+Hệ_thống còn được trang_bị ổ cứng chống va đập và chức_năng cảnh_báo chống_trộm .
+Hệ_thống được bán với giá 1.999 USD .
+
+Dell đang áp_dụng công_nghệ Centrino Duo cùng bộ_nhớ DDR2 hai kênh 667 MHz , 2 GB trong máy_tính xách tay Inspiron E1705 .
+E1705 , giá 1.999 USD và sẽ thay_thế dòng Inspiron 9300 , được thiết_kế với một phím chuyên dụng cho_phép xem DVD , CD và quản_lý ảnh số trên ổ cứng mà không cần khởi_động máy_tính .
+
+Khách_hàng có_thể lựa_chọn Intel Core Duo T2500 ( 2 GHz ) hoặc T2400 ( 1,83 GHz ) .
+Sản_phẩm tích_hợp màn_hình rộng , đường_chéo 17 inch và độ_phân_giải tối_đa 1.400 x 1.050 .
+
+Inspiron E1705 còn được trang_bị chip đồ hoạ mới nhất GeForce Go 7800 , 256 MB , của Nvidia , Wi - Fi 802.11a / b/g Wi - Fi , ổ cứng SATA từ 60 đến 100 GB , 7200 vòng / phút , cáp TV USB 2.0 và tương_thích Windows Media Center 2005 .
+
+Gateway M685- E sử_dụng màn_hình rộng 17 inch và bàn_phím theo kích_thước_chuẩn .
+Giá sản_phẩm là 1.699 USD nhưng khách_hàng có_thể thay_đổi thông_số cơ_bản của Intel Core Duo T2500 2 GB , ổ cứng 100 GB , ổ ghi DVD 2 lớp , GeForce Go 7800 , 256 MB.  
+M465- E là dòng notebook thế_hệ mới của Gateway , chủ_yếu phục_vụ các tổ_chức chuyên về công_nghệ thông_tin .
+Phiên_bản chính của M465- E là NX560 sẽ được phát_hành cuối tháng 2 năm_nay .
+
+Sản_phẩm mới dv1000t là phiên_bản lõi kép thuộc dòng máy_tính gia_dụng phổ_biến của HP .
+Thiết_bị tích_hợp một webcam đặt phía trên màn_hình 14 inch , 1.280 x 768 và ổ cứng 100 GB .
+dv1000t còn có lựa_chọn " Quick Play " , biến máy_tính thành một đầu DVD hay CD riêng_biệt .
+
+ThinkPad T60 và X60 sẽ được sản_xuất cùng chip_Duo ( lõi_kép ) và Solo ( đơn_lõi ) của Intel .
+Các mẫu X60 còn có thêm thiết_bị xử_lý Intel ULV ( Ultra Low Voltage ) nhằm tăng thời_lượng hoạt_động pin .
+
+ThinkPad X60 gồm hai khe cắm thẻ nhớ có_thể nâng_cấp , mở_rộng bộ_nhớ lên tới 4 GB dù Lenovo cho_biết Windows chỉ hỗ_trợ 3,2 GB , ổ cứng ATA 2,5 inch , 7.200 vòng / phút và dung_lượng 100 GB .
+Trong_khi_đó , X41 sử_dụng ổ 1,8 inch , 60 GB , với tốc_độ tối_đa 4.200 vòng / phút .
+
+Phím Access IBM trên các dòng ThinkPad đã được đổi tên thành ThinkVantage nhưng vẫn cho_phép truy_cập nhanh tới các công_cụ back up , khôi_phục và thiết_lập hệ_thống .
+
+Dòng ThinkPad T và X mới cũng_được trang_bị thêm cổng USB 2.0 thứ 3 , FireWire và bảo_mật vân_tay .
+Lenovo dự_định tung_ra sản_phẩm vào ngày 14/2 .
+
+P.T. ( theo PC World )

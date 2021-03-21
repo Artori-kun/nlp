@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/02/3B9E712E/
+title=Màn hình LCD với độ phân giải cao gấp 4 hiện tại 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Màn hình LCD với độ_phân_giải cao gấp 4 hiện_tại
+Hãng Chi Mei Optoelectronics ( Đài_Loan ) , nhà_sản_xuất màn hình TV LCD lớn thứ 3 thế_giới , chuẩn_bị trình_làng sản_phẩm 56 inch đầu_tiên với độ_phân_giải 3840 x 2160 pixel và độ_hội_tụ 8,29 triệu pixel tại triển_lãm công_nghệ CeBIT vào giữa tháng 3 năm_nay .
+
+So với mức 1920 x 1080 của các sản_phẩm hiện_có trên thị_trường , màn_hình mới có độ_phân_giải cao nhất mà các nhà sản_xuất đạt được từ trước đến_nay .
+Sản_phẩm của Chi Mei Optoelectronics có chứa hơn 24,8 triệu đơn_vị bóng bán_dẫn ( transistor ) với tốc_độ truyền dữ_liệu trên 1,4 Gb / giây .
+
+Để đạt được thành_công này , Chi Mei Optoelectronics đã khắc_phục được một số thách_thức kỹ_thuật lớn , trong_đó có việc xây_dựng được những phương_pháp điều_khiển ( driver ) đặc_biệt , quy_trình quét cũng_như giải_quyết được vấn_đề tỏa nhiệt do sự_tập_hợp mật_độ transistor quá dày .
+Công_ty Đài_Loan cho_biết những cản_trở về kỹ_thuật này không_chỉ xuất_hiện khi phát_triển màn hiển_thị có kích_thước lớn hơn mà còn liên_quan cả_đến việc tăng gấp nhiều lần độ_phân_giải .
+Trong tương_lai , chuyện kích_thước màn_hình LCD sẽ không_còn là cản_trở kỹ_thuật hoặc ưu_tiên cần xử_lý của các hãng chế_tạo , Jau - Yang_Ho , Chủ_tịch Chi Mei Optoelectronics , phát_biểu .
+Yang Ho tin rằng việc thu_nhận dữ_liệu trên màn_hình sẽ tăng theo cấp_số nhân nhờ sự_phát_triển công_nghệ và cả xu_hướng hội_tụ 3C gồm máy_tính , truyền_thông và thiết_bị điện_tử dân_dụng ( computer - communication - consumer electronics ) .
+Kết_quả là nhu_cầu sử_dụng màn_hình với khả_năng xử_lý dữ_liệu tốc_độ cao sẽ tăng đột_biến .
+
+Màn hình LCD 56 inch mới của Chi Mei Optoelectronics có_thể được ứng_dụng trong một số lĩnh_vực thiết_bị đầu cuối cao_cấp như hệ_thống giải_trí gia_đình đa chức_năng , kết_nối truyền_hình kỹ_thuật_số , máy_ảnh , máy quay video , hoặc sử_dụng trong công_nghệ hình_ảnh y_tế hay hiển_thị ảnh chụp vệ_tinh .
+
+Phan_Khương ( theo Gizmag )

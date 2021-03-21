@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1519/
+title=Oracle công bố Database 10g phiên bản 2 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Oracle công_bố Database 10g phiên_bản 2
+Bản nâng_cấp bộ phần_mềm cơ_sở_dữ_liệu của Oracle hứa_hẹn mang đến cho khách_hàng khả_năng quản_lý , hiệu_suất và tính bảo_mật tăng_cường , giúp cắt_giảm chi_phí và đơn_giản_hóa việc quản_trị thông tin.
+phiên_bản 2 có năng_lực mạnh hơn , tính sẵn_sàng cao và khả_năng quản_lý đơn_giản .
+Người sử_dụng có_thể chuyển_đổi một nhóm hệ_thống máy chủ thông_thường thành một nền điện toán với khả_năng khắc_phục lỗi và mở_rộng cao .
+Phiên_bản này cũng bao_gồm nhiều cải_tiến khác , cho_phép dễ_dàng chia_sẻ tài_nguyên lưu_trữ trong môi_trường mạng_lưới đồng_thời tích_hợp mức bảo_mật dữ_liệu cao_cấp hơn .
+
+Trong quá_trình xây_dựng Database 10g phiên_bản 2 , Oracle đã phối_hợp trực_tiếp với nhiều khách_hàng cũng_như các nhà_cung_cấp phần mềm độc_lập ( ISV ) , các công_ty tích_hợp hệ_thống ( SI ) tại khu_vực châu_Á - Thái_Bình_Dương để cùng thử_nghiệm chương_trình beta và thu_thập ý_kiến đánh_giá .
+
+Tất_cả các bản Oracle Database 10g phiên_bản 2 ( bao_gồm Enterprise Edition , Standard Edition và Standard Edition One ) đều hỗ_trợ hệ_điều_hành Red Hat Enterprise Linux 3.0 .
+Oracle dự_kiến , trong khoảng 1-3 tháng nữa , gói phần_mềm cơ_sở_dữ_liệu mới này cũng sẽ hỗ_trợ các nền Linux , UNIX và Windows .
+
+Oracle Database 10g phiên_bản 1 đã dẫn_đầu trong các thử_nghiệm ứng_dụng nối tiếng nhất , Nick Evered , Phó_chủ_tịch phụ_trách kinh_doanh công_nghệ của Oracle châu_Á - Thái_Bình_Dương , phát_biểu .
+Với phiên_bản 2 , chúng_tôi hy_vọng vị_trí này sẽ được củng_cố vững_chắc hơn .
+
+Tham_khảo thêm .
+
+P.K .

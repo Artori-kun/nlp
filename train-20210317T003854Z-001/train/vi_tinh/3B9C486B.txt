@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/01/3B9C486B/
+title=AMD tăng cường bảo mật cho chip nhớ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+AMD tăng_cường bảo_mật cho chip_nhớ
+Hôm_qua , công_ty giới_thiệu chip nhớ flash 64 Mb mang tên Am29PDL640G .
+Sản_phẩm này được thiết_kế cho điện_thoại di_động , PDA và hộp thu tín_hiệu , giúp ngăn_chặn việc trộm sóng và gian_lận trong thanh_toán .
+
+Một trong những tính_năng bảo_mật nhiều lớp của chip mới là bảo_vệ mật_khẩu 64 bit , chống hacker , virus và những đoạn mã nguy_hiểm .
+Chỉ có những người_sử_dụng hợp_pháp mới có_thể thay_đổi các thiết_lập .
+
+Am29PDL640G có kích_thước nhỏ gọn và hỗ_trợ thiết_bị di_động thực_hiện tốt việc tải chương_trình ứng_dụng , trò_chơi , tranh_ảnh trong_khi người_dùng đang thực_hiện cuộc_gọi .
+
+Sản_phẩm được bán với giá 9,75 USD .
+
+Minh_Nghĩa ( theo NF )

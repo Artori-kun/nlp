@@ -1,0 +1,32 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D8666/
+title=Canopy - giải pháp truy cập mạng băng rộng không dây 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Canopy - giải_pháp truy_cập mạng băng rộng không dây
+Không cần kết_nối qua mạng điện_thoại hoặc phải kéo_cáp , hệ_thông truy_cập Internet băng_thông rộng vận_hành trên băng tần 5,25 - 5,350 GHz và 5,725 - 5,825 GHz phù_hợp với doanh_nghiệp dầu_khí , lâm_nghiệp , nhà_cung_cấp dịch_vụ , tổ_chức giáo_dục ...
+Sản_phẩm được giới_thiệu tại Telecomp 2004 .
+
+Canopy giúp các tập_đoàn doanh_nghiệp , tổ_chức giáo_dục triển_khai kết_nối giữa các địa_điểm khác_nhau trong một phạm_vi địa_lý hoặc tại một địa_bàn rộng_lớn mà không phải đầu_tư vào cơ_sở hạ_tầng .
+Ứng_dụng điểm đa điểm của giải_pháp này có_thể phục_vụ cho hộ gia_đình và cả doanh_nghiệp .
+Hoặc sử_dụng Backhaul ( phương_thức mà các bộ chuyển mạch nhận_dữ_liệu từ mạng chính backbone ) như đường truyền số_liệu chuyên_dụng cho doanh_nghiệp .
+
+Một hệ_thống Canopy đơn_lẻ trên băng_tần 5,2 GHz có_thể phục_vụ nhóm cộng_đồng trong bán_kính 3,5 km và mở_rộng lên 16 km khi sử_dụng thêm bộ_phản_xạ thụ_động trên băng_tần 5,7 GHz .
+Canopy có đặc_tính đa_dạng , 3 chế_độ hỗ_trợ đồng_thời với công_nghệ 802.11b , 802.11g và 802.11a .
+
+Hệ_thống Canopy có_thể mở_rộng để luôn phù_hợp với sự_thay_đổi nhu_cầu , địa_bàn lớn hơn , dân_cư nhiều hơn và thông_lượng cao hơn .
+Canopy cho_phép khả_năng truy_cập không dây cố_định trong_vòng 1,6 km tới doanh_nghiệp hoặc khu dân_cư , truy_cập IP cố_định tới một địa_điểm cố_định .
+Hệ_thống cũng hỗ_trợ chuyển băng thông rộng tới các điểm_nóng nhờ sự_phân_phối qua mạng nội_bộ không_dây ( WLAN ) .
+
+Với khả_năng chống nhiễu cao và ăngten định_hướng việc thêm_vào các bộ phát tạo_nên khả_năng truyền_tải dữ_liệu lớn hơn mà không làm_tăng sự_can_nhiễu .
+
+Khả_năng bảo_mật dữ_liệu trong giải_pháp truy_cập Internet không dây_băng rộng này là quá_trình mã_hoá bằng cách trộn các bit_dữ_liệu để ngăn_ngừa sự_can_thiệp từ bên_ngoài , đảm_bảo cho quá_trình truyền_dữ_liệu .
+Bên_cạnh đó là sự_hỗ_trợ của phương_thức điều_chế High Index BFSK có khả_năng chống nhiễu tốt và mã hoá DES tín_hiệu trên đường truyền vô_tuyến .
+
+Tập_đoàn Motorola , nhà thiết_kế và cung_cấp giải_pháp Canopy , đã triển_khai hệ_thống này tại 85 quốc_gia , trong_đó có Bangladesh , Trung_Quốc , Indonesia ...
+Tập_đoàn viễn_thông này đang tiến_hành những triển_khai thử_nghiệm khác_nhau tại một_số nước khu_vực châu_Á - Thái_Bình_Dương , trong_đó có Việt_Nam .
+
+Giá của sản_phẩm vẫn chưa được nhà_cung_cấp tiết_lộ .
+Song , ông Michael Aw , Giám_đốc bán_hàng khu_vực Đông_Dương , cho_biết mức_giá còn phụ_thuộc vào yều cầu cụ_thể của khách_hàng .
+Ông này cũng đánh_giá VN là một thị_trường trọng_điểm và tiềm_năng cho Canopy .
+
+Xuân_Kim

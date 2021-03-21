@@ -1,0 +1,25 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1735/
+title=Công nghệ Viiv cho hệ thống kỹ thuật số gia đình 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ Viiv cho hệ_thống kỹ_thuật số gia_đình
+Nhằm lặp_lại thành_công của thương_hiệu dùng trong máy_tính xách_tay , hãng sản_xuất chip Intel hôm_qua tuyên_bố sẽ phát_hành một gói sản_phẩm được thiết_kế dành riêng cho máy_tính giải_trí .
+
+Intel Viiv bao_gồm một thiết_bị xử_lý lõi_kép , chipset và phần_mềm nền .
+Máy_tính kèm Viiv dễ sử_dụng , có_thể tiếp_cận qua điều_khiển từ xa và khôi_phục thông_tin nhanh_chóng .
+Thiết_bị Viiv bắt_đầu trình_tự khởi_động tương_tự PC , nhưng về_sau , người_dùng có_thể tắt , bật hay trở_về trạng_thái ban_đầu của nó đơn_giản chỉ qua thao_tác nhấn_nút .
+
+Viiv có một trình hướng_dẫn tự cài_đặt , cho_phép người_dùng thay_đổi thành_tố thiết_lập mạng bằng điều_khiển từ_xa .
+Thêm_vào đó , hệ_thống cũng tích_hợp bộ_phận server nghe_nhìn , có_thể định dạng_lại nội_dung kỹ_thuật số để xem trên nhiều chương_trình khác_nhau .
+
+Thiết_bị hoạt_động với Viiv sẽ rất đa_dạng , từ hệ_thống stereo tới những máy_tính thông_thường .
+Tất_cả cùng chạy trên hệ_điều_hành Windows Media Center của Microsoft .
+" Công_nghệ Viiv là nền đầu_tiên chúng_tôi thiết_kế dành riêng cho hệ_thống kỹ_thuật số gia_đình , dự_kiến sẽ chính_thức có_mặt vào năm tới " , Don MacDonald , Tổng giám_đốc bộ_phận Intel Digital Home , cho_biết .
+
+Nhà sản_xuất chip lớn nhất thế_giới cũng công_bố lộ một chiến_lược tương_tự nhằm kết_hợp đa chip trên một nền đơn với Centrino , bao_gồm thiết_bị xử_lý tiêu_thụ năng_lượng hợp_lý , chipset và phần_cứng không_dây .
+Intel bắt_đầu ra_mắt Centrino năm 2003 với chi_phí quảng_cáo 300 triệu USD .
+Từ_đó , thị_phần chip máy_tính xách tay của hãng luôn phát_triển tương_đối ổn_định .
+
+Các nhà_sản_xuất máy_tính và phần_mềm gần_đây đã nhận_thấy rõ cơ_hội phát_triển lớn khi lĩnh_vực giải_trí dần_dần được số_hoá và khách_hàng đang tìm_kiếm những phương_pháp quản_lý âm_nhạc , video , ảnh , phim và chương_trình TV tối_ưu .
+
+P.T. ( theo CNet )

@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/04/3B9D1A36/
+title=Diệt spyware bằng Spybot Search and Destroy v1.3 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Diệt spyware bằng Spybot Search and Destroy v1.3
+Chương_trình này sẽ quét ổ cứng để xác_định những phần_mềm do_thám hoặc những module phần_mềm chuyên làm hiển_thị các mục quảng_cáo hoặc gửi thông_tin từ máy của bạn về cho chủ của nó .
+
+Nếu tìm được những đối_tượng này , Spybot Search and Destroy sẽ gỡ_bỏ và thay_thế chúng bằng những adware giả , trống_rỗng , vì thông_thường , phần_mềm chủ của chúng vẫn sẽ hoạt_động sau_khi adware đã bị gỡ_đi .
+
+Trong số các mục_tiêu mà Spybot Search and Destroy xử_lý có Aureate , CLPRS , Comet Cursors , eZula HotText , Gator , GoHip , Radiate , WebHancer và WildTangent .
+
+Chương_trình an_ninh này còn loại_bỏ phần lưu hồ_sơ sử_dụng ( track ) chẳng_hạn như các trang web mới truy_cập , những file đã mở , các chương_trình đã kích_hoạt hoặc cookies .
+Vì_thế , ngay_cả những loại spyware mà chương_trình chưa biết cũng không thể khai_thác và truyền_đi thông_tin cá_nhân được .
+
+Spybot Search and Destroy hỗ_trợ cả 3 loại trình_duyệt phổ_biến nhất : Internet Explorer , Netscape Communicator và Opera .
+ 
+Để_tải miễn_phí Spybot Search and Destroy v1.3 , bấm   .
+
+P.K .

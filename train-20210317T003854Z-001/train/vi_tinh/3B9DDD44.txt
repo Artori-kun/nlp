@@ -1,0 +1,94 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DDD44/
+title=Mozilla Sunbird - sổ tay hoạch định và quản lý công việc 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Mozilla Sunbird - sổ_tay hoạch_định và quản_lý công_việc
+So với loại sổ_tay bằng giấy , Mozilla Sunbird ( MS ) đem_lại nhiều lợi_ích hơn vì những tiện_ích ghi_chép , thông_báo , nhắc_nhở điện_tử có trên chương_trình này cho_phép " viết " nhanh và đẹp hơn , không lãng_phí giấy_bút và có_thể chỉnh sửa dễ_dàng .
+
+Các chức_năng chính của MS gồm : sổ_tay ghi_chép , hoạch_định và quản_lý công_việc .
+Dung_lượng của chương_trình này là 5,9 MB , tương_thích với hệ_điều_hành Windows 9x / Me / NT/2000/XP .
+Ưu_điểm của MS là giao_diện đơn_giản và dễ sử_dụng , tốc_độ xử_lý dữ_liệu nhanh , hỗ_trợ chế_độ gõ dấu tiếng Việt khi nhập_liệu ( mã Unicode ) , cung_cấp nhiều chế_độ xem nội_dung khác_nhau , rất logic trong thiết_kế và tích_hợp các nhóm tính_năng , giải_pháp mang tính thiết_thực cao .
+
+Tuy_nhiên , MS cũng có những hạn_chế là không_thể tùy_biến được font chữ , nhạc chuông báo nhắc và giao_diện ; không có tính_năng bảo_vệ bằng mật_khẩu ...
+Phiên_bản MS 0.2A ( phần_mềm nguồn_mở ) miễn_phí có .
+
+Ngay sau_khi hoàn_tất quá_trình cài_đặt và kích_hoạt , giao_diện tương_tác của chương_trình sẽ xuất_hiện và cho_phép bạn khai_thác các tính_năng trọng_yếu .
+
+Để tạo mới lịch làm_việc cần thực_hiện các bước_sau : 1. Về cơ_bản , MS giống như một quyển sổ_tay bằng giấy để ghi_chép tất_cả những công_việc quan_trọng cần được ghi_nhớ và thực_hiện .
+Quyển sổ_tay ảo này bao_gồm nhiều loại lịch làm_việc khác_nhau tùy_thuộc vào định_nghĩa của người_dùng .
+Chẳng_hạn , để thuận_tiện cho việc quản_lý , có_thể sử_dụng MS để tạo_ra 3 loại lịch ghi_chép thường_dùng bao_gồm lịch những công_việc sẽ được ưu_tiên thực_hiện trong_ngày , lịch kế_hoạch tuần / tháng / năm và lịch ghi_chép nhật_ký .
+Những loại lịch như_thế này sẽ được MS gọi chung là Calendar .
+
+2. Lịch_làm_việc mặc định trong MS có tên_gọi là My Calendar .
+Để tạo mới một hoặc nhiều loại lịch làm_việc khác theo đúng với sở_thích và nhu_cầu cá_nhân , hãy nhấp chuột vào thẻ Calendars , click chuột phải vào một điểm trống bất_kỳ trong_vùng nằm ngay bên_dưới thẻ này rồi chọn mục New Calendar .
+Hộp thoại Add New Calendar sẽ xuất_hiện .
+Hãy đặt một tên_gọi cho loại lịch_làm_việc mới này trong mục Name , nhấn nút Color để xác_định một màu_sắc nhận_diện , nhấn nút Browse For Local File ... để xác_định tên và đường dẫn lưu_trữ tương_ứng cho loại lịch_làm_việc này , chọn Save rồi nhấn nút OK để hoàn_tất việc khai_báo .
+
+3. Ngay lập_tức , tên của loại lịch_làm_việc này sẽ xuất_hiện bên_dưới mục_My Calendar trong_vùng Calendars của thẻ Calendars .
+Hãy thực_hiện lại tương_tự các bước 1 và 2 nếu muốn tạo thêm một_vài loại lịch làm_việc nữa .
+
+4. Nếu muốn hiệu_chỉnh một loại lịch_làm_việc đã khởi_tạo , hãy nhấn chuột phải vào tên_gọi của nó rồi chọn mục Edit Calendar hoặc chọn mục Delete Calendar nếu_như muốn xóa nó ra khỏi cơ_sở_dữ_liệu của MS .
+
+Để hoạch_định công_việc cần thực_hiện theo các bước :
+1 .
+Khi đã tạo xong một loại lịch_làm_việc trong MS , kế_tiếp là nhập_liệu .
+MS cho_phép ghi_chép 2 loại mẫu ghi vào quyển sổ_tay ảo_này .
+Loại thứ_nhất được gọi_là công_việc ( task ) .
+Người_dùng có_thể sử_dụng loại này để ghi_chép những thông_tin có liên_quan đến những nhiệm_vụ thường_nhật .
+Loại thứ_hai được gọi_là sự_kiện ( event ) , rất thích_hợp để giúp người_sử_dụng luôn ghi_nhớ những thời_điểm quan_trọng sắp xảy_ra như ngày họp_hội , tiệc_tùng , thi_cử ...
+
+2 .
+Để chèn một mẫu ghi về nhiệm_vụ cho loại lịch_làm_việc hiện_hành , bạn hãy nhấn nút New Task , hộp_thoại này sẽ xuất_hiện .
+Hãy nhập_vào những thông_tin cần_thiết như tên của nhiệm_vụ ( mục Title ) , nơi diễn_ra nhiệm_vụ ( mục Location ) , thời_điểm bắt_đầu ( đánh_dấu chọn trước mục Start rồi nhấn nút có hình tờ lịch nằm ngay_cạnh để chọn ngày và nhấn nút có hình chiếc đồng_hồ để chọn giờ ) , thời_điểm hết_hạn thực_hiện nhiệm_vụ ( đánh_dấu chọn trước mục_Due Date rồi nhấn nút có hình tờ lịch nằm ngay_cạnh để chọn ngày và nhấn nút có hình chiếc đồng_hồ để chọn giờ ) , nhập_vào đôi dòng ghi_chú về nhiệm_vụ trong_vùng Note , nhập_vào địa_chỉ URL trong mục URL nếu_như nhiệm_vụ này có liên_quan đến một website .
+Hãy xác_định mức_độ ưu_tiên thực_hiện nhiệm_vụ trong mục Priority nếu_có nhiều công_việc cần làm trong_ngày ( None - không áp_dụng , Low - kém quan_trọng , Medium - bình_thường hoặc High - quan_trọng / khẩn ) .
+Sau_đó kích_hoạt chế_độ báo nhắc để không quên nhiệm_vụ này ( đánh_dấu chọn trước mục Alarm , xác_định khoảng thời_gian báo nhắc ( đơn_vị tính là phút , giờ hoặc ngày ) trước_khi nhiệm_vụ này bắt_đầu ( mục before the task starts ) hoặc trước_khi nó sắp hết_hạn thực_hiện ( mục before the task is   due ) .
+Cần đánh_dấu chọn trước mục Email Alarm to nếu muốn MS tự_động gửi_thư báo nhắc thực_hiện nhiệm_vụ đến địa_chỉ_e - mail đã khai_báo trong_vùng trống nằm ngay_cạnh .
+Đánh_dấu chọn trước mục Status nếu muốn hủy_bỏ nhiệm_vụ vào bất_cứ lúc_nào , đánh_dấu chọn trước mục Completed sau_khi đã hoàn_tất nhiệm_vụ hoặc xác_định dự_phòng tỷ_lệ thực_hiện nhiệm_vụ trong_mục % complete nếu_như nó vẫn còn đang diễn_ra , xác_định tên phạm_trù tương_ứng với nhiệm_vụ trong mục Categories ( chi_tiết về cách tạo mới một phạm_trù sẽ được đề_cập ở cuối_bài_viết ) , lựa_chọn loại lịch tương_ứng để lưu giữ nhiệm_vụ trong mục Calendar File rồi nhấn nút OK để hoàn_tất .
+( Thẻ Recurrence sẽ giúp thiết_lập chế_độ lặp_lại cho nhiệm_vụ này ) .
+Ngay lập_tức , nhiệm_vụ này sẽ xuất_hiện trong_vùng Tasks nằm ở góc dưới bên_trái của giao_diện .
+Hãy nhấn đúp chuột vào đấy nếu muốn hiệu_chỉnh lại dữ_liệu .
+Để_xem nội_dung chi_tiết của nhiệm_vụ , chỉ cần đưa con trỏ đến đấy và để_yên trong vài giây .
+Hãy đánh_dấu chọn trước tên của nhiệm_vụ nếu_như đã hoàn_tất nó .
+Một đường gạch_ngang sẽ xuất_hiện như_thể dùng bút để gạch_bỏ .
+Lúc_này mục Completed trong hộp thoại Edit Task cũng sẽ được tự_động đánh_dấu chọn .
+Để xóa_hẳn một mẫu ghi ra khỏi quyển sổ_tay , chỉ cần đánh_dấu chọn trước mẫu ghi , nhấn chuột phải vào đấy rồi chọn mục Delete Task .
+Click New Task nếu muốn tạo mới một mẫu ghi_khác .
+Để tránh bị nhiễu bởi những nhiệm_vụ đã được thực_hiện , hãy đánh_dấu chọn trước mục Hide Completed Tasks .
+Lúc_này , vùng Tasks chỉ liệt_kê các nhiệm_vụ còn đang thực_hiện dang_dở mà_thôi .
+
+4. Nếu chọn chế_độ báo nhắc công_việc , ngay_khi đến thời_điểm tương_ứng , thông_báo Sunbird – Calendar Alarm – Alarm sẽ xuất_hiện .
+Nó sẽ hiển_thị toàn_bộ nội_dung của công_việc .
+Nhấn nút Acknowledge để xác_nhận đã nhớ và sẽ thực_hiện công_việc .
+Chọn chế_độ Snooze nếu muốn MS báo nhắc_lại công_việc này sau một khoảng thời_gian nhất_định .
+Lúc_này tên của công_việc sẽ được đổi_màu , từ màu mặc_định ( màu xám_nhạt ) sang màu_sắc đã được chọn cho loại lịch tương_ứng với nó .
+
+5 .
+Loại mẫu ghi thứ_hai có_thể sử_dụng trong MS đó là sự_kiện .
+Để chèn một mẫu ghi về sự_kiện cho loại lịch_làm_việc hiện_hành , hãy nhấn chuột vào ô ngày sẽ xảy_ra sự_kiện này trong tờ lịch lớn nằm ở bên_phải giao_diện rồi nhấn nút New Event .
+Hộp_thoại New Event sẽ xuất_hiện .
+Nhập_vào những thông_tin cần_thiết tương_tự như mẫu ghi nhiệm_vụ .
+Ngay lập_tức , sự_kiện này sẽ xuất_hiện trong ngày đã chọn .
+Việc hiệu_chỉnh , xoá và báo nhắc sự_kiện cũng tương_tự như nhiệm_vụ .
+
+6. Để tiết_kiệm thời_gian và công_sức nhập liệu cho những mẫu ghi có cấu_trúc gần giống_nhau , người_sử_dụng nên dùng tính_năng sao_chép và dán ( Copy & Paste ) như trong Windows Explorer .
+
+7. MS cung_cấp đến 4 chế_độ xem sổ_tay bao_gồm : xem từng ngày ( Day View ) , xem theo tuần ( Week View ) , xem theo tháng ( Month View ) hoặc xem nhiều tuần cùng_lúc ( Multiweek ) .
+Hãy chuyển_đổi qua_lại giữa những chế_độ xem thông_tin này cho phù_hợp với thói_quen và nội_dung nhập liệu của mỗi_người .
+
+8. Sử_dụng công_cụ tìm_kiếm dựa_vào từ khóa của MS để tìm nhanh những mẫu ghi mong_muốn .
+
+Để thay_đổi những thiết_lập mặc định cần tiến_hành theo các bước :
+1. Về cơ_bản , quyển sổ_tay MS đã được thiết_lập sẵn theo thói_quen sử_dụng và tác_phong công_nghiệp của các nước phát_triển .
+Vì_vậy , có_thể người_sử_dụng sẽ cần hiệu_chỉnh để phù_hợp hơn với điều_kiện đặc_thù của Việt_Nam .
+Hãy truy xuất đến menu Tools rồi chọn mục Options để thực_hiện công_việc này .
+
+2. General > Date Text Format : Xác_định kiểu hiển_thị cho định dạng ngày_giờ trong MS .
+
+3. General > Categories > Add / Edit / Remove : Tạo mới / Hiệu_chỉnh / Xóa_bỏ một phạm_trù trong MS .
+
+4. View > General > First Day Of The Week : Xác_định ngày đầu_tiên trong tuần .
+
+5. View > General > Day ( s ) Off Each Week : Xác_định những ngày_nghỉ trong tuần .
+
+6. View > Week and Day View > Start time và End time : Xác_định thời_điểm bắt_đầu làm_việc và thời_điểm kết_thúc trong ngày.
+( theo Thế_Giới Vi_Tính )

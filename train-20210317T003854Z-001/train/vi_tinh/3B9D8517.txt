@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D8517/
+title=Intel công bố hai bộ vi xử lí mạng mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel công_bố hai bộ vi xử_lí mạng mới
+Hai loại chip IXP460 và Intel IXP465 dành cho các ứng_dụng viễn_thông truyền_thống và cho thị_trường kết_nối mạng nhúng đang phát_triển mạnh_mẽ .
+
+IXP460 và IXP465 là những bổ_sung mới nhất cho dòng sản_phẩm IXP4XX và mang lại một lõi Intel XScale tốc_độ cao hơn , mở_rộng những lựa_chọn kết_nối nhằm nâng_cao tính bảo_mật và độ_tin_cậy của những hệ_thống cuối .
+Đây cũng là những bộ_vi xử_lý mạng đầu_tiên của Intel được xây_dựng trên công_nghệ xử_lý 90nm , mang lại tốc_độ kết_nối lên tới 2 GB / giây , đồng_thời cho_phép các nhà phát_triển tiết_kiệm đáng_kể mức tiêu_thụ điện_năng và diện_tích bảng mạch .
+
+Bộ vi xử_lý mạng trong các hệ_thống viễn_thông truyền_thống mang lại sức_mạnh cho rất nhiều ứng_dụng truy_cập và kết_nối mạng biên như DSLAMS , hệ_thống chuyển_đổi truy_cập không dây và các thiết_bị định tuyến dành cho doanh_nghiệp .
+Doug Davis , Phó_chủ_tịch phụ_trách bộ_phận viễn_thông của Intel kiêm Tổng_giám_đốc bộ_phận vi xử_lý dành cho cơ_sở hạ_tầng của Intel , phát_biểu : Các bộ_vi xử_lý mạng giờ_đây không_chỉ còn liên_tục theo_đuổi tốc_độ đường truyền mà thay vào đó chúng cần phải kết_hợp nhiều tính_năng hơn và khả_năng linh_hoạt cao hơn , cho_phép khách_hàng tùy_biến các mẫu thiết_kế sao_cho phù_hợp nhất với yêu_cầu kỹ_thuật của riêng mình .
+
+Intel và các thành_viên thuộc Liên_minh viễn_thông Intel cũng đã công_bố một số công_cụ phát_triển , nền_tảng phần_cứng , phần_mềm và giải_pháp phần_mềm dành cho những ứng_dụng chuyên_biệt hỗ_trợ các dòng_chip IXP46X và IXP23XX .
+Hai sản_phẩm này đang được gửi tới khách_hàng làm_mẫu , dự_tính sẽ có giá xấp_xỉ 19-75 USD / bộ đối_với IXP46X và 84-142 USD / bộ đối_với IXP23XX , tùy_theo yêu_cầu về nhiệt_độ và tốc_độ xử_lý , áp_dụng cho những đơn đặt_hàng 10.000 sản_phẩm .
+
+V.T .

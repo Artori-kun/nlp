@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DEA80/
+title=ETrust EZ Armor - giải pháp an ninh máy tính cá nhân 
+cat=VI-TINH|SAN-PHAM-MOI
+
+ETrust EZ Armor - giải_pháp an_ninh máy_tính cá_nhân
+ETrust EZ Armor 2005 của công_ty phần_mềm Computer Associates - CA ( Mỹ ) bao_gồm : EZ Antivirus , eTrust EZ Firewall , và eTrust EZ Deskshield là những chương_trình chống virus và bức_tường lửa cá_nhân .
+
+Để bảo_vệ e - mail và các tập_tin bằng cách tự_động diệt virus , sâu và các Trojan horse , EZ sử_dụng 3 mức cài_đặt bảo_mật là thấp , trung_bình và cao tiện_lợi cho người_sử_dụng .
+Các tính_năng Ad Blocking và Cookie Control sẽ giúp điều_khiển hoạt_động ngăn_chặn sự_nhòm_ngó của các trang web khác khi người_sử_dụng lướt web .
+eTrust EZ Armor tự_động tải về các định_nghĩa virus mới hằng ngày , máy_tính lúc_nào_cũng được bảo_vệ trước sự_tấn_công của những loại sâu mới xuất_hiện .
+
+Bộ sản_phẩm ETrust EZ Armor 2005 có các tính_năng chủ_yếu là cách_ly các tập_tin , tự_động cập_nhật hoàn_toàn , quét_e - mail và các tập_tin nén , nhận_diện mạng , tự_động điều_khiển các chương_trình , cài_đặt sẵn bảo_mật , sao_lưu và phục_hồi , ngăn_chặn truy_nhập trái_phép ...
+Đặc_biệt , phần_mềm này còn có chế_độ Stealth giúp giấu PC của người_sử_dụng khỏi các hacker khi chúng quét các máy_tính có lỗ_hổng trên mạng Internet.  
+Bộ sản_phẩm Etrust Ez Armor 2005 hiện do Công_ty Phân_phối FPT , đại_lý chính_thức của CA tại VN , cung_cấp .
+
+Xuân_Kim

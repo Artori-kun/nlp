@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E2A0D/
+title=Pin nhiên liệu tuổi thọ 4.000 giờ ra mắt cuối năm nay 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Pin nhiên_liệu tuổi_thọ 4.000 giờ ra_mắt cuối năm_nay
+Công_ty hóa_chất Hàn_Quốc LG Chem , thuộc tập_đoàn LG , đã hoàn_tất những khâu cuối_cùng trong quá_trình phát_triển phiên_bản pin cho máy_tính xách tay có tuổi thọ gấp 8 lần so với những sản_phẩm cạnh_tranh của Nhật và Mỹ .
+
+Đây sẽ là pin nhiên_liệu đầu_tiên cho notebook xuất_hiện trên thị_trường_từ trước đến_nay .
+Sử_dụng nguồn năng_lượng 25W và dựa_trên công_nghệ DMFC , mỗi pin được thiết_kế theo 2 phần : phần nền 500 USD và bình_chứa nhiên_liệu dung_tích 200 cc tháo_rời giá không quá 1 USD .
+Thiết_bị nặng gần 1 kg , tuổi_thọ 4.000 giờ , và mỗi một bình methanol đơn có khả_năng cung_cấp năng_lượng cho máy_tính xách tay_trong 10 giờ liên_tục .
+
+Khác với mô_hình của hãng Antig ( Đài_Loan ) giới_thiệu tại hội_chợ công_nghệ CeBIT tại Đức đầu năm_nay , sản_phẩm hoạt_động như một nguồn năng_lượng ngoài , được kết_nối tới máy_tính qua một bộ tiếp_điện trung_gian .
+
+Pin của LG Chem sẽ được phát_hành độc_lập mà không hợp_tác với bất_cứ nhà_cung_cấp notebook nào .
+Tập_đoàn cũng dự_định sản_xuất pin nhiêu liệu cho điện_thoại di_động , máy_nghe_nhạc , PDA và nhiều thiết_bị cầm_tay khác với những phiên_bản hoạt_động_từ 5 đến 50W .
+
+Nhu_cầu dùng pin nhiên_liệu toàn_cầu sẽ đạt giá_trị 600 triệu USD trong năm 2006 và tính đến 2010 , doanh_thu sẽ lên tới 1,9 tỷ USD .
+Đối_thủ cạnh_tranh trong lĩnh_vực pin nhiên_liệu với LG Chem hiện_có Nokia , Toshiba , Sanyo và IBM ...
+Tổng doanh_thu của hãng_hóa chất Hàn_Quốc trong năm 2004 đã vượt_mức 50 tỷ USD .
+
+P.T. ( theo DigiTimes )

@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E040D/
+title=Microsoft hé mở Longhorn để giành lại thị trường 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft hé_mở Longhorn để giành lại thị_trường
+Hãng phần_mềm tại Redmond , bang Washington ( Mỹ ) này hy_vọng sớm khôi_phục lại phần thị_trường đã mất vào tay hệ_điều_hành mã mở khi tiết_lộ thêm một_số thông_tin chi_tiết về phiên_bản sẽ ra_mắt vào năm tới .
+
+Ari Bixhorn , Giám_đốc dịch_vụ web thuộc nhóm chiến_lược nền của Microsoft , cho_biết của hệ_điều_hành Longhorn sẽ tích_hợp phiên_bản gần hoàn_thiện của Indigo , hệ_thống giao_tiếp dựa_trên dịch_vụ web .
+
+Chương_trình Indigo trong bản Beta 1 sẽ tương_tự như sản_phẩm hãng chuẩn_bị cung_cấp vào thời_gian tới , hỗ_trợ cho các lập_trình viên xây_dựng ứng_dụng dựa_trên khung lập_trình Indigo .
+
+Hãng phần_mềm lớn nhất thế_giới lần_đầu_tiên giới_thiệu Indigo vào năm 2003 .
+Chương_trình này mở_rộng tập_hợp các ứng_dụng .NET trong Windows , cho_phép lập_trình viên không_chỉ có khả_năng xây_dựng dịch_vụ web mà còn tăng thêm độ ổn_định và bảo_mật .
+Indigo cũng đơn_giản hóa thao_tác lập_trình , giúp kỹ_thuật_viên chỉ phải viết 2 , 3 dòng mã so với hàng nghìn dòng trước_đó .
+
+Trong một_vài báo_cáo mới nhất , Microsoft khẳng_định bản Beta 1 sẽ có_mặt vào tháng 8 , nhưng Simon Hughes , chuyên_viên quản_lý giải_pháp thị_trường của Microsoft Anh , quả_quyết phiên_bản thử_nghiệm đầu_tiên cho Longhorn sẽ không_thể xuất_hiện trước tháng 9 .
+
+Sẽ có thêm nhiều thay_đổi diễn_ra trong quá_trình ra_mắt bản chính_thức , nhưng theo Amy Stephan , Giám_đốc sản_phẩm của Microsoft , những tính_năng cơ_bản mà hãng vẫn quảng_cáo về Longhorn sẽ luôn được đảm_bảo .
+Trong số_đó , đáng chú_ý là tốc_độ cài đặt hệ_điều_hành mới sẽ nhanh hơn 75 % , và khả_năng kích_hoạt ứng_dụng hiệu_quả hơn 15 % so với Windows XP .
+Ngoài_ra , Longhorn giảm tới một_nửa thời_gian khởi_động máy_tính , hạn_chế 50 % số lần khởi_động lại khi người_dùng vá lỗi hệ_thống .
+Bên_cạnh_đó , PC có_thể phục_hồi hoạt_động chỉ trong_vòng 2 giây khi đang ở chế_độ " stand - by " ...
+
+P.T. ( theo TechWorld )

@@ -1,0 +1,17 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/02/3b9dbc2f/
+title=Nvidia xuất xưởng chip đồ họa mạnh nhất thế giới 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Nvidia xuất_xưởng chip đồ_họa mạnh nhất thế_giới
+Bộ vi xử_lý GeForce Go 6800 Ultra được mở_rộng từ dòng GeForce Go 6800 hiện_tại bằng cách nâng tốc_độ xung đồng_hồ .
+Nhà_sản_xuất cho_biết sản_phẩm này có_thể xử_lý 5,4 tỷ pixel / giây , so với mức 3,6 tỷ của loại 6800 .
+
+GeForce Go 6800 Ultra , dành cho máy_tính xách_tay , có tốc_độ xử_lý vertex 565 triệu đỉnh / giây ( tăng 20 % so với 470 triệu đỉnh / giây của loại cũ ) , chạy RAMDAC 400 MHz , hỗ_trợ DDR 700 MHz , DDR 2 SDRAM và bộ_nhớ GDDR 3 1,1 GHz .
+Băng thông bộ_nhớ lên tới 35,2 Gb / giây .
+
+Go 6800 Ultra hỗ_trợ phiên_bản phần_mềm DirectX 9.0 Shader Model 3.0 bên_cạnh một_số công_nghệ của Nvidia như UltraShadow II , Intellisample 3.0 , PowerMizer và hệ_thống xử_lý video HD PureVideo .
+
+Nvidia tuyên_bố , công_suất không một loại thương_phẩm GPU cho laptop nào có_thể sánh được của Go 6800 Ultra sẽ sớm được các chuyên_gia độc_lập đánh_giá và khẳng_định .
+Loại chip này hôm_nay đã bắt_đầu có_mặt trong dòng máy notebook mới_toanh của Dell .
+
+P.K. ( theo The Register )

@@ -1,0 +1,37 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E348E/
+title=Công cụ đặt chỗ tự động cho khách du lịch 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_cụ đặt chỗ tự_động cho khách_du_lịch
+Người sử_dụng không_cần nhớ mã thành_phố , sân_bay , hãng hàng_không ... các nước mà vẫn có_thể " gọi " được thông_tin cần_thiết , chỉ bằng một nhấp_chuột .
+
+Đây là một trong những tiện_ích của phần_mềm Amadeus Vista , do Công_ty Amadeus , trụ_sở chính ở Tây_Ban_Nha , thiết_kế .
+
+Amadeus Vista là sản_phẩm dành cho các đại_lý bán vé , gồm cả vé máy_bay , tàu , ôtô ...
+Giao_diện phần_mềm này có những biểu_tượng chức_năng đi liền quá_trình đặt_chỗ .
+Mỗi biểu_tượng luôn kèm chú_thích , giúp ứng_dụng dễ_dàng cùng nhiều thanh công_cụ , đưa_ra các lựa_chọn khác_nhau .
+Phần_mềm được chia_làm 6 vùng thông_tin , có_thể hiển_thị một_lúc , giúp thực_hiện đồng_thời nhiều thao_tác .
+Hầu_hết thông_tin cần_thiết và các thao_tác sử_dụng thường_xuyên có sẵn trên màn_hình , nên chỉ trong vài giây , nhân_viên của đại_lý đã đặt được chỗ cho_khách .
+
+Amadeus Vista còn tích_hợp một loạt tiện_ích , giúp người_sử_dụng tiết_kiệm thời_gian hơn khi truy xuất thông_tin .
+Trong_đó , Sumary PNR có tính_năng hiển_thị danh_sách đã đặt chỗ ở mọi thời_điểm .
+Travel Choice tự_động chọn_lọc và hiển_thị thông_tin đã chọn .
+Value Pricer giúp chọn giá nhanh_chóng và dễ_dàng .
+Smart key tạo phím tắt cho các thao_tác lặp .
+Speed Mode giảm thời_gian đặt chỗ bằng cách sử_dụng phím tắt và Command line Recall giúp chọn các lệnh đã thực_hiện nhanh nhất .
+
+Đồng_thời với việc hỗ_trợ công_tác chuyên_môn cho các đại_lý bán vé , Amadeus còn ra_mắt công_cụ truy xuất thông_tin dành riêng cho hành_khách không_vận , với trang web   và .
+Trong_đó , www.amadeus.net giúp người_sử_dụng tiếp_cận những thông_tin ban_đầu , về các hãng hàng_không , những chặng may ngắn nhất tới điểm cần đến , lịch_bay , giá_vé ...
+Sau_khi đăng_ký với đại_lý bán vé , hành_khách sẽ sở_hữu một mật_mã để truy_cập vào www.checkmytrip.com .
+
+Với www.checkmytrip.com , hành_khách có_thể nhận thông_tin cụ_thể về tình_trạng đặt_chỗ , lịch_trình bay và nhiều vấn_đề liên_quan tới hành_trình như : thời_tiết , tiền_tệ , tỷ_giá hối_đoái , bản_đồ của các điểm_đến trong hành_trình ...
+Những thông_tin mang tính cá_nhân này sẽ tự_động gửi đến từng khách_hàng qua thư điện tử.  
+Để có " kho " thông_tin đa_dạng , cập_nhật cho các phần_mềm trên , Amadeus đã kết_nối với những nhà_cung_cấp các sản_phẩm du_lịch .
+Đến nay , Amadeus có 784 hãng hàng_không hiển_thị lịch_bay .
+Trong_đó , 488 hãng có khả_năng đặt chỗ trên hệ_thống của công_ty này .
+Amadeus còn kết_nối với gần 30.000 điểm cho_thuê xe và 54.000 điểm khách_sạn trên toàn thế_giới .
+
+Amadeus là hãng chuyên cung_cấp các ứng_dụng công_nghệ thông_tin cho ngành hàng_không và du_lịch lữ_hành trên toàn_cầu .
+Amadeus sẽ chính_thức giới_thiệu các phần_mềm trên tại Việt_Nam , thông_qua đại_diện là Công_ty TNHH Hệ_thống phân_phối toàn_cầu ( GDS ) tại lễ ra_mắt ngày 7/11 ở TP HCM và 8/11 ở Hà_Nội .
+
+Thanh_Lương

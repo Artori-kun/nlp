@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/04/3B9C6F8B/
+title=Intel giới thiệu chip Pentium 4 tốc độ 3 GHz 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel giới_thiệu chip Pentium 4 tốc_độ 3 GHz
+Người khổng_lồ về chất bán_dẫn vừa ra_mắt một bộ_vi xử_lý Pentium 4 tốc_độ 3 GHz với bus 800 MHz và một chipset tích_hợp , cho_phép người_dùng có_thể gọi_điện_thoại qua Internet trong_khi truyền nhạc kỹ_thuật_số .
+Sản_phẩm sẽ nhắm vào thị_trường cao_cấp .
+
+Bus 800 HMz trên chip cho_phép hệ_thống hoạt_động nhanh hơn 50 % so với loại Pentium 4 tốc_độ 3 GHz có bus 533 MHz trước_kia .
+Intel cho_rằng công_nghệ siêu_phân luồng cho_phép người_sử_dụng thực_hiện nhiều thao_tác phức_tạp cùng_lúc , có_thể chơi trò_chơi điện_tử , tải các bản_nhạc yêu_thích trong_khi vẫn sửa_ảnh
+Được thiết để hỗ_trợ bộ xử_lý Pentium 4 , chipset tích_hợp mới 875P ( trước_đây có tên mã là Canterwood ) có giao_diện đồ hoạ AGP 8x cao_cấp , tích_hợp cổng USB 2.0 , chuẩn kết_nối Serial và các cơ_chế audio DMA .
+
+Intel cho_biết 2 thay_đổi lớn nhất trong chipset này là công_nghệ Performance Acceleration truyền nhanh_dữ_liệu giữa bộ_vi xử_lý trung_tâm và bộ_nhớ để tăng hiệu_suất hoạt_động và cấu_trúc Communications Streaming giúp tăng gấp_đôi băng_thông mạng .
+
+Pentium 4 giá 417 USD khi mua 1.000 đơn_vị .
+Còn chipset 875P giá 50 USD hoặc 53 USD khi có_phần mềm tích hợp RAID .
+
+Minh_Nghĩa ( theo Intel )

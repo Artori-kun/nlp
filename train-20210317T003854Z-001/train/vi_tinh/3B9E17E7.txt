@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E17E7/
+title=Intel công bố chip Yonah cả dòng lõi đơn và kép 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel công_bố chip Yonah cả dòng lõi đơn và kép
+Tuy dành khá nhiều thời_gian tại Diễn_đàn các nhà phát_triển IDF để_bàn về lợi_ích của thiết_bị xử_lý lõi kép dành cho notebook này , Intel vẫn khẳng_định sẽ phát_hành cả một phiên_bản lõi_đơn .
+
+Hãng dự_kiến sẽ ra_mắt thiết_bị tiết_kiệm điện_năng đơn lõi sau_khi Yonah lõi kép có_mặt trên thị_trường vào tháng 1/2006 .
+Những sản_phẩm đó sẽ được dùng_cho laptop giá_rẻ và sẽ không đòi_hỏi khả_năng vận_hành cao như .
+
+" Chúng_tôi hy_vọng thiết_bị lõi đơn sẽ có_thể tồn_tại thêm một thời_gian nhất_định nữa " , Steve Smith , Phó_giám_đốc bộ_phận doanh_nghiệp số của Intel , phát_biểu tại diễn_đàn IDF .
+
+Phiên_bản lõi đơn của Yonah là dấu_hiệu cho_thấy Intel không_hề có_ý định từ_bỏ thị_trường giá_trị này để theo_đuổi dòng đa lõi .
+Tuy_nhiên , các chuyên_gia tại IDF nhận_định chính_sách lõi kép cứng_nhắc đó sẽ có ảnh_hưởng xấu đến công_ty cũng_như trong cuộc_đua thu_hút khách_hàng với AMD .
+
+Yonah , chip thế_hệ mới , vẫn đang trong giai_đoạn thử_nghiệm và được kỳ_vọng sẽ là " bộ_não " cho notebook hoạt_động trên và dòng mới cho máy_tính đa phương_tiện của Intel vào năm tới .
+Phiên_bản lõi kép của thiết_bị xử_lý 32 bit có tốc_độ dưới 2 GHz và bus hệ_thống 667 MHz .
+
+Giám_đốc điều_hành của Intel tuần này cũng giới_thiệu nền laptop mới mang tên Meron , được xây_dựng với công_nghệ 65 nm , sẽ ra_mắt vào nửa cuối 2006 sau Yonah .
+
+P.T. ( theo CNet )

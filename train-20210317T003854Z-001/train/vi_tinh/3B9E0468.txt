@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E0468/
+title=Windows AntiSpyware nâng cấp để diệt rootkit 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Windows AntiSpyware nâng_cấp để diệt rootkit
+Phiên_bản mới của chương_trình chống spyware mà Microsoft đang   đã giải_quyết được lỗi ngăn người_dùng không_thể cập_nhật file chữ_ký phần_mềm nguy_hiểm .
+
+Windows AntiSpyware 1.0.615 là phiên_bản thứ 4 của chương_trình từ_khi chính_thức xuất_hiện vào tháng 1 năm_nay .
+Steve Dodson , một chuyên_gia lập_trình trong nhóm AntiSpyware , cho_biết : " Chúng_tôi muốn giải_quyết vấn_đề về cơ_chế tự cập_nhật những spyware mới , đồng_thời cũng cải_tiến phương_thức bản Beta này cung_cấp thông_tin cho người_dùng về những quy_trình đang chạy trên PC của họ " .
+
+Mục_tiêu của Windows AntiSpyware 1.0.615 là khắc_chế   , loại phần_mềm nguy_hiểm có khả_năng kiểm_soát hệ_thống từ_xa , hiện cửa_sổ pop - up đính_kèm spyware , Trojan và nhiều kiểu tấn_công khác .
+
+Rootkit đã xuất_hiện từ nhiều năm nhưng chỉ vài tháng gần_đây tin tặc mới bắt_đầu tận_dụng chúng để phát_tán virus và sâu .
+Dạng chương_trình này khá " cứng_đầu " và không dễ dò ra hay tiêu_diệt .
+Do rootkit thay_đổi nhân hệ_điều_hành và lợi_dụng giao_diện chương_trình ứng_dụng ( API ) , chúng có khả_năng tự_cải_trang như là những cảnh_báo thông_thường về sự_xuất_hiện của mã độc nào_đó .
+Windows có nguy_cơ bị ảnh_hưởng bởi rootkit rất cao do hệ_điều_hành này được sử_dụng quá rộng_rãi .
+
+Bản 1.0.615 có_thể được từ trang web của Microsoft .
+Riêng những người đang dùng bản hiện_tại có_thể đợi chương_trình tự_động nâng_cấp .
+
+P.T. ( theo PC World )

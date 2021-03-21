@@ -1,0 +1,25 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E3708/
+title=Thiết bị điều khiển con người từ xa 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thiết_bị điều_khiển con_người từ_xa
+Chúng_ta dùng công_cụ từ xa để bật tắt các vật_dụng và yêu_cầu chúng hoạt_động theo ý_muốn .
+Phi_công đứng trên mặt_đất điều_chỉnh máy_báy và quân_đội sử_dụng robot tham_chiến .
+Nhưng các nhà_khoa_học Nhật cho_biết con_người cũng sẽ bị ra_lệnh .
+
+Công_ty điện_thoại hàng_đầu Nhật_Bản NTT đang phát_triển một công_nghệ có_thể khiến người thử_nghiệm di_chuyển theo ý_muốn .
+Một hệ_thống tai_nghe đặc_biệt được đặt_vòng qua đầu , truyền một dòng_điện thấp từ tai trái sang tai phải hoặc ngược_lại tùy_thuộc vào chuyển_động của joystick .
+Đây là phương_pháp kích_thích tiền_đình khiến mọi_người cảm_thấy một sự_hối_thúc bí_ẩn , không_thể cưỡng_lại và bắt_đầu đi sang phải bất_cứ khi_nào nhà_nghiên_cứu hướng công_tắc sang phải .
+
+NTT khẳng_định họ có_thể bắt một người đi_theo lịch_trình cụ_thể , vì dụ theo hình_dạng chiếc bánh xoắn .
+Người bị điều_khiển có cảm_giác như thôi_miên , uống rượu_say , bị gây_mê , thậm_chí như thấy một bàn_tay vô_hình đặt bên_trong não họ .
+
+Một_số tỏ_ra thích_thú nhưng những người_khác lại thấy khó_chịu khi tham_gia thử_nghiệm .
+NTT chưa có kế_hoạch kinh_doanh sản_phẩm sử_dụng công_nghệ này .
+
+Ở Mỹ , James Collins , giáo_sư tại Đại_học Boston , cũng đã nghiên_cứu một công_nghệ giúp người cao tuổi tránh bị ngã , hay hỗ_trợ những ai không có khả_năng giữ thăng_bằng .
+Ông khẳng_định dòng_điện đủ thấp để không ảnh_hưởng đến sức_khỏe mọi_người .
+
+Tuy_vậy , Timothy Hullar , trợ_lý giáo_sư tại Đại_học y Washington ( Mỹ ) lo_ngại rằng việc tìm_cách đưa từ_trường nam_châm từ xa tới tai có_thể biến công_nghệ này trở_thành một loại vũ_khí , tuy không làm người khác bị_thương nhưng có_thể khiến họ mất cân_bằng và dễ_dàng bị đánh_bại .
+
+T.N. ( theo CNN )

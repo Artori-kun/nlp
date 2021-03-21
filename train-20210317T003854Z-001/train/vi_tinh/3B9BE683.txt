@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/07/3B9BE683/
+title=Ổ cứng 2 đầu ngăn chặn hiệu quả tin tặc 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ổ cứng 2 đầu ngăn_chặn hiệu_quả tin_tặc
+Hacker sẽ không_thể tấn_công những website được bảo_vệ bằng một hệ_thống an_ninh mới , trừ_phi họ thay_đổi được định_luật vật_lý .
+Naoto Takano , Giám_đốc điều_hành Công_ty Scarabs của Nhật_Bản , tuyên_bố như vậy.  
+Theo Takano , Scarabs đã phát_triển một loại ổ cứng 2 đầu , có khả_năng ngăn_chặn việc các file trên web bị hacker thay_đổi .
+Một đầu read - only được kết_nối tới máy chủ web thông_qua sợi cáp để mọi_người có_thể đọc nội_dung trên đĩa , một đầu read / write kết_nối tới PC của nhà quản_trị qua một sợi cáp_khác , để họ có_thể cập_nhật dữ_liệu .
+Những người sử_dụng Internet chỉ tiếp_cận ổ cứng thông_qua đầu read - only nên họ không_thể đột_nhập vào hệ_thống và viết_lại dữ_liệu .
+
+Sáng_kiến đầu_tiên về ổ cứng 2 đầu xuất_hiện vào năm 1985 , khi Takano còn là một nhà_nghiên_cứu khoa_học .
+Sau một thời_gian dài nghiên_cứu , Scarabs đã thành_công với phiên_bản mẫu đầu_tiên vào tháng 12 năm_ngoái .
+Hiện công_ty giới_thiệu trực_tiếp hình_ảnh về công_nghệ mới này trên trang web .
+
+Tại sản_phẩm mẫu , mỗi đầu làm_việc độc_lập , khi_nào cả máy chủ Internet và PC của công_ty chạy những hệ_điều_hành có_thể đọc cùng một định dạng đĩa thì ổ sẽ có_thể chạy trên bất_cứ hệ_điều_hành nào .
+Takano cho_biết sẽ mất khoảng 863 USD để xây_dựng phiên_bản đơn_giản nhất của hệ_thống này .
+
+Minh_Thi ( theo PCW )

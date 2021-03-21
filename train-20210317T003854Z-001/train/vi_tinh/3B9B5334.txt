@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/10/3B9B5334/
+title=Công nghệ đóng gói chip mới tăng tốc độ chip lên 20 GHz 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ đóng_gói chip mới tăng tốc_độ chip lên 20 GHz
+Hãng sản_xuất chip Intel , hôm_qua ( 8/10 ) , tuyên_bố , đã phát_triển được công_nghệ đóng_gói chất bán_dẫn mới .
+Nó cho_phép bộ_vi xử_lý chứa 1 tỷ transitor và chạy với tốc_độ 20 GHz .
+Sản_phẩm này sẽ có_mặt trong 6 năm tới .
+
+Hiện_tại , Pentium 4 của Intel có khoảng 42 triệu transitor và chạy với tốc_độ 2 GHz .
+Với công_nghệ mới , Intel hy_vọng sản_phẩm của họ sẽ nhỏ gọn và tiêu_thụ ít điện_năng hơn .
+
+Công_nghệ đóng_gói mới không sử_dụng chất kết_dính kim_loại giữa lõi bộ_vi xử_lý và khuôn .
+Bằng cách bỏ lớp vật_liệu kết_nối và gắn trực_tiếp lõi vào khuôn , nó có_thể làm_giảm gần 3 trong_số 6 đến 7 lớp kim_loại trong tổng_thể bộ_vi xử_lý như Pentium 4 .
+
+Bởi_vì khoảng_cách dữ_liệu di_chuyển được rút_ngắn , công_nghệ này giúp tăng tốc_độ và khả_năng hoạt_động của chip .
+Sản_phẩm có tên là BBUL , kèm_theo một quyền sáng_chế bảo_vệ .
+
+Văn_Bình ( theo Reuters )

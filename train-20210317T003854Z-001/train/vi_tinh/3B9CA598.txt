@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/08/3B9CA598/
+title=Điện thoại kết hợp 3 công nghệ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại kết_hợp 3 công_nghệ
+Hôm_qua , Motorola và công_ty NEC thông_báo đang phối_hợp phát_triển một loại điện_thoại IP kết_hợp công_nghệ WiFi vào mạng di_động .
+Khi sử_dụng trong văn_phòng , loại thiết_bị này sẽ bắt sóng của mạng không dây để thực_hiện những cuộc gọi được truyền một phần qua web thay_vì qua mạng điện_thoại .
+
+Còn khi nằm ngoài cự_ly phủ sóng của mạng WiFi ( khoảng 94 m ) , sản_phẩm này sẽ tự_động chuyển cuộc gọi sang mạng di_động với những đặc_tính dữ_liệu và giọng_nói tương_tự như ở mạng không dây nhưng tốc_độ chậm hơn nhiều. Hai công_ty cho_biết loại điện_thoại lai này và các công_cụ hỗ_trợ khác sẽ được đưa_ra thị_trường vào cuối năm tới .
+
+Điện_thoại Internet IP ( hay còn gọi_là truyền giọng_nói qua giao thức Internet VoIP ) đang thu_hút được nhiều người_sử_dụng nhờ sự_kết_hợp giữa công_nghệ điện_thoại và hệ_thống máy_tính .
+Nó cho_phép thực_hiện cuộc gọi qua Internet , tránh phải thông_qua mạng điện_thoại cục_bộ và đường_dài .
+WiFi và điện_thoại di_động lại là những công_cụ không_thể thiếu của những doanh_nghiệp hiện_đại .
+
+Chính vì_thế , theo Bo Pyskir , Giám_đốc phát_triển kinh_doanh của Motorola tại Mỹ , việc kết_hợp cả 3 công_nghệ trên nhằm tìm_ra một phương_thức mới để mở_rộng hoạt_động của hệ_thống máy_tính doanh_nghiệp ra ngoài phạm_vi văn_phòng .
+Tuy_nhiên , sự_hạn_chế về thời_lượng của pin trong các thiết_bị tổng_hợp này là một vấn_đề lớn còn phải khắc_phục .
+
+Pyskir cho_rằng sản_phẩm mới sẽ thu_hút khách_hàng là những công_ty và tổ_chức có nơi làm_việc nằm rải_rác , chẳng_hạn trường đại_học , trung_tâm y_tế , nhà_kho , trung_tâm hội_nghị và sòng_bài .
+Hiện_nay , nhiều bệnh_viện ở Mỹ cũng đã sử_dụng một số_hệ_thống điện_thoại tương_tự như công_nghệ của Motorola và NEC .
+
+Phan Khươn g ( theo ZDNet )

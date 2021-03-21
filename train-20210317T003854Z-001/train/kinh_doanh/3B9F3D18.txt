@@ -1,0 +1,34 @@
+url=http://www.vnexpress.net/Vietnam/Kinh-doanh/Chung-khoan/2007/03/3B9F3D18/
+title=Hàng loạt bảng chứng khoán trực tuyến bị lỗi 
+cat=KINH-DOANH|CHUNG-KHOAN
+
+Hàng_loạt bảng chứng_khoán trực_tuyến bị lỗi
+Vào_lúc kết_thúc phiên hôm_nay , bảng trực_tuyến hiển_thị giao_dịch từ sàn TP HCM của BSC không có số_liệu .
+Trên bảng của VCBS , giá_trị khớp lệnh đợt_đầu lại lớn hơn kết_quả của 3 đợt cộng_lại .
+
+Kết_thúc phiên 1 , bảng điện_tử của VCBS hiển_thị VN - Index giảm 25,59 điểm , giá_trị khớp lệnh đạt 1.110 tỷ đồng ; phiên 2 , VN - Index tăng 2,11 điểm , giá_trị giao_dịch giảm_xuống còn 589 tỷ đồng ; phiên 3 VN - Index giảm 1,08 điểm , đóng_cửa đạt 1.132,23 điểm , giá_trị khớp lệnh đạt 939 tỷ đồng .
+
+Bảng giao_dịch điện_tử của Công_ty chứng_khoán Ngân_hàng Đầu_tư phát_triển VN thậm_chí còn không hiện_số .
+Sàn SSI bảng_số_liệu bị treo khoảng 30 phút ngay_sau_khi khớp lệnh phiên 2 , nhiều nhà đầu_tư bỏ_ra những quán cafe ven_đường .
+Số khác cố nán_lại chờ kết_quả khớp lệnh phiên 3 .
+
+Trong_khi_đó , theo thống_kê của TTGDCK TP HCM , đợt 1 VN - Index tăng 5,99 điểm lên mức 1.139,3 điểm , trị_giá gần 262 tỷ đồng .
+Chỉ_số này kết_thúc đợt 2 tăng 2,11 điểm và kết_thúc đợt 3 giảm 1,08 điểm .
+Trao_đổi với VnExpress , Trưởng_phòng tin_học của TT GDCK TP HCM khẳng_định rằng , hoàn_toàn không có sự_cố gì từ sàn này , bảng điện_tử vẫn chạy tốt và lệnh vẫn được nhập_vào trung_tâm .
+
+Nhiều nhà_đầu_tư cũng phản_ánh , truy_cập trang web của TTGDCK Hà_Nội theo_dõi giao_dịch không_được vì trang web bị ... đơ .
+Trên các sàn giao_dịch , nhà đầu_tư kêu_trời vì số_liệu cập_nhật rất chậm .
+Bảng hiển_thị số_liệu TTGDCK Hà_Nội_tại sàn Đại_Việt trống trơn .
+Ông Nguyễn_Hồng_Nam , Giám_đốc Công_ty cổ_phần chứng_khoán Sài_Gòn ( SSI ) chi_nhánh TP HCM , cũng khẳng_định sự_cố xảy_ra phía sàn Hà_Nội , số_liệu nhảy lộn_xộn và không_thể truy_nhập vào trang web này .
+
+Tuy_vậy , giao_dịch trên sàn Hà_Nội vẫn khá sôi_động với 3,2 triệu cổ_phiếu khớp_lệnh .
+Hastc - Index tăng 5,28 điểm , đóng_cửa đạt 445,8 điểm .
+Giá_trị giao_dịch tại sàn Hà_Nội đạt 338,8 tỷ đồng .
+Trong các mã tăng giá có sự_góp_mặt của cổ_phiếu các công_ty thành_viên Tổng_công_ty Sông_Đà .
+Tác_động từ thông_tin trả cổ_tức và lợi_nhuận của nhóm doanh_nghiệp này khiến giá cổ_phiếu biến_động khá lớn từ_đầu tuần đến nay .
+Nhiều nhà_đầu_tư cho_hay khi giá cổ_phiếu sàn TP HCM trở_nên đắt_đỏ , họ tìm đến sàn Hà_Nội .
+Lệnh đặt_mua nhiều đến_nỗi giữa buổi_sáng_nay , Công_ty chứng_khoán Ngân_hàng Ngoại_thương đã thông_báo dừng nhận lệnh sàn Hà_Nội .
+Một điều đáng chú_ý khác là phiên này nhà đầu_tư nước_ngoài bán_ra khá nhiều : 24.800 cổ_phiếu BMI , 11.800 BVS , 20.100 ICF , 53.500 SSI và 6.900 VNR .
+
+V.P .
+- A.H .

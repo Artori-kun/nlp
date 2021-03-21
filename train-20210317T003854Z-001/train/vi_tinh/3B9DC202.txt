@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC202/
+title=Asus chuẩn bị tung ra notebook siêu mỏng và nhẹ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Asus chuẩn_bị tung_ra notebook siêu mỏng và nhẹ
+Tại Triển_lãm công_nghệ   khai_mạc ở Hanover ( Đức ) hôm_nay , hãng sản_xuất máy_tính và mainboard hàng_đầu thế_giới tuyên_bố sắp cung_cấp loại máy_tính xách tay màn_hình 15 inch có trọng_lượng 2,55 kg với chiều dày 25 mm .
+
+Holger Schmidt , phát_ngôn_viên của Asus , cho_biết đây là những phiên_bản mới của dòng V6800V , có pin mạnh hơn nhưng vẫn lắp vừa vỏ máy_cũ .
+Loại pin 4 khoang ( cell ) nhỏ hơn sẽ cho_phép máy_tính hoạt_động trong khoảng 4 tiếng còn những phiên_bản dùng pin 8 khoang sẽ chạy được tới 8 tiếng .
+Tất_cả các máy V6800V mới sẽ sử_dụng công_nghệ Centrino của Intel , mang tên mã là Sonoma ( Centrino là sự_kết_hợp bộ xử_lý Pentium M , chipset Alviso và chip không dây chuẩn 802.11 ) .
+V6800V mới sẽ có 2 mức dung_lượng ổ cứng là 60 GB , 80 GB và Asus đang xem_xét việc nâng_lên 100 GB trong những sản_phẩm sắp_tới .
+
+Các máy notebook mới của Asus dùng nhiều loại Pentium M khác_nhau với 3 mức tốc_độ xung đồng_hồ , thấp nhất là 1,73 GHz .
+Những sản_phẩm nhỏ và nhẹ này có công_suất hoạt_động mạnh như PC desktop , Schmidt phát_biểu .
+
+P.K. ( theo InfoWorld )

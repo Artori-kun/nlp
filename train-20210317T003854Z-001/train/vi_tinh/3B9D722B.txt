@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D722B/
+title=IBM trình làng laptop đọc vân tay 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM trình_làng laptop đọc vân_tay
+Hôm_qua , hãng điện toán lớn nhất thế_giới đã ra_mắt mẫu máy_tính xách tay đầu_tiên tích_hợp đầu đọc vân_tay giúp nhận_diện người_sử_dụng .
+Loại laptop này sẽ đơn_giản_hóa việc truy_cập thông_tin được bảo_vệ bằng mật_khẩu trong_khi vẫn đảm_bảo độ an_toàn cao .
+
+" Chiếc ThinkPad sinh trắc đầu_tiên kết_hợp một đầu đọc vân_tay với Hệ_thống an_ninh phụ_nhúng ( Embedded Security Subsystem ) cung_cấp một lớp bảo_mật gắn trong chứ không_phải đi_kèm , Fran O ' Sullivan , Tổng giám_đốc bộ_phận điện toán cá_nhân của IBM , cho_biết .
+
+Theo IBM , đầu đọc vân_tay được gắn trong một_số model có chọn_lựa của ThinkPad T42 và được đặt trên nơi tì lòng bàn_tay , dưới hàng_phím .
+Người_dùng có_thể lướt ngón_tay qua một bộ cảm_biến nhỏ để truy_cập vào máy_tính , ứng_dụng , website hoặc cơ_sở_dữ_liệu .
+Quá_trình quét chỉ mất vài giây .
+
+IBM khẳng_định : Kiểu đọc vân_tay này thu_được nhiều dữ_liệu hơn cửa_sổ ‘ bắt_ảnh ’ truyền_thống vì nó quét nhiều hơn diện_tích đầu ngón_tay , giúp tránh nhận_dạng nhầm .
+
+ThinkPad T42 có đầu đọc vân_tay sẽ được bán tại website của IBM từ ngày 19/10 với giá 1.699 USD .
+
+T.N. ( theo PCWorld , Digital Silence )

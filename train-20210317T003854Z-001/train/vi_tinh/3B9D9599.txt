@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9599/
+title=Utt_maker: Tối ưu hoá việc xếp thời khoá biểu 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Utt _ maker : Tối_ưu hoá việc xếp thời khoá_biểu
+Việc sắp_xếp Thời khoá_biểu ( TKB ) và giảng_đường đối_với các trường đại_học lớn là công_việc tương_đối khó_khăn và phức_tạp .
+Tuy_nhiên , Utt _ maker sẽ giúp mọi_thứ sẽ trở_nên dễ_dàng hơn .
+
+Được ITEG - VN , một nhóm chuyên nghiên_cứu giải_pháp tin_học hoá các hoạt_động giáo_dục ( website :   ) , phát_triển từ năm 2000 , Utt _ maker là phần_mềm chuyên hỗ_trợ xếp TKB cho các trường ĐH , CĐ và THCN ở Việt Nam.  
+Utt _ maker có các tính_năng như hỗ_trợ xếp tự_động hoàn_toàn theo nhiều tiêu_chí khác_nhau ( ưu_tiên theo lớp , giáo_viên , khoa , khoá_học , hệ_đào_tạo , môn_học ... ) .
+Bên_cạnh việc xếp tự_động , phần_mềm cũng cho_phép thực_hiện các thao_tác thủ_công như : xoá , sửa , thay_đổi ( giáo_viên , phòng_học ) , chuyển_tiết , đổi_tiết ...
+Người sử_dụng cũng có_thể xếp TKB các lớp trước rồi xếp giáo_viên sau , tính_năng này thích_hợp cho các trường thiếu giáo_viên hoặc lịch giảng_dạy của giáo_viên không cố_định .
+
+Kết_quả của việc xếp thời khoá biểu có_thể xuất sang file HTML và được liên_kết với_nhau để tiện cho việc tra_cứu , đưa lên website ...
+Ngoài_ra , dữ_liệu còn được xuất sang dạng Exel để dễ_dàng tính_toán khối_lượng giảng_dạy của giáo_viên , khối_lượng học_tập của sinh_viên .
+
+Giao_diện chương_trình được thể_hiện bằng tiếng_Việt , việc cài_đặt khá dễ_dàng và không đòi_hỏi cấu hình máy_cao .
+
+Hiện_tại , phiên_bản mới nhất , 2004.12 , sẽ được phát_hành vào cuối tháng_này .
+Có_thể download bản dùng_thử ( version 2003.10 , dung_lượng 31,3 MB )   .
+
+Văn_Thắng

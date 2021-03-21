@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DAB72/
+title=Điều khiển PC bằng điện thoại di động 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điều_khiển PC bằng điện_thoại di_động
+Hãng Toshiba vừa nghiên_cứu và phát_triển phần_mềm Ubiquitous Viewer , cho_phép người_sử_dụng thao_tác với máy_tính thông_qua thiết_bị điều_khiển từ xa là điện_thoại di_động .
+
+Được cài đặt đồng_thời trên điện_thoại và máy_tính sử_dụng hệ_điều_hành Windows , Ubiquitous Viewer sẽ tái_hiện lại desktop của PC trên màn hình điện_thoại .
+Một thuật_toán nén dữ_liệu lên_đến 97 % giúp_việc tương_tác giữa máy_tính và điện_thoại có_thể diễn_ra đồng_thời và không làm_tắc nghẽn mạng .
+Từ điện_thoại , người_dùng có_thể đọc_e - mail , soạn_thảo văn_bản mà_không cần sờ đến bàn_phím máy_tính .
+
+Các phím điện_thoại cũng_được Ubiquitous Viewer tự_động chuyển thành bàn_phím Qwerty ảo , con trỏ trên màn hình điện_thoại sẽ có chức_năng tương_tự như chuột máy_tính , các phím từ 1 đến 9 biến thành phím enter , delete , tab và nhiều phím chức_năng khác .
+Người sử_dụng cũng có_thể thiết_lập bàn_phím riêng cho mình .
+
+Hiện_tại , Ubiquitous Viewer có_thể sử_dụng thông_qua dịch_vụ Bluetooth phạm_vi ngắn hay mạng điện_thoại 3G .
+
+Văn_Thắng ( theo Computerworld )

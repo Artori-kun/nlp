@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E0F94/
+title=Thẻ PC chấm dứt trục trặc máy tính 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thẻ PC chấm_dứt trục_trặc máy_tính
+Loại thẻ hỗ_trợ máy_tính , do hãng công_nghệ Involution ( Anh ) phát_triển , cho_phép khôi_phục hệ_thống gần_như ngay_lập_tức sau những rắc_rối liên_quan đến phần_mềm .
+
+Theo Involution , thiết_bị PCI 32 bit mang tên   sẽ dò tìm tất_cả những thay_đổi trong hệ_thống và có_thể hồi_phục máy_tính trở_lại cấu hình ổn_định ban_đầu .
+
+" Đa_số các chương_trình hỗ_trợ kỹ_thuật cho máy_tính đều dựa_trên phần_mềm .
+Tuy_nhiên , không quá khó để làm trục_trặc một chương_trình trong Windows , và thậm_chí khiến nó hoàn_toàn không khởi_động được " , Steve Aspris , Giám_đốc điều_hành phân_phối RecoverPC , cho_biết .
+" RecoverPC gần_như xoá_bỏ thời_gian phân_tích vấn_đề phần_mềm và khôi_phục lại chương_trình nhanh_chóng " .
+Aspris cũng nhấn_mạnh sản_phẩm có khả_năng loại_bỏ những ổ thiết_bị hoạt_động thiếu ổn_định , những chương_trình vá lỗ_hổng bị hỏng , và thay_thế những file lỗi .
+
+Thẻ giá 99 USD này có_thể hỗ_trợ văn_phòng khoá hoàn_toàn một hệ_điều_hành , và tự_động khôi_phục lại theo thiết_lập trước_đó hoặc cấu hình đã lưu sau mỗi_lần khởi_động .
+Aspris cho_biết Involution đang phát_triển một phiên_bản USB dành riêng cho laptop .
+
+Tuy_nhiên , RecoverPC không_thể hoạt_động nếu xảy_ra lỗi phần_cứng .
+Nó lưu file dữ liệu trong một bộ_phận ẩn trên ổ , do_đó nếu ổ cứng_hỏng , thẻ cũng sẽ bị vô_hiệu hoá .
+
+T.N. ( theo TechWorld )

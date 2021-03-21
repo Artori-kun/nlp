@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E103A/
+title=Gmail được Việt hóa 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Gmail được Việt_hóa
+Bắt_đầu từ hôm_qua , nhà_cung_cấp dịch_vụ tìm_kiếm trực_tuyến lớn nhất thế_giới đã chính_thức_bổ_sung phần tiếng Việt_trong .
+Ưu_điểm lớn nhất của Gmail tiếng_Việt ( theo chuẩn Unicode ) này là khả_năng kiểm_tra lỗi chính_tả .
+
+Người_dùng chỉ cần đăng nhập_vào hộp_thư Gmail của mình , sau_đó vào mục Setting , chọn ngôn_ngữ là Tiếng_Việt và nhấn Save Changes là hộp_thư Gmail đã hoàn_toàn được Việt_hóa .
+
+Mức_độ Việt_hóa Gmail này cũng chỉ có tác_dụng ở các mục giao_diện chính và các phần cài_đặt , ở các phần trợ_giúp vẫn là thuần tiếng_Anh .
+Cách sử_dụng tiếng Việt của Gmail vẫn còn nhiều cụm_từ chưa được chuẩn .
+
+Ưu_điểm lớn nhất của Gmail tiếng Việt này là khả_năng kiểm_tra lỗi chính_tả trong tính_năng Viết_Thư , tính_năng này hoạt_động khá hiệu_quả .
+Khả_năng này có_thể bắt_được đa_số lỗi chính_tả kèm_theo tính_năng hỗ_trợ xác_định từ chính_xác .
+
+Như_vậy đến nay tiếng_Việt đã có_mặt trong 2 dịch_vụ e - mail miễn_phí lớn nhất toàn_cầu và Google.
+( theo Tuổi_Trẻ )

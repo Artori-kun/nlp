@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/03/3B9C5957/
+title=Mỹ phát triển phần mềm phân tích tiếng Ảrập 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Mỹ phát_triển phần_mềm phân_tích tiếng Ảrập
+Công_ty Basis Technology ở bang Massachussetts đang phối_hợp với các cơ_quan tình_báo của Mỹ để hoàn_thiện Arabic Language Analyzer - chương_trình cho_phép tìm_kiếm , phân_tích và giải_mã văn_bản viết bằng tiếng Ảrập .
+Đây là một trong những nỗ_lực chống khủng_bố của chính_phủ nước này .
+
+Carl Hoffman , Giám_đốc điều_hành của Basis Technology , khẳng_định : " Nhu_cầu về công_nghệ liên_quan đến ngôn_ngữ Ảrập tăng_mạnh sau " .
+Chính_phủ quy_kết tổ_chức Hồi_giáo cực_đoan là thủ_phạm   .
+ 
+Theo Hoffman , Arabic Language Analyzer   chuyển các ký_tự Ảrập sang Latin và đưa_ra các nghĩa phổ_thông nhất của nhiều từ .
+" Phần_mềm có_thể được sử_dụng để xây_dựng những chương_trình ứng_dụng , cho_phép người_dùng tìm_kiếm và lấy thông_tin trong tài_liệu viết bằng tiếng Ảrập nhờ phương_pháp xác_định ngữ_âm " , ông nói .
+ 
+Hiện_nay , gần_như toàn_bộ hệ_thống máy_tính của chính_phủ Mỹ được thiết_kế để làm_việc với ký_tự Latin và tiếng_Anh .
+Trong_khi_đó , ngữ_pháp phức_tạp của tiếng Ảrập khiến việc phân_biệt từ rất khó_khăn .
+ 
+Kể từ_khi thành_lập vào năm 1995 , Basis Technology nhận_được nhiều hỗ_trợ tài_chính từ Amazon.com , Kyocera Goldman Sachs Venture Capital và Accenture .
+Công_ty tư_nhân này từng phát_triển công_nghệ chuyển_tự cho tiếng Trung_Quốc , Triều_Tiên và Nhật_Bản .
+
+Minh_Long ( theo Reuters )

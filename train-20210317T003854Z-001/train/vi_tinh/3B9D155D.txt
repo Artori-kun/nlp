@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/04/3B9D155D/
+title=Nén và chuyển đổi file bằng PowerArchiver v8.6 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Nén và chuyển_đổi file bằng PowerArchiver v8.6
+Nếu đã đến_lúc sắp_xếp lại ổ cứng và tổ_chức lại những tệp thông_tin cũ trên PC của mình , bạn có_thể sử_dụng phần_mềm này đối_với rất nhiều định dạng file như ZIP , CAB , TAR , TAR.GZ , ...
+
+PowerArchiver còn có_thể đọc và giải nén nhiều định dạng khác như RAR , ARJ , ARC , ACE , ZOO , GZ và BZIP2 .
+Chương_trình cũng hỗ_trợ các loại file mã_hóa XXE và UUE , đồng_thời cho_phép bạn đặt lại tên cho các kho lưu_trữ thông_tin ( archive ) , viết lời_tựa và kiểm_tra virus .
+
+PowerArchiver có một thanh công_cụ và giao_diện di_chuyển theo kiểu kéo / thả ( drag- and - drop ) .
+Nó cho_phép bạn xem các kho dữ_liệu theo nhiều cách , kể_cả những trang web .
+Phần_mềm này còn hỗ_trợ việc chuyển_đổi các archive từ định dạng này sang dạng_khác , sửa_chữa những kho lưu_trữ dạng ZIP bị_hỏng , truy xuất cùng lúc nhiều archive hoặc tạo_ra những kho lưu_thông_tin theo từng gói .
+
+Để_tải miễn_phí PowerArchiver v8.6 , bấm .
+
+P.K .

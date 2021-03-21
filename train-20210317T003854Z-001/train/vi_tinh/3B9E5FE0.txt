@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5FE0/
+title=Chip Cell tiếp tục thu nhỏ với công nghệ 32 nm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip Cell tiếp_tục thu_nhỏ với công_nghệ 32 nm
+Bộ_ba IBM , Sony và Toshiba đã quyết_định kéo_dài thỏa_thuận hợp_tác thêm 5 năm nữa nhằm sản_xuất bộ_vi xử_lý thế_hệ mới với thiết_kế " siêu_mỏng " .
+
+Hiện_nay , chip chủ_yếu được xây_dựng theo phương_pháp kỹ_thuật 90 nm và Intel đang quảng_bá rầm_rộ cho công_nghệ 65 nm , mang đến khả_năng vận_hành cao nhưng chi_phí lại thấp hơn .
+
+IBM cũng đang bắt_tay với AMD để thiết_kế chip 30 nm , nhưng Lisa Su , một phó_giám_đốc của IBM , cho_biết bản_chất của hai sự_hợp_tác này là hoàn_toàn khác_nhau bởi các chuyên_gia của Sony và Toshiba chủ_yếu quan_tâm đến chip cho thiết_bị dân dụng.
+đã được xây_dựng với 8 vi xử_lý theo công_nghệ 45 nm và chi_phí phát_triển lên tới 400 triệu USD .
+
+Với khả_năng đồ_họa mạnh , Cell được coi là trung_tâm điều_khiển cho hệ_thống máy chơi game Sony và TV thế_hệ mới của Toshiba .
+Giới phân_tích đánh_giá rằng ngay_cả chip Cell đời đầu cũng đã mạnh hơn ít_nhất hai lần bộ_vi xử_lý mà IBM trang_bị cho .
+Tuy_vậy , công_nghệ 32 nm quá phức_tạp và đắt_đỏ khiến tập_đoàn này phải chọn giải_pháp tiếp_tục hợp_tác với Sony và Toshiba .
+
+T.N. ( theo The Age )

@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3692/
+title=Xóa ổ cứng bằng Drive Scrubber 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Xóa ổ cứng bằng Drive Scrubber
+Hẳn có bạn sẽ thắc_mắc : Tôi format lại ổ_đĩa là xong chứ_gì , đâu cần phải nhiêu_khê đến_thế ! .
+Nhưng mọi chuyện không đơn_giản như_vậy .
+Dữ_liệu bạn tưởng đã xóa sạch vẫn còn_nguyên đó và chỉ có những phần_mềm như Drive Scrubber mới đảm_bảo những gì bạn muốn xóa hoàn_toàn biến_mất .
+
+Một_cách hình_tượng_hóa , ổ cứng của bạn giống như một dãy_phố , trong_đó dữ_liệu là những căn_nhà có đánh_số .
+Khi bạn xóa_dữ_liệu trong_đó , kể_cả bằng cách định dạng_lại , chỉ có_số_nhà bị bóc_đi , còn căn_nhà vẫn nằm nguyên_đó .
+Vì_thế , khi có_phần mềm thích_hợp phục_hồi lại số_nhà như_cũ , các ngôi_nhà lại hiện_lên trên bản_đồ và máy_tính sẽ xác_định được vị_trí của chúng .
+Vì_vậy , tình_trạng máy_tính xách tay bị thất_lạc và ổ_đĩa đã_qua sử_dụng chứa bí_mật doanh_nghiệp bị đang là những lỗ_hổng rò rỉ thông_tin lớn hiện_nay .
+
+Cách_xóa của Drive Scrubber có_thể coi như việc dùng xe ủi để san_phẳng những ngôi_nhà ấy và không phương_pháp phục_hồi nào , dù là tinh_vi nhất , có_thể dựng_lên một ngôi_nhà như_cũ từ đống đổ_nát .
+
+Cách sử_dụng Drive Scrubber rất đơn_giản .
+Bạn chỉ cần tạo một đĩa boot bằng đĩa_mềm , sau_đó chọn ổ_đĩa muốn xóa và chương_trình sẽ làm_nốt phần_việc còn_lại .
+
+Drive Scrubber đặc_biệt thích_hợp với những công_ty muốn thanh_lý máy_tính nhưng không muốn thông_tin nhạy_cảm của mình bị rò rỉ_ra ngoài .
+Với người_dùng bình_thường , chương_trình cũng giúp bạn an_tâm khi muốn tặng hay bán_lại máy_tính cũ .
+
+Chương_trình có dung_lượng 736 K .
+Bạn có_thể tải bản dùng thử có thời_hạn sử_dụng 30 ngày .
+
+Thế_Nghĩa

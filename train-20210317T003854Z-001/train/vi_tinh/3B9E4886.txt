@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E4886/
+title=Lướt web bằng trình duyệt 3D 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Lướt web bằng trình_duyệt 3D
+Công_ty thiết_kế Sphere của Slovakia vừa thiết_kế thành_công browser đầu_tiên theo dạng không_gian 3 chiều , giúp người truy_cập Internet có_thể xem các cửa_sổ với góc nhìn rất ấn_tượng .
+
+Sản_phẩm mang tên SphereXPlorer có_lẽ là trình_duyệt web duy_nhất trên thế_giới đòi_hỏi một cấu hình máy_tính thật_sự mạnh .
+
+SphereXPlorer có_thể được xem là một trình_duyệt web tuyệt_vời nhất hiện_nay về mức_độ thể_hiện đồ_họa cũng_như tính hấp_dẫn lạ_mắt .
+Các cửa_sổ web thể_hiện theo dạng 3D tương_tự như những trang giấy chìm lãng_đãng trong hồ_nước .
+
+Cấu_hình tối_thiểu để sử_dụng được trình_duyệt SphereXPlorer là : chip xử_lý Pentium tốc_độ 1 GHz , card màn_hình 64 MB , bộ_nhớ RAM 256 MB , Windows XP và trình_duyệt Internet Explorer 5.5 trở_lên và bắt_buộc phải cài_trình .NET Framework 2.0 của Microsoft .
+
+Người muốn sử_dụng có_thể   để tải trình_duyệt SphereXPlorer phiên_bản 0.52 về dùng miễn_phí , dung_lượng chỉ khoảng 2,2 MB .
+Những máy nào chưa được cài ứng_dụng .
+NET Framework 2.0 thì có_thể   để tải về sử dụng.
+( theo Tuổi_Trẻ )

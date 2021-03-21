@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Xa-hoi/Giao-duc/2004/05/3B9D260B/
+title=500 thí sinh tham dự cuộc thi tin học trẻ không chuyên 
+cat=XA-HOI|GIAO-DUC
+
+500 thí_sinh tham_dự cuộc_thi tin_học trẻ không_chuyên
+Sáng_nay , tại ĐH Bách_Khoa , Kỹ_thuật công_nghệ và Thành_đoàn TP HCM , 501 thí_sinh thuộc các bảng A , B1 , B2 , C đã tham_dự cuộc_thi tin_học trẻ không_chuyên .
+Đây là những thí_sinh đã trải_qua những cuộc thi_tuyển cấp quận , huyện , của cả 3 cấp_học .
+Riêng các thí_sinh bảng D sẽ dự_thi vào ngày 16/5 .
+
+Cuộc_thi nhằm tuyển_chọn 6 học_sinh có năng_khiếu xuất_sắc về tin_học để dự_thi cấp toàn_quốc vào tháng 7/2004 .
+
+Đây là sân_chơi được tổ_chức lần thứ 14 dành cho học_sinh không_chuyên toán , tin_học .
+Chia thành 4 bảng : Bảng_A : học_sinh tiểu_học .
+Bảng B1 : học_sinh lớp 6,7 .
+Bảng B2 : học_sinh lớp 8,9 .
+Bảng C : học_sinh THPT .
+Riêng bảng D , dành cho những học_sinh có năng_khiếu thiết_kế , sáng_tạo phần_mềm chỉ cần gửi phần nội_dung thi của mình trước thời_hạn 20/4 đến ban_tổ_chức ( mỗi thí_sinh được dự_thi tối_đa 2 sản_phẩm ) .
+
+Nội_dung thi : trắc_nghiệm , kiến_thức chung về máy_vi_tính và phần_mềm , trò_chơi trí_tuệ , thao_tác đồ_họa hoặc thi lập_trình ( tùy cấp_học ) .
+
+Thủy_Tiên
+tin_học TP HCM tổ_chức .

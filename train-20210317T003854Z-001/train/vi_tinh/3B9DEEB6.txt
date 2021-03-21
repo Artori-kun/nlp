@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DEEB6/
+title=LifeCard - phao cứu sinh cho hệ thống máy tính 
+cat=VI-TINH|SAN-PHAM-MOI
+
+LifeCard - phao cứu_sinh cho hệ_thống máy_tính
+Bạn phải mất bao_lâu để phục_hồi Windows bằng các chương_trình cài_đè tập_tin ảnh ( ghost , drive image ) ?
+Có cách nào chỉ sau vài phút khởi_động là máy_tính của bạn có_thể hồi_sinh dù trước_đó bị chết_cứng vì tài " lọ_mọ " của bạn ?
+
+LifeCard có hình_dáng như một thanh_RAM .
+Nó được xem như người_bảo_vệ máy_tính cá_nhân , hay toàn_bộ mạng LAN trước sự_xâm_nhập của virus , giữ cho ổ cứng an_toàn .
+Đặc_biệt , còn có_thể chứa ổ cứng được 40 phân_vùng ( partition ) .
+Ổ cứng của bạn , dù có bị định_dạng ( format ) mất_trắng toàn_bộ , nhưng vẫn không_sao .
+Life Card chỉ không_thể phục_hồi hệ_thống nếu bị format cấp thấp mà_thôi .
+
+Đây là lần_đầu_tiên thị_trường tin_học TP HCM biết qua một dạng phần_cứng có chức_năng sử_dụng như những phần_mềm kiểu NortonGoBack , Deep Freeze , để phục_hồi hệ_thống chỉ sau vài phút khởi_động .
+Nếu NortonGoBack mang lại nhiều rối_rắm vì sự_phức_tạp trong tinh_chỉnh , Deep Freeze dù có đơn_giản hơn nhưng lại bị hạn_chế trong quyền đăng nhập 15 user & password trong hệ_thống mạng .
+LifeCard mang tập_hợp cả_thảy tính đơn_giản , an_toàn và bảo_mật cao cho hệ_thống mạng máy_tính cá_nhân , gia_đình và cơ_quan
+LifeCard là sản_phẩm của Đài_Loan , được phân_phối qua Công_ty Thái_Khải_Kiến ( TP HCM ) .
+Giá của các dòng sản_phẩm LifeCard :
+Hữu_Khoa

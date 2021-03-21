@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/04/3B9D1A05/
+title=Intel trình làng chip Intanium 2 mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel trình_làng chip Intanium 2 mới
+Hôm_qua , tập_đoàn sản_xuất chip khẳng_định những hệ_thống máy chủ sử_dụng bộ_vi xử_lý mới sẽ có giá_rẻ hơn 28 % , nhưng hiệu_suất hoạt_động cao hơn so với những server dùng chip kép Itanium 2 trước_đây .
+
+Itanium 2 1,4 GHz với bộ_nhớ đệm dung_lượng 3 MB sẽ nâng_cao hiệu_suất hoạt_động lên tới 25 % so với sản_phẩm cùng tốc_độ có .
+Hơn_nữa , bộ_vi xử_lý này cũng cải_thiện gấp_đôi chỉ_số giá / hiệu_năng so với các hệ_thống cạnh_tranh dựa_trên , cho_phép thiết_kế sản_phẩm nhanh và mang lại khả_năng mô_phỏng chính_xác hơn .
+
+Itanium 2 tốc_độ 1,6 GHz với bộ_nhớ đệm 3 MB tạo_ra một hiệu_suất hoạt_động hàng_đầu cho bộ_vi xử_lý kép dựa_trên các công_cụ tính_toán của Linpack ( hoặc hiệu_suất tính_toán điểm_động trong một giây ) .
+
+Các hệ_thống sử_dụng bộ_vi xử_lý kép mới sẽ được một loạt nhà_sản_xuất gồm Bull , Dell , Fujisu Siemens , HCL , IBM , Kraftway , Lang_Chao , Lenovo , Maxdata , Samsung , Transtec AG phát_triển và thương_mại_hóa .
+
+Chip Itanium 2 tốc_độ 1,4 GHz được tung_ra hôm_qua với giá 1.172 USD khi mua từ 1.000 đơn_vị trở_lên .
+Loại 1,6 GHz dự_kiến có_mặt trên thị_trường vào tháng 5 với giá 2.408 USD cho các đơn_đặt_hàng 1.000 đơn_vị .
+
+Ông Richard Dracott , Tổng giám_đốc phụ_trách tiếp_thị và hoạch_định doanh_nghiệp của Intel , hiện hãng có hai kiến_trúc máy_chủ , chiếm xấp_xỉ 85 % thị_phần server .
+Itanium 2 được nhắm vào các máy chủ doanh_nghiệp dành cho kinh_doanh và những tổ_hợp máy_tính trong lĩnh_vực kỹ_thuật , trong_khi Xeon được sử_dụng rộng_rãi trong ngành công_nghệ thông_tin nói_chung .
+
+Thanh_Tú ( theo_IT )

@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9A13/
+title=Dự thi TTVN 2004: Số hoá bệnh viện Việt Nam 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN 2004 : Số_hoá bệnh_viện Việt_Nam
+Chỉ với nguồn kinh_phí hỗ_trợ kỹ_thuật rất hạn_hẹp , TĐHK - nhóm tác_giả của sản_phẩm - đã phải thực_hiện chế_độ " ăn_cơm bệnh_viện , ngủ giường_bệnh_nhân " .
+Khi hoàn_thiện , chương_trình được triển_khai tới 28 bệnh_viện lớn , nhỏ trong cả_nước .
+
+Mỗi_người giữ một cương_vị công_tác khác_nhau tại Hà_Nội , nhưng họ đều có chung một niềm đam_mê là_phải làm_được một điều_gì_đó đáng_giá , có_ích cho xã_hội và cộng_đồng .
+Và 5 thành_viên của nhóm TĐHK gồm : Trần_Ngọc_Tiến , Lê_Hải_Đăng , Hoàng_Văn_Hay , Nguyễn_Thị_Việt_Hà , Nguyễn_Đức_Kiên đã quyết_định rời_bỏ công_việc riêng để cùng_nhau thực_hiện mục_đích chung .
+Qua nhiều cuộc họp_bàn và tranh_luận , nhóm cũng đã chọn con_đường xây_dựng giải_pháp Môi_trường số_hóa bệnh_viện Việt_Nam .
+
+Sau 8 tháng làm_việc cật_lực với 12 tiếng / ngày và 7 ngày trong tuần , nhóm đã lập_trình xong phần nền_tảng của hệ_thống ( RSDE ) và một số module cơ_bản cho mô_hình quản_lý bệnh_viện .
+
+Trần_Ngọc_Tiến_kể : " Chúng_tôi đã quyết_định lựa_chọn J2EE , CORBA làm công_nghệ xương_sống và C + + , Java làm ngôn_ngữ lập_trình chính_thức bởi_vì 2 ngôn_ngữ này cho_phép tiếp_cận với những thành_tựu kỹ_thuật mới đồng_thời vẫn duy_trì khả_năng can_thiệp sâu tới mức hệ_thống , dễ_dàng giao_tiếp với các thiết_bị y_tế hiện_đại trong tương_lai " .
+
+Nhưng ngay sau_đó , TĐHK liên_tục phải đương_đầu với những khó_khăn .
+Nhiều người tỏ_ra không ủng_hộ , thậm_chí cho_rằng đây là những ý_tưởng " điên_rồ " và " phi thực_tế " khi áp_dụng tại môi_trường bệnh_viện Việt Nam. " Chúng_tôi vẫn quyết_tâm đưa sản_phẩm đến với nhiều bệnh_viện tỉnh , thành trong cả_nước theo hình_thức miễn_phí " , Hải_Đăng nhớ_lại .
+" Trải_qua những chuyến_đi thực_tế nhiều tháng tại các bệnh_viện , chúng_tôi đã liên_tục hoàn_thiện , chỉnh sửa thiếu_sót , bất_cập của sản_phẩm " .
+
+Theo TĐHK , năm_nay thực_sự đánh_dấu một bước khởi_đầu mới cho sự_nghiệp của cả nhóm .
+Giải_pháp đạt tới mức ổn_định cao , đáp_ứng hầu_hết các yêu_cầu của bệnh_viện .
+Ngoài_ra , các tác_giả cũng nhận_được rất nhiều ý_kiến đóng_góp , định_hướng từ đội_ngũ bác_sĩ và giám_đốc các bệnh_viện .
+TĐHK cũng chính_thức thành_lập công_ty Tin_học Ngọc Lâm. " Tuy_nhiên , thành_công lớn nhất của chúng_tôi có_được lại không nằm ở chỗ cho ra_đời sản_phẩm đồ_sộ này mà là khối_lượng kinh_nghiệm thực_tế về nghiệp_vụ y_tế , đặc_thù quản_lý bệnh_viện mà nhóm đã nắm_bắt được qua nhiều chuyến_đi " , Hải_Đăng tâm_sự .
+
+N.H .

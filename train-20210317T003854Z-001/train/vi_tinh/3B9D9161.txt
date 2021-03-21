@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D9161/
+title=Chống Phishing với PhishGuard 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chống Phishing với PhishGuard
+Ở Việt_Nam , nạn lừa_đảo bằng e - mail ( ) chưa đến mức trầm_trọng như các quốc_gia phương_Tây .
+Tuy_nhiên , phòng_bệnh tốt_hơn chữa_bệnh và vũ_khí hữu_hiệu nhất hiện_nay là phần_mềm miễn_phí PhishGuard .
+
+PhishGuard giúp bạn ngăn_chặn các thủ_đoạn phishing hoặc giả mạo địa_chỉ_e - mail ( spoofing ) thường được ngụy tạo khéo_léo để dụ bạn cung_cấp thông_tin cá_nhân hoặc mã_số thẻ_tín_dụng cho những website mạo_danh .
+Chương_trình có_thể tích hợp trong Internet Explorer và sẽ đưa_ra tín_hiệu cảnh_báo khi bạn truy_cập trang web có tên trong danh_sách đen .
+Phần_mềm này còn giúp bạn dễ_dàng gửi những đường link hoặc e - mail khả_nghi tới cơ_sở_dữ_liệu của cộng_đồng bằng cách sử_dụng một biểu_tượng nhỏ trên màn hình desktop .
+
+PhishGuard có dung_lượng 3 MB , tương_thích với các hệ_điều_hành Windows 98/ME / NT/2000/XP .
+Để có_thể sử_dụng , bạn phải đăng_ký trực_tuyến miễn_phí sau khi download   .
+
+T.N .

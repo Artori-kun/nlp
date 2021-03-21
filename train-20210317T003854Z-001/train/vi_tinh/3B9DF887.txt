@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DF887/
+title=Pháp xây dựng thư viện trực tuyến tương tự Google  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Pháp xây_dựng thư_viện trực_tuyến tương_tự Google  
+Người Pháp , vốn cho rằng Internet đang ngập_lụt trong tiếng_Anh , đã phản_ứng lại trước dự_án mới của Google bằng kế_hoạch cung_cấp 15 triệu sách và tài_liệu trực_tuyến bằng tiếng Pháp .
+
+Pháp luôn tự_hào về tài_sản trí_tuệ sáng_tạo của họ , đặc_biệt những nội_dung lưu_trữ trong Bibliothèque Nationale de France ( BNF ) , thư_viện quốc_gia nước này .
+
+Khi dự_án Google Print cung_cấp 4,5 tỷ trang tiếng Anh trên mạng ra_mắt , Pháp quyết_định thực_hiện một hành_động tương_tự bằng tiếng Pháp nhưng ở mức_độ thấp hơn .
+Thực_tế , họ đã số_hóa bộ sưu_tập quốc_gia từ 13 năm trước và bắt_đầu đưa công_trình này lên mạng từ năm 1997 .
+
+Catherine Lupovici , Trưởng bộ_phận Thư_viện số tại BNF , cho_biết : " Đây là dự_án cung_cấp bộ bách_khoa toàn thư về văn_hóa Pháp nhằm tạo_ra một mạng trực_tuyến cho các học_giả " .
+
+Dự_án này mang tên Gallica , đã công_bố 80.000 tác_phẩm , 70.000 hình_ảnh trực_tuyến , và hiện đang tiếp_tục quá_trình xử_lý những tài_liệu báo_chí thế_kỷ thứ 19 .
+
+Jean - Noël Jeanneney , Giám_đốc BNF , khẳng_định việc Google Print chỉ cung_cấp tầm_nhìn về lịch_sử Mỹ và Anglo - Saxon là điều tự_nhiên và bình_thường , nhưng họ sẽ phải chấp_nhận cuộc phản_công mà báo_chí Pháp gọi_là " omni - googlisation " .
+
+Gallica không_dùng những thuật_toán nổi_tiếng của Google .
+Khác với kiểu hiển_thị kết_quả theo sự_phổ_biến , nghĩa_là trang nào có_số người đọc nhiều nhất sẽ xuất_hiện đầu_tiên trên Google , mỗi cuốn_sách trong bộ sưu_tập của BNF sẽ được xếp_hạng theo số trang khác liên_kết tới nó hay từ nó để đứng_đầu trong kết_quả search .
+
+Tuy_nhiên , sẽ còn khá lâu nữa Gallica mới bắt_kịp tốc_độ của Google Print , khiến cho ngay_cả những vị lãnh_đạo cao_cấp của BNF cũng nghi_ngờ về khả_năng Pháp có_thể đương_đầu với cái họ gọi_là " thách_thức văn_hóa " .
+Google hiện_nay là cổng tìm_kiếm đầu_tiên của 74 % người_dân_Pháp .
+Nếu mục_tiêu của BNF không_chỉ là bảo_tồn mà còn muốn phổ_biến văn_hóa_Pháp , họ nên lựa_chọn cách bắt_tay hợp_tác với Google .
+
+P.T. ( theo BBC )

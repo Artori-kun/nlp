@@ -1,0 +1,51 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DBEDB/
+title=Vkipedia - bách khoa thư trực tuyến của người Việt 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Vkipedia - bách_khoa thư trực_tuyến của người_Việt
+Wiki là một công_cụ xây_dựng bách_khoa toàn_thư trực_tuyến .
+Trên thế_giới , site wiki lớn nhất_là wikipedia.org có_được khoảng nửa triệu bài , mục với hàng chục ngôn_ngữ khác_nhau .
+Ở Việt_Nam , một dự_án tương_tự đã được khởi_động bởi nhóm Vietkey .
+
+Tại Việt_Nam , Wiki là một khái_niệm mới_mẻ với cộng_đồng 6 triệu người_dùng Internet .
+Dự_án Wkipedia của nhóm chuyên_gia phần_mềm nguồn mở do ông Đặng_Minh_Tuấn làm trưởng dự_án đã cơ_bản hoàn_thành công_cụ Wiki cho người Việt sau hơn một tháng làm_việc .
+" Chúng_tôi chọn cái_tên Vikipedia vì phiên_âm gần_gũi với Wiki .
+Hơn_nữa trong chữ đó có giá_trị Việt .
+Cả nhóm mong_muốn được cộng_đồng tìm_hiểu và hưởng_ứng .
+Để xây_dựng và phát_triển cơ_sở_dữ_liệu cho Vkipedia ( hiện mới ở giai_đoạn khởi_động ) , nhóm đã và sẽ tiếp_tục liên_lạc với ban_quản_trị các diễn_đàn , tập_hợp các bài_viết , ý_kiến đóng_góp cho nội_dung của Vkipedia .
+Việc Việt_hóa dữ_liệu từ wikipedia.org cũng là một hướng quan_trọng " , ông Tuấn cho_biết .
+
+Ông Nguyễn_Thế_Tân , công_tác tại Công_ty CMC , thành_viên sáng_lập Vkipedia , giải_thích sự_tham_gia của mình vào dự_án : " Tôi tham_gia phát_triển , đóng_góp nội_dung cho Vkipedia , bỏ công_sức cho việc này vì cộng_đồng nhưng cũng vì mình .
+Vkipedia vì mục_tiêu xây_dựng kho tri_thức .
+Những bài mới , hay , luôn cô_đọng và ở vị_trí đầu_tiên .
+Máy tìm_kiếm trả về quá_nhiều kết_quả và việc tìm tri_thức mình cần đòi_hỏi nhiều thời_gian .
+Còn diễn_đàn , phục_vụ mục_tiêu thảo_luận , nên có những bài hay , theo thời_gian đã bị chìm lấp_đi " .
+
+Wiki Vkipedia đã được đăng_ký hai tên miền và .
+Tuy_nhiên , trước_khi có_thể hoạt_động chính_thức tại_đây , hiện Vkipedia được thử_nghiệm tại .
+
+Trên thế_giới nổi_tiếng nhất là trang do Hiệp_hội phi lợi_nhuận Wikipedia quản_lý , ra_đời từ năm 2001 .
+Người duyệt web có_thể tìm thấy ở_đây mọi khái_niệm , từ Aaan ( một tiểu thiên_sứ trong ngôn_ngữ cổ Enochian ) cho_đến ZZ Top ( ban_nhạc rock thập niên 70-80 đến từ Texas , Mỹ ) .
+
+Website này được xây_dựng với mục_tiêu là kho tri_thức phục_vụ cộng_đồng do tất_cả mọi_người cùng đóng_góp trên tiêu_chí mở và mềm dẻo là bất_kỳ ai đều có_thể khai_thác , đồng_thời có_quyền bổ_sung kiến_thức mới , xóa , sửa toàn_bộ hoặc từng_phần bất_kỳ nội_dung nào trên Wiki hoặc tổ_chức lại thông_tin theo cách của mình .
+Tư_tưởng này có_thể gây_sự hoài_nghi về mức_độ tin_cậy của nội_dung trên Wiki .
+Tuy_nhiên , những người sáng_lập tin rằng trong một cộng_đồng , số_đông người tích_cực luôn nhiều hơn những kẻ phá_hoại và thực_tế đã chứng_minh điều này .
+Hơn_nữa , Wiki có công_cụ hỗ_trợ những người tích_cực dễ_dàng kiểm_soát các thay_đổi từng_phần của một nội_dung tới toàn_bộ cấu_trúc .
+Mọi thay_đổi đều được ghi_lại , so_sánh và dễ_dàng khôi_phục những trạng_thái trước .
+Những kẻ phá_hoại có_thể mất rất nhiều thời_gian cho việc xóa hay sửa .
+Những người tích_cực chỉ cần 1-2 phút là có_thể khôi_phục tốt nội_dung trước_đó .
+
+Đôi_khi , Wiki đi_trước những bách_khoa toàn thư hàng_đầu nhờ tính mở và mềm_dẻo .
+Từ khóa " copyleft " ( một_cách chơi_chữ đối_nghĩa với " copy right " - bản_quyền ) là một ví_dụ .
+Với từ khóa_này , người duyệt web có_thể thấy tại wikipedia.org một định_nghĩa được trau_chuốt , chỉnh sửa đến hơn 300 lần , bắt_đầu từ 8/2001 và lần chỉnh sửa mới nhất_là 25/2/2005 và vô_số thông_tin liên_quan , đường liên_kết hữu_ích .
+Nhưng tại những bách_khoa toàn_thư trực_tuyến nổi_tiếng do giới chuyên_gia biên_soạn như Encarta ( encarta.msn.com ) hay Britannica ( britannica.com ) người_ta không thấy một_lời giải_thích nào .
+
+Hiện wikipedia.org phát_triển đến mức sự_đóng_góp kể_cả về tài_chính và sức_lực của Hiệp_hội Wikipedia và cộng_đồng chưa đáp_ứng được nhu_cầu của người_sử_dụng .
+Trang này đang hoạt_động trên 50 máy chủ và số server có_thể sẽ phải tăng_lên 100 hoặc 200 trong thời_gian tới .
+Tại cuộc_họp giữa các thành_viên trong Hiệp_hội Wikipedia vào cuối tuần_trước , ông Jimmy Wales , Chủ_tịch Hiệp_hội , đã phải ra lời kêu_gọi : " Chúng_tôi cần sự_hỗ_trợ của các bạn .
+Cứ sau 3 tháng , mức_độ phát_triển của trang web tăng gấp_đôi và đòi_hỏi một khối_lượng công_việc khổng_lồ về kỹ_thuật " .
+
+Từ gần một tháng_nay , Google đã có tiếp_xúc với Wikipedia , đề_nghị hỗ_trợ việc đặt_dữ_liệu của website này trên các máy chủ của Google .
+Tuy_nhiên , hai bên vẫn đang trong quá_trình thảo_luận .
+
+( Theo Lao_Động )

@@ -1,0 +1,30 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/09/3B9CB35F/
+title=Dùng giấy bóng kính tạo ảnh 3 chiều 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dùng giấy_bóng kính tạo ảnh 3 chiều
+Các nhà nghiên_cứu tại Đại_học Toronto ( Canada ) đã chứng_minh rằng những phương_pháp hoặc vật_liệu giản_đơn đôi_khi lại tạo_ra bước đột_phá cho công_nghệ cao .
+Họ phát_hiện ra giấy_bóng kính có_thể dùng để biến một máy_tính thông_thường thành màn_hình 3 chiều .
+
+Nhóm kỹ_sư , trong quá_trình tìm_kiếm cái gọi_là đĩa_sóng ( bay vòng_quanh cực ánh_sáng ) , đã nhận_thấy một số_loại giấy_bóng kính gói quà có những đặc_tính giống với cái mà họ đang tìm .
+
+Giáo_sư Iizuka , trưởng_nhóm nghiên_cứu , cho_biết hệ_thống hiển_thị 3 chiều của họ chỉ áp_dụng riêng cho loại màn_hình tinh_thể lỏng phát_ra ánh_sáng phân_cực - tức_là ánh_sáng dao_động trong một hướng cố_định .
+Theo phương_pháp của họ , màn_hình sẽ được chia_đôi , mỗi bên hiển_thị những hình_ảnh hơi khác_nhau , giống như hình_ảnh từ một camera lập_thể .
+Giấy_bóng kính được dùng để che một_nửa màn_hình , tạo_nên sự_thay_đổi phân_cực ánh_sáng , sau_đó người_xem dùng một cặp kính_râm khác cực , nhờ_đó mắt phải chỉ có_thể nhìn_thấy ánh_sáng phát_ra từ nửa trái của màn_hình và ngược_lại , mắt trái cũng chỉ nhìn_thấy ánh_sáng từ nửa phải màn_hình .
+Trí_não sẽ kết_hợp những hình_ảnh thu_được từ hai kênh này để tạo_ra cảm_giác của một hình_ảnh thống_nhất trong không_gian 3 chiều .
+Ấn_tượng về chiều_sâu của vật_thể được tạo_ra từ những hình_ảnh hơi khác_nhau đập vào từng bên mắt của chúng_ta .
+
+Giáo_sư Iizuka cho_rằng giấy_bóng kính là một sự_lựa_chọn rất tốt , một phần vì nó quay quanh_cực của toàn_bộ giải quang_phổ mà ta nhìn_thấy , không giống những đĩa sóng chỉ tập_trung vào một bước_sóng nhất_định .
+Tuy_nhiên , độ dày 25 micron và cấu_trúc hóa_học của vật_liệu giấy_bóng mới là yếu_tố quyết_định sự_thành_công khi sử_dụng vật_liệu có nguồn_gốc dầu_lửa này .
+
+Quá_trình nghiên_cứu công_nghệ hiển_thị 3 chiều của các kỹ_sư Đại_học Toronto một phần nhằm giúp_đỡ người_điếc .
+Ngôn_ngữ cử_chỉ được truyền qua Internet sẽ hiệu_quả hơn rất nhiều nếu người_xem nhìn rõ hơn chiều_sâu của những cử_động tay .
+
+Giáo_sư Iizuka cho_biết sử_dụng vật_liệu giấy_bóng rẻ hơn 3.500 lần so với việc áp_dụng các " đĩa_sóng " , với chi_phí chỉ khoảng 3 USD một cuộn .
+Sắp_tới , ông và các đồng_sự sẽ chuyển sang phát_triển kỹ_thuật 3D cho màn hình điện_thoại di_động .
+
+Màn hình 3D có_thể sử_dụng trong rất nhiều mục_đích , chẳng_hạn như trò_chơi video , giới_thiệu các loại mẫu có cấu_trúc phân_tử .
+Công_nghệ hình_ảnh 3 chiều thường đòi_hỏi phải có một loại kính chuyên_dụng khá tốn_kém .
+Hiện_nay , Công_ty Sharp đang phát_triển loại màn hình phẳng 3D không cần kính hỗ_trợ .
+
+Phan_Khương ( theo CNet )

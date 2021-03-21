@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DB851/
+title=Cisco ra mắt hệ thống phòng vệ an ninh mạng mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Cisco ra_mắt hệ_thống phòng_vệ an_ninh mạng mới
+Tại hội_thảo về an_toàn và bảo_mật thông_tin ( RSA ) diễn_ra ở San Francisco ( Mỹ ) , người khổng_lồ trong lĩnh_vực mạng máy_tính đã giới_thiệu sản_phẩm Adaptive Threat Defense , một hệ_thống thông_minh có khả_năng phòng_thủ trước các cuộc tấn_công của nhiều hiểm_họa khác_nhau .
+
+Một phần quan_trọng trong chiến_lược anh ninh của Cisco là sáp_nhập nhiều công_ty nhỏ để tận_dụng công_nghệ và chuyên_gia của họ .
+Một_số cập_nhật an_ninh mới nhất của Cisco đã có sự_đóng_góp từ những công_ty này .
+Sản_phẩm Socket Secure Sockets Layer Virtual Private Network ( SSL VPN ) sử_dụng công_nghệ của TwCissc - cho_phép kiểm_tra theo một tiêu_chuẩn của trình_duyệt web , ngắt kết_nối nếu tình_trạng an_ninh không đảm_bảo - là một ví_dụ .
+Hay như trong Switch Catalyst , Cisco đã sử_dụng công_cụ do Riverhead Networks chế_tạo để có_thể chống_lại hình_thức tấn_công từ_chối dịch_vụ ( DoS ) .
+
+Hơn một năm trước_đây , Cisco đã giới_thiệu hệ_thống chủ_động phòng_thủ dùng_cho các thiết_bị thông_minh để có_thể trao_đổi thông_tin với_nhau .
+Điều này có_nghĩa là việc bảo_đảm an_ninh có_thể thực_hiện xuyên_suốt qua mạng ngang_hàng , từ nhân_viên đến người quản_trị hệ_thống .
+
+Giám_đốc điều_hành của Cisco John Chambers cảnh_báo rằng các công_ty đang xây_dựng kiến_trúc an_ninh tập_trung vào việc chống sâu máy_tính và phần_mềm nguy_hiểm sẽ nhận_thấy sự_khác_biệt của các loại nguy_cơ trong_vòng 5 năm tới so với thời_điểm hiện_tại .
+Cần phải suy_nghĩ về tương_lai trong_vòng 3 , 5 hay 7 năm tới , Chambers nhấn_mạnh .
+Vấn_đề an_ninh không_thể tiếp_cận như một đặc_tính cố_định trên sản_phẩm phần_mềm được .
+
+Cisco cũng đã liên_kết với một_vài công_ty chống virus và bảo_mật để xây_dựng và phát_triển sản_phẩm .
+Cuối năm 2003 , họ kết_hợp với 3 nhà_cung_cấp dịch_vụ khác để tạo_ra một hệ_thống gọi_là Network Admission Control ( NAC ) , giúp tăng khả_năng bảo_mật khi truy_cập qua thiết_bị di_động .
+Kiến_trúc của NAC sẽ cho_phép cài_đặt thiết_bị mạng nhằm từ_chối các kết_nối không an_toàn như các máy_tính xách tay chưa cập_nhật bản vá lỗi hay phần_mềm chống virus Hiện_tại , Cisco đã hỗ_trợ NAC trên sản_phẩm IP routers và dự_kiến giới_thiệu hỗ_trợ trên switch Ethernet trong năm_nay .
+
+Văn_Thắng ( theo CNet )

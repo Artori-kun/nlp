@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DAF6A/
+title=Google, Yahoo triển khai công cụ tìm kiếm video 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google , Yahoo triển_khai công_cụ tìm_kiếm video
+Hai gã khổng_lồ về dịch_vụ trực_tuyến đã bước_vào một mặt_trận mới với việc giới_thiệu thử_nghiệm các hệ_thống tìm_kiếm nội_dung phim và truyền_hình .
+
+Đáng chú_ý hơn vẫn là , cho_phép người_sử_dụng tìm_kiếm các chương_trình TV , nội_dung thuộc hệ_thống phát_thanh truyền_hình công_cộng của Mỹ , Hiệp_hội bóng_rổ , kênh FoxNews và C - Span ( chuyên tường_thuật các buổi điều_trần quốc_hội ) .
+
+Google Video có mục_đích hỗ_trợ truyền_hình , Larry Page , đồng sáng_lập viên kiêm Giám_đốc sản_phẩm của Goolge , phát_biểu .
+Việc triển_khai thử_nghiệm một sản_phẩm như_vậy đã cho_thấy tiềm_năng của công_cụ tìm_kiếm nội_dung video .
+Page cho_biết dịch_vụ này sẽ có_thể làm_tăng số người_xem truyền_hình vì nó đem_đến những thông_tin về lịch phát_sóng của các chương_trình liên_quan .
+
+Google Video không cung_cấp đường link trực_tiếp tới nội_dung mà thay vào_đó , dựa_trên lệnh tìm_kiếm , công_cụ đưa_ra một danh_sách chương_trình TV liên_quan với hình_ảnh tĩnh và các đoạn trích dạng text .
+Google không cho_biết họ có kế_hoạch mở_rộng nội_dung tìm_kiếm ra ngoài phạm_vi các kênh của Mỹ hay_không .
+Trong_khi_đó , dịch_vụ tương_tự của Yahoo khai_thác nội_dung từ các nguồn Bloomberg TV , BSkyB và BBC .
+
+P.K. ( theo AFP )

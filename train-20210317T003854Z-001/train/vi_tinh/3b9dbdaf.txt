@@ -1,0 +1,16 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/03/3b9dbdaf/
+title=Nối thêm đuôi cho mật khẩu 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Nối thêm đuôi cho mật_khẩu
+Nhằm giúp khách_hàng chống_lại nạn lừa_đảo qua mạng , hãng E - Trade ( Mỹ ) đã cung_cấp dịch_vụ bảo_mật 2 thành_phần , bao_gồm 1 bộ username và password thông_thường cùng 1 thiết_bị tự_động thay_đổi theo thời_gian .
+
+Phương_pháp bảo_mật của hãng E - Trade , hoạt_động trong lĩnh_vực thương_mại điện_tử , gồm 2 nhân_tố nhằm tăng_cường khả_năng bảo_đảm an_ninh trước và nhiều thể loại trộm_cắp công_nghệ cao_khác .
+Ngoài tên đăng nhập và mật_khẩu thông_thường , khách_hàng còn được trang_bị thêm SecurID , một thiết_bị an_ninh nhỏ như một ổ flash hay thẻ nhớ memory stick , sử_dụng thuật_toán mã_hóa dữ_liệu RSA .
+Mỗi khi người_dùng đăng_nhập , công_cụ này sẽ tự_động sinh thêm 6 chữ_số ngẫu_nhiên nối_tiếp vào mật_khẩu thường_dùng trước_khi mã_hóa chúng .
+Cứ sau 60 giây , 6 chữ_số này lại tự_động thay_đổi , do_đó , dù_cho bọn trộm có " túm " được mật_khẩu thì cũng không_thể sử_dụng để đột_nhập vào tài_khoản của nạn_nhân .
+
+Với biện_pháp mới này , việc sử_dụng phần_mềm gián_điệp để ghi_lại thao_tác gõ bàn_phím hay chụp trộm màn_hình máy_tính nhằm mục_đích ăn_cắp username và password mà người_sử_dụng không hay_biết sẽ trở_nên ít tác_dụng hơn.  
+Tuy_nhiên , chỉ những người có_tài_khoản trị_giá từ 50.000 USD trở_lên mới được sử_dụng dịch_vụ bảo_mật mới này của E - Trade .
+
+Văn_Thắng ( theo Internetweek )

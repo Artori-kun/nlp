@@ -1,0 +1,41 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2006/03/3b9e7e63/
+title=Cảm nhận đồ họa 3D trong Windows Vista 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Cảm_nhận đồ_họa 3D trong Windows Vista
+Windows Vista , hệ_điều_hành kế_tiếp Windows XP từ 2001 , đã chính_thức bị lùi ngày phát_hành đến tháng 1/2007 .
+Tuy còn nhiều thay_đổi , những gì Microsoft giới_thiệu tại hội_thảo MIX06 ( 20 - 22/3 , Las Vegas ) đã mang đến một bức_tranh hoàn_chỉnh về sản_phẩm này .
+
+Phiên_bản mới được trang_bị giao_diện người_dùng hấp_dẫn , bảo_mật cao hơn , khả_năng tổ_chức tài_liệu cải_tiến và và tìm_kiếm thời_gian thực.   sẽ trở_thành một nền_tảng cho game bởi được xây_dựng kèm DirectX 10 - tập_hợp các giao_diện lập_trình ứng_dụng ( API ) kiểu mới , hỗ_trợ hiển_thị đồ_họa cao hơn 6 - 8 lần so với DirectX 9.0 .
+
+Phiên_bản tiếp_theo của Windows đã chấm_dứt 20 năm hiển_thị desktop 2D .
+Microsoft đã chọn Aero với hình_ảnh trong mờ là nền desktop mặc định thay_cho màu_xanh sáng của Windows XP .
+Công_nghệ 3D khiến Vista hoạt_động linh_hoạt hơn trong việc tạo_giao_diện trên desktop , như hình nền_động .
+Trong các phiên_bản Windows trước_đó , desktop chỉ có_thể hiển_thị đồ_họa 2D .
+Có_thể nhiều người không tin điều này , nhưng những card đồ_họa 3D đầu_tiên thực_chất chỉ_là card tích_hợp thêm để hoạt_động kết_hợp với card 2D có sẵn trong trong hệ_thống .
+
+Cửa_sổ cũng không_còn đơn_điệu như_trước và các thành_tố giao_diện 3D có_thể co_dãn , xoay và chế_tác dễ_dàng .
+Flip3D cho_phép mọi_người điều hướng giữa các cửa_sổ ứng_dụng bằng cách kéo chúng lại với_nhau và sắp_xếp trong một không_gian ba chiều và lựa_chọn với chuột và các phím mũi_tên .
+Trong_khi_đó , giao_diện Alt - Tab hiển_thị ảnh_chụp nội_dung của mỗi cửa_sổ dưới dạng Thumbnail , trái_ngược với giao_diện Alt - Tab trong Windows XP chỉ chứa các biểu_tượng ( icon ) của chương_trình .
+
+Sử_dụng chương_trình tìm_kiếm file trên Windows từ xưa đến nay vẫn không_mấy thuận_tiện .
+Nghĩa_là người_sử_dụng phải mơ_hồ biết về vị_trí của file và phải gõ tên_chính_xác , nếu không họ sẽ sẽ mất nhiều thời_gian hơn họ nghĩ .
+
+Năm_ngoái , Google đã phát_hành chương_trình tìm_kiếm desktop , hỗ_trợ lấy_dữ_liệu nhanh_chóng , kể_cả e - mail và các trang web lưu trong History .
+Phiên_bản Windows Vista cải_tiến khả_năng tổ_chức và điều hướng file theo một cấp độ mới .
+Tuy chưa thực_sự hoàn_hảo , những thay_đổi này cũng ảnh_hưởng không nhỏ đến cách mọi_người làm_việc và giải_trí trên máy_tính mỗi_ngày .
+
+Windows Vista tích_hợp một thanh tìm_kiếm nhanh ngay trong Start Menu .
+Nó tự_động hiển_thị kết_quả ngay_khi người_dùng gõ chữ_cái đầu_tiên và thu_hẹp kết_quả khi họ dần hoàn_chỉnh từ khóa .
+Hệ_điều_hành mới sẽ lưu kết_quả search trong một thư_mục ảo .
+Nhờ hoạt_động theo thời_gian thực , folder này có_thể cập_nhật những file mới phù_hợp với tiêu_chí tìm_kiếm .
+
+Tính_năng mới , metatag , cũng tạo điều_kiện cho mọi_người đính thêm các " tag " mô_tả file để dễ sắp_xếp hơn_trước .
+Microsoft đã đại_tu rất kỹ Windows Start Menu , trong_đó phần bên_trái hiển_thị những ứng_dụng được dùng nhiều nhất .
+
+Giám_đốc nền_tảng và dịch_vụ Jim Allchin của Microsoft cho_biết bảo_mật chính là một trong những lý_do hàng_đầu để người_sử_dụng nâng_cấp lên Vista .
+Hệ_điều_hành được trang_bị tường lửa cải_tiến , giao thức truy_cập người_dùng mới , phiên_bản Internet Explorer an_toàn hơn , , mã_hóa ổ BitLocker Drive Encryption , chặn thiết_bị lưu_trữ rời để tránh nguy_cơ rò rỉ tài_liệu hoặc Parental Control ( những tiêu_chí mà phụ_huynh có_thể thiết_lập khi con_cái họ sử_dụng máy_tính ) .
+
+Microsoft chưa chính_thức đưa_ra những yêu_cầu tối_thiểu cho hệ_thống , nhưng trong bản Beta 1 đòi_hỏi bộ_nhớ ít_nhất 512 MB , thiết_bị xử_lý mới của Intel hoặc AMD và đồ_họa DirectX 9.0 .
+
+T.N. ( theo CNet )

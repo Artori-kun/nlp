@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9BFDD2/
+title=IBM Việt Nam trình làng máy chủ eServer mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM Việt_Nam trình_làng máy chủ eServer mới
+Hôm_qua , IBM Việt_Nam đã công_bố máy chủ mới , sử_dụng công_nghệ mainframe và bộ xử_lý POWER4 1,3 GHz của hãng .
+eServer i890 chạy phiên_bản mới nhất của hệ_điều_hành iSeries - OS/400 5.2 - có_thể xử_lý dữ_liệu gần gấp_đôi so với máy chủ i840 trước_đây của IBM .
+
+Máy chủ mới sử_dụng chip POWER4 đã từng đoạt_giải thưởng MicroDesign Resources Award 2002 dành cho bộ xử_lý máy chủ tốt nhất .
+
+" Công_nghệ POWER4 ra_đời cùng với những cải_tiến quan_trọng trong hệ_điều_hành hàng_đầu của IBM đã đưa máy chủ iSeries trở_thành lựa_chọn hấp_dẫn đối_với các ứng_dụng trung_tâm dữ_liệu " , ông Võ_Tấn_Long , Giám_đốc bộ_phận Hệ_thống cho Doanh_nghiệp của IBM Việt_Nam , nhận_định .
+
+Là một trong những chiếc máy chủ chạy các ứng_dụng Linux , OS/400 , Windows , Java và Unix linh_hoạt nhất , một chiếc i890 có_thể hỗ_trợ tới 32 phân_vùng logic ( logical partition ) chạy hệ_điều_hành OS/400 hay Linux , cho_phép doanh_nghiệp giảm chi_phí và sự_phức_tạp thông_qua việc tập_trung nhiều trọng_tải trên một máy chủ_đơn dễ quản_lý .
+Tính_năng phân hoạch_động ( cho_phép phân_bố động tài_nguyên CPU , bộ_nhớ ... giữa các partition ) giúp khách_hàng tăng hiệu_quả hoạt_động của các ứng_dụng chạy trên những partition khác_nhau mà không cần phải khởi_động lại máy_chủ .
+Hơn_nữa , nhân Linux của iSeries hiện_tại có_thể mở_rộng hỗ_trợ tới các ứng_dụng 64- bit .
+
+T.T .

@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D51F6/
+title=Toshiba nâng dung lượng ổ cứng mini lên 60GB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Toshiba nâng dung_lượng ổ cứng mini lên 60GB
+Hôm_qua , hãng điện_tử Nhật_Bản đã bổ_sung vào dòng ổ cứng 1,8 inch các sản_phẩm có dung_lượng 30 GB và 60 GB .
+Cả hai đều có mật_độ phân_vùng bề_mặt cao nhất so với các ổ cứng cùng định_dạng .
+
+Hai model ổ cứng mới - MK6006GAH và MK3006GAL - một loại dùng 1 đĩa và loại kia dùng 2 đĩa 30 GB có mật_độ phân_vùng bề_mặt đạt 93,5 GB mỗi_đĩa .
+Ổ đỡ dùng chất_lỏng động giúp giảm tiếng ồn vận_hành xuống dưới 16 dB .
+Điện_năng tiêu_thụ của mỗi ổ cứng chỉ_là 9,3 W .
+
+Cả hai ổ cứng đều có bộ_nhớ đệm 2 MB và thời_gian tìm_kiếm trung_bình 15 ms ( phần nghìn giây ) .
+Trọng_lượng loại ổ 60 GB là 62 g và ổ 30 GB là 51 g .
+
+Toshiba cho_biết , 2 loại ổ cứng này sẽ được tung_ra thị_trường vào quý 4 .
+Tuy_nhiên , hãng chưa công_bố giá_cả cụ_thể .
+
+Hiện_nay , Apple đang là khách_hàng lớn tiêu_thụ ổ cứng mini của Toshiba .
+Với sản_phẩm mới , trong năm_nay người tiêu_dùng sẽ có cơ_hội thưởng_thức âm_nhạc từ máy có dung_lượng 60 GB , chứa được nhiều bài_hát hơn.  
+T.N. ( theo The Register )

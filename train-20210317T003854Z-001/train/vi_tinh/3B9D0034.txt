@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/02/3B9D0034/
+title=Phần mềm sàng lọc adware và spyware v6.181 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm sàng_lọc adware và spyware v6.181
+Phiên_bản mới nhất của công_cụ miễn_phí này sẽ giúp bạn loại_bỏ những phần_mềm trái_phép và các chương_trình do_thám .
+Ad - aware v6.181 quét toàn_bộ hệ_thống , kể_cả những ổ bổ_sung ( removable ) , để tìm các ứng_dụng quảng_cáo và gỡ_bỏ chúng một_cách an_toàn .
+
+Chương_trình có khả_năng phát_hiện những chương_trình quảng_cáo nhỏ như Adware , Aureate / Radiate , OnFlow , Comet - Cursor , Cydoor , Doubleclick , EverAd , Flyswat , OnFlow , TimeSink 5.0 và nhiều loại khác .
+
+Ad - aware v6.181 là bản mới nhất , với giao_diện và các công_cụ bảo_vệ được thiết_kế lại .
+Vì nhiều chương_trình có hỗ_trợ quảng_cáo sẽ không hoạt_động nếu bạn loại_bỏ một module của chúng , cho_nên để phòng_khi bạn thay_đổi quyết_định và muốn khôi_phục lại một bộ_phận nào trước_đó , phiên_bản này giải_quyết theo hai cách : nó lưu bộ_phận adware vào Recycle Bin , nơi bạn có_thể sử_dụng lại khi cần , hoặc nó sẽ cung_cấp một thư_mục sao_lưu , phục_vụ cho việc xem lại về_sau .
+Nếu cần_thiết , nó có_thể khôi_phục lại cả những bộ_phận mà bạn đã loại_bỏ .
+Một tính_năng khác của Ad - aware v6.181 là nó cho_phép bạn tìm_kiếm những file tham_khảo mới một_cách tự_động mỗi khi chương_trình được khởi động.  
+Spyware là thuật_ngữ chỉ những chương_trình ẩn với dung_lượng nhỏ , được nhúng ( embeded ) trong những ứng_dụng lớn hơn để thu_thập và cung_cấp thông_tin về cho người quảng_cáo .
+Những phần_mềm này được đưa_vào nhiều chương_trình chia_sẻ ( shareware ) và các ứng_dụng miễn_phí ( freeware ) bởi_vì đây cũng cách duy_nhất để một số_nhà phát_triển ứng_dụng có_thể trang_trải chi_phí .
+
+Để_tải miễn_phí Ad - aware v6.181 , bấm   .
+
+P.K .

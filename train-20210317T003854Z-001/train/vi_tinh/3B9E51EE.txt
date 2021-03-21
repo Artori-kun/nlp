@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E51EE/
+title=Google mở dịch vụ tìm nhạc 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google mở dịch_vụ tìm_nhạc
+Hãng tìm_kiếm hàng_đầu thế_giới tiếp_tục ra_mắt một chương_trình mới , hỗ_trợ người_sử_dụng thu_thập thông_tin nhanh và đầy_đủ nhất về các nghệ_sỹ âm_nhạc , lời bài_hát và đĩa CD ...
+
+Khi khách_hàng gõ tên ban_nhạc như   The Beatles hay Metallica qua công_cụ search phổ_thông của Google , họ sẽ nhận_được một link tới Google Music ở phía_trên cùng kết_quả .
+Trang này hiển_thị danh_sách những album đã phát_hành của nhóm nhạc_đó , bìa CD cũng_như một_số đường dẫn đến những kho lưu và tải nhạc nhạc trực_tuyến như iTunes , RealNetworks Rhapsody , eMusic và Amazon.com .
+
+" Chúng_tôi không xây_dựng hệ_thống nhạc online .
+Chúng_tôi chỉ_dẫn mọi_người đến iTunes và nhưng website khác " , Marissa Mayer , Phó giám_đốc sản_phẩm của Google , giải_thích .
+" Người sử_dụng từ lâu đã mong_chờ dịch_vụ này " .
+
+Google Music tại thời_điểm này chủ_yếu chỉ thống_kê những nghệ_sỹ và nhóm nhạc Pop tên_tuổi của Mỹ .
+Google cho_biết họ sẽ sớm bổ_sung thêm các danh_ca quốc_tế , dòng_nhạc cổ_điển và những nghệ_sỹ ít tiếng_tăm khác .
+
+P.T. ( theo CNet )

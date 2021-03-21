@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DF492/
+title=Biến ĐTDĐ cũ thành thiết bị gọi điện miễn phí 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Biến ĐTDĐ cũ thành thiết_bị gọi_điện miễn_phí
+Hãng IPdrum ( Na_Uy ) vừa phát_triển thành_công một phương_thức cho_phép người tiêu_dùng biến những chiếc điện_thoại di_động cũ thành_cổng ( gateway ) liên_lạc không dây để khai_thác tính_năng hội_thoại với phần_mềm VoIP .
+
+Công_nghệ mang tên Mobile Skype Cable này - sử_dụng dây_cáp và phần_mềm - mới được giới_thiệu tại triển_lãm Viễn_thông châu Á diễn_ra tại Singapore .
+Người tiêu_dùng có rất nhiều điện_thoại cũ_bỏ trong tủ , Kjetil Mathisen , Giám_đốc điều_hành IPdrum , giải_thích .
+Với dây_cáp IPdrum Mobile Skype , điện_thoại sẽ kết_nối qua_đường USB hoặc các cổng âm_thanh của máy_tính .
+Khi PC đã cài phần_mềm IPdrum , điện_thoại có_thể được dùng như một gateway cho ứng_dụng Skype , cho_phép chuyển_tiếp các cuộc gọi tới điện_thoại di_động bạn đang dùng .
+Tương_tự như_vậy , bạn có_thể gọi tới cổng giao_tiếp nói trên để thực_hiện cuộc gọi_với Skype .
+
+Trong vai_trò cổng giao_tiếp , chiếc điện_thoại cũ còn có_thể được dùng để gửi / nhận tin_nhắn SMS qua phần_mềm Skype .
+Mobile Skype Cable sẽ đặc_biệt hữu_dụng cho những ai muốn gọi miễn_phí tới các điện_thoại cùng mạng di_động hoặc cho một nhóm người_quen giới_hạn .
+
+Bộ cáp của IPdrum và phần_mềm đi_kèm sẽ được cung_cấp trên toàn thế_giới từ tháng 8 tới với giá bán_lẻ từ 60 USD đếnn 80 USD .
+Tham_khảo thêm .
+
+P.K. ( theo InfoWorld )

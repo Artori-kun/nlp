@@ -1,0 +1,16 @@
+url=http://vnexpress.net/vietnam/kinh%2Ddoanh/chung%2Dkhoan/2007/03/3b9f3f5e/
+title=ACBS bị phạt 70 triệu đồng 
+cat=KINH%2DDOANH|CHUNG%2DKHOAN
+
+ACBS bị phạt 70 triệu đồng
+Ngày 9/3 , Ủy_ban Chứng_khoán Nhà_nước có quyết_định xử phạt vi_phạm hành_chính trong lĩnh_vực chứng_khoán và thị_trường chứng_khoán đối_với Công_ty TNHH Chứng_khoán Ngân_hàng ACB ( ACBS ) .
+Mức phạt 70 triệu đồng .
+
+Trong đợt kiểm_tra các công_ty chứng_khoán mới_đây , ACBS đã làm_sai quy_định khi cho_phép khách_hàng được cầm_cố chứng_khoán vào ngày T ( ngày chứng_khoán chưa về đến tài_khoản ) .
+Có trường_hợp ACBS xác_nhận , yêu_cầu Trung_tâm Lưu_ký Chứng_khoán chuyển_khoản vượt_quá số_dư của khách_hàng .
+
+ACBS cũng chưa có đầy_đủ hệ_thống sổ_sách phản_ánh các nghiệp_vụ lưu_ký , cầm_cố , thanh_toán bù_trừ , chuyển_khoản chứng_khoán .
+Các hoạt_động này được thực_hiện trên những phần_mềm riêng_biệt , việc đối_chiếu số_liệu được làm thủ_công gây khó_khăn cho công_tác quản_lý , thống_kê và dễ gây rủi_ro trong việc quản_lý tài_khoản của khách_hàng .
+Công_ty cũng chưa thiết_kế hệ_thống kiểm_soát nội_bộ trong việc vào hệ_thống chỉnh sửa lại số_liệu nhập sai trên tài_khoản của khách_hàng , một số chứng_từ về lưu_ký , cầm_cố chứng_khoán chưa được ACBS hạch_toán kịp_thời , dẫn đến số_liệu bị lệch so với Trung_tâm Lưu_ký Chứng_khoán .
+
+V.P .

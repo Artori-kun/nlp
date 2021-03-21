@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E4210/
+title=Điện thoại băng thông rộng không dây đầu tiên 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại băng_thông rộng không dây đầu_tiên
+Hãng điện_tử Samsung sẽ giới_thiệu điện_thoại và hệ_thống với những ứng_dụng như truyền_hình , mạng gia_đình , đàm_thoại video , VOD ... trong triển_lãm công_nghệ APEC 2005 diễn_ra tuần này tại Hàn_Quốc .
+
+Điện_thoại di_động H1000 và thiết_bị PDA M8000 là hai sản_phẩm WiBro ( băng_thông rộng không dây ) đầu_tiên tại triển_lãm năm_nay .
+
+Chiếc điện_thoại gập H1000 có_thể mở theo cả_hai chiều dọc và ngang .
+Nó được trang_bị màn_hình LCD 2,2 inch và bàn_phím Qwerty giúp cải_tiến khả_năng truy_cập Internet và e - mail .
+Điện_thoại tích_hợp 2 camera ( 2 megapixel và VGA ) cùng tính_năng TV Output .
+Trong_khi_đó , M8000 là điện_thoại thông_minh sử_dụng bàn_phím Qwerty .
+
+Samsung cũng sẽ phát_hành thẻ WiBro PCMCIA cho máy_tính xách tay và máy_tính bảng .
+
+WiBro cho_phép truyền_dữ_liệu với tốc_độ lên tới 50 Mb / giây , đáp_ứng nhu_cầu của những_ai cần kết_nối băng_thông rộng trong quá_trình đi_lại .
+Đại_diện của Samsung cho_biết dịch_vụ vẫn duy_trì ổn_định ngay_cả khi khách_hàng đang di_chuyển với tốc_độ 120 km / giờ .
+Với H1000 , M8000 hoặc thẻ giao_diện laptop Wibro , mọi_người có_thể sử_dụng Internet tốc_độ cao không_dây , dịch_vụ VoIP , tải video ...
+
+WiBro , tiền_thân của , sẽ chỉ xuất_hiện tại Hàn_Quốc thời_gian tới .
+Kế_hoạch triển_khai ở Bắc_Mỹ vẫn chưa được công_bố chính_thức .
+Intel cũng đang đẩy_nhanh quá_trình phát_triển công_nghệ WiMax , đối_đầu trực_tiếp với giải_pháp của Samsung .
+
+P.T. ( theo Korea Times )

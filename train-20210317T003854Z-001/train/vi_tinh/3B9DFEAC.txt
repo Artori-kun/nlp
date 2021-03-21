@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9DFEAC/
+title=Chip nhớ XDR2 có tốc độ 8 GHz 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip nhớ XDR2 có tốc_độ 8 GHz
+Sản_phẩm mà hãng Rambus vừa công_bố nhanh hơn gấp 5 lần so với GDDR3 , chip_nhớ tốc_độ cao được dùng trong card đồ_họa .
+Khả_năng này cho_phép tạo những hình_ảnh đẹp hơn cho các trò_chơi và máy_tính cao_cấp .
+
+Theo Giám_đốc tiếp_thị của Rambus , Rich Warmke , công_nghệ XDR2 có tốc_độ cao gấp 2 lần XDR , công_nghệ được sử_dụng để tạo chip nhớ hiện_nay .
+
+Victor Echevarria , Giám_đốc tiếp_thị của nhóm giải_pháp nền_tảng của Rambus , cho_biết hiện_nay các loại chip nhớ truy_cập dữ_liệu qua luồng đơn nhưng với XDR2 , Rambus áp_dụng kỹ_thuật hyper - threading ( công_nghệ xử_lý ) , cung_cấp nhiều kênh dữ_liệu hơn .
+Điều này làm_cho tốc_độ truy_cập tăng_thêm nhiều lần .
+
+Công_nghệ siêu_phân luồng đã được sử_dụng trong các bộ_vi xử_lý của Intel , mang lại hiệu_năng cao cho máy_tính .
+Rambus áp_dụng công_nghệ này lần_đầu_tiên vào trong DRAM hồi tháng 4 .
+
+Sản_phẩm của Rambus đang thu_hút sự_quan_tâm của các nhà sản_xuất chip như Samsung Electronics , Toshiba và Elpida Memory .
+Cả 3 công_ty này sản_xuất RAM XDR và những sản_phẩm XDR2 đầu_tiên sẽ có_thể được họ đưa_ra vào năm 2007 .
+
+Mạnh_Hưng ( theo PC World )

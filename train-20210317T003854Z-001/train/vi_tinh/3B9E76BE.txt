@@ -1,0 +1,39 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E76BE/
+title=Dòng chip Intel mới sẽ là Core Microarchitecture 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dòng chip Intel mới sẽ là Core Microarchitecture
+Intel hôm_qua khẳng_định sẽ có tên Vi kiến_trúc lõi ( Core Microarchitecture ) .
+Đồng_thời , họ cũng tiết_lộ một_số thông_tin về khả_năng hoạt_động và mức tiêu_thụ_điện của thiết_bị xử_lý nói trên tại Diễn_đàn các nhà phát_triển Intel ( IDF ) .
+
+Giám_đốc kỹ_thuật Justin Rattner cho_biết vi kiến_trúc mới sẽ hướng tới cả_hai mục_tiêu : điện_năng và vận_hành .
+" Nhiệt_lượng là biên_giới mới mà chúng_tôi quan_tâm trong mọi nền_tảng " , Rattner tuyên_bố .
+
+Core Microarchitecture là bước kế_tiếp của kiến_trúc NetBurst , nền_tảng cho .
+NetBurst chú_trọng tăng tốc_độ đồng_hồ nhưng nó làm tiêu_hao năng_lượng hơn mức bình_thường và Intel phải hủy_bỏ kế_hoạch nâng xung nhịp chip lên 4 GHz .
+
+Ba chip lõi kép hoạt_động với Core Microarchitecture là Conroe ( desktop ) , Merom ( laptop ) và Woodcrest ( server ) .
+Woodcrest sẽ tăng 80 % khả_năng vận_hành nhưng vẫn giảm 35 % điện_năng so với dòng Xeon 2,8 GHz lõi kép hiện_nay .
+Còn Conroe nâng hiệu_suất lên 40 % và tiết_kiệm 40 % năng_lượng so với Pentium D 950 lõi_kép .
+Trong_khi_đó , Meron mang đến mức hoạt_động tương_tự Core Duo T2600 .
+
+" Chúng_tôi đã và đang cạnh_tranh trong công_nghệ 65 nm .
+Từ nửa_sau 2007 , Intel sẽ chuyển sang kỹ_thuật 45 nm với cache tốc_độ cao và tích_hợp đa lõi trên một chip_đơn " , Rattner cho_biết .
+
+Cũng trong ngày hôm_qua , Intel trình_diễn hai thiết_bị 4 lõi mang tên Clovertown cho máy chủ và Kentsfield cho máy để_bàn .
+Cả hai được xây_dựng theo phương_pháp 65 nm và sẽ được xuất_xưởng vào_đầu 2007 .
+Rattner cho_rằng việc gấp_đôi lõi ( từ chip lõi kép năm 2006 lên 4 lõi trong năm tiếp_theo ) là quyết_định hợp_lý .
+Tuy_nhiên , họ sẽ không nhân lên 8 lõi vào 2008 , dù Sun Microsystems đã ra_mắt thiết_bị xử_lý 8 lõi , tên mã Niagara .
+
+Intel cũng khẳng_định chip tiêu_thụ điện_năng cực_thấp ( 31 watt ) Xeon LV Sossaman sẽ xuất_hiện ngay trong tuần_sau .
+Chip lõi kép này là dòng mới nhất dành cho máy_tính xách_tay .
+IBM đang dùng Xeon LV trong máy chủ BladeCenter .
+
+Bên_cạnh_đó , Intel cho_biết máy_chủ , ra_mắt cuối quý_II , sẽ hỗ_trợ công_nghệ ảo_hóa ( VT ) .
+AMD cũng giới_thiệu công_nghệ I / O tương_tự vào tháng 2 .
+
+Đồng_thời , Intel trình_diễn , phiên_bản thế_hệ mới của Centrino , như một sự_kết_hợp giữa chip dành cho thiết_bị di_động , chipset và công_nghệ 802.11n .
+Tuy_vậy , Wi - Fi chỉ_là một phần trong " tầm_nhìn không_dây " của Intel .
+Họ đang tiếp_tục phát_triển và vận_động để công_nghệ trở_thành chuẩn kết_nối diện rộng trong tương_lai .
+
+T.N. tổng_hợp

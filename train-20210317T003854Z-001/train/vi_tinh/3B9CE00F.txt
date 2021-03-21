@@ -1,0 +1,31 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/12/3B9CE00F/
+title=Dự thi TTVN: Giải pháp tiếng Việt cho máy Palm-OS 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN : Giải_pháp tiếng Việt cho máy Palm - OS
+" Trong vài năm tới , máy_tính cầm_tay Palm sẽ ngày_càng nhiều và màn_hình cảm_ứng sẽ trở_thành tiêu_chuẩn của tất_cả các loại máy_tính .
+Chúng_tôi xây_dựng bộ gõ tiếng Việt hoàn_chỉnh thực_sự cho Palm và tin_tưởng vào khả_năng ứng_dụng của giải_pháp này , Nguyễn_Khắc_Trọng và Vũ_Trung_Kiên , hai thành_viên của Vietpalm Group , cho VnExpress biết .
+
+Khi sử_dụng Palm - OS , Trọng và Kiên mới hiểu một trong những lý_do khiến Palm chưa thực_sự được người Việt_Nam ưa_chuộng là_vì chưa được hỗ_trợ tiếng Việt một_cách toàn_diện .
+Hiện chỉ có Vietkey4Palm là bộ gõ thông_dụng nhất dành cho máy_tính cầm_tay , nhưng hơi khó sử_dụng vì phải bỏ dấu trước nguyên_âm và chỉ xài được cho hệ_điều_hành Palm - OS 4.1 trở_xuống .
+
+Trọng và Kiên nhận_thấy vẫn có_thể sử_dụng phương_pháp gõ tiếng Việt truyền_thống trên bàn_phím ảo nhưng sẽ không_thể tận_dụng được khả_năng đặc_biệt của Palm là cảm_ứng .
+Tại_sao ta không tạo_ra một bàn_phím ảo mà trong_đó , thao_tác nhấn một phím ( gõ_phím ) và nhấn một phím đồng_thời kéo ( theo hướng bất_kỳ ) là khác_nhau ? .
+Hai bạn bắt_tay vào tìm thuật_toán để hiện_thực_hóa ý_tưởng về một giải_pháp tiếng Việt cho Palm - OS .
+
+Và kết_quả là trên bàn_phím ảo của Vietpalm , ngoài các ký_tự thông_thường còn có các ký_tự tiếng Việt đặc_trưng như â , ă , ơ Các ký_tự thì được gõ bình_thường như bàn_phím truyền_thống , bỏ dấu trên bàn_phím ảo bằng cách nhấn bút vào ký_tự nguyên_âm chủ_đạo và kéo_theo các hướng khác_nhau .
+VietPalm đã tận_dụng vùng Grafiti ( vùng nhận_dạng chữ viết_tay ) để hiển_thị bàn_phím ảo , kèm_theo phần_mềm VieTType là một con_tem ( stamp ) in sơ_đồ bố_trí các phím dán đè_lên vùng Grafiti .
+
+Nguyễn_Khắc_Trọng cho_biết so với các phương_pháp nhập_liệu truyền_thống thì phương_pháp máy_tính cầm_tay Palm - OS nhập liệu kiểu mới này có những ưu_điểm nổi_bật : tiện_lợi và tốc_độ ( chỉ cần một thao_tác ( nhấn hoặc nhấn - kéo ) cho bất_kỳ một nguyên_âm nào , trong_khi phương_pháp gõ truyền_thống như Telex , để có chữ ộ sẽ phải gõ hai lần vào phím o và một_lần vào phím " j " ( 3 thao_tác ) .
+Như_vậy , phương_pháp mới tiết_kiệm được thời_gian và thao_tác , giảm_thiểu nhầm_lẫn ) .
+Bên_cạnh_đó , phương_pháp gõ mới dễ làm_quen và nắm_bắt vì tính trực_quan và gần_gũi với cách viết_tay của người_Việt .
+
+Theo VietPalm Group , chính bộ gõ theo kiểu OPTI ( chứ không_phải kiểu QWERTY truyền_thống có thêm các ký_tự đặc_trưng tiếng_Việt ) mới có_thể đẩy_nhanh tốc_độ nhập liệu lên 35 % , thời_gian làm_quen nhanh hơn và khả_năng xuất_hiện lỗi thấp hơn .
+Các phím trên_bộ gõ OPTI được bố_trí căn_cứ vào tần_suất xuất_hiện của các ký_tự nên mỗi ngôn_ngữ sẽ có một bàn_phím OPTI riêng .
+Chúng_tôi đang nghiên_cứu và sẽ sớm cho ra_mắt bàn_phím OPTI của Việt_Nam , Kiên khẳng_định .
+
+Hai tác_giả thành_công khi tìm_kiếm một giải_pháp tiếng Việt toàn_diện cho Palm bao_gồm Font chữ_Việt và phần_mềm VietFont cho Palm - OS 5 .
+Phần_mềm này sẽ tác_động vào hệ_điều_hành , thay_đổi địa_chỉ bộ_nhớ nhằm kích_hoạt font tiếng_Việt , giải_quyết ổn_thoả vấn_đề hiển_thị tiếng Việt trên hệ_điều_hành Palm - OS 5.0 .
+Hiện VietPalm cũng hoàn_thành phiên_bản VietFont for OS 5.2 Với phầm_mềm này , chúng_tôi hy_vọng sẽ giúp cho máy_tính cầm_tay trở_thành một công_cụ hữu_ích với người Việt_Nam chứ không chỉ là một thứ đồ_chơi công_nghệ như lâu_nay - Trọng và Kiên tự_tin nói_với VnExpress .
+
+Ngọc_Hà

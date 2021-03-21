@@ -1,0 +1,28 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E533C/
+title=Dự thi TTVN 2005: Hệ thống công nghệ thông tin bác sĩ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN 2005 : Hệ_thống công_nghệ thông_tin bác_sĩ
+Sản_phẩm của nhóm Trường Sơn hình_thành từ ý_tưởng của hai thành_viên đầu_tiên Nguyễn_Huy_Dũng và Huỳnh_Anh_Vũ là làm_sao đưa CNTT vào bệnh_viện một_cách triệt_để , nâng_cao hiệu_suất lao_động , loại_bỏ thủ_tục hành_chính , đồng_thời phổ_cập kiến_thức y_tế tới cộng_đồng .
+
+Thời_gian sau_đó , Đinh Thư_Trang , Nguyễn_Thị_Nhật Ánh và Nguyễn_Thị_Thùy_Trang gia_nhập nhóm Trường Sơn .
+Dựa_trên thành_quả thu_được từ những công_trình nghiên_cứu về hệ_thống nhúng ( embedded system ) và công_nghệ mạng ( network technology ) trước_đây , sau 6 tháng làm_việc miệt_mài , Trường Sơn cho ra_đời   Hệ_thống công_nghệ thông_tin bác_sĩ .
+
+Sản_phẩm bao_gồm 3 thành_phần chính .
+Phần thứ_nhất là h ệ thống_thiết bị điện_tử thông_minh có thiết_bị đo nhịp_tim , huyết_áp , hàm_lượng khí bão_hoà trong máu và thiết_bị mạng ( network card ) .
+" T hiết bị y_tế của chúng_tôi áp_dụng nguyên_lý không xâm_lấn quang_học , nghĩa_là không làm_đau người_bệnh , khác_hẳn với các thiết_bị đã có_mặt trên thị_trường " , Nguyễn_Huy_Dũng trao_đổi .
+" Còn thiết_bị mạng thì có_thể sử_dụng như một modem để kết_nối vào mạng Internet hay như network card để kết_nối máy_tính vào mạng nội_bộ " .
+
+Phần thứ_hai là hệ_thống phần_mềm quản_lý bệnh_viện được xây_dựng trên nền_tảng công_nghệ .NET của Công_ty Microsoft , cho_phép các y bác_sĩ quản_lý nhiều hoạt_động khám_chữa_bệnh đa_dạng , tới từng giường_bệnh_nhân hoặc sắp_xếp lịch , công_tác khám_chữa_bệnh .
+" Chúng_tôi muốn đưa_ra khái_niệm : Trường Sơn State Machine , nghĩa_là máy trạng_thái Trường Sơn .
+Ở tầng ứng_dụng ( Application Layer ) , hệ_thống này loại_bỏ hoàn_toàn cố_gắng của hacker trong giai_đoạn đầu thăm_dò hệ_thống bằng các công_cụ như_map , hay những nỗ_lực của các con bọ điện_tử ( bot ) trên Internet thu_thập dữ_liệu bệnh_nhân để tiến_hành gửi spam " , Nguyễn_Huy_Dũng cho_biết .
+
+Module cuối cũng là phần_mềm di_động cho_phép người_sử_dụng điện_thoại tra_cứu thông_tin về 50 bệnh_viện trên địa_bàn Hà_Nội và các tỉnh lân_cận .
+Trường_hợp khẩn_cấp , người_dùng chỉ cần một cú bấm điện_thoại là đã có khả_năng liên_hệ với bệnh_viện thay_vì phải nhớ số hoặc hỏi tổng_đài 1080 .
+
+Nhóm tác_giả khẳng_định , với cơ_sở_dữ_liệu bao_gồm gần 200 bệnh_lý thông_thường phát_sinh trong hoàn_cảnh Việt_Nam như_cúm , ngộ_độc thịt_cóc , ngộ_độc sắn , người_sử_dụng điện_thoại di_động có_thể yên_tâm không_phải ghi_nhớ cách điều_trị , cách xử_lý hay các loại thuốc dành riêng cho từng loại bệnh .
+Bên_cạnh đó là hàng_loạt tính_năng : danh_bạ taxi , danh_bạ các tuyến xe_buýt ở Hà_Nội .
+
+Nhóm Trường Sơn có mong_muốn mang Hệ_thống Công_nghệ thông_tin bác_sĩ tham_dự cuộc_thi Microsoft Imagine Cup 2006 .
+
+N.H .

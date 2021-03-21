@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E5069/
+title=Bộ nhớ dung lượng 8 GB dành cho máy chủ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bộ_nhớ dung_lượng 8 GB dành cho máy_chủ
+Hãng điện_tử Hàn_Quốc Samsung đã sắp_xếp thành_công 32 chip DDR2 DRAM 2 Gb 80 nm trên hai lớp và tạo_nên một bản mạch bộ_nhớ ( memory module ) cho máy chủ có dung_lượng lớn nhất hiện_nay .
+
+Để xây_dựng module nhớ này , hãng sản_xuất DRAM Hàn_Quốc cho_biết họ đã sử_dụng FB - DIMM , công_nghệ mới được chấp_thuận rộng_rãi trong ngành_công_nghiệp bộ_nhớ .
+Nó có_thể xử_lý dữ_liệu nhanh gấp_hai lần so với R - DIMM hiện_nay và cho_phép các hãng sản_xuất kết_hợp chip bộ_nhớ đệm AMB cùng với những chip nhớ khác .
+
+Bảng mạch mới của Samsung phù_hợp với máy chủ dạng phiến_mỏng .
+Samsung sẽ phát_hành đồng loạt sản_phẩm 512 MB đến 8 GB nhằm chiếm_ưu_thế ngay từ_đầu trên thị trường FB - DIMM mới_nổi .
+
+Giá_thành và ngày chính_thức ra_mắt sản_phẩm vẫn chưa được tiết_lộ .
+Tập_đoàn sản_xuất chip Intel cũng tuyên_bố sẽ phát_hành mẫu FB - DIMM cho server trong năm tới .
+
+Hãng nghiên_cứu Gartner dự_đoán thị_trường DRAM cho máy chủ trên toàn thế_giới sẽ đạt 24,1 tỷ USD trong 2006 .
+
+T.N. ( theo EETimes )

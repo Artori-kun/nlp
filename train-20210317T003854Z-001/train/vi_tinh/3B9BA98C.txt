@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/03/3B9BA98C/
+title=Diệt virus bằng Panda ActiveScan 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Diệt virus bằng Panda ActiveScan
+Bạn nghi_ngờ ổ cứng của mình bị nhiễm virus hoặc Trojan ?
+Panda ActiveScan sẽ xuất_hiện kịp_thời để giúp_đỡ bạn .
+
+ActiveScan là một tiện_ích chống virus trực_tuyến , giúp bạn phát_hiện và diệt được khoảng 60.000 loại virus và Trojan .
+ActiveScan sử_dụng công_nghệ ActiveX của Microsoft và hoạt_động trong trình_duyệt của bạn .
+Dịch_vụ này được cập_nhật tối_thiểu 1 lần trong_ngày và có_thể scan e - mail cũng_như nén các file .
+
+Panda ActiveScan tương_thích với Win 9.x .
+
+Lưu_ý : ActiveScan là một dịch_vụ , không_phải là chương_trình download .
+Bạn có_thể sử_dụng miễn_phí dịch_vụ này .
+
+Thanh_Tú

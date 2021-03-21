@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DBA5F/
+title=IBM phát triển kiến trúc máy tính mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM phát_triển kiến_trúc máy_tính mới
+Một kiến_trúc phần_cứng mới mang tên X3 được " Big Blue " ra_mắt trong thời_gian tới sẽ giúp tăng_sức_mạnh cho bộ_vi xử_lý Xeon của Intel .
+Đây cũng sẽ là nền_tảng cho hệ_thống server trong tương_lai của công_ty máy_tính này .
+
+Sản_phẩm đầu_tiên , server xSeries366 ( x366 ) , là một hệ_thống gồm 4 bộ_vi xử_lý cao_cấp Xeon MP mới có tên mã là Cranford .
+
+Song_song với xSeries366 , IBM cũng giới_thiệu XA - 64e , một loại chipset mới có tên mã là Hurricane , được thiết_kế dành riêng cho kiến_trúc X3 .
+Những sản_phẩm mới này sẽ giúp IBM xây_dựng những server mạnh_hơn , có số_lượng bộ_vi xử_lý lên_đến con_số 32 .
+
+Sử_dụng công_nghệ từ các mainframe và siêu máy_tính dành cho doanh_nghiệp , IBM cho_biết kiến_trúc X3 mới này được thiết_kế nhằm tăng hiệu_suất cho chip Xeon của Intel trên hệ_thống nhiều vi xử_lý .
+Được phát_triển trong_vòng 3 năm với chi_phí lên_đến 100 triệu USD , đây là thế_hệ mới nhất của dòng sản_phẩm dành cho doanh_nghiệp mà IBM đã tung_ra từ năm 2001 .
+Công_ty này cũng xác_định sẽ sử_dụng X3 làm nền_tảng cho các hệ_thống trong tương_lai có_nhiều hơn 4 bộ_vi xử_lý Xeon .
+
+xSeries366 sẽ có_mặt trên thị_trường trong_vòng 90 ngày tới .
+Giá bán sẽ được IBM công_bố vào_dịp ra_mắt .
+
+Văn_Thắng ( theo TechWorld )

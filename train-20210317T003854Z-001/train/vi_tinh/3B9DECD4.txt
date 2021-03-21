@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DECD4/
+title=Yahoo ra mắt công cụ phân loại tìm kiếm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Yahoo ra_mắt công_cụ phân_loại tìm_kiếm
+Hãng dịch_vụ trực_tuyến khổng_lồ này lại cung_cấp dịch_vụ mới , cho_phép người_dùng tìm_kiếm và sàng_lọc kết_quả dựa_trên giá_trị về thông_tin hay thương_mại .
+
+Phiên_bản Beta mới ra_mắt tạo cơ_hội cho người_dùng tìm những gì họ cần theo một phong_cách hoàn_toàn mới_lạ , khác_hẳn những công_cụ search trực_tuyến đang thịnh_hành , luôn hiển_thị cả một loạt thông_tin không theo một trật_tự nào .
+
+Yahoo cho_biết Mindset hoạt_động dựa_trên quá_trình nhận_biết máy_móc , thực_hiện công_việc tìm_kiếm qua các thuật_toán để có_thể phân_cấp thông_tin từ " rất mang tính thương_mại " đến " không thiên về thương_mại " .
+Với công_cụ này , câu lệnh search có_thể được điều_chỉnh bằng cách di_chuyển điểm trượt trên đầu trang sang bên_trái hoặc phải để quyết_định kết_quả sẽ là commercial ( thương_mại ) hay informational ( thông_tin ) .
+
+" Đôi_khi bạn muốn mua một sản_phẩm , nhưng đôi_khi bạn chỉ cần tìm thông_tin về chúng .
+Các trang tìm_kiếm thông_thường luôn trộn_lẫn nhiều site với_nhau , sẽ rất khó cho bạn lấy_được thông_tin mong_đợi .
+Mindset thể_hiện nỗ_lực của Yahoo trong việc giải_quyết vấn_đề này " , Bernard Mangold , Giám_đốc Yahoo Research Labs , phát_biểu .
+
+Yahoo đã khá im_ắng trước_khi thông_báo về công_cụ cải_tiến mới này , trong_khi mới chỉ cách đây hơn một tuần Google đã cung_cấp dịch_vụ .
+
+Có_thể dùng dịch_vụ Mindset ngay tại trang web của Yahoo mà_không cần cài đặt thêm phần_mềm mới nào .
+
+Phương_Thuý ( theo The Inquirer )

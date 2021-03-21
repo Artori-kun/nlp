@@ -1,0 +1,22 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/02/3B9E66E0/
+title=Thư viện chứa 20.000 video cho PSP và iPod 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thư_viện chứa 20.000 video cho PSP và iPod
+Thiết_bị video cầm_tay chưa thực_sự phổ_biến một phần do có hợp_pháp dành_riêng cho chúng .
+Phần_mềm được coi là công_cụ phân_phối ngang_hàng ( peercasting ) đầu_tiên trên Internet với hàng nghìn video tương_thích và .
+
+Veoh ( do công_ty Veoh Networks của Mỹ cung_cấp ) tích_hợp với chương_trình Sony PSP Media Manager , sẽ tự_động tải video tới đầu máy chơi game cầm_tay PSP dễ_dàng mỗi khi thiết_bị được nối với máy_tính của người_sử_dụng .
+
+Trong những tháng gần_đây , trào_lưu và đăng_tải trên Internet tăng_mạnh , một phần do sự_phổ_biến của những sản_phẩm di_động có khả_năng nối mạng và phát những đoạn video chất_lượng cao , như PSP và iPod video .
+Mạng peercasting của Veoh Networks phân_phối video theo kích_thước màn hình_chuẩn , chất_lượng tương_đương độ_phân_giải TV và có_thể phát trên PC , Mac hoặc các sản_phẩm cầm_tay khác .
+
+" Đây là đề_tài được khách_hàng quan_tâm do nhiều thiết_bị video đã và sẽ ra_đời từ sau hội_chợ điện_tử tiêu_dùng đầu tháng tại Las Vegas ( Mỹ ) " , Dmitry Shapiro , Giám_đốc điều_hành của Veoh Networks , nói .
+" Phần_mềm Veoh được xây_dựng với mục_đích làm phong_phú thêm khả_năng lựa_chọn nội_dung của người tiêu_dùng " .
+
+Chương_trình Veoh cũng có_thể được cài trên PC hoặc Mac để tạo_thành một mạng TV ảo , cho_phép chủ_sở_hữu , nhà_sản_xuất độc_lập và các xưởng_phim ... có_thể cung_cấp video chất_lượng chuẩn tới hàng trăm triệu người_sử_dụng kết_nối băng_thông rộng .
+
+Đặc_biệt , không như mạng P2P thông_thường chủ_yếu được sử_dụng để chia_sẻ video lậu , Veoh được coi là cộng_đồng chung của nhà_sản_xuất và người tiêu_dùng , trong_đó nội_dung đăng lên đều đã được đảm_bảo tính hợp_pháp .
+Phần_mềm còn kết_hợp chặt_chẽ với công_nghệ để phân_phối video tới nhiều hệ_thống giải_trí khác_nhau .
+
+T.N. ( theo Reg Hardware )

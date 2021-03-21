@@ -1,0 +1,155 @@
+url=http://www.vnexpress.net/Vietnam/Xa-hoi/Giao-duc/2002/04/3B9BAD11/
+title=Dạy toán - suy nghĩ từ kinh nghiệm của các nước 
+cat=XA-HOI|GIAO-DUC
+
+Dạy_toán - suy_nghĩ từ kinh_nghiệm của các nước
+Tác_giả Phạm_Việt_Hưng điểm lại sự_thất_bại của chương_trình giảng_dạy " toán_học mới " trong trường phổ_thông của nhiều nước .
+Theo ông , việc áp_dụng tràn_lan phương_pháp toán_học hình_thức vào giáo_dục là một việc_làm phản sư_phạm , dẫn đến hậu_quả thụt_lùi trong việc dạy và học môn_toán .
+
+Trong " thời_buổi kỹ_trị " ngày_nay , khoa_học nói_chung và toán_học nói_riêng nhiều lúc đã được tôn_sùng như " thái thượng_hoàng " trong vương_quốc các hoạt_động trí_tuệ của loài_người .
+Vì_thế , không_có gì để ngạc_nhiên khi thấy vấn_đề giáo_dục toán_học bỗng_nhiên trở_thành một trong các đề_tài được bàn_cãi sôi_nổi nhất trên khắp toàn_cầu .
+Những năm gần_đây , cuộc bàn_cãi đó đã đi đến những tổng_kết quý_giá :
+Trong một chừng_mực đáng_kể , xuyên_suốt nhiều thập_kỷ của thế kỷ XX , nền toán_học và giáo_dục toán_học toàn_cầu đã xa_rời mục_tiêu hiện_thực - mục_tiêu " bẩm_sinh " của toán_học - để hướng tới ước_muốn chủ_quan của một số_nhà toán_học - ước_muốn xây_dựng toán_học như một lâu_đài pha_lê trong_suốt , rực_rỡ , không_hề bị gợn đục bởi bất_kỳ một mệnh_đề phi logic nào .
+Ước_muốn đó đã chắp cánh cho chủ_nghĩa toán_học hình_thức ( formalism ) và cho nền toán_học mới ( new mathematics ) .
+May_mắn thay , sự_thất_bại của nền giáo_dục toán_học gần_đây ở nhiều nước như Mỹ , Anh , Pháp , v.v. đã thức_tỉnh các nhà_khoa_học và giáo_dục .
+Hơn bao_giờ hết , họ nhận_ra ý_nghĩa của khoa_học và giáo_dục là ở chỗ biết phân_biệt ranh_giới giữa ước_muốn với hiện_thực , giữa cái " khả_thi " ( possibility ) với cái " bất_khả_thi " ( impossibility ) mà Kurt Godel đã lưu_ý từ hơn 70 năm trước_đây sau khi công_bố Định_lý về tính bất_toàn ( Theorem of Incompleteness ) nổi_tiếng , một định_lý đã làm thay_đổi nhãn_quan toán_học .
+
+Do_đó , sẽ không_thể có một cái nhìn tổng_quan và chính_xác về giáo_dục toán_học nếu không kiểm_điểm lại đôi nét lịch_sử toán_học và giáo_dục toán_học .
+
+1. Nền " toán_học mới " và hậu_quả của nó
+Bách_khoa toàn_thư Americana 1999 của Mỹ viết : " Vào những năm 60 và 70 ( thế kỷ XX ) đã dấy lên một phong_trào dạy toán kiểu mới tại các trường tiểu_học và trung_học , được gọi_là Toán_học mới .
+Thực_ra chẳng có một thứ toán_học mới nào_cả , mà chỉ có cái mới trong chương_trình toán đưa_vào các trường phổ_thông mà_thôi .
+Trong số các môn được đưa_vào giảng_dạy có Lý_thuyết tập_hợp và Logic sơ_cấp , các hệ_thống số khác_nhau , các hệ đếm khác_nhau , và môn số_học đồng nhất mô - đun ( modular consistency arithmetic ) .
+Có sự_kết_hợp hình_học với đại_số , và việc sớm đưa các tư_tưởng hình_học vào hệ_thống giáo dục. ý_đồ đưa tư_duy phê_phán vào giáo_dục cũng_được chú_trọng .
+Câu_hỏi tại_sao một phương_pháp được áp_dụng được nhấn_mạnh nhiều hơn là phương_pháp ấy được áp_dụng như_thế_nào .
+Học_sinh được khuyến_khích hiểu các khái_niệm hơn là học thuộc các quy_tắc .
+Lối học theo kiểu nhắc_lại và học thuộc_bài không_được hoan_nghênh .
+Việc chính_xác_hóa các biểu_thức và biện_luận các bước biến_đổi đại_số được đặc_biệt chú_ý .
+Đồng_thời người_ta cổ_vũ học_sinh tự_phát_minh và dạy_học_sinh cách nhận_biết mô_hình trợ_giúp phát_minh .
+Khi phương_pháp mới này được tiến_hành , chương_trình Toán_học mới được hỗ_trợ mạnh_mẽ bởi các nhà hàn_lâm , mặc_dầu cũng có những chống_đối biểu_hiện rõ_ràng .
+Tuy_nhiên đến thập_kỷ 80 thì các nhà quan_sát thấy rõ rằng chương_trình này còn xa mới đạt được những điều nó hứa_hẹn .
+Tình_trạng mù toán_học ( mathematical illiteracy ) là phổ_biến , và rõ_ràng là các quốc_gia khác , như Nhật_Bản hay Liên_Xô , có học_sinh được đào_tạo tốt_hơn .
+Mặc_dù lý_do thất_bại của chương_trình này khá phức_tạp , nhưng đã có_thể nêu_lên một số đánh_giá khái_quát .
+Việc đào_tạo giáo_viên cho một chương_trình có tầm_cỡ như_vậy được thực_hiện rất hạn_chế , rồi bỏ_mặc nền giáo_dục cho những giáo_viên mà chính họ cũng không hiểu_thấu những kiến_thức này .
+Việc không chú_ý tới cách học thuộc_bài tỏ_ra phản sư_phạm : chẳng_hạn , ít_nhất thì việc cần phải làm_phép_tính : 1/2 + 2/3 = ? cũng quan_trọng ngang với việc giải_thích ý_nghĩa của phép_tính đó .
+Việc nhấn_mạnh đến các môn_học khó_hiểu như Lý_thuyết tập_hợp tỏ_ra phản tác_dụng khi mà việc ứng_dụng các kiến_thức đó cũng còn rất hạn_chế ngay_cả đối_với những nhà_toán_học và khoa_học thực_hành .
+Chương_trình quá chú_trọng tới toán_học ở trình_độ cao này dẫn tới sự_trả_giá là mất kiến_thức cơ_bản " .
+
+Theo Reuben Hersh , giáo_sư Đại_học New Mexico , việc áp_dụng chủ_nghĩa hình_thức trong toán_học đã để_lộ_ra rằng người_ta đã không hiểu ngay chính_bản_chất toán_học là_gì .
+Trong cuốn Thực_ra toán_học là_gì ? ( 2 ) xuất_bản năm 1998 , Hersh viết : " Những người theo chủ_nghĩa hình_thức trong việc trình_bày toán_học có ảnh_hưởng lớn nhất_là nhóm Nicolas Bourbaki .
+Dưới bút_danh này họ đã xuất_bản những bài giảng dành cho đối_tượng học_sinh đã tốt_nghiệp tạo_nên một ảnh_hưởng rộng_khắp thế_giới trong những năm 1950 và 1960 .
+Phong_cách toán_học hình_thức đã nhỏ_giọt xuống sự_giảng_dạy đối_với học_sinh các lớp_dưới và thậm_chí cho các lớp mẫu_giáo , với bài giảng về Lý_thuyết tập_hợp dành cho trẻ_em trước tuổi đến trường .
+Một trò_chơi gọi_là " WFF và chứng_minh " được dùng để hỗ_trợ trẻ_em đang ở tuổi đi_học tiếp_thu " công_thức biểu - diễn - đâu - ra - đấy " ( well formed formulas , viết tắt là WFF ) thích_hợp với logic hình_thức " .
+Hersh cho_biết : " Những năm gần_đây , một phản_ứng chống_lại chủ_nghĩa hình_thức đang tăng_lên .
+Có một sự_quay trở_về cái cụ_thể và ứng_dụng .
+Có một sự_coi_trọng nhiều hơn đối_với mẫu toán cụ_thể với sự_trình_bày hình_thức kém phần chặt_chẽ hơn ...
+Dấu_hiệu cho_thấy triết_học hình_thức đang mất_dần vị_thế uy_tín của nó " .
+
+Tuy_nhiên , đà xuống_dốc đến nay vẫn chưa hãm_được .
+Hersh muốn đánh_động chúng_ta phải chú_ý tìm_hiểu ý_nghĩa thực_sự của toán_học , nếu không sẽ có nguy_cơ thất_bại tiếp_tục : " Nước_Mỹ đang có_nạn " mù khoa_học " ( innumeracy ) trong quảng_đại quần_chúng , nạn " trốn_tránh môn_toán " ( math avoidance ) trong học_sinh phổ_thông trung_học , và 50 % sinh_viên cao_đẳng thi_trượt môn vi_tích_phân .
+Nguyên_nhân bao_gồm thiếu kinh_phí cho nhà_trường , sự_mòn_mỏi tinh_thần vì xem tivi , cha_mẹ học_sinh không ưa_thích môn_toán .
+Nhưng có một nguyên_nhân khác dẫn tới thất_bại trong giảng_dạy toán_học mà_không mấy ai biết , đó là sự_thiếu hiểu_biết về bản_chất của toán_học " .
+
+Tổ_chức hợp_tác và phát_triển kinh_tế thế_giới OECD đã đánh_giá trong báo_cáo năm 1998 : " Nước_Mỹ đã mất vai_trò dẫn_đầu trong giáo_dục " .
+William Schmitt , giáo_sư về giáo_dục_học tại Đại_học Michigan lên_tiếng : " Vấn_đề là_phải xét_lại xem chúng_ta giảng_dạy thế_nào " .
+Trong diễn_văn tường_trình trước Quốc_hội Mỹ về thành_tựu năm 1998 và vạch_đường lối năm 1999 , Tổng_thống Bill Clinton đã tỏ_ra lo_lắng nhiều về tình_hình giáo_dục , đòi các tiểu_bang phải chịu_trách_nhiệm trước kết_quả học_tập của học_sinh , học_sinh kém nhất_thiết không cho lên_lớp hoặc tốt_nghiệp , nâng_cao chất_lượng sư_phạm bằng cách sát_hạch kỹ giáo_viên mới ra trường ...
+
+Tại Pháp , bà Stella Baruk , nhà_sư_phạm nổi_tiếng , đã ra một " tuyên_ngôn " hùng_hồn " Vì một nền toán_học không thất_bại " ( Pour des Maths sans échc ) trên L ' Express 10-11-1992 , trong_đó chỉ ra những sai_lầm tai_hại của phương_pháp " toán_học mới " .
+Bà cho_biết , ngành giáo_dục Pháp đã tiến_hành điều_tra kết_quả lối dạy toán kiểu mới này , kết_quả thật thảm_hại .
+Một bài_toán được nêu_lên với các em học_sinh 9 tuổi đại_ý như_sau : Trên một con_thuyền có 28 con cừu và 9 con_dê , hỏi tuổi của vị thuyền_trưởng là bao_nhiêu ?
+9 % các em học_sinh được hỏi đều trả_lời hồn_nhiên : 37 .
+Các em đã làm một_phép " ánh_xạ " các phần_tử 28 và 9 lên một phần_tử thứ_ba là 37 , không_cần biết ý_nghĩa vật_chất thật_sự của các đối_tượng trong phép_toán đó là cái_gì , đúng như tinh_thần hình_thức đã được đem_ra giảng_dạy cho các em ( 3 ) .
+
+Một nhân_vật nổi_tiếng khác của Pháp , Pierre Gilles de Genes , người đoạt_giải Nobel vật_lý năm 1991 , hiệu_trưởng Đại_học lý hóa Paris , đã lên_tiếng khẩn_thiết trong cuốn Những mục_tiêu bấp_bênh mà tờ Le Figaro Magazine đã trích_đăng ngày 5-11-1994 .
+Ông nói : " Tôi không hài_lòng với hệ_thống giáo_dục của chúng_ta ...
+Nhà_trường chỉ mang lại cho học_trò một mớ lý_thuyết , những cung_cách suy_nghĩ và nhưng thói_quen rập_khuôn xơ_cứng " .
+
+Cần chú_ý rằng Pháp là nước tiên_phong trong phong_trào " Toán_học mới " , nhưng cũng là nước tiên_phong phê_phán phong_trào " Toán_học mới " .
+Nhưng buồn_thay , Stella Baruk nói , Bộ Giáo_dục Pháp đã tảng_lờ trước những ý_kiến chỉ_trích đòi nhanh_chóng thay_đổi .
+Tuy_nhiên , bà nói , gần_đây người_ta lẳng_lặng trở_về với phương_pháp truyền_thống , đơn_giản vì phương_pháp hình_thức đã thất_bại .
+
+Tôi không có tài_liệu cụ_thể về Anh , nhưng hai câu_chuyện thật , xin kể_lại .
+Một người_bạn tôi tên là X , trong một buổi tiếp_khách ngoại_giao , anh nói_với Đại_sứ Anh : " Nước_Anh là nước có nền giáo_dục tốt nhất thế_giới " .
+Viên Đại_sứ mỉm_cười nói : " Ông quên không nói_là nền bóng_đá Anh cũng nhất thế_giới " , rồi vượt_qua ranh_giới xã_giao , viên Đại_sứ nói_tiếp : " Đó là nhìn từ bên_ngoài vào .
+Chúng_tôi biết rõ mình hơn .
+Nền giáo_dục của chúng_tôi có lắm_chuyện phải xem_xét lại lắm ... " .
+Một bạn khác của tôi , bác_sĩ D.T.H đang sống và làm_việc ở London , có con đang học lớp 11 , viết thư cho tôi : " Các cháu học_hành rất khổ_sở , vì chương_trình trong sách_giáo_khoa viết rất cao , nhưng thầy giảng tại lớp thì chỉ nói_qua_loa , đại_khái , bắt học_trò phải tự nghiên_cứu .
+Đa_số các cháu không đủ_sức tự nghiên_cứu " .
+
+2. Việt_Nam và nền " toán_học mới "
+Khi tôi còin là sinh_viên Đại_học Tổng_hợp Hà_Nội , " ngọn gió Bourbaki " thổi vào Việt_Nam khá mạnh .
+Cố giáo_sư Bộ_trưởng Tạ Quang_Bửu đã viết một cuốn_sách giới_thiệu Bourbaki , chúng_tôi ngốn_ngấu đọc , mặc_dù không hiểu mấy. ở trường , may_mắn thay , " sức_ỳ của quán_tính " mạnh_hơn , phương_pháp_học truyền_thống vẫn được duy_trì , mặc_dù các môn_học toán lý_thuyết đã có_vẻ được đề_cao hơn .
+Thế_hệ chúng_tôi ngưỡng_mộ Bourbaki như " Euclid của thế kỷ XX " , nhưng chúng_tôi không buộc phải học và trình_bày toán_học bằng các ngôn_ngữ nghiêm_khắc và lạnh_lùng của toán_học hình_thức .
+Trong_khi_đó , theo chỗ tôi biết , " Toán_học mới " đã chính_thức được áp_dụng cho các lớp 11 , 12 của Sài_Gòn trước 1975 , và chương_trình " Toán_học mới " bắt_đầu thâm_nhập thực_sự vào chương_trình giáo_dục toàn_quốc từ khoảng 15 năm trước_đây , khi chúng_ta chính_thức thay_đổi sách_giáo_khoa toán .
+Các khái_niệm trừu_tượng mà thế_hệ tôi được học ở đại_học ( ngành toán tổng_hợp ) thấy xuất_hiện trong các sách_giáo_khoa lớp 6 , lớp 7 .
+Một bạn tôi là tiến_sĩ toán đến_thăm tôi đúng_lúc tôi đang dạy một_số em nhỏ lớp 7 các hệ đếm nhị_phân , La_Mã , chuyển_đổi các con_số trong các hệ đếm_đó .
+Anh hoảng_sợ nói_với tôi : " Tại_sao lại bắt các cháu học cái_đó ?
+Bắt tôi viết số 1985 bằng số La_Mã ngay_bây_giờ tôi cũng_chịu " .
+Tôi thanh_minh với anh rằng đó là ý_muốn của nhà_trường , tôi phải giúp các em làm_sao đối_phó được với nhà_trường , nếu_không thì nguy cho việc lên_lớp của các em .
+Và tôi cũng đã từng khổ_sở làm_sao giảng cho các em_bé lớp 7 khái_niệm hàm_số như_là " ánh_xạ một một " với ký_hiệu f ... - > Hồi_đó tôi chưa có đủ_tài_liệu để thấy rõ mọi điều như bây_giờ , nhưng trực_giác đã xui_khiến tôi luôn_miệng phàn_nàn rằng đó là chuyện phản sư_phạm .
+Trong trường_hợp này trực_giác có_lý .
+Những giáo_viên khác thì sao ?
+Một_số có_thể vì quá say_sưa với cái đẹp của lý_thuyết cao_siêu mà quên_đi lời_dạy của Pericles , nhà_sư_phạm lỗi_lạc cổ Hy_Lạp : " Nếu bạn không_biết cách làm_thế_nào để chia_sẻ kiến_thức thì cũng dường_như bạn chẳng biết gì_cả " .
+Số này là những người theo Bourbaki một_cách ngay_thật .
+Một_số khác có_thể cũng thấy rõ phương_pháp mới là dở , nhưng vì những lý_do cá_nhân nên im_lặng thực_hiện .
+Một_số khác nữa , có_thể là số_đông , không có quan_điểm riêng .
+Tuy_nhiên tất_cả chúng_ta đều đáng được thông_cảm , bởi_vì các giáo_sư lỗi_lạc trên thế_giới còn nhầm_lẫn nữa cơ mà .
+Nhưng nay tình_hình đã thay_đổi .
+Phương_pháp " Toán_học mới " đã chính_thức phá_sản .
+Chúng_ta may_mắn tiếp_thu phương_pháp toán_học hình_thức khá muộn so với thế_giới , nhưng sẽ không_may_mắn tí nào nếu chúng_ta tỉnh_ngộ quá muộn so với sự_tỉnh_ngộ của thế_giới .
+
+Tiến_sĩ Phan_Huy_Điển , trong một bài in trên Nhân_Dân đã viết " Một_số_người làm_cho nó ( môn_toán ) ngày_càng trở_nên nặng_nề , khó tiếp_thu " .
+Theo tôi , đấy chính là hậu_quả của nền " Toán_học mới " , với sự_đề_cao thái_quá các suy_luận lắt_léo đòi_hỏi " trí_khôn hơn người " , làm thui chột những tâm_hồn vốn sẵn_sàng hưởng_ứng cái hấp_dẫn chân_chính của toán_học .
+
+Tạp_chí New Scientist ngày 26-2-2000 lưu_ý độc_giả cần phân_biệt " trust " với " truth " ( niềm_tin và sự_thật ) .
+Nếu một lý_thuyết không_được kiểm_nghiệm bằng sự_thật ( thực_tiễn ) thì nó chưa phải là khoa_học , mà quá_lắm mới chỉ_là một niềm_tin mà_thôi .
+Sự_thất_bại của " Toán_học mới " ở phương_Tây cho_thấy ý_đồ đảo_lộn hệ_thống sư_phạm chỉ_là một " niềm_tin " hão_huyền .
+Người Việt_Nam chúng_ta càng nhanh_chóng ra khỏi sai_lầm của nền giáo_dục toàn_cầu này sớm chừng_nào hay chừng_ấy .
+
+3. Xu_thế mới hiện_nay
+Tôi chưa đủ_tài_liệu để đánh_giá , nhưng sơ_bộ nhận_thấy có một sự_mất phương_hướng .
+Có chỗ người_ta chưa ra khỏi phương_pháp cũ , có chỗ lại đoạn_tuyệt với cái cũ một_cách không thương_tiếc và có nguy_cơ lạc_vào một hướng sai_lầm của chủ_nghĩa thực_dụng thô_thiển .
+Chẳng_hạn , có sự_biến_mất của Euclid trên các trang giáo_khoa hình_học ở Australia , mà 15 năm trước_đây từng được giới_thiệu rất hệ_thống .
+Không_thể hiểu nổi tại_sao trong_khi báo_chí sách_vở hiện_nay ca_ngợi Einstein hết_lời , kể rằng Albert Einstein từng gọi Hình_học Euclid là " cuốn_sách hình_học thiêng_liêng " ( the holy geomtry book ) ( 4 ) , và phân_tích rằng Thuyết tương_đối của Einstein là sự_kết_hợp của hình_học không - thời_gian với lý_thuyết hấp_dẫn ( 8 ) , thì sách_giáo_khoa lại làm biến_mất Euclid .
+Người_ta chỉ nhắc tới độc_nhất Định_lý Pythagoras , và nhắc đi nhắc_lại suốt từ lớp 7 đến lớp 12 ( ? ) .
+Phương_pháp suy_diễn ( deduction ) chỉ được bàn tới với tỷ_lệ rất nhỏ trong chương_trình .
+Học_sinh không_hề biết đến Euclid , càng không_biết phương_pháp tiên_đề của Euclid , thậm_chí không_hề biết gì về Tiên_đề đường song_song , mặc_dù không_thể thoát được bài_tập đụng đến tính_chất song_song .
+Có một loạt_chuyện " kỳ_lạ " khác mà tôi hy_vọng có dịp được trao_đổi cụ_thể với những tác_giả viết sách_giáo_khoa trong_nước .
+Về sự_biến_mất của Euclid , có_lẽ , vì người_ta nhầm_tưởng Euclid là " thủ_lĩnh " của chủ_nghĩa hình_thức , bởi_lẽ ông là người sáng_tạo phương_pháp tiên_đề .
+Nay cần loại_bỏ chủ_nghĩa này thì loại_bỏ luôn_vị " thủ_lĩnh " cùng phương_pháp tiên_đề của ông .
+Dường_như Reuben Hersh đã đoán_trước được những nhầm_lẫn tai_hại đó nên đã mất_công chứng_minh hùng_hồn rằng Euclid hoàn_toàn khác Hilbert trên góc_độ thế_giới_quan .
+Euclid là con_người duy_vật 100 % khi đòi_hỏi các hình_họa cụ_thể để mô_tả các quan_hệ logic suy_diễn , cái mà Hilbert không_cần .
+Trong_khi_đó , Hilbert là đại_diện điển_hình của chủ_nghĩa duy_tâm khoa_học khi tin rằng tồn_tại một hệ_thống khoa_học logic suy_diễn thuần túy thoát_ly hoàn_toàn thế_giới vật_chất cụ_thể .
+Việc giảm_thiểu hoặc thậm_chí loại_bỏ Euclid là một căn_bệnh " ấu_trĩ tả_khuynh " phát_sinh từ sự " dị_ứng " với chủ_nghĩa hình_thức .
+Có người không tán_thành nhận_xét này , mà quy_kết ngược_lại rằng đó chính là biểu_hiện của chủ_nghĩa hình_thức với sự_đề_cao phương_pháp giải_tích trong hình_học , xem_thường phương_pháp hình_học có_hình .
+Sự_quy_kết này cũng rất có_lý .
+Đằng_nào thì sự_tước_bỏ Euclid trong chương_trình cũng là một sai_lầm có nguồn_gốc trực_tiếp hoặc gián_tiếp từ sự_bành_trướng tai_hại của chủ_nghĩa hình_thức .
+Tóm_lại , nền sư_phạm toán_học trước_đây vốn đang phát_triển ổn_định như một con_lắc dao_động nhẹ_nhàng quanh vị_trí cân_bằng .
+Bỗng " Toán_học mới " hích rất mạnh làm con_lắc dao_động với biên_độ lớn .
+Từ cực_hữu - chủ_nghĩa hình_thức toán_học có nguy_cơ nhảy sang cực_tả - chủ_nghĩa thực_dụng thô_thiển .
+
+5. Kết_luận
+Bài này không có mục_đích đánh_giá Hilbert .
+Không_nên nhầm_lẫn những đóng_góp vĩ_đại của Hilbert cho toán_học với chủ_nghĩa hình_thức toán_học mà Hilbert là " lãnh_tụ " .
+Ngay_cả sự_thất_bại của Hilbert đối_với chương_trình tiên_đề_hóa toàn_bộ toán_học cũng vẫn được Gregory Chaitin ca_ngợi là một " thất_bại vinh_quang , kỳ_lạ " ( a tremendous , glorious failure ! " .
+Chaitin còn nhấn_mạnh rằng phương_pháp của Hilbert có tầm_quan_trọng rất lớn đối_với khoa_học lập_trình , đối_với việc tính_toán bằng computer ... " .
+
+Bài này chỉ nhấn_mạnh một ý : Việc áp_dụng tràn_lan phương_pháp toán_học hình_thức vào giáo_dục là một việc_làm phản sư_phạm , dẫn đến hậu_quả thụt_lùi trong việc dạy và học môn_toán .
+Yếu_tố quyết_định làm_cho học_sinh yêu_thích hay chán_ghét môn toán không nằm ở đâu_khác , mà ở chính trong tay các nhà_sư_phạm , trước_hết là những người biên_soạn chương_trình , sau_đó là những người trực_tiếp đưa chương_trình đó đến tay học_sinh .
+
+Không có sự_nghiệp nào vinh_quang bằng sự_nghiệp_sư phạm trên con_đường dẫn_dắt các thế_hệ mai_sau , và cũng không có sự_nghiệp nào có trách_nhiệm nặng_nề như sự_nghiệp_sư_phạm trong việc đào_tạo ra những nhân_tài tương_lai của đất_nước .
+Nhưng sự_nghiệp ấy chỉ có_thể thành_công khi ước_muốn của các nhà_sư_phạm phù_hợp với hiện_thực .
+
+Phạm_Việt_Hưng ( Văn_nghệ , Nhân_Dân )
+Chú_thích :
+( 1 ) Bài_viết gồm 4 tiểu_mục chính và mục kết_luận .
+Vì khuôn_khổ tờ_báo , chúng_tôi xin lược bỏ phần_đầu - Lịch_sử chủ_nghĩa toán_học hình_thức vì đi_hơi sâu vào chuyên_ngành , do_vậy bài_viết còn 4 phần ( TS ) .
+
+( 2 ) " What is Mathematics , Really ? " của Reuben Hersh , do Vintage xuất_bản năm 1998 tại London , Anh.
+( 3 ) Bài_báo này tôi đã đọc năm 1995 .
+Hiện không có trong_tay .
+Chi_tiết số_liệu trong bài_toán có_thể thiếu chính_xác đôi_chút , nhưng nội_dung đã nêu hoàn_toàn không thay_đổi so với nguyên_gốc .
+Đã giới_thiệu tóm_tắt trên Tạp_chí Nghiên_cứu Giáo_dục ở Hà_Nội năm 1995 .
+
+( 4 ) Xem " Heisenberg Probably Slept Here " của Richard Brennan , J.Wiley & Sons , Inc , xuất_bản 1997
+( 5 ) Xem " Can Physics Be Unified ? " của Steven Weiberrg trên Scientific American tháng 12 năm 1999 .

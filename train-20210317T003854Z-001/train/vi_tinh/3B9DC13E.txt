@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC13E/
+title=Sony ra mắt 3 loại Walkman mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sony ra_mắt 3 loại Walkman mới
+Hãng sản_xuất thiết_bị điện_tử Nhật_Bản vừa tung_ra thêm 3 serie mới của máy_nghe nhạc Walkman , sử_dụng bộ_nhớ flash dung_lượng từ 256 MB đến 1 GB , với hình_dáng và màu_sắc rất hấp_dẫn .
+
+Các dòng_máy này đều được trang_bị màn_hình phát_quang hữu_cơ ( Organic Electronic Luminescence - OEL hay còn gọi_là OLED ) và loại pin Stamina dung_lượng lớn do chính Sony phát_triển , sử_dụng liên_tục trong thời_gian dài và có_thể nạp lại rất nhanh .
+Ngoài_ra , những sản_phẩm mới này đều có khả_năng đọc các file định dạng ATRAC3 plus và MP3 .
+
+Serie NW - E100 gồm 3 model với 6 màu khác_nhau , bao_gồm NW - E103 , NW - E105 và NW - E107 , dung_lượng lần_lượt là 256 MB , 512 MB và 1 GB .
+Thiết_kế gọn_gàng , dễ sử_dụng , màn hình thể_hiện tên bài_hát , tác_giả và album của bản_nhạc đang chơi .
+Pin sử_dụng trong model này có khả_năng nghe liên_tục trong_vòng 70 giờ .
+
+Được thiết_kế bằng những loại vật_liệu bền như acrylic và kim_loại tráng_kẽm , serie NW - E400 bao_gồm NW - E4003 ( 256 MB ) , NW - E405 ( 512 MB ) và NW - E407 ( 1 GB ) , có các màu_sắc gồm_đen , xanh_lá_cây , xanh da_trời và đỏ , đều được trang_bị màn_hình OEL thể_hiện được 3 dòng text , sáng và rõ nét cả ban_ngày lẫn trong bóng_tối .
+Các model này đều được tích_hợp loại pin lithium - ion có_thể nghe trong_vòng 50 giờ và xạc nhanh với thời_gian 3 phút để sử_dụng trong 3 giờ .
+
+Ngoài những tính_năng giống như serie NW - E400 , dòng NW - E500 còn có thêm tính_năng nghe FM và khả_năng nạp pin bằng nguồn_điện của cổng USB .
+
+Những thiết_bị mới này đều được trang_bị phần_mềm quản_lý âm_nhạc SonicStage 3.0 , cho_phép chuyển_đổi và quản_lý các file từ đĩa CD cũng_như MP3 , truy_cập vào kho âm_nhạc trực_tuyến của Sony với khoảng 500.000 bài_hát .
+
+Văn_Thắng ( theo Geekzone )

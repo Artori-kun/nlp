@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DDF70/
+title=Google Web Accelerator tăng độ tin cậy kết quả search 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google Web Accelerator tăng độ_tin_cậy kết_quả search
+Các trang_tin " linh_tinh " không theo đúng ý mình hiện_ra trên cửa_sổ tìm_kiếm luôn làm_người sử_dụng bực_bội .
+Google vừa đưa_vào thử_nghiệm một tiện_ích mới với mục_đích giúp khách_hàng hài_lòng hơn về chất_lượng nguồn_tin .
+
+Dịch_vụ của Google trước_đây tìm_ra kết_quả tương_ứng với từ_khóa , nhưng để lẫn_lộn các trang tin chính_thống với những nguồn_tin không_đáng tin_cậy .
+Nếu một nguồn_tin không nổi_tiếng bằng những trang tin chính_thống mà_lại có những tin " nóng " nhất thì có_thể vẫn được xếp lên trên .
+Còn hiện_nay Google đang bắt_đầu phân_loại theo chất_lượng nguồn_tin .
+Các yếu_tố chất_lượng bao_gồm : lượng tin hay được đăng_tải , ý_kiến đánh_giá của các chuyên_gia và độc_giả về nguồn_tin , tốc_độ truy_cập , số_lượng bạn_đọc , đội_ngũ phóng_viên , phạm_vi viết tin bài ... của trang web .
+
+Với phiên_bản thử_nghiệm này ( tham_khảo   ) thì Google có_thể tìm được 4.500 nguồn_tin , sắp_xếp theo tiêu_chí cập_nhật nhanh và được bạn_đọc yêu_thích .
+Những nhà quan_sát nhận_định rằng Google đang phải phụ_thuộc nhiều hơn vào những nhà_cung_cấp nguồn_tin .
+Một_số đối_tác hiện_nay của Google là hãng tin ABC , Voice of America ,   Christian Science Monitor , World Peace Herald , Xinhua ( Tân_Hoa_Xã - Trung_Quốc ) , Reuters , Bloomberg   và   Los Angeles Times .
+Google gần_đây với tin_tức của hãng AFP ( Pháp ) và " Sách_trắng " Vanguard sau_khi bị kiện_tụng về vấn_đề bản_quyền .
+
+Sự_xuất_hiện phiên_bản Google Web Accelerator không_khỏi gây_ra các ý_kiến trái chiều .
+Một_số_người cho_rằng dịch_vụ này sẽ tạo_ra sự_thiên_vị các hãng tin lớn .
+Rich Skrenta , Tổng giám_đốc điều_hành hãng hỗ_trợ tìm_kiếm Topix , cho_rằng sự_phụ_thuộc vào các nhà_cung_cấp nội_dung sẽ khiến Google bỏ_qua rất nhiều thông_tin hay .
+
+Một vấn_đề nữa là phần_mềm mới chỉ hỗ_trợ cho mạng băng_thông rộng còn những người_dùng mạng dial - up sẽ không_được hưởng cải_tiến này .
+Ban_đầu tốc_độ download có_thể chưa nhanh hơn nhưng sau_này , khi hệ_thống được điều_chỉnh , người_sử_dụng sẽ nhận_thấy sự_cải_thiện lớn trong tốc_độ tìm_kiếm ở Accelerator .
+
+H.P. ( theo Reuters , VNUNet , TechWeb )

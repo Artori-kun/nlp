@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/02/3b9dbab4/
+title=Chip nhớ dung lượng 2,5 GB 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Chip nhớ dung_lượng 2,5 GB
+Samsung đã bắt_đầu đưa_vào sản_xuất hàng_loạt gói chip nhớ tích_hợp ( Multi chip package - MCP ) có dung_lượng lớn nhằm đáp_ứng nhu_cầu sử_dụng đa_dạng cho dòng_điện_thoại 3G .
+
+Gói MCP này bao_gồm 4 thành_phần : 2 chip flash NAND dung_lượng 1 GB và 2 chip Mobile DRAM dung_lượng 256 MB .
+Bộ_nhớ nói trên hoạt_động ở điện_áp 1,8 volt , cho_phép lưu_trữ cùng một_lúc 4 giờ phim định dạng QVGA .
+Trước_đó , công_ty này cũng đã giới_thiệu chi_tiết về gói MCP có từ trước đến nay với 8 chip thành_phần , dung_lượng 3,2 GB .
+
+MCP có nhiều điểm khác_biệt so với loại chip nhớ đơn thông_thường .
+Bộ_nhớ này có cấu_tạo từ nhiều thành_phần riêng_lẻ tích_hợp trong 1 gói duy_nhất và được sử_dụng vào rất nhiều mục_đích khác_nhau .
+Sản_phẩm còn giúp giảm đáng_kể kích_thước của thiết_bị di_động .
+
+Samsung dự_kiến tiếp_tục sản_xuất sản_phẩm MCP có dung_lượng lên_đến 8 GB ngay trong năm_nay .
+
+Văn_Thắng ( theo Telecoms Korea )

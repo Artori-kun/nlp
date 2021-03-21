@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA566/
+title=Soạn tin nhắn bằng giọng nói 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Soạn tin_nhắn bằng giọng_nói
+Tập_đoàn Samsung vừa ra_mắt điện_thoại di_động đầu_tiên trên thế_giới có khả_năng chuyển_lời thoại thành_văn_bản .
+Kỹ_thuật mới với tên_gọi " VoiceMode " đã được áp_dụng vào model SGH - P270 và SPH - A800 , giúp_việc gửi tin_nhắn dễ_dàng hơn .
+
+" Công_nghệ này sẽ thay_đổi đáng_kể phương_thức liên_lạc qua điện_thoại mà mọi_người vẫn thường_dùng " , Peter Skarzynski , Phó_chủ_tịch Samsung Electronics , cho_biết .
+" Người sử_dụng chỉ cần đọc trực_tiếp nội_dung tin_nhắn vào_máy , phần_mềm sẽ giúp chuyển_đổi những lời đó sang dạng text .
+Thực_chất đây là quá_trình giúp đơn_giản_hóa việc gửi tin_nhắn " .
+
+Hãng điện_tử Hàn_Quốc cũng cho_biết sẽ tiếp_tục phát_triển khả_năng này để có_thể nhận_dạng được nhiều ngôn_ngữ hơn thay_vì chỉ có_tiếng Anh như hiện_tại .
+
+Văn_Thắng ( theo AFP )

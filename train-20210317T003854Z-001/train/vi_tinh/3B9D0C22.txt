@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D0C22/
+title=Truy cập từ xa bằng công cụ ảo VNC 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Truy_cập từ xa bằng công_cụ ảo VNC
+Nếu bạn đang sử_dụng một PC Windows ở nơi nào_đó trên thế_giới và lại cần chạy một chương_trình trên chiếc máy_tính ở_nhà dùng Linux thì phần_mềm này có_thể cho_phép bạn làm_được điều_đó .
+
+VNC ( viết tắt của Virtual Network Computing ) cho_phép bạn_xem ( view ) và sử_dụng môi_trường màn hình chủ trên máy ( desktop ) từ bất_cứ nơi đâu trên thế_giới qua Internet với hầu_hết những loại hệ_điều_hành hiện_có .
+
+VNC là ứng_dụng độc_lập với nền hoạt_động , do_đó desktop của một máy Linux cũng có_thể hiển_thị trên một PC hoặc máy chạy Solaris vẫn có_thể hiển_thị trên hệ thống Macintosh .
+Còn nhiều cấu_trúc khác cũng_được hỗ_trợ như công_cụ Java viewer có_thể chạy trong bất_cứ trình_duyệt hỗ_trợ Java nào .
+
+Một trong những tính_năng hữu_ích của chương_trình VNC là công_cụ viewer không_lưu lại bất_cứ trạng_thái ngoại_lai nào .
+Điều_đó có_nghĩa là bạn có_thể bỏ máy này đi sang máy_khác , từ xa kết_nối_lại trên máy mới và kết_thúc một câu_văn_bản nào_đó mà mình đang soạn dở ở máy_kia .
+Thậm_chí bạn sẽ thấy con trỏ vẫn nằm_nguyên ở vị_trí cũ .
+Ngoài_ra , desktop của máy_tính cũng có_thể được nhiều người_xem cùng chia_sẻ một_lúc .
+
+Để_tải miễn_phí VNC , bấm_vào .
+
+P.K .

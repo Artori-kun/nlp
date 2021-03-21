@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DAC35/
+title=Intel ra mắt chip Centrino mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel ra_mắt chip Centrino mới
+Tốc_độ của bộ_vi xử_lý lên_đến 2,13 GHz , front - side bus 553 MHz , xử_lý đồ_họa mạnh_hơn , hỗ_trợ tốt mạng không dây Wi - Fi và khả_năng bảo_mật cao ... là những tính_năng mới của gói chip mang tên mã Sonoma , vừa được Intel chính_thức ra_mắt ngày hôm_qua .
+
+Sonoma chứa bộ_vi xử_lý Pentium M , card mạng không dây và chipset 915 Express , phiên_bản mới nhất của Intel ( còn được biết đến với tên_gọi là Alviso ) cùng chipset PCI Express , hỗ_trợ mạnh cho các ứng_dụng đồ_họa .
+Tính_năng xử_lý hình_ảnh , âm_thanh cao_cấp có_thể giúp Intel lôi kéo thêm nhiều người_dùng đến với gia_đình .
+Công_nghệ không dây sử_dụng trong gói chip này cho_phép kết_nối mạng LAN Wi - Fi qua chuẩn 802.11a / b/g .
+Centrino còn được tích hợp kỹ_thuật   Execute Disable Bit , tạo_ra một bức_tường bảo_vệ vững_chắc chống_lại sự_tấn_công của virus .
+
+Trong lần ra_mắt này , Intel giới_thiệu 7 phiên_bản khác_nhau của Centrino , từ serie 770 hoạt_động ở tốc_độ 2,13 GHz đến một phiên_bản siêu tiết_kiệm điện_năng với công_suất chỉ có 5 watt .
+
+" Những tính_năng mới sẽ mang các ứng_dụng dành riêng cho desktop sang laptop , Barbara Grimes , người phát_ngôn của Intel , tuyên_bố .
+
+Kể từ_khi ra_đời đến_nay , Centrino đã có chỗ_đứng vững_chắc trong cộng_đồng các nhà_sản_xuất máy_tính , trở_thành dòng sản_phẩm mạnh nhất của Intel .
+85 % số laptop bán_ra trên thế_giới hiện_nay sử_dụng bộ_vi xử_lý của Intel , trong_đó phần_lớn là Centrino .
+
+Intel từng dự_định sớm đưa Sonoma ra thị_trường trong năm 2004 nhưng phải hoãn_lại vì một số khó_khăn trong sản_xuất cũng_như chờ_đợi các nhà chế_tạo PC ra_mắt sản_phẩm sử_dụng bộ_vi xử_lý mới này .
+
+Việc Intel tung_ra phiên_bản mới của Centrino có_thể xem là hành_động đáp trả dành cho đối_thủ AMD .
+Cách_đây 2 tuần , hãng sản_xuất vi xử_lý lớn thứ 2 thế_giới này đã ra_mắt chip di_động 64 bit với nhiều công_nghệ và tính_năng hiện_đại .
+
+Văn_Thắng ( theo Newsfactor )

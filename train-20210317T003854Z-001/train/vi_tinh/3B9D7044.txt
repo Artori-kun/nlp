@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D7044/
+title=DoCoMo ra mắt pin nhiên liệu cho ĐTDĐ 3G 
+cat=VI-TINH|SAN-PHAM-MOI
+
+DoCoMo ra_mắt pin nhiên_liệu cho ĐTDĐ 3G
+Hôm_qua , hãng phân_phối thiết_bị không dây lớn nhất Nhật_Bản tuyên_bố đã phát_triển thành_công đầu_tiên dùng_cho điện_thoại di_động .
+Sản_phẩm này sẽ nâng thời_gian thoại lên gấp 4 lần so với pin lithium - ion.  
+Do hãng Fujitsu Laboratories phát_triển , loại pin mới được kỳ_vọng sẽ đáp_ứng nhu_cầu của người_dùng đối_với những thiết_bị cầm_tay thuận_tiện hơn , có điện_dung lớn hơn và ít gây hại với môi trường.  
+Yêu_cầu nâng_cao điện_dung của pin ngày_càng lớn khi người_dùng điện_thoại FOMA tiếp_cận nhiều hơn với các dịch_vụ và tính_năng mới như truyền_dữ_liệu không hạn_chế với mức cước cố_định hàng_tháng hay xem video .
+DoCoMo đáp_ứng một phần nhu_cầu này bằng cách tăng điện_dung của pin lithium - ion do hãng sản_xuất và hy_vọng loại pin nhiên_liệu mới sẽ giải_quyết tận_gốc vấn_đề khi nó được khai_thác thương_mại vào cuối năm 2005 .
+
+Pin nhiên_liệu của DoCoMo là một thiết_bị độc_lập có hình_dạng giống như một bộ sạc pin .
+Nó tạo_ra điện_năng bằng cách kết_hợp hydro và một loại methanol giá_rẻ , không ô_nhiễm để tạo_ra phản_ứng hóa học .
+Các ion hydro được tách từ không_khí thông_qua một lớp nằm kẹp giữa các điện_cực_âm và dương .
+
+T.N. ( theo Japan Today )

@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E79FC/
+title=Samsung bắt đầu sản xuất đại trà DDR2 80 nm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Samsung bắt_đầu sản_xuất đại_trà DDR2 80 nm
+Quyết_định sản_xuất DDR2 DRAM với những cải_tiến công_nghệ mới là một bước_đi hợp_lý của hãng điện_tử Hàn_Quốc nhằm duy_trì vị_thế trên thị_trường .
+
+Quy_trình chế_tạo DDR2 512 MB theo công_nghệ 80 nm sẽ cho_phép Samsung tăng 50 % sản_lượng so với phương_pháp 90 nm trước_đó .
+Việc chuyển sang mức 80 nm phần_lớn nhờ RCAT , bóng bán_dẫn 3 chiều được thiết_kế nhằm tăng tốc_độ nhập_lại dữ_liệu ( refresh ) .
+
+" Đây là một bước_tiến lớn , nhưng cũng là điều công_ty cần phải làm nếu muốn sản_phẩm có tính cạnh_tranh cao trên thị_trường " , Martin Reynolds , Phó giám_đốc hãng nghiên_cứu Gartner , nhận_định .
+
+" Nhu_cầu cho DDR2 đang ở mức cao nhất kể_từ khi xuất_hiện năm 2004 .
+Công_nghệ 80 nm sẽ mang lại cho chúng_tôi khả_năng đáp_ứng nhu_cầu của thị_trường DDR2 một_cách hiệu_quả " , Tom Trill , Giám_đốc Samsung DRAM , cho_biết .
+
+Ngoài_ra , DDR2 80 nm cho_phép Samsung sản_xuất bộ_nhớ DRAM với chi_phí thấp hơn .
+Gartner dự_đoán bộ_nhớ DDR2 sẽ chiếm 50 % toàn_bộ thị_trường DRAM trong năm 2006 .
+
+T.N. ( theo ECT )

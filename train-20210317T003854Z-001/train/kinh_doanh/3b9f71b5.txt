@@ -1,0 +1,32 @@
+url=http://vnexpress.net/vietnam/kinh%2Ddoanh/chung%2Dkhoan/2007/06/3b9f71b5/
+title=Cảnh báo về an ninh mạng chứng khoán không thừa 
+cat=KINH%2DDOANH|CHUNG%2DKHOAN
+
+Cảnh_báo về an_ninh mạng chứng_khoán không thừa
+Giám_đốc Trung_tâm Tin_học Ủy_ban Chứng_khoán Nhà_nước Đoàn_Thanh Tùng cho_biết , với cấu_trúc như hiện_nay hacker không_thể đột_nhập vào hệ_thống giao_dịch của sàn Hà_Nội và TP HCM , song điểm_yếu ở các trang web thì không_thể phủ nhận. >
+Ông Tùng nhận_xét cảnh_báo của Trung_tâm an_ninh mạng ( BKIS ) đưa_ra lúc_này rất cần_thiết , nhưng mức_độ không nghiêm_trọng như_vậy .
+Với hạ_tầng công_nghệ thông_tin chứng_khoán như hiện_tại , hacker chỉ có_thể xâm_nhập vào các trang web chứng_khoán và thay_đổi dữ_liệu thông_tin công_bố trên đó chứ khó có_thể xâm_nhập hệ_thống giao_dịch ( được nhập lệnh thủ_công bằng_tay ) .
+Để đảm_bảo an_toàn , hai trung_tâm giao_dịch chứng_khoán đều tách máy chủ_công_bố thông_tin với máy chủ hệ_thống giao_dịch .
+
+Sau cảnh_báo của BKIS , Trung_tâm tin_học sẽ đề_nghị Ủy_ban Chứng_khoán Nhà_nước có kế_hoạch kiểm_tra về công_nghệ tin_học đối_với các công_ty chứng_khoán .
+Theo quy_định hiện_hành , công_nghệ tin_học là một trong những tiêu_chí để cấp_phép thành_lập công_ty chứng_khoán bên_cạnh những yêu_cầu về vốn , nhân_sự ... song yếu_tố này chưa được chú_trọng .
+Ông Tùng cho_hay sẽ đề_nghị Ủy_ban coi đây là một trong những tiêu_chí quan_trọng để cấp_phép kinh_doanh chứng_khoán nhằm đảm_bảo tính an_toàn ổn_định cho thị_trường .
+
+Về phần mình , nhiều công_ty chứng_khoán vẫn tỏ_ra thờ_ơ với cảnh_báo của BKIS .
+Giám_đốc một công_ty chứng_khoán cho_hay công_ty đang tập_trung vào nhiều lĩnh_vực khác chứ chưa triển_khai giao_dịch qua mạng nên không_mấy quan_tâm đến bảo_mật .
+Thị_trường chứng_khoán đã trải_qua 7 năm hoạt_động , cá_nhân ông chưa thấy có khách_hàng nào bị thiệt_hại tiền_bạc hay cổ_phiếu liên_quan đến hệ_thống mạng .
+
+Song cũng có những công_ty nhận_thức vấn_đề rất nghiêm_túc .
+Ngay sau_khi nhận_được cảnh_báo của BKIS hồi tháng 4 , VnDirect đã tiến_hành vá lỗi trên trang web .
+Khi đăng_ký giao_dịch qua mạng , khách_hàng được chuyển tận_tay thẻ bảo_mật .
+Công_ty cũng cảnh_báo khách_hàng không bao_giờ cung_cấp username , password , hoặc thông_tin cá_nhân qua email .
+
+Với các nhà đầu_tư , họ rất quan_tâm tới bảo_mật và an_ninh mạng bởi có ảnh_hưởng trực_tiếp tới việc kinh_doanh chứng_khoán .
+Bác Trần_Phúc_Nhân , nhà đầu_tư sàn ACB , nhận_định hiện giao_dịch trực_tuyến chưa phổ_biến tại thị_trường chứng_khoán Việt_Nam , song về lâu_dài phương_thức này sẽ phát_triển bởi có rất nhiều tiện_ích .
+Nhà_đầu_tư làm_sao có_thể yên_tâm giao_dịch khi hệ_thống mạng của công_ty chứng_khoán có vấn_đề .
+
+Một quản_trị viên cấp cao của HVA ( Diễn_đàn bảo_mật và an_ninh mạng của VN ) từng chỉ ra ngay_cả trang web của Ủy_ban Chứng_khoán Nhà_nước cũng có lỗ_hổng .
+" Thông_tin chứng_khoán rất quan_trọng , chỉ cần một thông_báo nhỏ cũng có_thể tác_động đến nhiều nhà đầu_tư .
+Vì_vậy không_thể coi_thường tính bảo_mật của các trang web chứng_khoán " , chuyên_gia này nói .
+
+Phong_Lan

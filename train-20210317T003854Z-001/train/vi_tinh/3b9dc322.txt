@@ -1,0 +1,14 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/03/3b9dc322/
+title=Fujitsu giới thiệu công nghệ sinh trắc lòng bàn tay 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Fujitsu giới_thiệu công_nghệ sinh trắc lòng bàn_tay
+Hệ_thống máy quét bằng tia hồng_ngoại mang tên Contactless Palm Vein Authentication System có_thể nhận_dạng từ một khoảng_cách ngắn và không bị ảnh_hưởng do vị_trí của bàn_tay , điều mà trước_đây những scanner khác_thường gặp nhiều khó_khăn .
+
+Fujitsu cho_biết vân lòng bàn_tay là dấu_hiệu rất khó giả_mạo và thiết_bị quét này còn đảm_bảo tính vệ_sinh cao hơn nhiều so với những công_cụ trước_đây vì người_sử_dụng không_phải chạm tay vào mặt_quét .
+
+Nhà_sản_xuất đã mất 2 năm để phát_triển thiết_bị này .
+Các kỹ_sư sinh trắc học Nhật_Bản cho_biết phần khó nhất của công_việc chính là làm_sao để máy quét đọc được chính_xác vân_tay trong tình_trạng tay di_chuyển và làm thay_đổi hình_dáng ghi_nhận .
+Qua thử_nghiệm với 700 người từ 10 đến 70 tuổi , hệ_thống chỉ từ_chối nhầm với tỷ_lệ 1 % và chấp_nhận nhầm 0,5 % .
+
+Q.T. ( theo CNet )

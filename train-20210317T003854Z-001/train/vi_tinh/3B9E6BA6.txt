@@ -1,0 +1,29 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/02/3B9E6BA6/
+title=Chip đồ họa giúp ĐTDĐ chụp ảnh 10 megapixel liên tục 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip đồ_họa giúp ĐTDĐ chụp_ảnh 10 megapixel liên_tục
+Vi xử_lý GeForce 5500 mới nhất của hãng Nvidia dành cho ĐTDĐ cao_cấp vừa được công_bố hôm_qua có_thể nhận các bức ảnh và giải_mã video có độ_phân_giải cao .
+Sản_phẩm đánh_dấu một bước_tiến nữa trong việc chuyển_đổi ĐTDĐ thành thiết_bị giải_trí cầm_tay đầy uy_lực .
+
+GeForce 5500 hỗ_trợ bộ_giải_mã codec h.264 và bộ_nhớ truy_cập ngẫu_nhiên tĩnh SRAM cắm ngoài cho dòng chip đồ_họa trong máy cầm_tay có từ năm 2003 .
+Sản_phẩm cho_phép nhà sản_xuất điện_thoại nâng độ_phân_giải màn_hình lên_đến 1024 x 768 pixel và có khả_năng chụp_ảnh 10 megapixel liên_tục với tốc_độ_cao .
+
+Các nhà thiết_kế luôn tìm_cách giảm thiểu chi_phí sản_xuất và họ có xu_hướng tích_hợp_chip " mọi_thứ trong một " để chiếc máy nhỏ gọn trong_lòng bàn_tay thực_hiện được nhiều công_việc như xử_lý dữ_liệu , đồ_họa và tất_nhiên là cả hội_thoại .
+Các loại vi xử_lý như GeForce 5500 được thiết_kế cho sản_phẩm cầm_tay đắt_tiền và người_dùng có_thể xem phim , chơi game video như trên máy PC và thậm_chí là xem truyền_hình kỹ_thuật_số .
+
+Các hãng sản_xuất điện_thoại và nhà_cung_cấp mạng không dây rất hào_hứng về thị_trường chơi game trên điện_thoại và tin rằng hoạt_động này sẽ tạo_ra cơ_sở_tài_chính để duy_trì mạng không dây_băng thông rộng tốc_độ_cao .
+Tuy_nhiên , hiện_nay lợi_nhuận của họ trong lĩnh_vực này chưa được thuyết_phục cho lắm .
+Một minh_chứng là sản_phẩm của Nokia vẫn chưa đạt được mức doanh_thu như hãng hy_vọng .
+Nhưng các nhà phát_triển game vẫn không ngừng sáng_tạo ra những trò_chơi mới , khi mà ĐTDĐ ngày_càng có thêm sức_mạnh xử_lý .
+
+Dòng chip mới của Nvidia cũng vừa nhận_được hỗ_trợ từ các nhà phát_triển game lớn , trong_đó có id Software .
+Hãng này sẽ trình_diễn trò_chơi trên điện_thoại với GeForce 5500 tại Đại_hội viễn_thông di_động toàn_cầu đang diễn_ra tại Barcelona ( Tây_Ban_Nha ) .
+
+Tuổi_thọ pin vẫn luôn là vấn_đề quan_tâm đối_với người_sử_dụng , nhưng Nvidia cho_biết sản_phẩm mới sẽ vượt_xa " bậc_đàn_anh " vì tiêu_thụ ít năng_lượng trong quá_trình chạy ứng_dụng giải_trí và gọi_điện_thoại .
+Họ hy_vọng các nhà sản_xuất ĐTDĐ cho ra_lò những thiết_bị mới có chứa chip đồ_họa này vào mùa mua_sắm cuối năm_nay .
+
+Nvidia nổi_tiếng vì dòng_vi xử_lý đồ_họa cực mạnh cho PC nhưng trong vài năm_qua , họ đã tiến những bước mới trong việc tái_tạo đồ_họa sắc nét cho ĐTDĐ và máy cầm_tay .
+
+H.L.T .
+( theo CNet )

@@ -1,0 +1,26 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2006/03/3b9e81b0/
+title=Ánh sáng 3 chiều đưa mật độ ghi đĩa lên 0,5 TB/inch vuông 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Ánh_sáng 3 chiều đưa mật_độ ghi đĩa lên 0,5 TB / inch vuông
+Hãng InPhase ( Mỹ ) vừa công_bố một mật_độ ghi_dữ_liệu cao hơn nhiều so với bất_cứ công_nghệ lưu_trữ nào trên thị_trường_từ trước đến_nay .
+Con_số kỷ_lục mà công_ty này ghi_nhận thành_công là 515 GB dữ liệu trên một inch vuông .
+
+Công_nghệ ( holography ) có_thể tăng gấp_bội công_suất lưu_trữ vì nó tận_dụng tính hiệu_quả về thể_tích không_gian 3 chiều thay_vì chỉ ghi dữ_liệu lên bề_mặt vật_liệu .
+Mật_độ ghi trong công_nghệ này thu_được là nhờ những yếu_tố hoàn_toàn khác so với công_nghệ lưu_trữ từ_tính .
+Mật_độ ở_đây phụ_thuộc vào số pixel / bit trong một trang_dữ_liệu , số trang lưu trên một vùng chứa cụ_thể , mức linh_hoạt của vật_liệu ghi , độ dày của vật_liệu và bước_sóng của tia laser ghi .
+
+Trong cuộc thí_nghiệm của InPhase , kết_quả thu_được là có hơn 1,3 triệu_bit / trang_dữ_liệu và 320 trang_dữ_liệu cách_nhau 0,067 độ , được lưu trong cùng một_thể tích_vật_liệu .
+Một tập_hợp các trang_dữ_liệu như_vậy được InPhase gọi_là một quyển_sách và kiến_trúc ghi có tên PolyTopic của hãng này cho_phép nhiều dữ_liệu 3 chiều được lưu trong cùng một_thể tích_vật_liệu bằng cách xếp chồng lên nhau không_chỉ các trang mà_cả các quyển_sách đó .
+
+3 chồng sách xếp đè_lên nhau được ghi bằng một rãnh có kích_thước 700 micromét ( 1 micromét = 1 phần triệu mét ) .
+Vật_liệu mà InPhase sử_dụng được gọi_là Tapestry có độ dày 1,5 mm với bước sóng laser là 407 nanomét .
+
+InPhase dự_kiến sẽ xuất_xưởng ổ_đĩa và phần_mềm dùng công_nghệ ánh_sáng 3 chiều trong năm_nay .
+Thế_hệ ổ đầu_tiên sẽ có công_suất 300 GB trên một đĩa đơn với tốc_độ truyền_dữ_liệu là 20 Mb / giây .
+Tiếp_theo đó sẽ là sự_ra_đời của một dòng sản_phẩm có công_suất lưu_trữ từ 800 GB đến 1,6 TB ( terabyte - mỗi TB tương_đương 1.000 GB ) .
+Giới công_nghệ thông_tin đang chứng_kiến những tiến_bộ phi_thường về khả_năng lưu_trữ dữ_liệu , Wolfgang Schlichting , Giám_đốc nghiên_cứu phụ_trách mảng lưu_trữ di_động của tập_đoàn nghiên_cứu IDC , phát_biểu .
+Thành_tựu mới của InPhase là một dấu mốc quan_trọng trong kỹ_thuật tăng mật_độ lưu_thông_tin , đồng_thời cho_thấy sự_gia_tăng vượt_bậc về công_suất lưu_trữ nhờ kỹ_thuật ánh_sáng 3 chiều .
+Đây cũng sẽ là một sự_lựa_chọn đầy tiềm_năng khác bổ_sung thêm_vào những công_nghệ hiện_tại trong lĩnh_vực lưu_trữ .
+
+P.K. ( theo VNUNet )

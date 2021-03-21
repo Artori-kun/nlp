@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E05B0/
+title=Sony PSP tích hợp khả năng lướt web và xem TV 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sony PSP tích_hợp khả_năng lướt web và xem TV
+Hãng điện_tử Nhật này vừa công_bố sẽ ra_mắt phần_mềm hệ_thống nâng_cấp cho PlayStation Portable ( ) vào tuần_tới , với mục_đích mở_rộng tính_năng cho thiết_bị game cầm_tay , trong_đó có khả_năng duyệt web và tải chương_trình truyền_hình .
+
+Điều đáng chú_ý nhất trong phiên_bản 2.0 của phần_mềm hệ_thống là nó tích_hợp một trình_duyệt web .
+Truy_cập từ menu chính của PSP , trình_duyệt này hỗ_trợ HTML 4.0.1 và cho_phép tiếp_cận hầu_hết các website .
+
+PSP đã có sẵn mạng LAN không dây phục_vụ chơi game trực_tuyến và tải chương_trình từ Internet , nhưng Sony chưa thực_sự cho_phép người_dùng duyệt web .
+Tuy_nhiên , một số khách_hàng đã nhanh_chóng tìm_ra cách để khai_thác trình_duyệt có kèm trong game " Wipeout Pure " để truy_cập website .
+Phần_mềm nâng_cấp đã chính_thức cung_cấp khả_năng lướt web dễ_dàng trên thiết_bị cầm_tay .
+
+Điểm nổi_bật khác là khả_năng tải video ở định dạng MPEG4 AVC .
+Tính_năng này đã được Sony trình_diễn tại Tokyo hôm_qua khi kết_nối thiết_bị PSP với phần_mềm nâng_cấp và tải chương_trình truyền_hình cũng_như nhiều nội_dung phong_phú khác .
+
+Ngoài_ra , phần_mềm cho_phép tải ảnh từ thiết_bị PSP này sang một PSP khác qua mạng LAN không dây , và hỗ_trợ hầu_hết các định dạng nghe_nhìn , trong_đó có cả định dạng AAC .
+Giá_thành sản_phẩm sẽ được công_bố trong tuần_sau .
+
+Sony cũng tiết_lộ kế_hoạch bán_ra thị_trường sản_phẩm PSP vỏ trắng mang tên PSP 1000KCW .
+Hiện_tại , thiết_bị chơi game này chỉ được phát_hành với lớp vỏ đen .
+Phiên_bản màu_trắng sẽ xuất_hiện ở Nhật vào 15/9 , kèm_theo tai_nghe , thẻ nhớ và một số phụ_kiện khác với giá xấp_xỉ 220 USD , tương_đương với PSP đen .
+Sony cho_biết đến_ngày 20/7 , doanh_số của PSP đã đạt tới 5,1 triệu sản_phẩm chỉ tính riêng ở Nhật và Mỹ.
+( theo Gamethu.net )

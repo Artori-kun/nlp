@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA45D/
+title=Hitachi chuẩn bị ra mắt ra ổ cứng 500 GB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hitachi chuẩn_bị ra_mắt ra ổ cứng 500 GB
+Hãng thiết_bị điện_tử Nhật_Bản vừa cho_biết sẽ tung_ra 2 sản_phẩm lưu_trữ mới , gồm ổ cứng 3,5 inch dung_lượng 500 GB và ổ mini 1 inch dung_lượng lên_đến 10 GB .
+Đó sẽ là cú hích quan_trọng cho thị_trường sản_phẩm giải_trí kỹ_thuật số đang phát_triển như vũ_bão hiện_nay .
+
+Hitachi đang hướng đến nhu_cầu sử_dụng ổ cứng dung_lượng lớn để lưu_trữ hình_ảnh chất_lượng cao từ thiết_bị ghi_hình kỹ_thuật_số .
+Nhưng thay_vì chỉ chứa được khoảng 40 giờ phim như ổ cứng 80 GB thông_thường , Hitachi muốn nâng dung_lượng lên 200 giờ phim , tương_đương với 500 GB dữ liệu .
+Ổ cứng mới sẽ có_mặt trên thị_trường trong quý I_này .
+Cách_đây chưa_lâu , Hitachi cũng đã tung_ra .
+
+Bên_cạnh ổ cứng dung_lượng 500 GB , nhà_sản_xuất thiết_bị lưu_trữ lớn thứ 2 thế_giới này cũng cho_biết sẽ chế_tạo loại ổ cứng mini 1 inch , có_thể tích nhỏ hơn 1/5 , tiêu_thụ ít năng_lượng hơn nhưng có sức_chứa lớn hơn , từ 8-10 GB , so với sản_phẩm hiện đang có_mặt trên thị_trường .
+Ổ cứng mới có tên_gọi_là " Mikey " , là bước phát_triển tiếp_theo của dòng sản_phẩm Microdrive trong 5 năm_qua .
+Mặc_dù vẫn sử_dụng thiết_bị đọc , ghi như trước_đây nhưng không_gian chứa " Mikey " được giảm_xuống đáng_kể .
+
+Theo Hitachi , đã có hơn 5 triệu sản_phẩm của dòng này được bán_ra thị_trường , sử_dụng trong thiết_bị camera kỹ_thuật số hay máy_nghe nhạc cá_nhân .
+IBM là đơn_vị phát_minh ra sản_phẩm này nhưng đã bán_lại toàn_bộ thị_phần kinh_doanh đĩa_cứng , trong_đó có dòng Microdrive , cho Hitachi vào năm 2003 .
+ 
+Ổ cứng 1 inch mới sẽ cho_phép các nhà_sản_xuất thiết_bị điện_tử nâng_cao dung_lượng lưu_trữ cho điện_thoại , sách_giáo_khoa điện_tử ...
+Dự_kiến , Mikey sẽ được tung_ra vào giữa năm 2005 .
+
+Văn_Thắng ( theo Reuster )

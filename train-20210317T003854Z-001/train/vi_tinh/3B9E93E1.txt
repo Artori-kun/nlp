@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E93E1/
+title=Phần mềm miễn phí của Yahoo biến PC thành đầu video 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm miễn_phí của Yahoo biến PC thành đầu video
+Yahoo vừa phát_hành dịch_vụ , cho_phép máy_tính ghi các chương_trình truyền_hình giống như đầu video kỹ_thuật_số ( DVR ) .
+Người sử_dụng cũng có_thể phát DVD , nhạc , ảnh và những nội_dung khác thông_qua phần_mềm này .
+
+Yahoo Go for TV chỉ hoạt_động trên máy_tính Windows còn ít_nhất 20 GB bộ_nhớ trống để lưu chương_trình , RAM 512 MB và thiết_bị xử_lý 1 GH .
+Người sử_dụng cũng cần mua thêm một TV card và cáp kết_nối tới màn_hình TV .
+Tốc_độ truyền_dữ_liệu của dịch_vụ đạt 1,5 Mb / giây .
+
+Phần_mềm Go for TV tương_tác với nhiều sản_phẩm nghe_nhìn khác của Yahoo như Launchcast - dịch_vụ thuê_bao nhạc và radio - và - trang chia_sẻ ảnh hàng_đầu hiện_nay .
+
+TV card hiện_nay có giá tương_đối thấp so với việc phải bỏ_ra hàng trăm USD để mua đầu DVD và DVR .
+Do_vậy , nhiều hãng truyền_hình cho_rằng kết_hợp TV và máy_tính là một biện_pháp hay để tiếp_cận người tiêu_dùng .
+
+Microsoft gần_đây khẳng_định phần_mềm Windows XP Media Center còn được tiêu_thụ chạy hơn_cả phiên_bản hệ_điều_hành chuẩn , còn Hewlett - Packard năm_ngoái cũng tuyên_bố phát_triển một công_nghệ cho_phép xem TV độ_phân_giải cao ( HD ) ngay trên máy_tính cá_nhân .
+Trong_khi_đó , Yahoo tuần_trước đã mua_lại công_nghệ tích hợp video , ảnh và nhạc vào hệ_thống nghe_nhìn kỹ_thuật số gia_đình của công ty Meedio ( Houston , Mỹ ) .
+
+P.T. ( theo CNet )

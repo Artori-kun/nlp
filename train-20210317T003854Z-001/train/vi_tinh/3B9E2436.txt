@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E2436/
+title=Tiết kiệm nguồn lực doanh nghiệp với máy chủ phiến mỏng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tiết_kiệm nguồn lực doanh_nghiệp với máy chủ phiến_mỏng
+Tiếp_theo những hoạt_động xúc_tiến chiến_lược , HP Việt_Nam hôm_nay giới_thiệu các nền_tảng máy chủ ProLiant Blade Server và HP BladeSystem với mục_tiêu tiết_kiệm chi_phí và không_gian .
+
+Máy chủ phiến_mỏng ( blade server ) , với khả_năng sẵn_sàng cao và giảm_thiểu tính phức_tạp , cho_phép quản_lý hiệu_quả các ứng_dụng , tiện_ích và dữ_liệu .
+Loại máy này cũng có các lựa_chọn liên_kết_nối mạng linh_hoạt và tích_hợp khả_năng quản_trị từ_xa .
+
+Theo ông Arun Natarajan , Giám_đốc sản_phẩm của HP châu_Á - Thái_Bình_Dương , phiên_bản ProLiant BL30p Blade Server tích_hợp bộ_vi xử_lý đôi Intel Xeon 3,2GHz/2MB có_thể giúp giảm 23 % chi_phí , tiết_kiệm 19 % năng_lượng tiêu_thụ_điện , giảm đến 93 % khối_lượng dây_cáp và dễ_dàng mở_rộng , tích_hợp vào hạ_tầng thông_tin hiện_có của doanh_nghiệp thông_qua giao_diện đơn , dễ_dàng cho việc quản_lý từ_xa .
+
+Chiến_lược Thích_ứng doanh_nghiệp là tổng_thể của một loạt các giải_pháp hạ_tầng công_nghệ như phần_cứng , phần_mềm , máy_chủ , máy_trạm , máy lưu_trữ ... trong_đó , máy chủ_đóng vai_trò rất quan_trọng và là nền_tảng thiết_yếu trong chiến_lược này , ông Phùng Hoài_Dương , Giám_đốc kinh_doanh của HP Việt_Nam , cho_biết .
+Máy chủ phiến mỏng là một bước đột_phá về mặt công_nghệ và cấu_trúc trong lịch_sử ngành điện_toán .
+Nó có_thể đáp_ứng nhiều yêu_cầu của doanh_nghiệp như tiết_kiệm thời_gian xử_lý , không_gian văn_phòng , tính linh_hoạt cao , và đặc_biệt là tiết_kiệm tối_đa chi_phí đầu_tư .
+
+Máy chủ dạng phiến mỏng là server độc_lập có chứa một hoặc nhiều bộ xử_lý , cùng với bộ_nhớ , đĩa lưu_trữ , công_cụ kiểm_soát kết_nối mạng , chạy hệ_điều_hành và phần_mềm riêng .
+Ý_tưởng phiến mỏng hướng tới mục_đích cho_phép các tấm server có_thể được gá_lắp lên_giá gọn_gàng , nhằm giải_quyết nhu_cầu tiết_kiệm không_gian đặt máy chủ ứng_dụng và hạ bớt chi_phí triển_khai tại các trung_tâm điện toán quy_mô lớn .
+
+Các máy chủ dạng phiến mỏng có_thể được lắp thêm_vào hoặc tháo_ra khỏi hộc cắm khi cần thay_đổi công_suất làm_việc của máy_tính .
+Sử_dụng một màn hiển_thị từ_xa , nhà quản_lý có_thể nhận_dạng và hiển_thị các mạch dựa_trên vị_trí của chúng trong rãnh và hộc_cắm .
+Chỉ cần_kéo và thả một biểu_tượng hình_ảnh trên màn_hình , việc cài_đặt những cấu hình được định trước trên bất_kỳ mạch nào sẽ được thực_hiện tự_động .
+
+P.K .

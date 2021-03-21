@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E53A8/
+title=Dự thi TTVN 2005: Hệ thống X-CMS.COM 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN 2005 : Hệ_thống X - CMS.COM Phần_mềm xây_dựng hệ_thống quản_trị thông_tin và thương_mại điện_tử của nhóm X - Frog ( Con_Ếch ) , gồm hai thành_viên Nguyễn_Ngọc_Thanh_Nghị và Huỳnh_Hải_Huỳnh , từng đoạt_giải nhất khối không_chuyên ở cuộc_thi TTVN khu_vực Đồng_bằng sông Cửu_Long 2005 .
+
+Hệ_thống X - CMS.COM tích_hợp , cung_cấp giải_pháp xây_dựng các hệ_thống quản_lý thông_tin và giao_dịch thương_mại điện_tử trên nền web .
+Chương_trình có chức_năng mô_phỏng và tổng_hợp theo mô_hình hoạt_động thương_mại điện_tử được sử_dụng phổ_biến hiện_nay phù_hợp với điều_kiện thực_tế trong_nước .
+
+X - CMS.COM bao_gồm các hệ_thống : khai_thác , quản_lý và xuất_bản thông_tin ( CMS - Content Managenent System ) ; Siêu_thị trực_tuyến ( E - Store ) ; Đấu_giá sản_phẩm trực_tuyến ( E - Auction ) ; Rao_vặt ( Advertising ) ; Diễn_đàn thảo_luận .
+
+Nhờ thiết_kế đa chức_năng , X - CMS.COM hỗ_trợ xây_dựng trang thông_tin điện_tử đồng_thời cũng có các chức_năng thương_mại điện_tử cùng hoạt_động trên một hệ_thống , hoặc chỉ thực_thi từng thành_phần riêng_lẻ , độc_lập trên nhiều hệ_điều_hành khác_nhau như họ * nix , Windows , trên các họ máy chủ khác_nhau như IIS , Apache và nhiều loại cơ_sở_dữ_liệu như MySQL hay MsSQL.
+" Ưu_điểm của X - CMS.COM là đạt độ co_giãn cao trong ứng_dụng , vừa có_thể áp_dụng từng module riêng_biệt , vừa có_thể tích hợp lại làm một với sự_tương_tác giữa các module bằng giao_diện thân_thiện cho cả người_dùng cuối và người quản_trị " , Huỳnh_Hải_Huỳnh cho_biết .
+" Hơn_nữa , độ an_toàn của sản_phẩm khá cao , do được thiết_kế theo định_hướng bảo_mật ngay từ_đầu " .
+
+Theo hai tác_giả , mục_tiêu của X - CMS.COM là giúp xây_dựng các hệ_thống thương_mại điện_tử tích_hợp , nhằm tận_dụng và chia_sẻ nguồn_thông_tin tương_tác qua_lại của từng hệ_thống thành_phần , tạo_thành một hệ_thống , cổng website hoàn_chỉnh để khi truy_cập vào có_thể tìm thấy mọi thông_tin theo cách hoạt_động của nhiều website thương_mại hàng_đầu như Yahoo , Amazon , Ebay
+N.H .

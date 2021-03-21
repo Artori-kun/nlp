@@ -1,0 +1,44 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E7B5B/
+title=Origami và ước mơ tạo nên 'hiện tượng iPod' mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Origami và ước_mơ tạo_nên ' hiện_tượng iPod ' mới
+Microsoft từ lâu đã có tham_vọng gói gọn mọi kiến_thức nhân_loại trong một hệ_thống duy_nhất và dự_án này đang tiến đến hiện_thực qua từng năm .
+Tuần_trước , họ giới_thiệu một thiết_bị phục_vụ giao_tiếp , giải_trí và công_việc mọi_lúc , mọi_nơi .
+
+Trong nhiều tháng , những gì người_ta nghe_nói về dự_án của tập_đoàn phần_mềm Mỹ chỉ_là cái_tên , Vài tuần_trước khi diễn_ra hội_chợ công_nghệ thông_tin   , mọi_người mới biết rằng Origami là tên mã của hệ_thống máy_tính " siêu di_động " UMPC ( Ultra - mobile PC ) .
+Những thiết_bị xuất_hiện tại diễn_đàn các nhà phát_triển Intel ( San Francisco , 6/3 - 8/3 ) và triển_lãm CeBit ( Hannover , 9/3 - 15/3 ) là thành_quả của 4 năm nghiên_cứu , thiết_kế và hợp_tác trong_vòng bí_mật giữa Microsoft và một số_nhà sản_xuất phần_cứng .
+
+Intel là công_ty đầu_tiên ra_mắt nhỏ gọn , được trang_bị đầy_đủ tính_năng của một máy_tính , có_thể kết_nối và truy_cập Internet .
+Trang web UMPC.com mô_tả : " Thiết_bị cho_phép người_sử_dụng xem phim khi đang đi du_lịch , tải và nghe những bài_hát mới nhất trong quán cafe , duyệt web trên bãi_biển trong_khi những người_khác mải_mê lướt_sóng .
+Nó một phương_tiện đơn_giản nhưng thuận_tiện để thưởng_thức nội_dung kỹ_thuật số trong bất_cứ hoàn_cảnh nào " .
+
+Microsoft cho_biết nhiều công_ty đã tham_gia thiết_kế những mẫu sản_phẩm riêng , nhưng sản_phẩm Origami đầu_tiên có_mặt trên thị_trường trong quý II/2006 sẽ là .
+Mô_hình của Q1 mà hãng điện_tử Hàn_Quốc trưng_bày tại CeBit lại rất khác so với 2 UMPC mà Intel công_bố .
+Nó được trang_bị Người sử_dụng có_thể chọn kết_nối qua Ethernet , Wi - Fi hoặc Bluetooth .
+Microsoft không khẳng_định Q1 có tương_thích mạng điện_thoại di_động hay_không .
+
+Q1 được bán với giá từ 600 USD - 1.000 USD , dung_lượng 30 GB - 60 GB , thời_lượng pin 2,5 - 3 giờ .
+Ngoài_ra , nó được phát_hành kèm thiết_bị đọc vân_tay , webcam , đầu đọc thẻ SD , thẻ nhớ flash và bộ dò sóng TV .
+
+Công_ty PaceBlade Japan ( PBJ ) cũng trình_diễn một máy Origami tích_hợp vi xử_lý của Via , xung nhịp từ 1 - 1,5 GHz .
+Còn các đối_tác phần_cứng khác như Founder và Asus sẽ sản_xuất thiết_bị hoạt_động với chip của Intel ( giống Samsung Q1 ) trong quý II_này .
+
+Các hệ_thống UMPC sẽ chạy trên hệ_điều_hành Windows XP Tablet PC và những phiên_bản tiếp_theo sẽ được cài Windows Vista .
+
+Sự_phát_triển đáng ngưỡng_mộ của máy_nghe nhạc đã khiến nhiều công_ty mơ_ước lặp_lại thành_công đó .
+Microsoft cũng không_hề giấu_giếm tham_vọng sản_xuất một thiết_bị có khả_năng tạo_nên hiệu_ứng toàn_cầu tương_tự iPod .
+Tuy_nhiên , hãng nghiên_cứu Gartner nhận_định : " Nếu đây chỉ đơn_giản là một notebook kiểu mới , nó sẽ không sống được .
+Microsoft cần biết cách để biến UMPC thành một sản_phẩm đầy cá_tính như những gì Apple đã thực_hiện với iPod " .
+
+Jo Best , chuyên_viên công_nghệ của trang Silicon.com , cũng cho_rằng đáng ra Microsoft nên tổ_chức một sự_kiện riêng thay vì công_bố tại một hội_chợ lớn như CeBit bởi ở_đó xuất_hiện quá_nhiều sản_phẩm độc_đáo có_thể làm_giảm sự_chú_ý của mọi_người .
+" Hơn_nữa , không_phải ai cũng sẵn_sàng bỏ_ra 1.000 USD để mua một hệ_thống chỉ có thời_lượng pin 3 giờ .
+Bill Gates khó có_thể đạt được thành_công như   bằng sản_phẩm này " , Jo Best nhận_xét .
+
+Ngược_lại , Josh Kerwin , phát_ngôn_viên của Microsoft , khẳng_định họ hài_lòng với những sản_phẩm mà đối_tác giới_thiệu trong những ngày_qua và tin_vào tương_lai của thị trường UMPC .
+Vấn_đề về pin và giá_cả sẽ dần được cải_thiện theo thời_gian khi công_nghệ phần_cứng cho UMPC trưởng_thành .
+
+Ý_tưởng về chiếc máy_tính di_động ( mini - note ) đã xuất_hiện từ lâu như của OQO , Fujitsu LifeBook P1500D , hay HP OmniBook .
+Tuy_vậy , những thiết_bị đó chỉ phục_vụ môi_trường doanh_nghiệp trong_khi UMPC , ngoài trả_lời e - mail và tạo văn_bản , còn là một máy_nghe nhạc và xem video giống như iPod .
+
+T.N. ( theo Technorati , OrigamiProject )

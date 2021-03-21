@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D911E/
+title=Screensaver giúp phản công spam 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Screensaver giúp phản_công spam
+Hãng Lycos Europe vừa phát_hành một trình bảo_vệ màn_hình miễn_phí có tên_gọi Hãy làm_tình , đừng làm thư_rác ( Make Love Not Spam ) có khả_năng liên_tục gửi truy_vấn đến các máy chủ chuyên_gửi , làm cạn_kiệt nguồn tài_nguyên của chúng .
+
+Lycos Europe khẳng_định , họ đã cho nhân_viên kiểm_tra kỹ các server có tên trong danh_sách đen để bảo_đảm không có trường_hợp nào bị đánh_oan .
+Phát_ngôn viên Malte Pollmann của hãng cho_biết : Chúng_tôi không_thể dùng phần_mềm này để đánh_sập website của những kẻ chuyên gửi_thư rác , nhưng chúng_ta có_thể gửi một thông_điệp mạnh_mẽ , rằng spam là không_thể chấp_nhận .
+
+Theo Pollman , trình bảo_vệ màn_hình " Make Love Not Spam " là phương_tiện chống spam rẻ và dễ sử_dụng chưa_từng_có .
+Trước_đây , chúng_tôi từng xây_dựng những hệ_thống lọc thư rác cho người_dùng , nhưng giờ_đây , chúng_tôi đang tiến_xa hơn và đã tìm_ra phương_pháp khiến những kẻ phát_tán spam phải trả_giá cao hơn nhiều bằng cách làm_cho server của chúng chịu_tải lớn .
+
+Mỗi_người_dùng screensaver chống spam sẽ làm server gửi spam mất từ 3 đến 4 MB dữ liệu truyền mỗi_ngày .
+Lycos hy_vọng , khi có hàng nghìn người_tải và sử_dụng chương_trình này , những website chuyên gửi_thư rác sẽ phải liên_tục chạy hết công_suất , đồng_thời phải tốn thêm chi_phí cho băng_thông vô_ích hàng_ngày có_thể lên tới nhiều GB .
+
+Trình bảo_vệ màn_hình " Make Love Not Spam " sẽ được cung_cấp trên toàn châu Âu vòa ngày 1/12 .
+Trước_đó , nó chỉ được thử_nghiệm tại Thụy_Điển .
+Và mặc_dù có sự_xuất_phát hạn_chế , chỉ trong_vòng 4 ngày_qua , chương_trình đã được download hơn 20.000 lần .
+
+T.N. ( theo BBC , Marketing Vox )

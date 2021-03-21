@@ -1,0 +1,30 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE0C8/
+title=Hai giải pháp truyền thông đa tính năng của UTStarcom 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hai giải_pháp truyền_thông đa tính_năng của UTStarcom
+Cuối tháng 5 , UTStarcom sẽ trình làng 2 sản_phẩm mới là E - Box và Q - Box .
+Đây là 2 giải_pháp truyền_thông đa tính_năng hiện_đại nhất do hãng phát_triển .
+
+E - Box - giải_pháp tổng_đài nội_bộ kết_hợp mạng PHS ( CityPhone ) -   được thiết_kế không_chỉ dành riêng cho các ứng_dụng của một tổng_đài PBX trên hệ_thống điện_thoại cố_định thông_thường , mà còn cho_phép doanh_nghiệp mở_rộng mạng điện_thoại di_động nội_bộ và kết_hợp với mạng PHS bên_ngoài .
+Giải_pháp này gồm : một thiết_bị EP300 đóng vai_trò chuyển mạch trung_tâm , NetmanLite có nhiệm_vụ như một hệ_thống quản_lý giống như NMS , ACS40 đảm_nhiệm việc thu_phát , các máy cầm_tay PHS / iPAS ( đang sử_dụng cho mạng Cityphone ) , trong_đó những kiểu điện_thoại kiểu FSU và POTS là các điện_thoại thuê bao.  
+E - Box cung_cấp một nền_tảng tích_hợp giữa các dịch_vụ hữu_tuyến và vô_tuyến cũng_như các chức_năng của tổng_đài PBX .
+Hệ_thống EP300 của E - Box có khả_năng cung_cấp các chức_năng của một tổng_đài PBX cho dịch_vụ thoại nội_bộ doanh_nghiệp như : cấp_số , lời thông_báo qua điện_thoại , dịch_vụ đàm_thoại 3 bên , dịch_vụ về vận_hành , quay_số tắt và khả_năng hạn_chế cuộc gọi ra .
+Tương_tự như tổng_đài PBX , việc đàm_thoại qua E - Box trong nội_bộ doanh_nghiệp ( từ tổng_đài tới máy_con hoặc ngược_lại và từ máy con sang máy_con ) hoàn_toàn miễn_phí .
+
+Ngoài_ra , E - Box còn cung_cấp các dịch_vụ giá_trị gia_tăng miễn_phí trong hệ_thống như : nhắn_tin SMS theo phương_thức điểm_điểm ( tức_là nhắn từ tổng_đài tới_số máy_nhánh / điện_thoại con hoặc theo_nhóm ) , nhắn_tin từ tổng_đài tới nhiều số máy_nhánh / điện_thoại con .
+Các máy_điện_thoại nhánh / điện_thoại con cũng có_thể nhắn_tin với_nhau thông_qua giao_diện SMPP .
+
+Có_thể hình_dung E - Box như một hệ thống iPAS ( CityPhone ) thu_nhỏ cho 1 doanh_nghiệp , hỗ_trợ tới 3.000 máy đầu cuối CityPhone.  
+Q - Box - giải_pháp điện_thoại mẹ - con cho gia_đình kết_hợp mạng PHS ( CityPhone )
+Q - Box còn được coi là một thiết_bị đầu cuối đa dịch_vụ tích_hợp cả điện_thoại truyền_thống , tổng_đài PHS sử_dụng trong tòa_nhà , modem ADSL và điểm truy_nhập wifi .
+Giải_pháp này biến PHS từ cung_cấp tính_năng đơn_lẻ sang đa dịch_vụ .
+Khi ở bên_ngoài , máy cầm_tay PHS ( CityPhone ) có_thể sử_dụng như một thiết_bị đầu cuối di_động trong mạng PHS công_cộng , còn ở văn_phòng hay tại nhà , thiết_bị này có_thể hoạt_động như một điện_thoại không dây của Q - Box .
+
+Giải_pháp này về cơ_bản có 1 máy mẹ Q - Box và 10 thiết_bị đầu cuối ( máy_con ) .
+Trong_đó , có 2 kiểu_đầu cuối là máy cầm_tay di_động ( máy iPAS hay còn gọi_là Cityphone ) và các thiết_bị cố_định FSU .
+Máy mẹ Q - Box gồm có : 01 modem ADSL lắp_sẵn : 1 cổng LAN Ethernet được dùng để kết_nối tới PC hay với các thiết_bị khác ; 1 cặp thông_số PVC và VCI đã cấu_hình và xác_định trước cùng với các giao_thức PPPoE và PPPoA được hỗ_trợ để có_thể truy_nhập Internet dễ_dàng .
+
+Q - Box có_thể ứng_dụng tại_gia như một điện_thoại truyền_thống ( POTS ) hoặc là điện_thoại không dây gia_đình cùng giao thức cá_nhân , máy cầm_tay ( máy_con ) có_thể kết_nối thủ_công tới Q - Box , chuyển cuộc gọi vào và ra từ máy cầm_tay ( máy_con ) tới mạng điện_thoại công_cộng PSTN , hỗ_trợ khả_năng đàm_thoại nội_bộ giữa hai máy con đã đăng_ký ( có kết_nối ) cũng_như giữa các máy con với Q - Box , cho_phép truy_nhập băng rộng hữu_tuyến dựa_trên dịch_vụ ADSL , chia_sẻ khả_năng truy_nhập không dây giữa các thiết_bị .
+
+Xuân_Kim

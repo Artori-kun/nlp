@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/01/3B9AD409/
+title=Intel ra mắt chip Celeron tốc độ cao cho dòng máy tính cá nhân ít tiền 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel ra_mắt chip Celeron tốc_độ cao cho dòng máy_tính cá_nhân ít tiền
+Hôm_nay , Intel sẽ tung_ra thị_trường bộ_vi xử_lý nhanh nhất từ trước đến nay dành cho loại máy_tính cá_nhân ( PC ) giá_rẻ .
+Đồng_thời , họ cũng bắt_đầu bán một phiên_bản của chip Pentium IV mới với giá_thấp .
+
+Để kích_cầu , Intel đưa_ra một loại Pentium IV 1,3 GHz mới cho những PC có giá khoảng 1.500 USD hoặc cao hơn một_chút .
+Trong_khi_đó , những PC sử_dụng chip Pentium IV 1,4 GHz và 1,5 GHz là 2.000 USD .
+
+Chip Pentium IV 1,3 GHz được bán 409 USD khi mua với số_lượng 1.000 đơn_vị trở_lên .
+Những hệ_thống PC đang sử_dụng Petium IV giá_rẻ này sẽ được bày bán ở cuộc Triển_lãm thiết_bị điện_tử dân_dụng tổ_chức vào tuần này tại Las Vegas .
+
+Tháng_trước , Intel cùng với đối_thủ là công_ty Advanced Micro Devices và những nhà_sản_xuất máy_tính cá_nhân Gateway , Hewlett - Packard ... cho_biết , sản_phẩm của họ bán trong quý IV rất ế_ẩm .
+Điều này sẽ ảnh_hưởng đến tình_hình tài_chính của công_ty họ .
+
+Minh_Nghĩa ( theo ZDNet , 3/1 ) .

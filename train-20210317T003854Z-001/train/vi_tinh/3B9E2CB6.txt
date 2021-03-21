@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2CB6/
+title=ATI giới thiệu vi xử lý đồ họa nhanh nhất thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+ATI giới_thiệu vi xử_lý đồ_họa nhanh nhất thế_giới
+Hãng sản_xuất chip Canada vừa công_bố dòng chip đồ_hoạ ( GPU ) mới mang mã_hiệu Radeon X1000 .
+Sản_phẩm được thiết_kế để đáp_ứng nhu_cầu của các game thủ đẳng_cấp cao cũng_như các chuyên_gia làm ảnh và video .
+
+" Dòng Radeon X1000 được thiết_kế để_trở thành vi xử_lý đồ hoạ tốt nhất " , Rich Heye , Phó_chủ_tịch ATI , cho_biết .
+" Về mặt thể_hiện game , đây là chip nhanh nhất ; về mặt chất_lượng , X1000 cũng mang đến những hình_ảnh đẹp nhất .
+Còn xét về mặt tính_năng thì sản_phẩm này có khả_năng phong_phú nhất " .
+
+Radeon X1000 được thiết_kế theo công_nghệ bán_dẫn 90 nm và bao_gồm các tính_năng sau :
+- Cấu_trúc đổ bóng siêu tuyến để chạy các trò_chơi có mật_độ hiệu_ứng đổ bóng_dày .
+
+- Cấu_trúc bộ_nhớ mới có tác_dụng đẩy_mạnh hiệu_suất của GPU và do_đó nâng_cao khả_năng thể_hiện hình_ảnh .
+
+- Công_nghệ Avivo cải_tiến chất_lượng hiển_thị và tinh chỉnh quá_trình phát lại video .
+Card đồ hoạ dành cho GPU dòng Radeon X1000 cũng sẽ được ATI cung_cấp .
+Các đối_tác của họ bao_gồm ASUS , Club 3D , Connect3D , Diamond Multimedia , Giga - Byte , Hightech Information System , Info - Tek , MSI Computer , Palit Microsystems , Sapphire Technology , TUL , Viking InterWorks và Visiontek .
+ATI cho_biết các nhà_sản_xuất thiết_bị gốc   hàng_đầu sẽ nhanh_chóng giới_thiệu máy_tính mới có kèm card đồ_hoạ Radeon X1000 .
+Ngoài_ra , ATI hiện còn có các dòng sản_phẩm như Radeon X1800 và Radeon X1300 đang có_mặt trên thị_trường .
+Phiên_bản Radeon X1800 với cấu hình bổ_sung và Radeon X1600 sẽ được phát_hành vào cuối tháng 10 và tháng 11 năm_nay .
+
+Thuỳ_Hương ( theo IT News )

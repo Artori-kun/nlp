@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E1AF3/
+title=Công cụ chống phishing trong Internet Explorer 6  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_cụ chống phishing trong Internet Explorer 6  
+Microsoft vừa tích_hợp 2 tính_năng mới - dò tìm website mà tội_phạm mạng có_thể dùng để thực_hiện và hỗ_trợ giới chơi game - cho thanh công_cụ tìm_kiếm MSN .
+
+Bản_thử nghiệm Microsoft Phishing Filter dựa_trên công_nghệ trong trình_duyệt sắp ra_mắt .
+" Chúng_tôi muốn khách_hàng nhận_thức rõ_ràng hơn về những gì chúng_tôi mang lại trong dịch_vụ trực_tuyến và dần loại_bỏ hiện_tượng lừa_đảo online đang phát_triển mạnh " , Justin Osmer , Giám_đốc sản_phẩm của Microsoft , cho_biết .
+
+Nếu bộ_lọc nghi_ngờ trang web khách_hàng đang ghé thăm là site lừa_đảo , nó sẽ hiển_thị một thanh màu vàng ngay dưới thanh toolbar , chứa cảnh_báo rằng họ nên thận_trọng hơn .
+Khi công_cụ kết_luận trang đó được sử_dụng để phishing , nó sẽ lập_tức báo đỏ và ngăn người_dùng nhập bất_cứ thông_tin cá_nhân trên site .
+Phần_mềm cũng vô_hiệu hoá thanh công_cụ chứa tính_năng tự_động điền_dữ_liệu vào biểu mẫu trực_tuyến .
+Tuy_nhiên , người_sử_dụng vẫn có_thể điều_chỉnh và gỡ_bỏ tính_năng này nếu họ muốn .
+
+Bộ_lọc trước_tiên sẽ chỉ hoạt_động với Internet Explorer 6 chạy trên Windows XP SP2 và sẽ tương_thích với các hệ_điều_hành khác trong thời_gian tới .
+Tải Microsoft Phishing Filter .
+
+Tính_năng thứ_hai Games Add - in mang lại khả_năng truy_cập chuyên mục game của trang MSN.com trực_tiếp từ thanh công_cụ .
+
+T.N. ( theo PC World )

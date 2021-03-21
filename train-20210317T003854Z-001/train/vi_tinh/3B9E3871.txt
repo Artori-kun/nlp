@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E3871/
+title=Siêu máy tính Blue Gene/L lại tự phá kỷ lục 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Siêu máy_tính Blue Gene / L lại tự phá kỷ_lục
+IBM vừa công_bố hệ_thống gồm 65.536 thiết_bị xử_lý , có_thể thực_hiện 280,6 nghìn tỷ phép_tính mỗi_giây , gấp_đôi kỷ_lục , được coi là nhanh nhất thế_giới của chính Blue Gene / L trước_đây .
+
+Blue Gene / L lần_đầu_tiên trở_thành siêu máy_tính nhanh nhất ( 70,7 teraflop ) trong bảng xếp_hạng Top 500 hệ_thống một năm trước_đây .
+Tốc_độ hệ_thống được đo bằng phép trắc_nghiệm toán_học Linpack , nhưng các nhà tổ_chức Top 500 thừa_nhận đây vẫn chưa phải một phương_pháp hoàn_thiện .
+
+Blue Gene được bán với giá khoảng 2 triệu USD mỗi_giá ( rack ) chứa 1.024 thiết_bị xử_lý , nhưng IMB cũng cho_thuê truy_cập tới Blue Gene và những siêu máy_tính khác cho những ai không muốn mua toàn_bộ hệ_thống .
+
+Ngoài_ra , " Big Blue " cũng ra_mắt một hệ_thống rất mạnh nhưng ít được biết đến khác là ASC Purple , tốc_độ 100 teraflop .
+Cả ASC và Blue Gene / L có giá 290 triệu USD , và sẽ được sử_dụng trong phân_tích , giả lập vũ_khí hạt_nhân cũng_như những nhiệm_vụ liên_quan đến điện toán khác .
+Từ " purple " có_nghĩa_là " màu_tía " - sự_pha_trộn của xanh , đỏ và trắng .
+ASC Purple được thiết_kế để đạt khả_năng cao nhất trong dòng siêu máy_tính ASCI Red , White và Blue .
+Ban_đầu , IBM dự_định ra_mắt hệ_thống vào cuối 2004 , nhưng sau_đó đã hoãn_lại do muốn chuyển sang một thiết_kế ít đắt_đỏ hơn .
+
+Thiết_bị xử_lý Power5 trong ASC Purple mạnh hơn những phiên_bản chip Power của Blue Gene / L , và truy_cập tới nhiều bộ_nhớ hơn để chạy các giả lập phức_tạp .
+Tuy_nhiên , Blue Gene / L tiêu_thụ ít năng_lượng và sử_dụng một tập_hợp 5 mạng tách_biệt để kết_nối các thiết_bị xử_lý , thay_vì bộ chuyển mạch trung_tâm phức_tạp , đồ_sộ .
+
+T.N. ( theo CNet )

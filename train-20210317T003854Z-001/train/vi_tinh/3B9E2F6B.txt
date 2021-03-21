@@ -1,0 +1,37 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2F6B/
+title=Phần mềm thay thế công cụ của Macromedia và Adobe 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm thay_thế công_cụ của Macromedia và Adobe
+Adobe thâu_tóm Macromedia để bảo_vệ khả_năng độc_quyền , mà độc_quyền thì vốn không có lợi cho người_dùng .
+Do_đó , đã đến_lúc bạn cần chuẩn_bị một danh_sách công_cụ miễn_phí thay_cho các chương_trình mà 2 công_ty đang sở_hữu .
+
+Để chỉnh sửa trang web , bạn có_thể chọn , bộ biên_tập webpage đầy triển_vọng , thay_cho Macromedia Dreamweaver và Adobes GoLive .
+
+Bạn sẽ khó có_thể tìm được chương_trình thay_thế Macromedia Flash , nhưng chắc_chắn cũng sẽ cảm_thấy hài_lòng với   , được nhiều người đánh_giá là công_cụ thay_thế " trên cả mong_đợi " .
+
+Riêng trong việc tạo font , có_thể sánh ngang_ngửa với Macromedias Fontographer , đặc_biệt chương_trình còn đính_kèm một " khóa_học phụ_đạo " hữu_ích .
+
+Thị_trường đồ_họa vector hiện_nay do Adobe Illustrator thống_lĩnh , bỏ_xa Macromedias Freehand và Corels Draw .
+Tuy_nhiên , bạn vẫn có_thể xem_xét việc chuyển qua với định dạng file SVG .
+Tuy không bằng nhưng công_cụ này đang dần lấn sân Adobe .
+
+Photoshop vẫn luôn là một đối_thủ khó nhằn. đang nỗ_lực lôi kéo người_sử_dụng dù nó vẫn cần thêm thời_gian cải_tiến .
+Nhưng nếu bạn không_phải một chuyên_gia thiết_kế đồ_họa hay nhiếp_ảnh gia chuyên_nghiệp , The Gimp sẽ là một lựa_chọn không tồi .
+
+Macromedia Fireworks được nhiều người coi là một công_cụ độc_nhất do gần_như không có bất_cứ sản_phẩm nào khác kết_hợp cả đồ_họa vector và pixel theo cách của Fireworks .
+Dù_vậy , bạn có_thể dùng song_song cả Inkscape và The Gimp .
+
+Adobe InDesign là phần_mềm trình_bày và sắp_xếp trang .
+Chương_trình cạnh_tranh với nó là , hoạt_động hài_hòa cùng Inkscape và The Gimp , cũng_như được trang_bị nhiều tính_năng xuất_hiện trong InDesign .
+Công_cụ cũng hỗ_trợ quá_trình tạo file PDF hiệu_quả .
+
+Ngoài_ra , bạn sẽ tìm thấy khá nhiều lựa_chọn trong việc biên_tập video như , và thay_cho Adobe Premiere .
+
+Cả Adobe và Macromedia đều chưa có một ứng_dụng 3D hoàn_chỉnh .
+Lúc_này , bạn sẽ cần đến dù chương_trình hoạt_động không thực_sự thân_thiện với người_dùng .
+Tuy_vậy , khi bạn đã thuần_thục thì đây không_còn là vấn_đề thực_sự quan_trọng .
+
+Tham_khảo thêm những phần_mềm thay_thế miễn_phí khác .
+
+T.N .

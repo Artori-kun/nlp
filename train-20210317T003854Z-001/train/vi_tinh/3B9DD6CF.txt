@@ -1,0 +1,23 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DD6CF/
+title=Celestix MSA - giải pháp bảo mật đa chức năng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Celestix MSA - giải_pháp bảo_mật đa chức_năng
+Hôm_nay , tại Hội_thảo Ứng_dụng các giải_pháp an_ninh thông_minh trong doanh_nghiệp tại Hà_Nội , Celestix Networks đã trình_làng sản_phẩm bảo_mật Celestix MSA đồng_thời chỉ_định Công_ty tư_vấn , ứng_dụng và phát_triển công_nghệ CADTech là nhà phân_phối chính_thức duy_nhất tại Việt_Nam .
+
+Celestix Networks , công_ty chuyên sản_xuất thiết_bị phần_cứng bảo_mật chuyên_dụng , cho_biết Celestix MSA chạy trên nền Windows Server 2003 và được tích_hợp ISA Server 2004 của Microsoft .
+Với Celestix MSA , người_dùng sẽ có một hệ_thống an_ninh tích_hợp đầy_đủ các tính_năng của máy chủ proxy , tường_lửa , mạng riêng ảo VPN và web caching .
+
+" Tường lửa không_thể chống_đỡ được tất_cả các loại_hình tấn_công .
+Nhiều cuộc xâm_nhập xuất_phát từ ngay bên trong tổ_chức , vô_hiệu_hóa vành_đai bảo_vệ " , ông Nguyễn_Quế , chuyên_gia kỹ_thuật của Microsoft tại Việt_Nam , cho_biết .
+" Với xu_hướng hiện_nay , ta có_thể dùng máy xách tay để truy_cập mạng và gửi báo_cáo về công_ty tại bất_cứ đâu .
+Tuy_nhiên , nếu máy_tính nhiễm virus ở bên_ngoài , khi gửi mail về , nguy_cơ lây_lan virus ra toàn mạng là rất cao .
+Đây là một kiểu ảnh_hưởng bên_trong hệ_thống mà firewall không_thể chặn được " .
+
+Ông Nguyễn_Anh_Vũ , Giám_đốc CADTech , cho_biết Celestix MSA có khả_năng vận_hành tối_ưu với tường lửa đa_tầng , bộ_lọc ứng_dụng trên nhiều giao_thức như HTTP , FTP , SMTP , RPC Ngoài_ra , Celestix MSA cũng tích_hợp một số công_nghệ bảo_mật nổi_tiếng khác như phát_hiện phòng_chống xâm_nhập của hệ_thống an_ninh mạng ISS hay công_nghệ lọc web SuftControl .
+
+Celestix MSA cung_cấp hệ_thống lọc thông_minh trên tầng ứng_dụng , cơ_chế xác_thực mở và toàn_diện , giao_diện sử_dụng thuận_tiện cũng_như quản_trị cải_tiến .
+Dữ_liệu đi_qua tường lửa được kiểm_tra theo các phương_thức khác_nhau , có_thể kiểm_soát nguồn và đích đến của gói_tin , lọc gói tin_động , đảm_bảo chỉ mở các cổng khi cần_thiết ...
+Tính_năng này giúp hạn_chế tối_đa các cuộc tấn_công mạng và tránh những mối đe_dọa tiềm_ẩn .
+
+P.Thúy

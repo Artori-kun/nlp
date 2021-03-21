@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/09/3b9e27ea/
+title=Chip Xeon đơn lõi cuối cùng cho máy chủ 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Chip Xeon đơn lõi cuối_cùng cho máy_chủ
+Intel vừa phát_hành 2 thiết_bị xử_lý Xeon LV 3 GHz , 55 watt và Xeon MV 3,2 GHz , 90 watt , tiêu_thụ ít điện_năng hơn những sản_phẩm cùng loại , đồng_thời đặt dấu_chấm hết cho dòng chip đơn lõi máy_chủ .
+
+Hai mẫu năng_lượng thấp này của hãng chip số một hiện_nay được xây_dựng chủ_yếu cho máy chủ dạng_phiến .
+
+Các nhà_sản_xuất đang tập_trung phát_triển những thiết_bị xử_lý điện_năng thấp , giúp giải_quyết tình_trạng rò rỉ và lãng_phí điện .
+Điều này không_chỉ do giá điện tăng cao , mà còn vì nó hỗ_trợ họ thiết_kế hệ_thống dễ_dàng hơn , cũng_như thuận_tiện cho khách_hàng trong việc quản_lý dữ_liệu mà không phải lo_lắng về vấn_đề toả_nhiệt .
+
+Intel đã chậm_chân so với AMD trong việc phát_hành chip máy chủ lõi_kép , có khả_năng kết_hợp hai bộ_vi xử_lý trên một bảng silicon duy_nhất .
+Nhưng tập_đoàn hàng_đầu thế_giới này đang phát_triển một loạt thiết_bị đa lõi và chuẩn_bị công_bố Xeon 2 và 4 lõi đầu_tiên , tên mã Paxaville , cho server .
+
+AMD đã giành thị_phần đáng_kể nhờ dòng_chip chính Opteron , công_suất 95 watt , và một phiên_bản đặc_biệt 120 watt mà Sun Microsystems đang sử_dụng .
+Tuy_nhiên nhiều chuyên_gia nhận_định , với chiêu_bài hạ_giá , Intel sẽ ngăn_chặn khả_năng mở_rộng của đối_thủ .
+
+P.T. ( theo CNet )

@@ -1,0 +1,27 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/08/3B9CAF10/
+title=Symantec giới thiệu Norton Antivirus 2004 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Symantec giới_thiệu Norton Antivirus 2004
+Đây là công_cụ diệt virus mà công_ty phần_mềm an_ninh tung_ra với mục_đích khắc chế những loại sâu phức_tạp như .
+Sản_phẩm mới , với một_số tính_năng quét mạnh_hơn , dự_kiến sẽ được cung_cấp từ tháng 9 .
+
+Norton 2004 được thiết_kế để không_chỉ đối_phó với thế_hệ virus mới sử_dụng nhiều điểm truy_nhập vào máy_tính nạn_nhân và mang khối dữ_liệu lớn , mà còn xử_lý cả những sự_cố không liên_quan đến virus như các loại phần_mềm do_thám ( spyware ) .
+
+Steve Cullen , Phó_chủ_tịch Symantec , nói : Với sự_gia_tăng nguy_cơ tấn_công từ các loại virus tinh_vi , kết_hợp nhiều tính_năng phá_hoại như và Blaster , những giải_pháp chống virus thông_thường không_còn đủ mạnh để đảm_bảo sự_an_toàn cho máy_tính .
+
+Các chuyên_gia chống virus suốt mấy tuần qua đã phải vật_lộn với sự_lan_rộng của các biến_thể từ và MSBlast .
+Virus này vừa được khống_chế thì virus khác lại xuất_hiện .
+
+Symantec cho_biết sản_phẩm Norton AntiVirus 2004 có_thể phát_hiện phần_mềm phá_hoại ngay tại thời_điểm chuẩn_bị xâm_nhập vào hệ_thống và sàng_lọc các file đính_kèm e - mail cũng_như tin_nhắn nhanh_IM .
+Ngoài_ra , công_cụ này còn được bổ_sung khả_năng bảo_vệ người_sử_dụng hệ_điều_hành Windows 2000 và XP của Microsoft , đồng_thời quét virus ẩn trong các file nén , thường xảy_ra trong trường_hợp file được gửi qua mạng ngang_hàng hoặc công_cụ IM .
+Một ưu_điểm nữa của Norton AntiVirus 2004 là việc công_cụ quét phần_mềm gián_điệp và chương_trình ẩn còn được dùng để xem dữ_liệu riêng của khách_hàng hoặc để phát_hiện những biến_động trên hệ_thống đang kết_nối .
+
+Sẽ có hai phiên_bản của Norton AntiVirus 2004 cùng được phát_hành , một là bản tiêu_chuẩn phục_vụ người tiêu_dùng phổ_thông và một dành cho đối_tượng chuyên_nghiệp là các công_ty .
+Gói sản_phẩm này sẽ được truy_cập miễn_phí vào dịch_vụ nâng_cấp LiveUpdate của Symantec , tự_động tải chương_trình mới mỗi khi người_sử_dụng nối mạng .
+
+Phần_mềm mới của Symantec sẽ được bán với giá 49,95 USD ( phiên_bản phổ_thông ) và 69,95 USD ( phiên_bản chuyên_nghiệp ) .
+Các khách_hàng đã có chương_trình Norton AntiVirrus và kể_cả những phần_mềm của hãng khác cũng có_thể cập_nhật 2 công_cụ trên với giá lần_lượt là 29,95 USD và 39,95 USD .
+Phần_mềm mới còn được cung_cấp theo gói dành cho nhóm nhiều người sử_dụng ( multiuser ) với giá 199,95 USD ( đối_với nhóm 5 người ) và 399,95 USD ( nhóm 10 người trở_lên ) .
+
+Phan_Khương ( theo CNet )

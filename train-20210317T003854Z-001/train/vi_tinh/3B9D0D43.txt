@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D0D43/
+title=Phát hành thử Windows XP Service Pack 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phát_hành thử Windows XP Service Pack
+Microsoft đã tung_ra một phiên_bản tiền chính_thức của phần_mềm nâng_cấp mới nhất đối_với hệ_điều_hành XP .
+Service Pack 2 Release Candidate 1 ( RC1 ) được cung_cấp trong phạm_vi nhóm khách_hàng thử_nghiệm beta của hãng và sẽ chính_thức ra_mắt ngày 1/7 .
+
+Mục_tiêu của chương_trình mới là tăng_cường an_ninh cho hệ_điều_hành tiện_dụng nhưng đã và đang gặp rất nhiều sự_cố do các khiếm_khuyết bên_trong gây_ra .
+Service Pack 2 RC1 bổ_sung công_cụ bảo_vệ bộ_nhớ và cải_thiện tính_năng bảo_vệ việc chạy các chương_trình .
+Nó còn được thiết_kế để khóa những bộ_phận khác_nhau của hệ_thống nhằm hạn_chế khả_năng hoạt_động của virus
+Gói phần_mềm còn có một trung_tâm an_ninh , tức_là một giao_diện cho người_sử_dụng để lập cấu hình tường_lửa , hàng_rào chống virus và công_cụ khóa pop - up cho Internet Explorer để ngăn_ngừa các website mở những chương_trình không mong_muốn trên màn_hình .
+
+Ngoài_ra , lần_đầu_tiên khả_năng hỗ_trợ Bluetooth cũng_được bổ_sung vào Windows XP .
+Service Pack 2 RC1 cũng kết_hợp một số_phần nâng_cấp cho máy_tính bỏ_túi và các phiên_bản Media Center của hệ_điều_hành này .
+Service Pack 2 là một phần trong dự_án của Microsoft .
+
+Phan_Khương ( theo VNUNet )

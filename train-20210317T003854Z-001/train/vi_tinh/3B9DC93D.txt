@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC93D/
+title=R3.40 - phần mềm quản lý sản xuất, quan hệ khách hàng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+R3.40 - phần_mềm quản_lý sản_xuất , quan_hệ khách_hàng
+Hãng Diginet vừa cho ra_đời phiên_bản mới của phần_mềm Lemon3 ( r ) ERP với tên R3.40 .
+Ngoài việc bổ_sung những tính_năng cao cho các nhóm module tài_chính , cung_tiêu , nhân_lực , giá_thành và phân_tích quản_trị , phiên_bản này còn có 2 nhóm module mới là quản_lý quan_hệ khách_hàng ( CRM ) và quản_trị sản_xuất .
+
+Nhóm module CRM bao_gồm chiết_khấu và khuyến_mãi , quản_lý thương_vụ cũng_như quan_hệ , nhằm hỗ_trợ cho doanh_nghiệp trong lĩnh_vực thương_mại sản_xuất .
+Phần quản_trị sản_xuất thì bao_gồm kế_hoạch và năng_lực sản_xuất .
+Công_cụ đặc_biệt LemonWed sẽ giúp người_dùng truy_cứu dữ_liệu hay xem báo_cáo bằng trình_duyệt trên mạng nội_bộ ( LAN ) hay mạng diện rộng ( WAN ) .
+
+Diginet cũng đưa_ra sản_phẩm mới có tên Lemonseed " hệ_thống kiểm_soát nội_bộ " , nhằm bổ_sung cho Lemon3 một_cách hoàn_chỉnh nhất .
+Trước_đây , việc triển_khai Lemon3 còn gặp_phải một_vài khó_khăn do đa_phần các doanh_nghiệp chưa sẵn_sàng về mặt tổ_chức , quy_trình hoạt_động .
+
+Nguyễn_Thùy

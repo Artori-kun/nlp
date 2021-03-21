@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/08/3B9CAEB2/
+title=Phần mềm CRM tăng hiệu quả hoạt động doanh nghiệp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm CRM tăng hiệu_quả hoạt_động doanh_nghiệp
+Trong , CRM ( Quản_lý quan_hệ khách_hàng ) và ERP ( Hoạch_định tài_nguyên doanh_nghiệp ) đã được tích_hợp , để tất_cả dữ_liệu liên_quan đến khách_hàng , nhà_cung_cấp cũng_như những thông_tin về mua_bán và tài_chính đều có_thể được truy_cập dễ_dàng thông_qua thẻ khách_hàng ( account card ) .
+
+Thông_tin về cá_nhân , tầm_cỡ công_ty , lĩnh_vực ngành_nghề , người quản_lý khách_hàng và tình_trạng khách_hàng đều có sẵn trong một màn_hình .
+Người sử_dụng cũng có_thể truy_cập trực_tiếp thông_tin liên_quan đến tình_trạng nợ và các giao_dịch tài_chính của khách , các thoả_thuận giá , tổng_quan về đơn đặt_hàng và ngân_sách mà_không cần tham_khảo các hệ_thống khác .
+Tất_cả nhân_viên được cấp quyền đều có_thể truy_cập vào thẻ khách_hàng và xem cùng một thông_tin .
+Điều này bảo_đảm một nguồn_thông_tin tích_hợp và duy_nhất trong toàn_bộ tổ_chức , giúp cho người_dùng tiết_kiệm thời_gian tìm_kiếm .
+
+E - CRM ( trong phần_mềm ERP Exact Globe 2000 ) và e - CRM ( của , e - ERP ) dùng chung một cơ_sở_dữ_liệu , mọi thông_tin được tích_hợp , thống_nhất trong toàn_bộ doanh_nghiệp .
+Cho_dù đang ở_đâu , người_sử_dụng chỉ cần truy_cập vào web là có_thể có toàn_bộ thông_tin liên_quan đến khách_hàng , người cung_cấp , đại_lý ... .
+Và chính_khách_hàng cũng có_thể liên_lạc với doanh_nghiệp một_cách nhanh_chóng qua môi_trường này .
+
+Trọng_Luân

@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9C04CC/
+title=Cắt file dễ dàng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Cắt file dễ_dàng
+Bạn muốn chia nhỏ những tệp tin có dung_lượng lớn để copy sang đĩa_mềm hoặc gửi kèm với e - mail ?
+Hãy dùng File Splitter , File Fission Wizard và Splitty .
+
+Điểm hay của File Splitter v.1.2 là nó tạo_ra tệp bó dễ_dàng hợp lại trên máy khác nên bạn không cần phải cài tiện_ích này trên máy_đích .
+
+Chương_trình có dung_lượng 235 KB , tương_thích với hệ_điều_hành Windows NT/85/98 và có_thể tải miễn_phí   .
+
+Hai phần_mềm chia_sẻ có chức_năng tương_tự là File Fission Wizard v.5 ( 223 KB ) của Gavin Enterprises và Splitty ( 416 KB ) của Basta Computing .
+
+Nếu máy cài Windows 2000 , Me hoặc XP , bạn chỉ cần download File Fission Wizard   .
+Nếu dùng Windows 95 , 98 hoặc NT 4 , bạn cần có thêm Internet Explorer 5 , Media Player 6 , Windows Installer và Visual Basic 6 Runtime Libraries .
+Chúng cũng sẵn_sàng cho bạn tải tại   .
+ 
+Splitty dễ sử_dụng với thao_tác kéo - thả , tương tích với Windows 9.x và có_thể download .
+ 
+Minh_Long

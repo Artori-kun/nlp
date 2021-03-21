@@ -1,18 +1,18 @@
 from base_tokenizer import BaseTokenizer
-from utils import load_n_grams
+import utils
 __author__ = "Ha Cao Thanh"
 __copyright__ = "Copyright 2018, DeepAI-Solutions"
 
 
 class LongMatchingTokenizer(BaseTokenizer):
-    def __init__(self, bi_grams_path='bi_grams.txt', tri_grams_path='tri_grams.txt'):
+    def __init__(self):
         """
         Initial config
         :param bi_grams_path: path to bi-grams set
         :param tri_grams_path: path to tri-grams set
         """
-        self.bi_grams = load_n_grams(bi_grams_path)
-        self.tri_grams = load_n_grams(tri_grams_path)
+        self.bi_grams = utils.load_corpus('bi')
+        self.tri_grams = utils.load_corpus('tri')
 
     def tokenize(self, text):
         """
@@ -60,7 +60,7 @@ class LongMatchingTokenizer(BaseTokenizer):
 
 def test():
     lm_tokenizer = LongMatchingTokenizer()
-    tokens = lm_tokenizer.tokenize("Thuế thu nhập cá nhân")
+    tokens = lm_tokenizer.tokenize("Con Hà bị ngu vl")
     print(tokens)
 
 

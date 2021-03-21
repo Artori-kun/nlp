@@ -1,0 +1,35 @@
+url=http://www.vnexpress.net/Vietnam/Kinh-doanh/Chung-khoan/2005/12/3B9E4F1E/
+title=Lệnh nhầm chết người 
+cat=KINH-DOANH|CHUNG-KHOAN
+
+Lệnh nhầm chết người
+Thị_trường chứng_khoán Nhật_Bản đang chứng_kiến một sự_cố chưa_bao_giờ xảy_ra .
+Giá cổ_phiếu J - com ngày 8/12 là 610.000 yen / cổ_phiếu đã bị công_ty chứng_khoán Mizuho đặt nhầm thành 1 yen/610.000 cổ_phiếu .
+
+Lệnh đặt_mua ùn_ùn đổ đến trong_khi J - com chỉ bán có 14.500 cổ_phiếu .
+Chỉ 30 phút sau , Mizuho đã nhận_ra sai_lầm của mình , điều_chỉnh mức_giá ngay_lập_tức , tuy_nhiên , không cứu_vãn được nhiều .
+Giá của loại cổ_phiếu này đã rớt_xuống 570.000 yen .
+Tính sơ_sơ , Mizuho đã bán 470.000 cổ_phiếu , trong_đó có rất nhiều nhà_đầu_tư tổ_chức như Morgan Stanley Nhật mua khoảng 4.522 cổ_phiếu .
+Ngay sau_đó , công_ty chứng_khoán đăng thông_báo mua_lại cổ_phiếu đã bán_hớ , mức đã vọt tới 772.000 yen .
+Ngày 9/12 , thị_trường chứng_khoán Nhật quyết_định ngừng giao_dịch cổ_phiếu J - com vì lo_ngại giá của nó sẽ lên vùn_vụt nếu Mizuho cố mua_lại .
+Hiện giá cổ_phiếu bình_quân của kinh_tế Nhật Bản rớt vài trăm yen / cổ_phiếu .
+
+Theo luật chứng_khoán Nhật , Mizuho phải chuyển giấy chứng_nhận cổ_phần cho người mua vào thứ_ba_tuần sau , tức_là 4 ngày sau thời_điểm khớp_lệnh .
+Do_lượng cổ_phiếu bán được lệch rất lớn so với số_lượng được rao bán , Mizuho buộc phải mua_lại để có_thể chuyển cho những người không muốn bán .
+Nếu thực_hiện muộn , công_ty sẽ bị phạt rất nặng .
+Chủ_tịch Mizuho Makoto Fukuda nói rằng thiệt_hại có_thể tới 30 tỷ yen , hơn_cả một năm lợi_nhuận của hãng .
+
+" Cú_sốc J - Com " là từ cửa_miệng của những người_chơi cổ_phiếu trong 2 ngày_qua .
+Sự_cố này khiến giới đầu_tư cổ_phiếu ở thị_trường chứng_khoán Tokyo và cả những công_ty phát_hành cổ_phiếu hoang_mang .
+
+Nhiều người lên_tiếng chỉ_trích rằng sự_nhầm_lẫn lần_này có khả_năng làm tê_liệt thị_trường giao_dịch cổ_phiếu trên mạng .
+Tháng_trước số_lượng khớp lệnh bằng hình_thức này đạt 4,5 tỷ cổ_phiếu , giá_trị 3.200 tỷ yen .
+
+Hôm_qua , Cơ_quan Tài_chính Nhật đã bắt_đầu điều_tra hệ_thống máy_tính tại Thị_trường chứng_khoán Nhật và công ty Mizuho .
+Hiện Uỷ_ban chứng_khoán Nhật yêu_cầu những người_mua cổ_phiếu J - com giữ_nguyên hiện_trạng tài_khoản để có chờ giải_quyết .
+Giải_pháp này được áp_dụng trong trường_hợp khẩn_cấp như xảy_ra thảm hoạ và hoặc có sự_cố nghiêm_trọng với thị_trường .
+Tuy_nhiên , khách_hàng có_thể kiện lại nếu không đồng_ý .
+
+Hôm_qua , chủ_tịch Mizuho Fukuda đã có cuộc gặp với Bộ_trưởng phụ_trách các vấn_đề_tài chính Kaoru Yosano để nhận_lỗi về sự_cố trên .
+
+Việt_Phong ( theo Asahi )

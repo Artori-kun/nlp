@@ -1,0 +1,32 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E76DD/
+title=Google biến máy tính chỉ còn là 'bộ nhớ đệm'  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google biến máy_tính chỉ còn là ' bộ_nhớ đệm '  
+" King Kong " trong làng tìm_kiếm đang phát_triển một dịch_vụ mới nhằm cho_phép người_sử_dụng chuyển 100 % dữ_liệu trong ổ cứng máy_tính của họ lên máy chủ Google .
+
+Thông_tin này xuất_hiện trong một bản PowerPoint đăng trên trang web của Google ngày 2/3 .
+Nhưng hãng tìm_kiếm sau_đó đã lập_tức thay_thế bằng một tài_liệu PDF và xóa_bỏ chi_tiết trên .
+
+Tuy_nhiên , một_số_người đã nhanh_chân lưu được bản_gốc , trong_đó có Greg Linden , chủ_nhân trang web cá_nhân " Geeking with Greg " .
+Bản PowerPoint chứa những đoạn chú_thích ngắn_gọn về 3 dịch_vụ chủ_chốt trong kế_hoạch lưu_trữ toàn_bộ " Store 100 % " của Google là GDS , Lighthouse và GDrive .
+
+GDS chính là Google Desktop Search và bản ghi_chú này đề_cập đến tính_năng Search Across Computers ( tìm_kiếm giữa các máy_tính ) mới được ra_mắt gần_đây .
+Hai tuần_trước , hãng nghiên_cứu Gartner doanh_nghiệp nên gỡ_bỏ hoặc thiết_lập chính_sách nghiêm_ngặt khi sử_dụng công_cụ tìm_kiếm desktop của Google .
+
+Còn Lighthouse là một " danh_sách truy_cập " .
+Có_lẽ đây là một ứng_dụng bảo_mật để xác_định những đối_tượng nào được_phép tiếp_cận thông_tin trên máy chủ Google .
+
+Trong_khi_đó , GDrive có_vẻ là một dịch_vụ lưu_trữ , hỗ_trợ chuyển mọi dữ_liệu trong PC của người_sử_dụng lên Google server .
+Khi_đó , máy_tính cá_nhân chỉ còn đóng vai_trò như các cache ( bộ_nhớ đệm ) tạm_thời .
+
+Chú_thích trong tài_liệu Google PowerPoint có_đoạn : " Với dung_lượng vô_hạn , chúng_tôi có khả_năng chứa mọi file từ e - mail , lịch_trình_duyệt web , tranh_ảnh ... và tạo điều_kiện để người_dùng có_thể truy_cập và lấy thông_tin tại bất_cứ đâu , bất_cứ khi_nào trên mọi thiết_bị , mọi nền_tảng " .
+
+Đây không_phải ý_tưởng quá mới_mẻ trên Internet .
+Box.net , Xdrive , Yahoo ... đã cho_phép lưu_trữ online và truy_cập từ xa nhưng Google đang " tân_trang " nó thành một dịch_vụ hoạt_động đầy ấn_tượng .
+" Dịch_vụ lưu_trữ của Google sẽ rất hấp_dẫn bởi hai lý_do " , Greg Linden giải_thích .
+" Thứ_nhất , Google thường cung_cấp ứng_dụng với quy_mô lớn hơn những gì đang tồn_tại .
+Hòm_thư Gmail 2 GB là một ví_dụ .
+Thứ_hai , GDrive là dự_án lớn nhằm lưu toàn_bộ dữ_liệu trực_tuyến , chứ không_phải chỉ một phần nhỏ " .
+
+T.N. ( theo InternetNews )

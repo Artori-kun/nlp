@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E4236/
+title=Máy chiếu trong điện thoại di động 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy_chiếu trong điện_thoại di_động
+Công_ty Upstream của Phần Lan đang nghiên_cứu công_nghệ máy chiếu LED nhỏ gọn đầy tiềm_năng , hứa_hẹn chỉ một_vài năm nữa người tiêu_dùng có_thể mang cả " hệ_thống rạp_hát mini " trong túi .
+
+Hình_ảnh lưu trong điện_thoại sẽ được chiếu trực_tiếp lên tường , dù độ sáng sẽ không cao như chuẩn hiện_nay .
+Tuy_nhiên nó giải_phóng nội_dung điện_thoại và máy_nghe nhạc khỏi phạm_vi gò_bó của màn_hình .
+Với kích_thước nhỏ và giá_thành tương_đối thấp , các nhà sản_xuất có khả_năng đặt đèn LED bên_trong máy MP3 , điện_thoại và những sản_phẩm điện_tử cầm_tay khác chỉ với chi_phí vài USD .
+
+Mẫu máy chiếu mô_phỏng hiện_nay của Upstream bằng một hộp_diêm .
+Việc giảm kích_thước dựa_trên nguyên ký ánh_sáng tự_nhiên hoặc từ nến và đèn LED đều tỏa theo tất_cả mọi_hướng .
+Công_ty đã xây_dựng một hệ_thống quang_học phức_tạp , có_thể thu_nhận ánh_sáng và phóng rộng_ra .
+Hệ_thống quang " chân không ánh_sáng " này hình_thành nên một khung bao_quanh đèn LED .
+" Ý_tưởng ở_đây là gom_lại mọi tia_sáng và chiếu tới mục_tiêu " , Mikko Alasaarela , Giám_đốc Upstream , giải_thích ngắn_gọn .
+
+Tuy_vậy , dù công_ty đã giải_quyết nhiều vấn_đề cơ_bản trong thiết_kế và sản_xuất hệ_thống ánh_sáng , họ vẫn cần nâng_cao hơn về chất_lượng và khả_năng vận_hành .
+Alasaarela cho_biết giá_thành sản_phẩm sẽ không vượt_quá 10 USD .
+
+Công_nghệ LED đang được nhiều người tiêu_dùng quan_tâm vì nó tốn ít điện_năng , tuổi_thọ kéo_dài và không chứa thủy_ngân ( một lượng nhỏ độc_tố trong nhiều thiết_bị điện_tử hiện_nay ) .
+
+P.T. ( theo CNet )

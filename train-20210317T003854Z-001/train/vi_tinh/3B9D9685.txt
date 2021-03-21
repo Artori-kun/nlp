@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9685/
+title=Xuất hiện điện thoại Internet miễn cước 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Xuất_hiện điện_thoại Internet miễn_cước
+Nhà_cung_cấp VoIP LibreTel của Mỹ đang xúc_tiến một tiện_ích dành cho gia_đình , cho_phép người_dùng nhận các cuộc gọi không_giới_hạn qua Internet .
+Với tên_gọi Port- of - Call , dịch_vụ này có chức_năng tương_tự như số máy miễn_cước có đầu 1-800 rất phổ_biến trong giới doanh_nghiệp .
+
+Cũng giống như với các số máy có đầu 1-800 , người_gọi tới các thuê_bao của Port- of - Call sẽ hoàn_toàn không bị tính_cước .
+Chi_phí này do thuê_bao trả với mức phí 6 USD/ tháng , thấp hơn rất nhiều so với thuê_bao của dịch_vụ 1-800 ( 20 cent/ phút ) .
+Tuy_nhiên , người_dùng Port- of - Call sẽ không_được gọi ra ngoài , thậm_chí tới các số điện_thoại khẩn .
+
+Số máy 1-800 cá_nhân được các nhà_cung_cấp dịch_vụ điện_thoại truyền_thống đưa_ra cách đây vài năm nhưng không thu_hút được nhiều sự_chú_ý , chủ_yếu là do mức phí quá cao .
+Tuy_nhiên , Port- of - Call sử_dụng giao_thức truyền giọng_nói qua Internet ( VoIP ) nên_tránh được khá nhiều loại thuế và quy_định nên giảm được đáng_kể chi_phí .
+Một lợi_thế khác của Port- of - Call là dịch_vụ được cung_cấp trên bất_cứ kết_nối Internet tốc_độ cao nào , trong_khi số 1-800 truyền_thống bị hạn_chế ở một địa_điểm duy_nhất .
+
+Mục_tiêu ban_đầu của Port- of - Call là người tiêu_dùng .
+Tuy_nhiên , LibreTel hy_vọng sẽ có cơ_hội triển_khai các dịch_vụ tương_tự cho các doanh_nghiệp lớn .
+
+T.N. ( theo CNet )

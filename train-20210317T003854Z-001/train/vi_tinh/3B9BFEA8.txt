@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9BFEA8/
+title=Máy thu video trực tuyến của Sony 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy thu video trực_tuyến của Sony
+Hôm_qua , tập_đoàn điện_tử Sony ( Nhật_Bản ) đã ra_mắt người_dùng máy thu video sử_dụng ổ cứng và chạy hệ_điều_hành Linux .
+Đây là sản_phẩm đầu_tiên trong nỗ_lực mới của Sony nhằm tiến vào thị_trường giải_trí trên máy PC có kết_nối trực_tuyến .
+
+Thiết_bị mới mang tên Cocoon ( COnnected COmmunity On Network ) , có_thể tự_động tìm_kiếm và ghi những chương_trình truyền_hình mà nó cho_rằng bạn sẽ thích .
+
+Cocoon sử_dụng một ổ cứng 160 GB để thu các chương_trình có thời_gian 100 giờ , hoặc 15 giờ truyền_hình với độ_phân_giải cao .
+Bên_cạnh_đó , thiết_bị này cũng có_thể thu_nhạc và các đoạn_phim .
+
+Khi được kết_nối với Internet tốc_độ_cao , Cocoon sẽ xác_định các thông_tin chương_trình truyền_hình , sau_đó sử_dụng 44 từ khoá do người_dùng chọn trước để thu_lại những chương_trình phù_hợp .
+Nếu bạn từ_chối chương_trình mà nó tự_động thu , Cocoon sẽ đưa_ra lời xin_lỗi !
+Sony sẽ tung thiết_bị này ra thị_trường nội_địa vào đầu tháng 11 với giá 1.110 USD , và sau_đó sẽ đưa_ra thị_trường Mỹ và các nước_khác .
+Cocoon sẽ cạnh_tranh với các sản_phẩm tương_tự , trong_đó có máy thu video kỹ_thuật số TiVo .
+
+Minh_Nghĩa ( theo Reuters )

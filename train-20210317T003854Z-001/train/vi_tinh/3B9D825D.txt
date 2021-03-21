@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D825D/
+title=Máy tính để bàn nhỏ nhất thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy_tính để_bàn nhỏ nhất thế_giới
+Với đầy_đủ chức_năng của một desktop , ThinkCentre S50 của hãng IBM nặng chưa đến 5,9 kg , kích_thước rộng 28 cm , dày 26 cm và cao 8,4 cm .
+Sản_phẩm hiện_có mặt tại thị_trường Việt_Nam .
+
+ThinkCentre S50 sử_dụng các công_nghệ IBM ThinkVantage .
+PC này có nguồn_điện nội_bộ , một khe cắm PCI , khe ổ quang_mỏng , một ổ_đĩa_cứng bên_trong 3,5 " và Intel Pro - 1000 Ethernet .
+PC cũng có một " túi " bao_quanh cố_định ổ cứng và đồng_thời đảm_bảo việc tháo lắp dễ_dàng không_cần sử_dụng thiết_bị hay đinh_ốc .
+Đệm cao_su trên túi sẽ giảm độ rung và giảm tiếng ồn khi vận_hành .
+Toàn_bộ linh_kiện của máy_tính để_bàn siêu nhỏ được đặt trong một khung sắt_bền .
+
+Với ThinkCentre S50 , người_sử_dụng có_thể dễ_dàng bảo_dưỡng và nâng_cấp , hạn_chế thời_gian ngưng máy cũng_như chi_phí liên_quan đến hỗ_trợ tại_chỗ .
+
+So_sánh với phiên_bản đầu_tiên của máy ThinkCentre S50 , thiết_kế tổng_thể đã có những cải_tiến kỹ_thuật như : giảm tiếng ồn từ 41 dBA xuống còn 39 dBA , các cổng USB rộng hơn để vừa_vặn với hầu_hết thiết_bị lưu_trữ rời , kênh truyền hệ_thống ( System Bus ) được thiết_kế gọn_gàng , được đánh_dấu theo các màu chuẩn dễ_dàng cho việc nâng_cấp , bảo_hành , sữa_chữa ...
+
+Minh_Hoàng

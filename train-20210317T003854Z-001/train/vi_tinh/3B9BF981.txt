@@ -1,0 +1,39 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/08/3B9BF981/
+title=AMD và Intel tiếp tục cuộc chiến về bộ vi xử lý 
+cat=VI-TINH|SAN-PHAM-MOI
+
+AMD và Intel tiếp_tục cuộc_chiến về bộ_vi xử_lý
+Hôm_nay , tập_đoàn Intel giới_thiệu các chip Pentium 4 tốc_độ 2,8 GHz , 2,66 GHz , 2,6 GHz và 2,5 GHz dành cho máy để_bàn .
+Còn AMD cũng tuyên_bố sẽ tung_ra 2 bộ xử_lý Athlon mới vào đầu tháng 9 .
+Tuy_nhiên , trong cuộc đọ sức lần_này , AMD đã bị hạ_gục trước đối_thủ nặng_ký Intel .
+
+Bộ xử_lý Pentium 4 tốc_độ 2,8 GHz đã giúp Intel vượt xa AMD .
+
+Năm_ngoái , AMD được coi là một ngôi_sao sáng trong thế_giới của những bộ_vi xử_lý , liên_tục trong nhiều thử_nghiệm .
+Nhưng năm_nay , Intel đã loại dần các lợi_thế của AMD .
+Theo thử_nghiệm gần_đây , những hệ_thống Pentium 4 hàng_đầu đã vượt_qua các PC Athlon XP tốt nhất trong thử_nghiệm tốc_độ PC World Bench 4 .
+Tuy_nhiên , theo các chuyên_gia , chiến_thắng đó dường_như rất ngắn_ngủi khi AMD phục_hồi với chip mới vào cuối năm_nay .
+
+Theo Intel , những bộ xử_lý mới của hãng sẽ làm phong_phú thêm chất_lượng video và âm_thanh .
+Đồng_thời , các hệ_thống chạy trên_bộ xử_lý Pentium 4 tốc_độ cao còn là một khoản đầu_tư giá_trị đối_với giáo_dục trẻ_em .
+
+Ông Louis Burns , Phó_chủ_tịch kiêm Giám_đốc nhóm Desktop Platform của Intel , phát_biểu : " Pentium 4 mới nhất khi kết_hợp với chipset và hệ_điều_hành mới sẽ mang_lại tốc_độ và khả_năng xử_lý cao hơn cho máy_tính .
+Người sử_dụng có_thể quét ảnh nhanh gấp 3 lần và xử_lý ảnh nhanh hơn 4 lần so với dùng máy_tính cũ " ,
+Với bộ_nhớ đệm thứ_cấp có dung_lượng 512 K , khả_năng tùy_chọn bus hệ_thống tốc_độ 400 MHz hoặc 533 MHz và được sản_xuất với quy_trình 0,13 micron , bộ xử_lý Pentium 4 tiếp_tục định ra các tiêu_chuẩn mới cho PC tốc_độ_cao .
+Sản_phẩm này sẽ được đưa_vào trong các PC mới của Dell , IBM , Gateway và một số hãng khác .
+
+Ngoài_ra , Intel cũng chuẩn_bị tung_ra chip Pentium 4 vào_dịp mùa lễ cuối năm_nay .
+Mỗi khi giới_thiệu chip mới , Intel thường hạ_giá chip Pentium và Celeron đã có_mặt trên thị_trường trước_đó , ví_dụ như chip Pentium 4 tốc_độ 2,53 GHz từ 637 USD hạ_giá còn 253 USD .
+
+Dưới_đây là biểu_giá bộ xử_lý tốc_độ cao cho đơn đặt 1.000 bộ :
+Về phía AMD , mới_đây , hãng cũng tuyên_bố sẽ tung_ra 2 bộ xử_lý Athlon mới vào đầu tháng 9 , nhân kỷ_niệm 3 năm ngày cho ra_đời chip đầu_tiên thuộc dòng chip Athlon .
+, Athlon XP 2600 và XP 2400 , lần_lượt đạt tốc_độ xử_lý 2,133 GHz và 2 GHz .
+Giá ban_đầu của 2600 và 2400 là 297 USD và 193 USD khi mua với số_lượng 1.000 chip .
+
+Theo nhận_định của các chuyên_gia máy_tính , tốc_độ của XP 2600 và XP 2400 không cao như Pentium 4 tốc_độ 2,8 GHz .
+Tuy_nhiên , hai thế_hệ chip này lại có điểm mạnh là khả_năng hoạt_động tốt , tính tương_thích cao và có giá_rẻ đáng_kể .
+
+Cuối năm_nay , AMD dự_tính sẽ công_bố CPU thế_hệ thứ 8 , tên mã là .
+Các chip này sẽ được thiết_kế hoàn_toàn mới và xuất_hiện trong PC để_bàn của các hãng sản_xuất máy_tính tên_tuổi nhằm giúp AMD giành lại vị_thế của mình trên thị_trường vi xử_lý .
+
+Minh_Nghĩa

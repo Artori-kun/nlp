@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E3851/
+title=Website tổng hợp các định dạng tệp tin 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Website tổng_hợp các định dạng tệp_tin
+Đôi_khi bạn nhận_được những file có đuôi rất lạ và khó_hiểu .
+Trang Whatis sẽ cung_cấp cho bạn thông_tin mô_tả ngắn_gọn về định_dạng và cách sử_dụng tệp_đó .
+
+Danh_sách liệt_kê phần mở_rộng , hay còn gọi_là hậu_tố , của file theo thứ tự abc , giúp bạn có_thể dễ_dàng tra_cứu , đồng_thời chú_giải đuôi tệp tin đó là viết tắt của những từ nào .
+Ngoài_ra , trang còn cung_cấp kết_nối tới định_nghĩa của định_dạng hoặc những thông_tin liên_quan để người đọc có_thể tìm_hiểu thêm .
+
+Ví_dụ , API xuất_phát từ Application Program Interface ( giao_diện chương_trình ứng_dụng ) , được sử_dụng trong Adobe Acrobat , đuôi EXE là từ rút_gọn của Executable File ( tệp tin thực_thi ) , trong_khi DLL là viết tắt của Dynamic - link library file ( thư_viện liên_kết động ) ...
+
+Xem danh_sách định dạng file .
+
+T.N .

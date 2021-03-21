@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/10/3B9B53C2/
+title=Toshiba phát triển công nghệ màn hình notebook mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Toshiba phát_triển công_nghệ màn_hình notebook mới
+Hôm_qua ( 9/10 ) , Toshiba giới_thiệu máy_tính xách tay đầu_tiên với màn_hình công_nghệ polysilicon ( silicon đa phân_tử ) ở nhiệt_độ thấp .
+Với công_nghệ mới này , các máy xách_tay và thiết_bị hỗ_trợ cá_nhân kỹ_thuật_số ( PDA ) sẽ trở_nên mỏng và có giá_thành rẻ hơn nhiều trong tương_lai .
+
+Tuy_nhiên , hiện_tại , những màn_hình sử_dụng công_nghệ này vẫn đắt hơn_hẳn so với màn_hình tinh_thể_lỏng silicon vô_định_hình , bởi nó chưa được phổ_cập .
+
+Giá_bán của màn_hình silicon đa phân_tử 14,1 inch đầu_tiên có độ_phân_giải tối_đa 1.024 x 768 pixel là 650 USD , trong_khi giá_bán màn_hình silicon vô_định_hình là 220 USD .
+
+Công_nghệ polysilicon cho_phép tạo_ra những màn_hình với chất_lượng hình_ảnh cao , sử_dụng ít thành_phần hợp_thành hơn , chỉ khoảng 40 % so với công_nghệ silicon hiện_hành .
+
+Minh_Nghĩa ( theo CNET )

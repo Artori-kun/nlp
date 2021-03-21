@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/07/3B9BE659/
+title=Hitachi xuất xưởng máy xách tay tản nhiệt bằng nước 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hitachi xuất_xưởng máy xách tay tản nhiệt bằng nước
+Sau khi công_bố phát_triển thành_công , tập_đoàn Hitachi vừa chính_thức tung_ra thị_trường máy_tính xách tay mới Flora 270W Silent .
+Công_nghệ này có hiệu_quả cao và ít gây tiếng ồn so với phương_pháp truyền_thống .
+
+Flora 270W Silent , dựa_trên bộ xử_lý Pentium 4 di_động của Intel , sử_dụng một hệ_thống mới do Hitachi sáng_chế để tản nhiệt thay_cho việc dùng_quạt .
+
+Hiện_nay , đa_số các máy xách tay đều tản nhiệt bằng cánh_quạt .
+Các bộ xử_lý hoạt_động càng mạnh , nhiệt_lượng tỏa ra càng lớn và dĩ_nhiên bộ xử_lý sẽ gặp trục_trặc nếu không được hạ hỏa kịp_thời .
+Trong dòng máy xách_tay , vấn_đề này được xử_lý qua hệ_thống làm mát bằng khí .
+Các nhà_sản_xuất thường gắn một cánh_quạt trên đầu bộ xử_lý , nhưng cánh_quạt sẽ gây nhiều tiếng ồn .
+Hơn_thế_nữa , nó có_thể không phù_hợp cho những nơi như thư_viện .
+Giải_pháp mới mà Hitachi đưa_ra đã giải khắc_phục được nhược_điểm đó và tỏ_ra hiệu_quả hơn nhiều so với giải_pháp truyền_thống .

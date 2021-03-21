@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Kinh-doanh/Chung-khoan/2007/04/3B9F4C20/
+title=Mất niềm tin vào bảng chứng khoán trực tuyến 
+cat=KINH-DOANH|CHUNG-KHOAN
+
+Mất niềm_tin vào bảng chứng_khoán trực_tuyến
+Từ sau Tết đến nay , nhà đầu_tư liên_tục phản_ánh về tình_trạng sai bảng_số liệu giao_dịch chứng_khoán trực_tuyến TP HCM , còn muốn coi giao_dịch tại sàn Hà_Nội thì chỉ có cách đến sàn vì trang web của trung_tâm luôn quá tải.  
+Kết_thúc phiên 5/4 , bảng_giá trực_tuyến của Công_ty chứng_khoán Ngân_hàng Ngoại_thương ( VCBS ) có kết_quả Vn - Index tăng 4,71 điểm , đạt 1.055,61 điểm .
+Trang web của Trung_tâm giao_dịch chứng_khoán TP HCM ( VSE ) lại cho kết_quả VN - Index giảm 2 điểm đạt 1.049 điểm .
+Kết_quả giao_dịch cuối_ngày của UBCKNN cho Vn - Index giảm 1,92 điểm , đóng_cửa tại 1.048,98 điểm .
+
+Một nhà_đầu_tư phản_ánh , có phiên giao_dịch 3-4 mã chứng_khoán đều cùng giá tham_chiếu nhưng giá trần và sàn lại khác_nhau , trong_đó chỉ có một mã có liên_quan đến ngày giao_dịch không hưởng_quyền .
+Có phiên , bảng trực_tuyến của các công_ty hiển_thị_giá khớp lệnh cổ_phiếu FPT là 540.000 đồng trong_khi trang web của VSE lại có 530.000 đồng
+Nhà đầu_tư theo_dõi bảng giao_dịch trực_tuyến của Trung_tâm giao_dịch chứng_khoán Hà_Nội lại bí đường_xem .
+Do chỉ có một_vài công_ty chứng_khoán truyền kết_quả giao_dịch qua trang web của mình nên nhà đầu_tư thường phải truy_cập chính trang web của TTGDCK Hà_Nội .
+Gần tháng nay , thực_hiện việc này trong buổi_sáng ( có giao_dịch ) gần_như là nhiệm_vụ bất_khả_thi , trang web liên_tục báo " busy " .
+Cực_chẳng_đã , xem qua trang web của VCBS thì kết_quả cực chậm_lại không chính_xác .
+Ví_dụ phiên 5/4 , chỉ_số Hastc - Index trên trang web này báo giảm có 0,02 điểm trong_khi thực_tế giảm hơn 7 điểm .
+
+Một nhà_đầu_tư bức_xúc phản_ánh trên diễn_đàn trang web http : //www9.ttvnol.com / forum/ " Không vào được , không xem được , không phân_tích được .
+Không hiểu có cách nào để xem trực_tuyến giao_dịch Hastc được ? " .
+
+Do hạn_chế về hạ_tầng công_nghệ , tính đại_chúng của chứng_khoán bị co hẹp rất nhiều vì không_phải nhà đầu_tư nào_cũng có_thể đến sàn giao_dịch .
+Anh_Hậu , chủ một đại_lý kinh_doanh gạo cho_hay : " Cứ phải đến sàn mới theo_dõi được giao_dịch và ra_quyết_định .
+Tôi có_thể đặt lệnh qua điện_thoại nhưng cả tuần rồi không theo_dõi được diễn_biến trên sàn Hà_Nội qua máy_tính tại nhà .
+Phải " bò " đến sàn vừa_đông , chật_chội lại mất nhiều thời_gian .
+Còn lâu nhà đầu_tư mới là thượng_đế " .
+
+Việt_Phong

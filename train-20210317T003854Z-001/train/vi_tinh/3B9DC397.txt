@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC397/
+title=Toshiba phát triển màn hình không dây 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Toshiba phát_triển màn_hình không_dây
+Thiết_bị này sẽ kết_hợp sự_thuận_tiện của máy_tính bỏ_túi Tablet PC với sức_mạnh của một máy xách_tay .
+Hãng chế_tạo cho_biết sản_phẩm hoàn_thiện sẽ được tung_ra thị_trường trong_vòng 3 năm_nữa .
+
+Mẫu máy thử_nghiệm mà Toshiba giới_thiệu tại Triển_lãm công_nghệ CeBit ( Hanover , Đức ) là một màn hiển_thị dùng bút stylus và không_cần kết_nối dây_dẫn với máy_tính xách_tay .
+Màn hình LCD TFT rộng 12,1 inch với độ_phân_giải XGA ( 1024 pixel x 768 pixel ) liên_kết với máy_tính thông_qua giao thức không dây 802.11b .
+Màn hình thử_nghiệm này có độ dày 1,7 cm , nặng 500g và đi_kèm với chiếc máy xách tay Toshiba Dynabook SS SX .
+
+Hajime Yamaguchi , một chuyên_gia tại Trung_tâm thí_nghiệm thiết_bị điện của Toshiba , cho_biết công_ty sẽ phải làm_cho màn_hình mỏng và nhẹ hơn_nữa trước_khi bán_ra thị_trường .
+Vấn_đề còn_lại là thời_lượng pin .
+Mẫu thử_nghiệm chỉ có_thể hoạt_động trong có 1 tiếng khi tách_biệt về nguồn_điện với máy_tính .
+Yamaguchi tuyên_bố : Nếu người tiêu_dùng thấy rằng thời_lượng pin khoảng 2 hoặc 3 tiếng là chấp_nhận được thì việc chúng_tôi cho ra_mắt sản_phẩm này trong vài năm tới là điều không khó .
+
+Toshiba đang muốn phát_triển nhiều loại màn_hình với kích_thước từ 10 đến 15 inch cùng với một dòng PC không nối_dây màn_hình .
+Hãng còn có kế_hoạch cung_cấp những sản_phẩm này cho các công_ty máy_tính xách tay khác .
+
+P.K. ( theo PC World )

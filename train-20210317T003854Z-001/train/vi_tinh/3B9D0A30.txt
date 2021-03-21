@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D0A30/
+title=Router không dây đạt khoảng cách hoạt động 40 km 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Router không dây đạt khoảng_cách hoạt_động 40 km
+Bộ định tuyến EH900 , thuộc dòng máy NovaRoam , do hãng Nova Engineering ( Mỹ ) chế_tạo , có tốc_độ truyền dữ_liệu lên tới 300 kbps và chủ_yếu sẽ phục_vụ các ứng_dụng mạng không dây cơ_động .
+
+EH900 tự_động thiết_lập đường link với các thiết_bị NovaRoam lân_cận khác trong_khi đang di_chuyển .
+Nếu không có một đường link trực_tiếp từ nguồn tới điểm_nhận , dữ_liệu sẽ nhảy_qua các đối_tượng người_sử_dụng trung_gian cho_đến_khi tìm được người nhận mong_muốn .
+
+Điều này tạo_ra một mạng mắt_lưới ngang_hàng đặc_biệt , cung_cấp đường liên_kết dữ_liệu gần_như liền mạch trong môi_trường di_động mà địa_điểm thay_đổi nhanh liên_tục , không đòi_hỏi một cơ_sở hạ_tầng hiện_hữu .
+
+Thiết_bị định tuyến này còn có một số tính_năng an_ninh , trong_đó có công_nghệ tín_hiệu radio giải phổ rộng nhảy tần_số mà Nova cho_biết rất khó bị chắn hay tắc_nghẽn .
+Các tính_năng an_ninh khác bao_gồm công_cụ lọc địa_chỉ IP và MAC , cơ_chế truy_cập bảo_vệ password và hệ_thống mã_hóa loại AES 128 bit .
+
+Nova đạt được kết_quả hoạt_động của router ở khoảng_cách 40 km sau_khi đưa_vào sử_dụng ở kênh sóng 902-928 MHz .
+Bộ định tuyến EH900 có 2 mức truyền_dữ_liệu cao nhất ( burst data rate ) tùy_chọn là 400 và 100 kbps với thông_lượng kết_nối cực_đại ( maximum throughput ) đạt 300 kbps .
+Nova cho_biết sản_phẩm đã được thử_nghiệm beta thành_công trên nhiều ứng_dụng giám_sát và kiểm_soát thuộc các lĩnh_vực công_nghiệp , quân_sự và an_ninh dân_sự .
+
+Phan_Khương ( theo InternetWeek )

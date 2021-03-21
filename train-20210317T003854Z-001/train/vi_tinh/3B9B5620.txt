@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2001/10/3B9B5620/
+title=Quantum xuất xưởng máy chủ lưu trữ Snap 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Quantum xuất_xưởng máy chủ_lưu_trữ Snap
+Hôm_nay ( 15/10 ) , hãng sản_xuất phần_cứng lưu_trữ Quantum sẽ giới_thiệu Snap Server 2200 , nhằm củng_cố cho dòng Snap tầm_trung , và Snap Server 12000 , thiết_bị lưu_trữ nối mạng cao_cấp nhất hiện_nay của công_ty .
+
+Mục_tiêu tiếp_theo trong chiến_lược dài_hạn của công_ty là giới_thiệu phần_mềm của Connex , chi_nhánh cũ của Western Digital mà Quantum mua_lại trong tháng 8 với 11 triệu USD tiền_mặt .
+
+Máy chủ Snap Server 2200 có dung_lượng 160 GB và sẽ được bán với giá 1.499 USD .
+Người_dùng có_thể cắm thẳng thiết_bị này vào mạng để chia_sẻ hoặc cất_giữ thông_tin .
+
+Snap Server 12000 giá 15.000 USD , dung_lượng 750 GB , có khả_năng truyền_dữ_liệu với tốc_độ 1 gigabit / giây .
+Các nhà quản_trị mạng có_thể tráo đổi ổ_cứng , nguồn_điện và quạt mà không phải tắt hệ_thống .
+
+Mặc_dù 12000 là hệ_thống mạnh nhất hiện_nay của Quantum nhưng nó không_phải là sản_phẩm cạnh_tranh với các đối_thủ mạnh hơn từ Network Appliance , có giá_hàng chục đến trăm_nghìn USD .
+
+Giống như những công_ty phát_triển thiết_bị lưu_trữ khác , Quantum đang phải tập_trung vào phần_mềm .
+Trong tương_lai hãng sẽ sử_dụng hệ_điều_hành Linux của Connex trên các hệ_thống cao_cấp của hãng .
+
+Minh_Nghĩa ( theo CNET )

@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E4A2D/
+title=Iomega phát hành ổ cứng 1.000 GB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Iomega phát_hành ổ cứng 1.000 GB
+Sản_phẩm ổ gắn ngoài mang nhãn_hiệu Desktop Hard Drive XL có giá 900 USD / cái , tương_thích cả hệ_máy Mac và PC .
+Đây thực_chất là một tổ_hợp 4 module có dung_lượng 250 GB mỗi_chiếc .
+
+Ổ mới của Iomega , kích_thước 16 x 20 x 31 cm , kết_nối với máy_tính thông_qua các kênh FireWire 800 , FireWire 400 hoặc USB 2.0 .
+Sản_phẩm hỗ_trợ chuẩn Serial ATA , tốc_độ 7.200 vòng quay / phút ( rpm ) và bộ_nhớ cache 8 MB .
+
+Desktop Hard Drive XL được thiết_kế dành cho những người sử_dụng có nhu_cầu lưu_trữ các nội_dung âm_thanh , phim và ảnh với số_lượng lớn .
+Cụ_thể , ổ có_thể lưu được 18.500 giờ nhạc hoặc 4.000.000 bức_ảnh hay 1.500 giờ phim .
+
+Nhu_cầu cất_giữ và biên_tập video hiện_nay đã dần vượt_quá giới_hạn lưu_trữ của các loại ổ thông_thường , đặc_biệt là khi thị_trường chuyển mạnh sang hướng sử_dụng hình_ảnh và phim độ_phân_giải cao , Lee Williams , Phó_chủ_tịch Iomega , lý_giải .
+Vì_thế , chúng_tôi tung_ra dòng XL Series này nhằm giải_phóng sự_hạn_chế dung_lượng mà các loại ổ đơn đang gặp_phải , từ_đó cải_thiện hiệu_quả sử_dụng .
+
+P.K. ( theo TechWorld )

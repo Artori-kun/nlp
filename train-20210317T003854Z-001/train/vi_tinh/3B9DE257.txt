@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE257/
+title=Mozilla sớm có bản vá lỗi Firefox 1.0.4 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Mozilla sớm có bản vá lỗi Firefox 1.0.4
+Chiều_qua , 11/06 , tổ_chức phần_mềm nguồn mở này đã công_bố phiên_bản nâng_cấp tạm_thời cho của Firefox xảy_ra vào cuối tuần_trước .
+
+Phiên_bản cho Windows , Mac và Linux của Firefox 1.0.4 có_thể được từ máy chủ Firefox FTP .
+
+Tương_tự ba lần nâng_cấp trước cùng phát_hành trong năm_nay , 1.0.4 không có bất_cứ cải_tiến gì mà chỉ_là bản vá lỗi bảo_mật liên_quan đến mã script tạo điều_kiện cho những kẻ_tấn_công kiểm_soát máy_tính chạy Firefox .
+
+Phiên_bản mới ra_mắt chưa đầy một tuần sau khi lỗi trình_duyệt được phát_hiện .
+Điều này dập_tắt ý_kiến cho_rằng ứng_dụng nguồn mở như Firefox thường không_được sửa_chữa nhanh_chóng như những phiên_bản đã được đăng_ký bản_quyền .
+Tuy_nhiên đây chỉ_là phiên_bản tạm_thời , bản Firefox 1.0.4 sẽ chính_thức có_mặt vào cuối tuần_này .
+
+Phương_Thúy ( theo Techweb )

@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D5505/
+title=Bảo vệ bí mật thư tín bằng PGPfreeware 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bảo_vệ bí_mật thư_tín bằng PGPfreeware
+Nếu bạn thường_xuyên giao_dịch qua e - mail và cần giữ bí_mật cho các thông_tin gửi đi bằng mọi giá , hãy tính đến khả_năng mã_hóa thư_tín của phần_mềm miễn_phí PGPfreeware .
+Mặc_dù giao_diện không đẹp , đây vẫn là một sản_phẩm xuất_sắc .
+
+PGPfreeware bảo_vệ thư_điện_tử của bạn khỏi nguy_cơ bị người_khác chặn_đường để_đọc .
+Chương_trình bảo_đảm rằng chỉ có người nhận_được chỉ_định mới có_thể đọc_thư bằng cách xác_minh cả nơi gửi và nơi_nhận , đồng_thời cho_phép bạn mã_hóa thông_tin để tránh khả_năng nó bị đọc khi đang ở trên đường_đi .
+Phần_mềm cũng giúp bạn gắn chữ_ký điện_tử vào thư để người nhận_biết chắc đó là thư của bạn .
+Một tính_năng khác , PGPnet , bảo_đảm an_toàn cho mọi liên_lạc Internet giữa máy_tính của bạn và các thiết_bị khác trên mạng của PGP .
+
+Phiên_bản mới có chức_năng Self - Decrypting Archives ( SDA ) cho_phép bạn trao_đổi thông_tin một_cách an_toàn với cả những người không cài đặt PGP .
+Ngoài_ra , bạn có_thể sử_dụng công_cụ Windows Task Scheduler lên lịch dọn_dẹp ổ cứng để tiết_kiệm tài_nguyên máy_tính .
+
+PGPfreeware có dung_lượng 8,44 MB .
+Bạn có_thể tải .
+
+Thế_Nghĩa

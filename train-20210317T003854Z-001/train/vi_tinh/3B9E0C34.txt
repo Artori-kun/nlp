@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E0C34/
+title=Công nghệ nano mới trong sản xuất PC tốc độ cao  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ nano mới trong sản_xuất PC tốc_độ_cao  
+Các nhà_vật_lý tại đại_học Pennsylvania ( Mỹ ) đã tiết_lộ quy_trình mang tính_cách mạng trong việc tạo_ra mạch_điện chức_năng sử_dụng các ống siêu_nhỏ .
+
+Những ống nano đơn lớp được hình_thành bằng cách chuyển tấm đơn_nguyên_tử carbon thành ống trụ tròn có đường_kính khoảng_chừng một nano ( 1 phần tỷ mét ) .
+Thay_vì phát_triển theo mô_hình sản_xuất chip silicon truyền_thống , các nhà nghiên_cứu của Pennsylvania đã nghĩ_ra cách đặt rải_rác ống này trong_chip .
+
+Chúng_tôi nhúng chip vào ống nano theo kiểu phủ kem lên kẹo , Danvers Johnston , trưởng_nhóm nghiên_cứu , mô_tả .
+Nhờ_đó , chúng_tôi có_thể gắn ống nano vào bất_cứ nơi nào mình muốn khi xây_dựng mạch .
+
+Cách duy_nhất để khiến thiết_bị xử_lý hoạt_động nhanh hơn là đưa càng nhiều transistor vào chip càng_tốt , Alan Johnson , Phó giáo_sư khoa Vật_lý và Thiên_văn , cho_biết .
+Ống nano chỉ nhỏ bằng những transistor hiện_nay .
+Khi ‘ chèn ’ nhiều vào trong_chip , thiết_bị xử_lý sẽ có khả_năng vận_hành nhanh và hiệu_quả hơn rất nhiều .
+
+Do quá_trình này cho_phép tạo ống nano tách_biệt với sản_xuất chip , người_ta có_thể điều_chỉnh chất_lượng và đường_kính sản_phẩm chính_xác và hiệu_quả hơn .
+Trước_đây , hầu_hết các mạch nano được xây_dựng bằng cách phát_triển ống nano ngay trên bề_mặt chip bằng phương_pháp kết_tinh hoá_học , tuy_nhiên , thường đem_lại chất_lượng sản_phẩm không đồng_đều và có đường_kính lớn .
+
+P.T. ( theo VNUNet )

@@ -1,0 +1,15 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9BFF70/
+title=Himetric dễ dàng đổi các đơn vị đo lường 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Himetric dễ_dàng đổi các đơn_vị đo_lường
+HiMetric v1.3 là tiện_ích miễn_phí cho_phép bạn chuyển_đổi qua_lại giữa 600 đơn_vị đo_lường ở 20 hạng_mục : diện_tích , khối_lượng , nhiệt_độ , áp_suất , thời_gian , thể_tích , năng_lượng ...
+
+Giao_diện thân_thiện người_dùng và hỗ_trợ khay hệ_thống giúp bạn thực_hiện các thao_tác nhanh_chóng và dễ_dàng .
+Himetric còn có chức_năng cập_nhật dữ_liệu và hỗ_trợ clipboard tự_động .
+
+Tiện ích này có dung_lượng 886 KB và tương_thích với các hệ_điều_hành Win95 , 98 , Me , NT , 2000. Bạn có_thể tải .
+
+Ngoài_ra , bạn cũng có_thể download một tiện_ích có chức_năng tương_tự mang tên Convert bằng cách kích_chuột .
+ 
+Minh_Long

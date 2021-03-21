@@ -1,0 +1,23 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E4176/
+title=Intel hỗ trợ công nghệ ảo hóa cho desktop PC 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel hỗ_trợ công_nghệ ảo_hóa cho desktop PC
+Hãng sản_xuất thiết_bị xử_lý hàng_đầu thế_giới vừa giới_thiệu hai chip mới với công_nghệ virtualization phần_cứng đầu_tiên trong máy_tính để_bàn , mang lại khả_năng quản_lý và bảo_mật cải_tiến cho doanh_nghiệp .
+
+Pentium IV 672 có tốc_độ xung nhịp 3,8 GHz , bộ_nhớ đệm 2 MB với giá 605 USD , trong_khi giá của chip 662 là 401 USD cho mỗi đơn_hàng 1.000 sản_phẩm .
+Hai thiết_bị xử_lý này có cấu_trúc và giá_cả giống_hệt Pentium IV 670 và 660 , trừ việc chúng được trang_bị thêm transistor để cải_tiến khả_năng hoạt_động của phần_mềm ảo_hóa .
+
+Các công ty Acer , Founder , Lenovo và TongFang đã tuyên_bố trang_bị chip này trong máy_tính của họ , còn Dell và Hewlett - Packard sẽ đợi đến năm sau mới đưa_ra quyết_định lựa_chọn công_nghệ .
+
+Ảo_hóa cho_phép máy_tính và     chạy đa ứng_dụng trên một thiết_bị xử_lý đơn .
+Nói các khác , một hệ_thống có_thể tách thành một_vài máy_tính " ảo " khác_nhau .
+Ví_dụ , khách_hàng có_thể tiếp_cận ứng_dụng nội_bộ tại môi_trường này , trong_khi sử_dụng một môi_trường khác để chạy chương_trình cá_nhân .
+Công_nghệ đã được triển_khai trong phần_mềm của một số công_ty như VMware và XenSource .
+Đầu năm tới , Intel sẽ ảo_hóa phần_cứng trong chip lõi kép và chip máy_chủ .
+AMD cũng xây_dựng kế_hoạch tương_tự với chip , cho_phép phần_mềm ảo_hóa vận_hành hiệu_quả hơn .
+
+" Với những đổi_mới trong công_nghệ tích_hợp , Intel đang đi đầu trong quá_trình gỡ_bỏ một số vướng_mắc lớn mà nhiều doanh_nghiệp phải đối_mặt " , Robert B .
+Crooke , Phó giám_đốc Intel , tin_tưởng .
+
+P.T. ( theo TechWorld )

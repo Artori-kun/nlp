@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DF769/
+title=Turion ML 40 - vũ khí bí mật của AMD 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Turion ML 40 - vũ_khí bí_mật của AMD
+Sách_lược nào có_thể phù_hợp để đối_phó với một người khổng_lồ nắm_giữ tới 85 % thị_phần vi xử_lý như Intel ?
+Câu_trả_lời mà AMD tìm thấy với Turion ML 40 có_vẻ là một chiêu đúng_đắn .
+
+Trong cuộc cạnh_tranh giữa AMD và Intel , Turion ML 40 giống như một quân_cờ quan_trọng , nhất_là trong bối_cảnh doanh_số bán máy_tính xách tay đang dẫn_đầu ngành kinh_doanh PC .
+Các nghiên_cứu của Gartner và IDC đều cho_thấy doanh_số bán notebook đã bắt_đầu vượt máy_tính để_bàn và xu_hướng này còn chưa đạt đến đỉnh_điểm .
+Tháng_trước , tình_hình cho_thấy các giải_pháp lõi kép của AMD tỏ_ra thắng_thế trước sản_phẩm của Intel nhưng khi Giám_đốc điều_hành hãng Apple , Steve Jobs , tuyên_bố Quả táo sẽ thì đúng là AMD đã bị dính một đòn trực_tiếp khá nặng .
+
+Việc AMD tung_ra Turion ML 40 và việc HP , hãng sản_xuất máy_tính lớn thứ 2 trên thế_giới , quyết_định phát_hành một loại máy_tính xách tay dùng bộ_vi xử_lý này , đã đem_đến cho AMD một cơ_hội để khôi_phục lại danh_tiếng .
+
+Chiến_lược hướng tới các doanh_nghiệp vừa và nhỏ cũng là một quyết_định sáng_suốt khác của AMD .
+Khi sử_dụng Turion ML 40 , các nhà_sản_xuất máy_tính sẽ có_thể tung_ra những loại notebook có giá dưới 1.000 USD .
+
+Giới quan_sát vẫn đang chờ_đợi Intel phản_ứng ra sao trước mối thách_thức này .
+
+Q.T. ( theo Softpedia )

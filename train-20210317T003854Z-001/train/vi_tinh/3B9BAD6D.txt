@@ -1,0 +1,14 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAD6D/
+title=HP giới thiệu chipset mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP giới_thiệu chipset mới
+Được thiết_kế dành cho các máy_trạm cũng_như máy chủ hoạt_động với bộ xử_lý McKinley của Intel , chipset này cho_phép HP đưa_ra thị_trường các hệ_thống với chi_phí sở_hữu thấp nhưng có_thể chạy ứng_dụng nhanh và ổn_định hơn .
+
+Sản_phẩm này mang tên ZX1 , hỗ_trợ tính_năng mở_rộng để đẩy_mạnh tốc_độ xử_lý , được HP công_bố tại Diễn_đàn Các nhà_phát_triển của Intel .
+
+HP cho_biết nhóm thiết_kế của hãng đã gặp nhiều thách_thức khi tìm_cách đạt được tốc_độ_cao , trong_khi vẫn phải cân bằng chi_phí và độ linh_hoạt trong thiết_kế hệ_thống .
+
+Việc giới_thiệu chipset mới đã mở_rộng chiến_lược của HP nhằm giành vị trị dẫn_đầu thị_trường Itanium về các hệ_thống tốc_độ_cao , tiết_kiệm chi_phí và chạy được những ứng_dụng cao_cấp nhất trên các hệ_điều_hành Microsoft Windows , Linux và HP - Unix .
+
+Minh_Nghĩa ( theo HP )

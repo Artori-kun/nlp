@@ -1,0 +1,27 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DED8A/
+title=Transistor nhỏ nhất thế giới dùng công nghệ nano 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Transistor nhỏ nhất thế_giới dùng công_nghệ nano
+Các kỹ_sư Đại_học Alberta ( Canada ) vừa công_bố phát_minh về loại bóng bán_dẫn mà trong_đó dòng_điện chạy qua một phân_tử .
+Công_trình được đăng_tải trên tạp_chí khoa_học Nature .
+
+Thiết_bị - chỉ có_thể nhìn_thấy thông_qua một kính_hiển_vi cực mạnh - là kết_quả 5 năm nghiên_cứu .
+Các chuyên_gia tuyên_bố đây có_thể là bước_tiến lớn nhất trong công_nghệ nano từ trước đến_nay , theo hướng mini hóa máy_tính và các thiết_bị điện_tử .
+Trước_đây chưa ai dám khẳng_định một phân_tử có_thể trở thành_công_cụ tạo_dựng khối dữ_liệu , Robert Wolkow , Trưởng_nhóm nghiên_cứu , phát_biểu .
+Bây_giờ , đó không_còn là chuyện khoa_học viễn_tưởng_nữa .
+Phân_tử chắc_chắn có_thể được dùng như các linh_kiện điện_tử .
+
+Transistor ra_đời năm 1947 và được sử_dụng rộng_rãi trong thiết_bị radio , máy_tính , điện_thoại di_động và nhiều sản_phẩm điện_tử khác .
+Thông_thường , chúng là những mạch tích_hợp ( IC ) trên chip silicon , bộ_não của các thiết_bị điện_tử , có vai_trò điều_tiết luồng_điện .
+Phát_minh của nhóm nghiên_cứu Canada - bao_gồm từ 1 đến 20 phân_tử , được gắn_vào tấm wafer silicon - nhỏ hơn gần một nghìn lần và tiêu tốn năng_lượng chỉ bằng 1 phần triệu so với các bóng bán_dẫn truyền_thống .
+
+Tất_nhiên , thành_công trên mới chỉ_là hình_mẫu thử_nghiệm và còn rất nhiều khiếm_khuyết .
+Vì_thế , khả_năng thương_mại_hóa chưa lớn .
+Để áp_dụng vào máy_tính , phải làm_sao thực_hiện được_việc chuyển mạch diễn_ra trong khoảng 1 micro giây ( 1 phần triệu giây ) .
+Theo các nhà nghiên_cứu , những ứng_dụng sớm nhất của công_nghệ transistor nano này có_thể sẽ là một công_cụ cảm_biến hoặc chẩn_đoán , dùng để kích hoạt tác_dụng của thuốc chữa_bệnh tại một_số vị_trí trên cơ_thể , hoặc dùng để phát_hiện sắt hay oxy trong máu .
+
+Con_đường đạt tới máy_tính ở cấp độ phân_tử còn xa .
+Điều_đó đòi_hỏi phải liên_kết được hàng triệu thành_phần li_ti như_vậy và bắt chúng hoạt_động một_cách hài_hòa , trưởng_nhóm Wolkow nhận_xét .
+
+P.K. ( theo AFP )

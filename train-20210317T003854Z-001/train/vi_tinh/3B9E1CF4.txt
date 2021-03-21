@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E1CF4/
+title=Kodak và Nikon chạy đua camera Wi-Fi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Kodak và Nikon chạy_đua camera Wi - Fi
+Không_chỉ tập_trung tăng số megapixel , hai hãng máy_ảnh_nổi_tiếng này tiếp_tục cung_cấp cho khách_hàng một tính_năng mới : khả_năng truyền ảnh không dây tới PC và máy_in .
+
+Nikon sẽ xuất_phát trước trên đường_đua ngay trong tháng_này với những thông_số kỹ_thuật ấn_tượng và đầy triển_vọng trong sản_phẩm .
+Nikon Coolpix P1 có độ_phân_giải 8 mpx và zoom quang 4X còn P2 là 5 mpx .
+Cả hai đều có_thể quay_phim 30 hình / giây 640 x 480 pixel .
+Để truyền ảnh tới máy_in , khách_hàng sẽ cần trang_bị thêm một thiết_bị điều_hợp , hoặc camera sẽ truyền tín_hiệu trực_tiếp đến phần_mềm PictureProject trên máy_tính .
+Điều này có_nghĩa người_dùng sẽ luôn cần sử_dụng chính PC của mình , hoặc phải cài phần_mềm trên máy_tính của người_khác mỗi khi muốn lấy ảnh khỏi camera .
+
+Ra_mắt muộn hơn trong tháng tới , Kodak EasyShare One được trang_bị zoom số 3X , độ_phân_giải 4 mpx .
+Kodak đã hợp_tác với nhiều nhà_cung_cấp hotspot như T - Mobile để có_thể gửi hình_ảnh trực_tiếp từ camera đến một thư_viện ảnh trên Internet qua điểm truy_cập hoặc mạng không dây .
+
+Giá_thành của Nikon Coolpix P1 là 550 USD và P2 là 400 USD , còn Kodak EasyShare One sẽ được bán với giá 600 USD .
+
+P.T. ( theo_Tom ' s Hardware )

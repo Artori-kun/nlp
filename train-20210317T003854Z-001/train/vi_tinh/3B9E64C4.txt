@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E64C4/
+title=Adobe cho phép lưu ảnh 3D theo định dạng PDF 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Adobe cho_phép lưu ảnh 3D theo định dạng PDF
+Công_ty phần_mềm Adobe vừa phát_hành phiên_bản mới , hỗ_trợ chuyển_đổi các thiết_kế ba chiều từ ứng_dụng CAD sang PDF và có_thể chia_sẻ với bất_cứ ai cài trình Acrobat Reader miễn_phí .
+
+Adobe Acrobat 3D còn cho_phép chèn CAD 3D vào file Word , Excel , PowerPoint của Microsoft và sau_đó chuyển tệp sang định dạng PDF .
+
+Chương_trình cũng giúp người_sử_dụng đính_kèm các mục ghi_chú cho những phần nhất_định trong file PDF để bình_luận , đánh_giá về thiết_kế .
+Nhờ_đó , người_dùng Acrobat Reader có_thể gửi nhận_xét của họ cho tác_giả trực_tiếp bằng tệp PDF .
+
+CAD là bộ công_cụ chuẩn cho các chuyên_gia như kỹ_sư và kiến_trúc_sư trong việc thiết_kế công_trình và sản_phẩm trên máy_tính .
+Trước_đây , người_sử_dụng CAD chỉ có_thể chia_sẻ thông_tin với những_ai cài chương_trình CAD hoặc một phần_mềm đọc file 3D chuyên_biệt .
+Do_đó , mọi_người thường gửi bản_thảo 2D cho đồng_nghiệp và khách_hàng .
+Giải_pháp này không_thể cung_cấp hình_ảnh chính_xác và chân_thực , trong_khi Adobe Acrobat 3D giúp xem sản_phẩm 3 chiều đúng như những gì kỹ_sư thiết_kế ban_đầu .
+
+Ngoài_ra , phiên_bản mới , giá 995 USD , cũng_được trang_bị một số tính_năng bảo_mật nhằm hạn_chế sap chép các mẫu thiết_kế có giá_trị cao .
+
+P.T . ( theo PC World )

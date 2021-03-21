@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/04/3B9C6C6C/
+title=Cisco ra mắt sản phẩm router mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Cisco ra_mắt sản_phẩm router mới
+Cisco Systems vừa công_bố nâng_cấp danh_mục sản_phẩm router IP / MPLS : 12000 và 7600 , nhằm cho_phép các nhà_cung_cấp dịch_vụ triển_khai mạng băng_rộng , không dây và Ethernet hiệu_quả và dễ_dàng hơn .
+
+Những interface trên các bộ định tuyến 12000 tích_hợp các công_nghệ và chức_năng mới giúp hệ_thống giảm 80 % năng_lượng tiêu_thụ và diện_tích sử_dụng .
+Các interface này bao_gồm thẻ kết_nối 4 cổng_OC - 12c / STM - 4c ATM IP và thẻ kết_nối 4 cổng Gigabit Ethernet ISE .
+Cả hai thẻ này đều hỗ_trợ IPv6 , dịch_vụ quản_lý chất_lượng ( QoS ) IP và dịch_vụ tổng_hợp cao cấp phân theo lớp .
+Sản_phẩm 12000 mới có giá 75.000 USD .
+
+Cùng với việc nâng_cấp những bộ định tuyến thuộc series 12000 Series , Cisco cũng ra_mắt các interface mới của router 7600 cho những dịch_vụ Ethernet .
+Interface mới gồm một T - 3 /E - 3 Optical Service Module ( OSM ) 12 cổng , OC - 12s / STM4- c OSM một cổng và một Gigabit Ethernet OSM 4 cổng .
+Sản_phẩm 7600 mới có giá 44.000 USD .
+
+Hãng phân_tích thị_trường Yankee Group cho_rằng thị_trường bộ định tuyến sẽ tăng 18 % trong 5 năm tới và đạt hơn 3 tỷ USD vào năm 2006 .
+
+Minh_Nghĩa

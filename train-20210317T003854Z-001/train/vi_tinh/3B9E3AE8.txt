@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E3AE8/
+title=Ổ USB Flash nhỏ nhất thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ổ USB Flash nhỏ nhất thế_giới
+Công_ty chuyên sản_xuất thẻ nhớ Pretec ( Mỹ ) vừa sản_xuất ổ iDisk Diamond , thiết_bị tiếp_theo của dòng iDisk II và Tiny , đủ nhỏ để đeo ở tay hoặc cổ , thậm_chí nằm gọn trong vành_tai .
+
+iDisk Diamond chỉ có kích_thước 2,7 x 1,9 x 1,2 cm , trọng_lượng 1 gram .
+Tuy_vậy , dung_lượng lưu_trữ 128 MB có_lẽ không đủ để đáp_ứng nhu_cầu của người_sử_dụng hiện_nay .
+
+Pretec chưa chính_thức công_bố sản_phẩm , nhưng một trong những đại_lý bán_lẻ của hãng tại Nhật , Solid Alliance , đã bắt_đầu bán iDisk Diamond với giá 43 USD .
+
+Tháng 1 vừa_qua , hãng SanDisk ( Mỹ ) cũng ra_mắt thẻ Ultra II SD Plus với bộ nối USB .
+Sản_phẩm có dung_lượng lớn , 512 MB - 1 GB , nhưng lại to hơn iDisk do cần diện_tích để hỗ_trợ định dạng khe SD .
+
+P.T. ( theo The Register )

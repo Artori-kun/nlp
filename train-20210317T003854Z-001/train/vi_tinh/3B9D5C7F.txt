@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D5C7F/
+title=Phần mềm hoạch định nguồn lực doanh nghiệp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm hoạch_định nguồn lực doanh_nghiệp
+FPT.Success do Công_ty giải_pháp phần_mềm FPT thiết_kế , dựa_trên chính kinh_nghiệm của công_ty trong phát_triển và triển_khai các giải_pháp công_nghệ quản_trị kinh_doanh hiện_đại , kết_hợp với đặc_thù riêng_biệt của doanh_nghiệp Việt_Nam .
+
+Theo bà Nguyễn_Thuý_Hằng , Giám_đốc phát_triển sản_phẩm FPT.Success , hiện_tình_trạng sử_dụng công_nghệ thông_tin của các doanh_nghiệp Việt_Nam nói_chung là đầu_tư các hệ_thống một_cách rời_rạc .
+Hệ_thống khác_nhau về_nhà cung_cấp , ngôn_ngữ , quản_trị dữ_liệu ... nên khả_năng kết_nối thấp .
+Bên_cạnh_đó , phần_lớn doanh_nghiệp không có định_hướng lâu_dài cho vấn_đề tin_học hoá .
+Điều này dẫn đến việc công_nghệ thông_tin mới chỉ giải_quyết được từng phân_đoạn tác_nghiệp cụ_thể , không phát_huy hết nội_lực và việc hỗ_trợ điều_hành quản_lý không cao .
+
+FPT.Success giúp doanh_nghiệp khắc_phục được những hạn_chế trên .
+Đây là hệ_thống ứng_dụng đa phân_hệ , tạo điều_kiện cho các đơn_vị quản_lý và điều_hành những tác_nghiệp trong kinh_doanh .
+Phần_mềm được xây_dựng với tham_số hoá cao .
+Đồng_thời , cho_phép nhận và trích_xuất dữ_liệu từ các nguồn khác_nhau một_cách linh_hoạt .
+
+Hệ_thống gồm nhiều module như : quản_lý kế_toán tài_chính , quản_lý phân_phối , hệ_thống báo_cáo lãnh_đạo MIS ...
+Các module được xây_dựng trên nền_tảng phân_tích thiết_kế tổng_thể , đảm_bảo tính đồng_nhất , đầy_đủ và chính_xác thông_tin , phục_vụ phân_tích , điều_hành của từng công_ty , đơn_vị .
+Phần_mềm cũng có kết_cấu mở , thuận_tiện cho việc kết_nối nội_dung các module hiện_tại và tương_lai .
+
+Sản_phẩm đã ứng_dụng khá hiệu_quả ở không ít đơn_vị , doanh_nghiệp trong_nước , như : Ngân_hàng đầu_tư và phát_triển Việt_Nam , Ngân_hàng Hàng_hải Hải_Phòng , Cảng Hải_Phòng , Công_ty FPT ...
+
+Lương_Nga

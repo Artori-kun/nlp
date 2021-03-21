@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA514/
+title=Máy tính siêu nhỏ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Máy_tính siêu_nhỏ
+Với kích_thước 129 mm chiều_dài , 74 mm chiều_rộng , độ dầy 18,7 mm và trọng_lượng 280 gram , máy_tính Modular của công_ty MCC chỉ lớn hơn bộ_bài một_chút và có vỏ_nhôm .
+
+Máy có bộ xử_lý 1GHz sử_dụng công_nghệ quản_lý tiên_tiến LongRun , chip nhớ DDR ( Double Data Rate ) SDRam có dung_lượng 512 MB và ổ cứng 20 GB ( có_thể nâng_cấp lên 30 GB ) .
+Thiết_bị này cũng có bộ_nhớ hình_ảnh video và hỗ_trợ đồ_họa 2D/3D với màn_hình LVDS với độ_phân_giải lớn nhất 1.600 x 1.200 pixel .
+Modular cũng có hệ_thống stereo đa phương_tiện gồm một micro gắn trong và đường ra cho stereo .
+
+Máy_tính Modular dùng hệ_điều_hành Windows XP Professional , hỗ_trợ nhiều phần_mềm khác_nhau và cho_phép sử_dụng không_cần kệ_đỡ .
+Người_dùng có_thể đặt Modular vào Microtablet để dùng như các thiết_bị di_động , đặt vào vỏ máy xách tay để biến thành laptop , hoặc để trên bàn và sử_dụng như một chiếc desktop thông_thường .
+
+Theo các chuyên_gia , Modular hoàn_toàn có_thể mở_rộng và nâng_cấp được .
+
+Thanh_Vân ( theo Techtree )

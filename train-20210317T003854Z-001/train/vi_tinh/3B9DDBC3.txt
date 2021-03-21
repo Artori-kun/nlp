@@ -1,0 +1,28 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/04/3B9DDBC3/
+title=Hệ quản lý doanh nghiệp trực tuyến thuần Việt 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hệ quản_lý doanh_nghiệp trực_tuyến thuần_Việt
+Với các tiện_ích được tích hợp_sẵn , S - Office 1.0 mang tới một môi_trường làm_việc không giấy_tờ , họp không bàn_ghế , nói_chuyện không cần điện_thoại .
+Ứng_dụng cho_phép thay_đổi các chức_năng tuỳ_theo quy_mô , ngành_nghề của mỗi doanh nghiệp.  
+Theo ông Nguyễn_Thế_Thắng , Giám_đốc Công_ty giải_pháp phần_mềm Việt ( Vietnam Software Solution - VSS ) , đơn_vị phát_triển và cung cấp S - Office , giải_pháp này cho_phép người_sử_dụng đi công_tác xa hay ngồi tại nhà để quản_trị doanh_nghiệp của mình qua các thông_tin nội_bộ được cập_nhật trên hệ_thống .
+Chỉ cần máy_tính và một số thao_tác thật đơn_giản , bạn có_thể trao_đổi thông_tin , giao_việc , theo_dõi tiến_độ công_việc hay tiến_trình thực_hiện dự_án mà không bị giới_hạn bởi thời_gian và không_gian địa_lý .
+
+S - Office có hệ_thống giao_diện tiếng Việt đơn_giản , phân_quyền chi_tiết đến từng người_sử_dụng .
+Bên_cạnh_đó , các ứng_dụng được tích_hợp trong cùng một " gói " , chỉ cần cài đặt trên 1 máy_tính là mọi_người trong công_ty ( đã được phân_quyền ) có_thể truy_cập và giao_tiếp với_nhau được .
+S - Office như là một văn_phòng ảo , một môi_trường thứ_hai của doanh_nghiệp bên_cạnh môi_trường đời_sống , Giám_đốc VSS mô_tả .
+Xem chi_tiết tính_năng của S - Office .
+
+Hệ thống S - Office được cài_đặt trên một máy chủ với cấu hình yêu_cầu CPU tốc_độ 1,8 GHz , RAM 512 MB , ổ cứng 20 GB trở_lên .
+Trên máy chủ này cài_đặt .Net Framwork , IIS , và MS SQL Server 2000 .
+Các máy trạm thì không_cần cài đặt thêm phần_mềm gì ngoài trình_duyệt web như Internet Explorer ( đến phiên_bản 5.0 ) hoặc .
+
+S - Office được bán với giá từ 9 đến 30 triệu .
+Nhà_cung_cấp cho_biết khách_hàng mua sản_phẩm sẽ được miễn_phí xây_dựng website ( bao_gồm chi_phí thiết_kế , miễn_phí tên miền .COM , .NET , .ORG và máy chủ hosting trong_vòng 1 năm ) .
+
+Thông_tin thêm có_thể liên_hệ Công_ty giải_pháp phần_mềm Việt ( Vietnam Software Solution - VSS ) , 23 Điện_Biên_Phủ , Hà_Nội ( ĐT : 84.4 .
+8237747 – 84. 0904 116 544 .
+Website : .
+E - mail : ) .
+
+P.K .

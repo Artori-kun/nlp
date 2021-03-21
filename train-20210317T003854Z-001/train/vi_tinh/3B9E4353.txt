@@ -1,0 +1,29 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E4353/
+title=Sun gia nhập cuộc đua lõi kép với chip 8 luồng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sun gia_nhập cuộc_đua lõi kép với chip 8 luồng
+Sun Microsystems đang gấp_rút hoàn_thành phiên_bản chip cho_phép nhân đôi số_lõi , hay " bộ_não " của một thiết_bị , tăng khả_năng vận_hành và tiết_kiệm diện_tích cũng_như năng_lượng so với chip Intel .
+
+Thiết_bị xử_lý đang nhanh_chóng trở_thành làn_sóng mới trong điện_toán .
+AMD đã thu_hút sự_quan_tâm lớn khi bắt_đầu chen_chân vào quá_trình kinh_doanh server của Intel .
+Hãng chip số một thế_giới cũng từng hứa_hẹn sẽ chuyển_toàn_bộ dòng thiết_bị xử_lý desktop và server sang lõi kép và đa_lõi .
+IBM lập_tức nhắc_nhở đối_thủ rằng họ đã phát_hành Power lõi kép trước hai công_ty từ lâu_rồi .
+
+Và bây_giờ , Sun Microsystems bắt_đầu nhảy vào cuộc_chơi với chip UltraSparc T1 , tên mã Niagara .
+Mỗi lõi của UltraSparc T1 có 4 luồng ( thread ) , nâng tổng_số trong chip lên 32 .
+Mỗi luồng có_thể thực_hiện song_song những thao_tác khác_nhau nhằm tăng tốc_độ xử_lý cho các ứng_dụng .
+UltraSparc T1 cũng hỗ_trợ hệ_điều_hành Solaris 10 của Sun .
+
+" Nếu Niagara thực_hiện đúng những gì Sun tuyên_bố , đây sẽ là nhân_tố thực_sự thay_đổi cuộc_chơi lõi kép .
+Sun khẳng_định khả_năng hoạt_động của chip sánh ngang với Intel   hay AMD Opteron và tiêu_thụ_điện_năng thấp hơn nhiều " , Nathan Brookwood , chuyên_gia phân_tích của công ty Insight64 ( Mỹ ) , nhận_định .
+
+Theo Sun , UltraSparc T1 sẽ tiêu_thụ_điện ở mức 70 watt , thấp hơn một_nửa so với Xeon và Power .
+Đồng_thời , máy chủ Sun Fire chạy trên chip mới sẽ ra_mắt cuối năm_nay .
+Sun ước_tính nếu một_nửa web server chuyển sang Sun Fire Server , thế_giới sẽ tiết_kiệm được 14 tỷ USD phí_tổn năng_lượng hàng_năm .
+
+Tuy_nhiên , Hewlett - Packard đã đăng trên website bài_viết " Sự_thật về Niagara " .
+Trong số những lời chỉ_trích là hãng quả_quyết khả_năng vận_hành của mỗi luồng trong Niagara thấp hơn nhiều so với Xeon , , Opteron , thậm_chí cả dòng chip hiện_tại của Sun .
+IBM và HP cũng khẳng_định UltraSparc T1 không hỗ_trợ Linux .
+
+P.T. ( theo Internet News )

@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/06/3B9DEF61/
+title=Tính năng 'Blackberry' cho Windows Mobile 5.0 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tính_năng ' Blackberry ' cho Windows Mobile 5.0
+Microsoft vừa công_bố một gói ứng_dụng mới trong   , cung_cấp cho các doanh_nhân công_nghệ Direct Push ( gửi trực_tiếp ) được nâng_cấp bảo_mật và khả_năng gửi thông_điệp .
+
+Công_nghệ này cho_phép người_sử_dụng luôn cập_nhật Outlook Mobile bằng cách chuyển thông_tin trực_tiếp tới thiết_bị hoạt_động trên hệ_điều_hành Windows Mobile qua Exchange Server .
+Điều này sẽ hạn_chế chi_phí sử_dụng những server đắt_đỏ hay phần_mềm trung_gian .
+
+Công_nghệ Direct Push hỗ tính_năng truy_cập e - mail trong Outlook , Task , lịch_trình ... .
+Những thông_tin này được " đẩy " thẳng tới thiết_bị Windows Mobile qua kết_nối Exchange Server , tương_tự như trong phần_mềm Blackberry ưu_việt nhiều năm_qua .
+
+Các chuyên_gia công_nghệ có_thể điều_chỉnh thiết_bị chạy trên hệ_điều_hành này theo cách họ quản_lý PC và server , thông_qua đặc_điểm hỗ_trợ điều_khiển từ xa mới .
+Người_dùng có khả_năng di_chuyển toàn_bộ thông_tin từ một thiết_bị nào_đó qua không_gian , và cài_đặt lại về tình_trạng ban_đầu ở bất_cứ đâu .
+Nhờ_đó , khi vô_tình để quên_máy , họ có_thể quản_lý thông_tin nhạy_cảm trên thiết_bị , tránh bị người_khác nhòm_ngó , xem_xét .
+Thêm_vào đó , người_sử_dụng cũng có_thể chọn xóa một phần bộ_nhớ trên thiết_bị nếu ai_đó không nhập đúng mật_khẩu sau một_số lần xác_định .
+
+Dữ_liệu Outlook trao_đổi giữa Exchange Server và thiết_bị Windows Mobile được gửi dưới dạng_nén , cho_phép khả_năng truyền và đồng_bộ_hóa_dữ_liệu nhanh hơn , tiết_kiệm 35 - 50 % băng_thông .
+
+Phương_Thúy ( theo Mobilemag )

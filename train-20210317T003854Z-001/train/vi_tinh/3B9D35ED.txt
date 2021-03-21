@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D35ED/
+title=Chụp màn hình bằng SnagIt 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chụp màn_hình bằng SnagIt
+Chụp màn_hình không_phải công_việc khó_khăn gì , chỉ cần một thao_tác nhấn PrintScreen rồi dán vào một phần_mềm xử_lý ảnh là xong .
+Nhưng nếu bạn chỉ muốn chụp một vùng trên màn_hình , một hình_ảnh riêng_lẻ hay toàn_bộ cửa_sổ thì sao ?
+SnagIt được tạo_ra cho nhu_cầu ấy .
+
+Trên thực_tế , bạn có_thể chụp bất_kỳ hình_ảnh nào bạn thấy trên các trang web hoặc ứng_dụng phần_mềm , nhập_ảnh từ máy_quét hoặc máy_ảnh kỹ_thuật_số , hoặc bắt_hình video và ghi_lại các hoạt_động trên màn_hình theo định dạng AVI .
+Thậm_chí , với tính_năng Text Capture , bạn còn lấy_được văn_bản , trên cả những trang web cấm chuột_phải .
+
+Các công_cụ Editor và Studio hỗ_trợ nhiều cho khả_năng sáng_tạo .
+Công_cụ biên_tập cho_phép bạn chỉnh_sửa , xử_lý hình_ảnh và tạo hiệu_ứng với các điều_chỉnh , bộ_lọc và đường_viền khung .
+Bạn cũng có_thể bổ_sung mũi_tên , thay_thế màu trong hình_ảnh , tạo_ra nền tối hoặc sáng với chỉ một cú nhấp_chuột .
+
+Mặc_dù có những tính_năng mạnh , đa_dạng , SnagIt vẫn rất dễ sử_dụng , ngay_cả với người_mới làm_quen với công_nghệ thông_tin .
+Chương_trình cũng đáp_ứng được các đòi_hỏi cao về chất_lượng của giới chuyên_nghiệp .
+
+Phần_mềm nặng 9 MB .
+Bạn có_thể tải bản dùng thử có thời_hạn 30 ngày .
+
+T.N .

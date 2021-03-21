@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAB5C/
+title=Thiết bị giúp người mù "nhìn" bằng tai 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thiết_bị giúp người_mù " nhìn " bằng tai
+Mọi_người thường nói rằng những gì ta nhìn_thấy là những gì ta tin_tưởng , còn phát_minh một nhà sáng_chế Hà_Lan lại giúp những người_mù có_thể tin_tưởng rằng họ thực_sự đang_nhìn .
+Thiết_bị này đã được giới_thiệu hôm_qua trên kênh truyền_hình TechTV .
+
+Bị hỏng mắt trong một tai_nạn tại nhà_máy hoá_chất cách đây 24 năm , Patsy Fletcher giờ_đây đã khẳng_định được rằng cô có_thể nhìn_thấy thế_giới một_lần nữa , qua một bộ tai_nghe .
+
+Fletcher nói : " Có cảm_giác như âm_thanh từ thiết_bị đã khơi_dậy lại mọi ký_ức về hình_ảnh trong tôi " .
+
+Fletcher là người thử_nghiệm đầu_tiên hệ_thống The vOICe System , do Peter B.L .
+Meijer , một kỹ_sư máy_tính của phòng nghiên_cứu Philips ở Hà_Lan , thiết_kế .
+
+Phần_mềm The vOICe có_thể dịch hình_ảnh từ chiếc máy_ảnh số sang các âm_thanh tương_ứng , cho_phép người_sử_dụng " nhìn " những hình_ảnh động của máy_ảnh về môi_trường xung_quanh bằng chính đôi tai của mình .
+
+Người_mù sẽ mang theo mình một máy_tính xách tay có gắn kèm webcam để " nghe " những hình_ảnh động_từ môi_trường xung_quanh qua chiếc headphone .
+Dần_dần họ sẽ quen được với phương_thức này và có cảm_giác như mình nhìn được .
+
+Ông Meijer phát_biểu : " Hình_ảnh được quét từ trái sang phải .
+Cao_độ được gắn kèm độ_cao của hình_ảnh .
+Những tiếng nổ nhỏ tương_ứng với độ sáng của từng khối vuông " .
+
+Tuy_nhiên , Meijer cũng đã nhanh_chóng chỉ ra khuyết_điểm của The vOICe - hệ_thống không_thể chuyển_tải được những ý_niệm sâu_xa , không theo_dõi được ôtô đang chuyển_động và khó điều_khiển .
+Meijer hy_vọng những máy_ảnh số thông_minh hơn và máy xách tay nhanh_nhạy hơn sẽ giúp khắc_phục được vấn_đề đó trong tương_lai .
+
+Minh_Thi ( theo ABC )

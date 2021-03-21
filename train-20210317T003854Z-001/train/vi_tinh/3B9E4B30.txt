@@ -1,0 +1,27 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E4B30/
+title=Công cụ phân loại e-mail dựa trên... sự quen biết 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_cụ phân_loại e - mail dựa_trên ... sự_quen_biết
+Nhằm giảm_bớt cảm_giác khó_chịu cho người sử_dụng mỗi khi vào hộp_thư ngập tràn những e - mail không_bao_giờ được mở , các chuyên_gia nghiên_cứu của Microsoft đã phát_hành chương_trình có khả_năng phân_chia e - mail thông_minh .
+
+Hãng sản_xuất phần_mềm Mỹ cho_biết ứng_dụng SNARF ( Social Network And Relationship Finder - Công_cụ dò tìm mối quan_hệ và mạng xã_hội ) sẽ sắp_xếp thông_điệp bằng hai_cách : không_chỉ theo thứ_tự mới - cũ mà còn theo mức_độ người nhận quan_tâm như_thế_nào tới người_gửi .
+" Nếu mở_e - mail mỗi_ngày và nhận tới 150 thư , bạn sẽ phát_điên .
+Khi_đó , bạn sẽ thấy thật dễ chịu khi 7 e - mail của đồng_nghiệp được xếp vào một thư_mục riêng " , Marc Smith , một trong những thành_viên phát_triển SNARF , nói .
+
+SNARF hoạt_động dựa_trên thực_tế là mọi_người thường có xu_hướng trả_lời e - mail đến từ những người có_ý_nghĩa nào_đó với họ .
+Tuy_nhiên , Smith thừa_nhận không_phải ai quan_trọng với ông cũng đều reply thư của ông : " Rất tiếc tôi phải nói rằng mẹ tôi không_bao_giờ gửi_thư cho tôi " .
+
+Chương_trình sẽ thống_kê người_sử_dụng thường phản_hồi những kiểu nội_dung thông_điệp nào nhất , hoặc họ reply cho những_ai ...
+Công_cụ cũng có_thể xác_định xem liệu người nhận có nằm_trong một danh_sách địa_chỉ gửi đi dài lê_thê hay_không .
+
+Smith cho_biết hòm_thư của ông là " một đống hỗn_độn " giữa thư của bạn_bè và spam .
+" Nếu chú chó cưng của tôi còn biết phân_biệt đâu là người_lạ và đâu là bạn tôi để không sủa nhặng lên thì thiết_bị đọc_e - mail cũng phải thực_hiện được điều tương_tự " , Smith so_sánh .
+
+Công_cụ này có tác_dụng lớn đối_với những ai luôn cảm_thấy nặng_nề vì hộp_thư quá_tải .
+Dù tính_năng thông_báo thư mới ( alert ) tỏ_ra có_ích , nó hoạt_động " quá cần_mẫn " và xuất_hiện thường_xuyên ở góc màn_hình khiến các nhân_viên gần_như không_thể tạo phát_huy sự_sáng_tạo do liên_tục bị cắt_ngang .
+
+Hiện nhóm nghiên_cứu của Microsoft đang phát_hành phần_mềm dưới .
+SNARF sẽ hoạt_động trên Windows XP Service Pack 2 và Outlook 2003 nhưng Smith cho_biết nó vẫn có_thể tương_thích với một_số chương_trình khác .
+
+P.T. ( theo CNet )

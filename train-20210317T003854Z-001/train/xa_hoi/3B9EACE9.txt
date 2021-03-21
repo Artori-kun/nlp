@@ -1,0 +1,25 @@
+url=http://vnexpress.net/Vietnam/Xa-hoi/Giao-duc/2006/06/3B9EACE9/
+title=Đà Nẵng công bố điểm thi tốt nghiệp trên mạng 
+cat=XA-HOI|GIAO-DUC
+
+Đà_Nẵng công_bố điểm thi tốt_nghiệp trên mạng
+Bắt_đầu từ ngày 13/6 , tất_cả các thông_tin về điểm thi_tốt_nghiệp PTTH và tốt_nghiệp bổ_túc PTTH đã chính_thức được công_bố trên website  
+Bạn có_thể tra_cứu thông_tin theo 3 phương_thức sau :
+Phương_thức 1 : Tra_cứu thông_tin thí_sinh dựa_vào hội_đồng_thi và số_báo_danh .
+Nhập cả 2 thông_tin hội_đồng_thi và số_báo_danh - Bấm_nút Xem để nhận kết_quả của thí_sinh có thông_tin trên .
+Lưu_ý : Chỉ_xem được thông_tin của một thí_sinh .
+
+Phương_thức 2 : Xem kết_quả của 1 phòng_thi .
+Nhập cả_hai thông_tin hội_đồng_thi và số phòng_thi - Bấm_nút Xem để nhận kết_quả chung của 1 phòng_thi .
+Lưu_ý : chỉ xem được thông_tin một phòng_thi .
+
+Phương_thức 3 : Tra_cứu tổng_hợp .
+Nhập ít_nhất một thông_tin để xem kết_quả .
+Trong trường_hợp có quá_nhiều kết_quả chứa thông_tin mà bạn nhập thì chương_trình tìm không hiển_thị kết_quả và bạn nên nhập thêm các thông_tin khác để nhận_được kết_quả tối_ưu hơn .
+
+Đối_với mục_Trường_học , cần chọn trường_học của thí_sinh trong hộp hiển_thị danh_sách các trường .
+Bạn nên chọn kèm_theo với số_báo_danh hoặc họ tên .
+Với mục Ngày tháng năm_sinh , cần chọn ngày tháng năm_sinh trong các hộp thông_tin về ngày , tháng , năm .
+Với mục Hội_đồng_thi có_nghĩa là địa_điểm dự_thi .
+
+( Theo Tuổi_trẻ )

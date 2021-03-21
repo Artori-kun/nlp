@@ -1,0 +1,9 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/10/3B9CC8AC/
+title=Chuyển đổi Unicode bằng hệ thống Uconvert 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chuyển_đổi Unicode bằng hệ thống Uconvert
+Sản_phẩm này được công_ty tin_học Nam_An xây_dựng nhằm mục_đích chuyển đối_dữ_liệu sang Unicode theo tiêu_chuẩn TCVN 6909:2001 .
+Hệ_thống cho_phép xử_lý một lượng lớn văn_bản , có khả_năng tự_động phát_hiện bảng mã và không làm_mất một số định dạng căn_bản .
+
+Uconvert dựa_trên nền công_nghệ COM của Microsoft Office , hoạt_động trên các hệ_điều_hành Windows 9x , NT , ME , 2000 , XP , 2003 và tương_thích với Microsoft Office 97 , 2000 , XP , 2003 .

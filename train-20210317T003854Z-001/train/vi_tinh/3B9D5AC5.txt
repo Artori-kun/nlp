@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/08/3B9D5AC5/
+title=Đọc báo mạng nhanh bằng FeedDemon 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Đọc_báo mạng nhanh bằng FeedDemon
+Trên Internet có hàng nghìn website cung_cấp tin_tức theo chuẩn RSS ( Rich Site Summary ) , cho_phép khai_thác tin từ các trang web mà_không cần phân_tích , bóc_tách .
+Tuy_nhiên truy_cập thông_tin này khá khó .
+Phần_mềm FeedDemon được thiết_kế để làm_cho công_việc trở_nên đơn giản.  
+FeedDemon cho_phép bạn nhanh_chóng khám_phá thế_giới RSS từ desktop mà_không cần phải truy_cập hàng trăm website .
+Đây là một lựa_chọn lý_tưởng cho những người mới làm_quen với CNTT và chưa biết gì về kiểu cung_cấp tin_tức RSS.  
+Setup Wizard của chương_trình rất dễ sử_dụng , giúp bạn đăng_ký một số_lượng không_giới_hạn các kênh thông_tin RSS thông_dụng chỉ bằng cách đánh_dấu_kiểm vào các ô tương_ứng .
+FeedDemon cũng cung_cấp đường link tới nhiều thư_mục RSS khác .
+Tính_năng Watch Channels tìm_kiếm những đầu_mục tin mới chứa các từ khóa do người_dùng quy_định rồi xếp nó vào một nhóm riêng_biệt để dễ tìm_kiếm .
+Chức_năng News Bin cũng rất hay , cho_phép bạn lấy nguyên cả một bài_báo chỉ bằng cách kéo tiêu_đề và thả vào một thùng lưu_trữ ở góc trái màn_hình .
+ 
+Mặc_dù còn một_số hạn_chế như giao_diện hơi thiếu thân_thiện và hỗ_trợ trực_tuyến kém , FeedDemon vẫn là một_cách tuyệt_vời cho người_mới làm_quen với CNTT tiếp_xúc với các nguồn_tin yêu_thích của họ .
+
+Phần_mềm có dung_lượng 2,27 MB .
+Bạn có_thể tải bản dùng thử bị hạn_chế một_số tính_năng .
+
+Thế_Nghĩa

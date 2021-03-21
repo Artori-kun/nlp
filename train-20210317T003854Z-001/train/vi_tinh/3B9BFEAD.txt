@@ -1,0 +1,24 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9BFEAD/
+title=EPSON giới thiệu máy in phun màu mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+EPSON giới_thiệu máy_in phun màu mới
+Hôm_qua , EPSON đã ra_mắt người_dùng Việt_Nam máy_in Stylus C61 , có khả_năng in với độ_phân_giải tối_ưu 5760 optimised dpi .
+Sản_phẩm này hướng tới khách_hàng là các doanh_nghiệp vừa và nhỏ cũng_như hộ_gia_đình .
+
+Stylus C61 sử_dụng hệ_thống quản_lý mật_độ hình_ảnh ( RPM - Photo Resolution Performance Management ) , tối_ưu hoá_chất lượng in tới 6 loại kích_thước hạt mực khác_nhau , cho bản_in chất_lượng ảnh cao với một kích_thước dễ quản_lý .
+Thiết_bị này áp_dụng công_nghệ hạt mực siêu nhỏ 4 picolitre , mực in khô nhanh và công_nghệ phân_sắc ( EPSON Acuphoto Halftoning ) được nâng_cấp tạo_ra hình_ảnh in sắc_nét , mịn , sống_động và không bị loang trên giấy.  
+Stylus C61 cho_phép in 14 trang_đen / phút và 13,9 trang_màu / phút .
+Việc cải_tiến thời_gian di_chuyển của đầu in kết_hợp với tần_số phun cao làm_cho các hạt mực sắp_xếp nhanh hơn trên bề_mặt giấy , giúp bản_in sớm hoàn_tất .
+Bên_cạnh_đó , máy_in còn có tính_năng điều_chỉnh kích_thước hạt_mực , thay_đổi kích_cỡ của giọt_mực , phục_vụ cho các nhu_cầu in ấn khác_nhau mà vẫn đảm_bảo tối_ưu chất_lượng và tốc_độ .
+Với tính_năng này , người_sử_dụng có_thể in_ảnh 20 x 25 cm với tốc_độ tối_đa khoảng 168 giây .
+
+Stylus C61 kết_nối cổng song_song và cổng USB với bất_kỳ máy_tính nào cài hệ Windows 95/98/ME/2000 và XP cũng_như hệ Apple Macintosh .
+Đồng_thời , được trang_bị hộp mực_kép ( dual ink cartridge ) và trình điều_khiển máy_in tiên_tiến , dễ sử dụng.  
+Loại máy_in phun màu này hỗ_trợ chuẩn in EXIF dùng_cho DSCs .
+Người_dùng có_thể sử_dụng EXIF Print thông_qua phần_mềm PhotoQyicker 3.2 được cài vào máy Stylus C61 .
+
+Stylus C61 tương_thích với cả_hai hệ_điều_hành Windows và Macintosh .
+Sản_phẩm hiện_có bán tại Hà_Nội và TP HCM .
+
+Minh_Nghĩa

@@ -1,0 +1,33 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA5BB/
+title=Xử lý hình ảnh siêu nhanh với 2 card đồ họa 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Xử_lý hình_ảnh siêu nhanh với 2 card đồ_họa
+Một thử_nghiệm mới_đây trên hệ_thống mainboard A8 N - SLI Deluxe của Asus cho_thấy tốc_độ và hiệu_quả xử_lý hình_ảnh tăng_lên rõ_rệt khi sử_dụng đồng_thời 2 card đồ_họa .
+Sản_phẩm sẽ làm thỏa_mãn dân nghiền game khi ngày_càng có nhiều trò_chơi mới đòi_hỏi cấu hình mạnh_hơn .
+
+Công_nghệ có tên là SLI ( Scalable Link Interface - Giao_diện liên_kết đa_tầng ) , cho_phép sử_dụng 2 card đồ_họa PCI Express trên cùng một bo mạch_chủ , giúp bộ_phận xử_lý hình_ảnh hoạt_động với hiệu_suất cao nhất từ trước đến_nay .
+Những game đòi_hỏi cấu hình mạnh đã cho hiệu_quả thấy rõ khi chơi ở độ_phân_giải cao , vốn gặp rất nhiều khó_khăn với 1 card đồ_họa như trước_đây .
+
+Tuy_nhiên , không_phải hệ_thống nào_cũng có_thể sử_dụng được công_nghệ SLI .
+Máy_tính cần phải có mainboard tích_hợp chip set NForce PCI - Express , thiết_kế dành riêng cho bộ_vi xử_lý của AMD .
+Có 4 loại card đồ_họa của hiện_tại hỗ_trợ SLI , bao_gồm các model của dòng GeForce là 6600 GT ( giá 200 USD ) , 6800 , 6800 GT và 6800 Ultra ( giá trong khoảng 300-500 USD ) .
+
+Hãng Alienware cũng đưa_ra máy_tính nguyên chiếc tích_hợp công_nghệ SLI sử_dụng chip Xeon lõi_kép ( giá 6.000 USD ) còn Gigabyte thì phát_triển mainboard SLI dựa_trên chipset 915 của Intel .
+Bo mạch chủ NForce tương_thích với CPU của Intel vẫn đang trong quá_trình phát_triển và dự_kiến phải mất vài tháng nữa mới có_mặt trên thị_trường .
+
+Thử_nghiệm đồng_thời card đồ_họa 6800 GT cấu hình_đơn ( 1 card ) và cấu hình_đôi ( 2 card , theo công_nghệ SLI ) trên bo mạch chủ A8 N - SLI Deluxe của Asus cho_thấy các game cũ như , Commanche 4 và Unreal Tournament 2004 không phụ_thuộc nhiều vào card đồ_họa hoặc hiệu_quả không mạnh hơn với SLI .
+Một_vài trường_hợp , việc hệ_thống_thiết_lập SLI chậm hơn 1 hoặc 2 khung hình so với PC sử_dụng 1 card duy_nhất .
+
+Với các game mới đòi_hỏi cấu hình đồ_họa cao như , và Far Cry , điều dễ nhận_thấy là hệ_thống SLI không tạo_ra sự_khác_biệt ở độ_phân_giải 1024 x 728 .
+Tuy_nhiên , khi tăng độ_phân_giải lên 1600 x 1200 thì sức_mạnh của SLI bắt_đầu được phát_huy , tăng khả_năng xử_lý đồ_họa lên 56 % so với hệ_thống đơn card và giảm_bớt hiện_tượng co_giật trên màn_hình .
+
+Mặc_dù vẫn còn nhiều khiếm_khuyết nhưng rõ_ràng công_nghệ SLI cho khả_năng xử_lý hình_ảnh tốt_hơn .
+Hệ_thống có_thể chạy SLI hiện_tại giá khá đắt nhưng nếu_có ý_định mua chiếc PC mới thì người_dùng cũng_nên chú_ý đến công_nghệ này bởi hiệu_quả đồ_họa tuyệt_vời của nó .
+
+Nếu hệ_thống SLI cũng không đủ đáp_ứng nhu_cầu thì người_dùng có_thể tăng tốc_độ bằng phần_mềm NTune của NVidia , tương_tác với với bo mạch chủ NForce để thực_hiện việc kích xung đồng_hồ ( overclock ) , cho_phép bộ_nhớ , card đồ_họa cũng bus chạy nhanh hơn tốc_độ tiêu_chuẩn .
+NTune sẽ tự_động điều_chỉnh sao_cho PC hoạt_động ở hiệu_suất cao nhất có_thể .
+Thử_nghiệm trên card đồ_họa MSI K8N Neo4 Platinum NForce4 sắp ra_lò của NVidia bằng cách tăng tốc_độ xung đồng_hồ lên 3 % khi chơi game rồi lại giảm 3 % cho_thấy PC chạy êm và mát , sử_dụng ít năng_lượng hơn khi đọc đĩa DVD hay_tải file lớn .
+NTune cũng cho_phép quản_lý nhiệt_độ và điện_áp của PC , một yếu_tố cốt_lõi cho khi thực_hiện kích xung đồng_hồ .
+
+Văn_Thắng ( theo PCWorld )

@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/09/3B9D61F8/
+title=IBM ra mắt máy chủ lưu trữ giá rẻ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM ra_mắt máy chủ_lưu_trữ giá_rẻ
+Hôm_qua , IBM bắt_đầu tung_ra thị_trường loạt máy chủ_lưu trữ dòng khởi_đầu chi_phí thấp ( entry - level ) với giá_rẻ hơn tới 1/3 so với sản_phẩm cùng loại của các hãng EMC và HP .
+
+2 sản_phẩm được giới_thiệu là TotalStorage DS300 , máy chủ entry - level sử_dụng công_nghệ iSCSI có giá thấp hơn 3.000 USD , được thiết_kế đặc_biệt cho các doanh_nghiệp vừa và TotalStorage DS400 , một hệ_thống lưu_trữ sử_dụng công_nghệ Fibre Channel có chiều dày chỉ 13,3 cm .
+Cả hai loại đều chạy hệ_điều_hành Windows và Linux .
+Chúng là hệ_thống lưu_trữ thích_hợp cho các máy chủ eServer xSeries và BladeCenter nhằm_phục_vụ cho nhu_cầu của văn_phòng cùng các nhóm công_tác như quản_lý cơ_sở_dữ_liệu , e - mail và web .
+ 
+Rich Lechner , Phó_chủ_tịch IBM Storage Systems , cho_biết DS300 được định_giá cực_kỳ táo_bạo nhằm giúp IBM cạnh_tranh tốt_hơn với các đối_thủ EMC và HP .
+
+Hồi tháng 5 , EMC ra_mắt model AX100 , sản_phẩm lưu_trữ khởi_đầu chi_phí thấp nhất của hãng , với giá từ 5.000 - 10.000 USD .
+Trước_đó , HP đưa_ra MSA 1500 với giá 8.995 USD .
+
+Để so_sánh , model DS300 VL của IBM có giá 2.995 USD ( nhưng sẽ lên_đến 4.642 USD khi bổ_sung 3 ổ cứng 146 GB ) , máy DS300 Single Controller có giá 6.091 USD và DS300 Dual Controller với 5 ổ cứng có giá 8.340 USD , thấp hơn các máy chủ entry - level của EMC và HP .
+
+IBM , HP , EMC và Dell đang cạnh_tranh gay_gắt nhằm chiếm_lĩnh thị_phần trong không_gian doanh_nghiệp vừa và nhỏ , lĩnh_vực được nhiều chuyên_gia dự_đoán sẽ phát_triển nhanh_chóng nhờ_có ngân_sách thoáng .
+
+Thế_Nghĩa   ( theo Internet News )

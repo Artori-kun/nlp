@@ -1,0 +1,27 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/08/3B9CA578/
+title=Thẻ flash 4 GB cho nhiếp ảnh chuyên nghiệp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thẻ flash 4 GB cho nhiếp_ảnh chuyên_nghiệp
+Công_ty Lexar Media ( Mỹ ) hôm_qua vừa đưa_vào kinh_doanh một loại có dung_lượng cực lớn là CompactFlash 4GB với giá 1.499 USD .
+Loại thẻ này sẽ giúp các thợ ảnh lưu_trữ những hình_ảnh kỹ_thuật số chất_lượng cao .
+
+Một camera 6 megapixel được trang_bị thẻ này có_thể lưu tới 600 hình_ảnh .
+Nếu so_sánh giá_cả và một số tính_năng cải_tiến khác thì loại thẻ nhớ flash 4GB là thích_hợp_nhất đối_với dân chuyên_nghiệp , đối_tượng mà Lexar đang tập_trung khai_thác .
+
+Thẻ CompactFlash 4 GB có ứng_dụng công_nghệ Write Acceleration , cho_phép các nhà_nhiếp_ảnh dùng camera số chụp và lưu hình_ảnh nhanh hơn 23 % so với những loại không có công_nghệ này .
+Riêng loại CompactFlash Type II trong serie thẻ này có kích_cỡ to hơn Type I .
+
+Khi các nhà sản_xuất camera chế_tạo những loại máy có khả_năng chụp_hình với độ_phân_giải ngày_càng cao và khách_hàng cũng đang chuyển dần sang những thiết_bị có độ_phân_giải tương_tự , thì nhu_cầu về khả_năng lưu_trữ ngày_càng trở_nên bức_xúc .
+Và đây cũng chính là cơ_hội làm_ăn của các nhà sản_xuất thẻ flash .
+Trong vài tháng qua , doanh_số và giá cổ_phiếu của các công_ty như Lexar và SanDisk đã tăng rất mạnh .
+
+Theo Chris Chute , một chuyên_gia của Công_ty nghiên_cứu IDC , máy_ảnh kỹ_thuật_số và điện_thoại di_động là động_lực thúc_đẩy ngành chế_tạo thẻ nhớ flash .
+Thị_trường này đang ngày một tăng_trưởng nhờ giá_cả liên_tục giảm , còn nhu_cầu về dung_lượng nhớ không ngừng tăng_lên , kích_thích sự_phát_triển và cải_tiến sản_phẩm .
+
+IDC cho_biết một năm trước_đây , phần_lớn các loại máy_ảnh kỹ_thuật số mới chỉ có công_suất 2 megapixel , thì đến_nay , ngay_cả loại 3 megapixel đã trở_thành sản_phẩm dành cho dân nghiệp_dư .
+Tuy_nhiên , dung_lượng nhớ của phần_lớn camera chuyên_nghiệp đang giảm do sự_tiến_bộ của công_nghệ nén .
+Theo Chute , cỡ file chứa hình_ảnh trung_bình hiện giảm từ 2 MB năm 2001 xuống 1,3 MB năm_nay .
+Tuy_nhiên , đối_với những loại camera cao_cấp , dung_lượng nhớ_lại tăng từ 2 MB lên 4,3 MB / file .
+
+Phan_Khương ( theo ZDNet )

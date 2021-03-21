@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D993F/
+title=Thẻ nhớ MMC nhỏ bằng móng tay 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thẻ nhớ MMC nhỏ bằng móng_tay
+Dự_kiến vào cuối quý I năm 2005 , Samsung sẽ bắt_đầu sản_xuất hàng_loạt dòng thẻ nhớ đa phương tiện MMCmicro dùng_cho máy_điện_thoại di_động ( ĐTDĐ ) với kích_thước chỉ có 12 x 14 x 1,1 mm .
+
+Thể_tích của sản_phẩm mới chỉ bằng 1/3 so với loại thẻ nhớ đa phương tiện RS - MMC ( 24 x 32 x 1,4 mm ) đang được dùng trong các loại ĐTDĐ đời_mới hiện_nay .
+MMCmicro có_thể đọc_dữ_liệu với tốc_độ 10 Mb / giây và ghi với tốc_độ 7 Mb / giây , so với 2,18 Mb / giây và 2,08 Mb / giây của RS - MMC .
+Samsung cho_biết trước_mắt sẽ đưa_ra sản_phẩm có dung_lượng lần_lượt là 32 MB , 64 MB và 128 MB .
+Cả 2 loại thẻ nói trên đều hoạt_động được ở mức điện_áp 1,8 hay 3,3 vol .
+
+Thẻ MMCmicro 128 MB có_thể chứa khoảng 60 bức ảnh kỹ_thuật_số với độ_phân_giải 5 megapixel hay gần 1 giờ phim video định dạng QVGA ( 320 x 240 pixel ) .
+Người_dùng có_thể xoá và ghi_dữ_liệu trong khoảng hơn 100.000 lần .
+
+Thị_trường thẻ nhớ được dự_đoán sẽ tăng từ 520 triệu USD trong năm_nay lên 920 triệu USD vào năm 2007 .
+Việc nghiên_cứu và phát_triển dòng thẻ nhớ này giúp nâng_cao tốc_độ , giảm kích_thước cho điện_thoại thế_hệ thứ 3 đang phát_triển rất mạnh hiện nay.  
+Văn_Thắng ( theo Techtree )

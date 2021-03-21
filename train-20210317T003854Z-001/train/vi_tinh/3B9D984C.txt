@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D984C/
+title=Tối ưu hóa ảnh GIF với GIFeq 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tối_ưu_hóa ảnh GIF với GIFeq
+GIF là định dạng ảnh được sử_dụng rộng_rãi trong việc tạo ảnh_động và ảnh có nền trong_suốt cho các trang web .
+Tuy_nhiên , dung_lượng của file GIF lớn hơn khá nhiều so với JPEG hoặc PNG .
+Vì_thế , bạn nên tối_ưu nó với các phần_mềm chuyên_biệt , chẳng_hạn như tiện_ích miễn_phí GIFeq .
+
+GIFeq cho_phép bạn làm_giảm dung_lượng file GIF bằng cách loại_bỏ các phần quét xen_kẽ ( interlacing ) , chú_giải ( comment ) , tối_ưu_hóa các pallete màu Tiện ích rất nhỏ gọn này có_thể xử_lý một file riêng_biệt hoặc cả một thư_mục ảnh GIF , đồng_thời hiển_thị dung_lượng giảm được cho từng file .
+Bạn có_thể lưu các file đã được tối_ưu_hóa vào trong một thư_mục mới để những tấm_ảnh gốc của bạn không bị thay_đổi .
+GIFeq hỗ_trợ cả ảnh GIF tĩnh và động .
+
+Giảm dung_lượng file trong_khi duy_trì chất_lượng đồng_nghĩa với việc tiết_kiệm được băng_thông , giảm thời_gian tải trang web xuống máy_khách , giúp giảm_bớt chi_phí và tăng_sức hấp_dẫn của trang web .
+Nếu là một nhà_phát_triển web , bạn sẽ cần đến những công_cụ hỗ_trợ như GIFeq .
+
+Chương_trình có dung_lượng 314 KB , có_thể tải .
+
+T.N .

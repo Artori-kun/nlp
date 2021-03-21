@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/11/3B9CD317/
+title=IBM ThinkPad mới với công nghệ tự bảo vệ ổ cứng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM ThinkPad mới với công_nghệ tự bảo_vệ ổ_cứng
+Hôm_qua , Big Blue công_bố dòng sản_phẩm máy_tính xách tay mới - ThinkPad R50 và T41 với công_nghệ tự_trị mới , mang tên Active Protection System , nhằm bảo_vệ ổ_đĩa_cứng ngăn_chặn việc mất dữ_liệu .
+
+Theo thống_kê , hằng năm hơn 10,5 % máy_tính xách tay_trong các công_ty bị hư_hỏng .
+Trong 3 phần dễ bị hư nhất là ổ_cứng , màn_hình và bàn_phím , ổ cứng hỏng sẽ dẫn đến việc mất thông_tin và ảnh_hưởng năng_suất làm_việc .
+
+Active Protection System của IBM ( gần giống như công_nghệ được sử_dụng trong ôtô dùng túi khí khi va_chạm ) sử_dụng một vi_mạch trên hệ_thống bo mạch nhằm phát_hiện việc gia_tốc của hệ_thống ( như khi máy bị_rơi ) và phản_ứng_lại bằng cách tạm_thời giữ chặt_đầu đọc / ghi của ổ_đĩa cho tới khi hệ_thống trở_lại tình_trạng ổn_định .
+Khả_năng phản_hồi nhanh_chóng này có_thể giúp bảo_vệ ổ_đĩa cứng không bị hư_hỏng khi máy_rơi , bảo_vệ toàn_bộ dữ_liệu cũng_như giảm chi_phí bảo_hành .
+
+ThinkPad R50 mới có màn_hình 14 và 15 inch , trọng_lượng khoảng 2,7 kg và mỏng 3,3 cm với tuổi_thọ pin lớn .
+Một số_loại ThinkPad R50 và T41 có sử_dụng công_nghệ di_động Centrino của Intel với chuẩn không dây tích_hợp IBM 11a / b/g , hệ_thống bảo_mật Embedded Security Subsystem .
+
+Cùng_ngày , Big Blue cũng trình_làng ThinkPad X31 , R40 , R40e và G40 mới với bộ xử_lý nhanh hơn , công_nghệ không dây tích_hợp trên một số model cùng công_nghệ ThinkVantage mới nhất .
+Trong_đó , R40 và R40e sử_dụng chip Pentium 4- M và Celeron của Intel và nặng khoảng 2,7 kg .
+
+Thanh_Tú ( theo BB )

@@ -1,0 +1,17 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/02/3b9db7c1/
+title=Samsung giới thiệu DRAM thế hệ mới 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Samsung giới_thiệu DRAM thế_hệ mới
+Công_ty điện_tử Hàn_Quốc vừa công_bố mẫu sản_phẩm chip nhớ đầu_tiên trên thế_giới tốc_độ nhanh và tiêu_thụ năng_lượng thấp .
+Hãng hy_vọng thành_công này sẽ đặt nền chuẩn cho các sản_phẩm cùng loại trong tương_lai .
+
+Chip DRAM 512 MB thuộc loại DDR3 ( double data rate 3 - tốc_độ truyền dữ_liệu gấp_đôi nhóm 3 ) có_thể xử_lý thông_tin với tốc_độ 1.066 Mb / giây , tương_đương với việc truyền_dữ_liệu của 8.000 trang báo giấy / mỗi_giây , gấp_đôi tốc_độ của loại DRAM DDR2 hiện_hành .
+
+DDR3 sẽ trở_thành chuẩn cho thế_hệ tiếp_theo của các sản_phẩm chip_nhớ công_suất mạnh và tiêu_hao ít điện_năng dùng_cho máy_tính xách_tay , máy để_bàn và server , Tom Quinn , Phó_chủ_tịch Samsung , phát_biểu .
+
+Mẫu DDR3 này là chip nhớ đầu_tiên hoạt_động ở hiệu điện_thế 1,5 volt , giảm_bớt được thất_thoát năng_lượng pin trong bối_cảnh ngày_càng nhiều thiết_bị được không dây_hóa .
+Samsung sẽ bắt_đầu sản_xuất đại_trà vào đầu năm_sau .
+Hãng nghiên_cứu thị_trường IDC cũng dự_báo sự_xuất_hiện của những sản_phẩm DDR3 DRAM đầu_tiên vào 2006 và chúng sẽ chiếm 65 % tổng thị_phần DRAM toàn_cầu vào năm 2009 .
+
+Phan_Khương ( theo AFP )

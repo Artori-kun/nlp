@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAFBE/
+title=Microsoft tăng cường bảo mật cho PC 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft tăng_cường bảo_mật cho PC
+Microsoft vừa giới_thiệu công_cụ miễn_phí có_thể tìm_kiếm các lỗi bảo_mật trên máy_tính dùng hệ_điều_hành Windows .
+Với tên_gọi Microsoft Baseline Security Analyzer ( MBSA ) , công_cụ này giúp dễ_dàng tìm_ra vấn_đề khi PC bị cấu hình sai hoặc cài_đặt không đúng các bản sửa lỗi bảo_mật .
+
+Sau_khi quét tìm lỗi trên hệ_thống , người_dùng sẽ nhận_được một thông_báo bảo_mật liệt_kê tất_cả các lỗi được tìm_thấy .
+
+MBSA có kích_thước 2,5 MB , người_dùng có_thể download tại .
+Sản_phẩm này cài được trên các hệ_điều_hành máy_chủ , hệ_điều_hành Windows 2000 cho máy để_bàn , cũng_như các phiên_bản Professional và Home của Windows XP .
+
+MBSA cũng_được sử_dụng để quét các lỗi bảo_mật trong những phần_mềm như : Windows NT 4.0 , Windows 2000 , Windows XP , Internet Information Server 4.0 & 5.0 , SQL Server 7.0 & 2000 , Internet Explorer 5.01 & các phiên_bản sau_đó , cũng_như chương_trình Office 2000 và XP .
+
+Microsoft đã giới_thiệu chi_tiết công_cụ này , với sự_trợ_giúp phát_triển của hãng Shavlik Technologies , tại hội_nghị các vấn_đề bảo_mật RSA trong tháng 2 .
+
+Minh_Nghĩa ( theo PCW )

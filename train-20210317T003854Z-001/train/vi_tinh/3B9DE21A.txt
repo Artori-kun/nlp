@@ -1,0 +1,20 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE21A/
+title=Hai ổ cứng 100 GB mới cho notebook 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hai ổ cứng 100 GB mới cho notebook
+Travelstar 7K100 của Hitachi và MHV2100BH của Fujitsu với kích_thước 2,5 inch vừa được tung_ra thị_trường hôm_qua , chạy êm hơn và nhanh hơn các ổ cứng thế_hệ trước .
+
+Travelstar là thế_hệ ổ cứng thứ_hai dành cho máy_tính xách tay của tập_đoàn điện_tử hàng_đầu Nhật_Bản với mật_độ quay 7.200 vòng / phút , nhanh hơn rất nhiều so với tốc_độ 5.400 vòng / phút của nhiều ổ cứng hiện_nay dành cho loại máy_tính này và tương_đương với phần_lớn hard drive dành cho máy desktop .
+Theo John Osterhout , Giám_đốc tiếp_thị tại chi_nhánh San Jose ( Mỹ ) , do mật_độ bề_mặt trên đĩa tăng và khả_năng giảm shock hoạt_động của ổ cứng nâng từ 200G lên 300G nên sẽ tăng được 25 % tốc_độ đọc_dữ_liệu so với loại ổ trước .
+Đồng_thời sản_phẩm mới cũng chạy êm hơn thế_hệ đầu_tiên .
+
+Khách_hàng sử_dụng ổ cứng dung_lượng lớn này sẽ cảm_nhận được tiến_bộ mới trong nhiều hoạt_động của máy_tính như khởi_động Windows XP , tải ứng_dụng , sao_chép dữ_liệu rất nhanh và nghe_nhạc MP3 , xem tranh_ảnh hay kết_nối Internet ...  
+Hitachi đang sản_xuất Travelstar 7K100 ở_nhà_máy đặt tại Thái_Lan và bán cho hãng chế_tạo máy_tính Dell để sử_dụng trong máy_tính thế_hệ 2 .
+Trang web của Dell cũng giới_thiệu một loại ổ cứng 100 GB dùng_cho máy_tính xách tay để khách_hàng lựa_chọn nhưng lại không nêu chi_tiết về_nhà sản_xuất hay tốc_độ của ổ .
+
+MHV2xxBH của Fujitsu quay được 5.400 vòng / phút và có dung_lượng từ 40 GB đến 100 GB ( loại 100GB có_số_hiệu MHV2100 ) .
+Hãng này cho_biết sản_phẩm có giao_diện ( interface ) Serial ATA và đặt mục_tiêu xuất_xưởng 4 triệu chiếc trong tài_khoá 2005 .
+Theo hãng nghiên_cứu Gartner , trong quý IV năm 2004 , Fujitsu đứng thứ_hai trên thị_trường ổ cứng 2,5 inch của thế_giới với 25,5 % thị_phần .
+
+H.P. ( theo PCWorld )

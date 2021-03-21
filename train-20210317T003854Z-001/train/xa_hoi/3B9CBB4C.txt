@@ -1,0 +1,30 @@
+url=http://www.vnexpress.net/Vietnam/Xa-hoi/Giao-duc/2003/09/3B9CBB4C/
+title=Mất 955 USD vẫn chưa thể thành lập trình viên quốc tế 
+cat=XA-HOI|GIAO-DUC
+
+Mất 955 USD vẫn chưa thể thành_lập trình viên quốc_tế
+Bằng nhiều chiêu thức quảng_cáo , cơ_sở tin_học Toàn_Vũ ( Công_ty TNHH Tin_học Toàn_Vũ , TP HCM ) đã thu_hút hàng trăm bạn trẻ đến học .
+Họ sẵn_sàng nộp 955 USD với hy_vọng trở_thành_lập trình viên quốc_tế .
+Nhưng thực_tế , cơ_sở này chỉ đào_tạo các kỹ_thuật_viên tin_học .
+
+Người nào đến cơ_sở tin_học này đều được các nhân_viên tư_vấn vẽ ra một con_đường sáng_sủa như : Học_viên sẽ nhận_được chứng_nhận tốt_nghiệp lập_trình viên quốc_tế do TV Informatics ( tên tiếng Anh của Toàn_Vũ ) cấp , chứng_nhận tại OMS CO Computer Corporation , USA .
+Lập_trình viên tốt_nghiệp được tham_gia các đồ_án hợp_đồng với những công_ty có tầm_vóc trong và ngoài_nước .
+Lương tốt_nghiệp điểm A : 200 USD / tháng , B : 150 USD / tháng , C : 100 USD / tháng ...
+
+Ngoài_ra , TV Informatics còn chiêu_dụ : học_kỳ 1 đóng 55 USD .
+Học_kỳ 2 đạt điểm A chỉ đóng 155,5 USD ( giảm 65 % ) , điểm B đóng 292,5 USD và từ điểm C trở_đi đóng 450 USD .
+Học_kỳ 3 cũng áp_dụng như học_kỳ 2 , học_viên phải đóng 450 USD .
+Nhưng phần_lớn học_viên sẽ phải đóng đủ 955 USD , vì rất ít người đạt được điểm A và B .
+
+Hàng trăm học_viên đã không ngần_ngại bỏ_ra 955 USD , tìm đến cơ_sở tin_học Toàn_Vũ với giấc_mơ trở_thành_lập trình viên quốc_tế và đảm_bảo có việc_làm ngay sau_khi kết_thúc khóa_học .
+Tuy_nhiên , khi được hỏi sau_này sẽ làm_việc ở_đâu , các tư_vấn viên của TV Informatics trả_lời lập_lờ : Làm_việc trong thành_phố này thôi , còn văn_phòng đặt ở đâu thì chưa được biết , đã nằm_trong kế_hoạch hết_rồi .
+
+Theo giới_thiệu của các tư_vấn_viên , TV Informatics tổ_chức đào_tạo lập trình viên quốc_tế theo ba_hướng : Java , Visual Basic.Net và cơ_sở_dữ_liệu Oracle .
+Mỗi hướng đào_tạo kéo_dài 8 tháng , mỗi tuần học 2 buổi , mỗi buổi_học khoảng 2 giờ ( cả lý_thuyết và thực_hành ) .
+Học_viên không_cần điều_kiện gì , nhiều người không_biết tạo thư_mục , thậm_chí chuột máy_tính cũng không_biết sử_dụng .
+Các chuyên_gia tin_học đánh_giá , với thời_lượng đào_tạo này cùng với đầu vào của học_viên thấp , người học không_thể trở_thành thợ lập_trình .
+ 
+Theo giấy_phép mở cơ_sở do giám_đốc Sở Giáo_dục và đào_tạo TP HCM Trương Song_Đức ký thì cơ_sở tin_học Toàn_Vũ chỉ được mở các lớp tin_học cấp độ A , B và kỹ_thuật_viên tin_học , giảng_dạy theo đúng chương_trình của Bộ Giáo_dục và Đào_tạo .
+Ông Phạm_Anh_Ba - Phó_Phòng giáo_dục thường_xuyên , nói_thêm : Cơ_sở này không có chức_năng đào_tạo lập trình viên quốc_tế và liên_kết với cơ_sở đào_tạo nước_ngoài .
+
+( Theo Tuổi_Trẻ )

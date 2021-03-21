@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E2479/
+title=Google gia nhập lĩnh vực Wi-Fi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google gia_nhập lĩnh_vực Wi - Fi
+Tập_đoàn tìm_kiếm hàng_đầu thế_giới đang chuẩn_bị ra_mắt dịch_vụ Internet không dây mang tên ( GSA ) nhằm thiết_lập kết_nối Wi - Fi an_toàn cho người_sử_dụng .
+
+Dịch_vụ GSA , nối với máy chủ VPN ( mạng riêng_ảo ) , mã_hóa dữ_liệu và ngăn sự_can_thiệp từ bên_ngoài khi thông_tin được truyền qua Internet .
+
+Chương_trình GSA hiện được phát_hành dưới dạng Beta và chỉ tại một số địa_điểm ở San Francisco ( Mỹ ) .
+Google vẫn đang trong quá_trình thử_nghiệm để mở_rộng và cải_tiến sản_phẩm .
+
+Quyết_định cung_cấp dịch_vụ Wi - Fi sẽ khiến Google ngày_càng vươn xa khỏi công_nghệ tìm_kiếm và bước_vào thế_giới cạnh_tranh gay_gắt của các nhà_cung_cấp dịch_vụ Internet và truyền_thông .
+
+Google chưa đưa_ra bất_cứ tuyên_bố hay bình_luận nào về kế_hoạch này .
+Hãng tìm_kiếm gần_đây cũng bất_ngờ giới_thiệu dịch_vụ tin_nhắn nhanh và gọi_điện qua Internet mang tên .
+
+P.T. ( theo CNN )

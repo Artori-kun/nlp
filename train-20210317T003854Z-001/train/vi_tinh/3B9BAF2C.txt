@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BAF2C/
+title=Phần mềm sao chép tin tức trên web 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm sao_chép tin_tức trên web
+The Newsblaster là một phần_mềm được thiết_kế để biên_tập , tóm_tắt và viết_lại khối_lượng thông_tin lớn đang được cung_cấp trên không_gian mạng .
+Đó là thành_quả lao_động của các nhà_khoa_học máy_tính tại Đại_học Columbia ở Mỹ .
+
+Phần_mềm này ban_đầu nhằm giúp_đỡ các chuyên_gia tìm_kiếm thông_tin dễ_dàng hơn trên web , đồng_thời nó cũng_được dùng để tập_hợp hàng nghìn mẩu tin trên Internet .
+
+The Newsblaster rà_soát các website tin_tức như BBC , Reuters và CNN , tập_hợp các tin bài và phân_loại chúng theo các chủ_đề như tin thế_giới , giải_trí , khoa_học và công_nghệ .
+
+Chương_trình sẽ rút_gọn các danh_từ , động_từ và những nhóm_từ để đo_đạc sự_giống_nhau giữa các mẩu tin và rút_gọn thành một bài tóm_tắt 5 câu .
+Những câu đó có_thể được sao_chép nguyên_văn hoặc sửa đi_đôi chút và sắp_xếp dựa_theo thứ_tự thông_tin của các bài_gốc .
+Tuy_nhiên , rất nhiều bài tóm_tắt có những câu_dài , phức_tạp và nhiều đoạn trở_nên kỳ_cục .
+
+Vasileios Hatzivassiloglou , một trong những giáo_sư thực_hiện dự_án công_nhận : " Đó là một hệ_thống tự_động , do_vậy không_thể có phẩm_chất của một biên_tập_viên thực_thụ và chắc_chắn nó không tránh_khỏi sai_lầm " .
+
+Tuy_nhiên , 88 % số_người đã sử_dụng hệ_thống nhận_thấy rằng nó thuận_tiện hơn rất nhiều so với việc phải vào từng website khác_nhau để tìm tin_tức .
+
+Tiến_sĩ Damian Carrington , Tổng_biên_tập báo Newscientist.com phát_biểu : " Chương_trình này sẽ là mối lo_ngại cho chính các website tổng_hợp tin_tức , chứ không_phải cho các nhà biên_tập " .
+
+Minh_Thi ( theo BBC )

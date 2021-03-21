@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DE0F1/
+title=MainActor 5.5 - phiên bản mới nhất chỉ chạy trên Linux 
+cat=VI-TINH|SAN-PHAM-MOI
+
+MainActor 5.5 - phiên_bản mới nhất chỉ chạy trên Linux
+Sau một thời_gian im_lặng , mới_đây , hãng MainConcept đã quyết_định tung_ra lần_đầu_tiên phiên_bản trình biên_tập video mới nhất , nhưng chỉ dành cho hệ_điều_hành Linux .
+
+Với tất_cả những tính mạnh_mẽ về video , MainActor đang trở_thành một trong những thương_hiệu phần_mềm xử_lý video nhỏ gọn mà hiệu_quả .
+Điều mà không phải ứng_dụng phần_mềm biên_tập đồ_họa động nào_cũng làm_được .
+
+Còn những người_dùng hệ_điều_hành Windows phải kiên_nhẫn chờ_đợi và phải tạm hài_lòng với phiên_bản gần_đây nhất_là MainActor 5.2.13 .
+
+Người_dùng Linux cần phải gỡ_bỏ MainActor phiên_bản cũ trước_khi muốn cài_đặt bản 5.5 này .
+
+Hữu_Khoa

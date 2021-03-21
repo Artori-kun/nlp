@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/02/3B9E6E6F/
+title=Chip thế hệ mới của Intel sẽ có bộ nhớ đệm 4 MB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip thế_hệ mới của Intel sẽ có bộ_nhớ đệm 4 MB
+Hãng sản_xuất thiết_bị xử_lý hàng_đầu thế_giới hy_vọng những thay_đổi về mặt kỹ_thuật sẽ giúp Conroe và Merom đạt khả_năng vận_hành cao hơn ít_nhất 20 % so với chip của AMD cùng ra_mắt nửa_sau năm_nay .
+
+Trong Diễn_đàn các nhà phát_triển Intel , sẽ khai_mạc ngày 7/3 tại trung_tâm Moscone , San Francisco ( Mỹ ) , tập_đoàn này sẽ chủ_yếu bàn_về cho máy để_bàn , thiết_bị di_động và máy_chủ .
+Với kiến_trúc này , chúng_tôi tin_tưởng sẽ vượt_qua và nới_rộng khoảng_cách với AMD , Mooley Eden , Giám_đốc nền_tảng di_động của Intel , nói .
+
+Tên_gọi Vi kiến_trúc thế_hệ mới , viết tắt là NGMA ( Next - Generation Micro - Architecture ) , không gây ấn_tượng như Netburst nhưng Eden tin rằng nó sẽ nhanh_chóng thu_hút sự_chú_ý của các hãng sản_xuất máy_tính , chuyên_gia phân_tích và tất_cả những_ai coi AMD64 là kiến_trúc hàng_đầu hiện_nay .
+
+Các dòng_chip được phát_triển dựa_trên NGMA sẽ có bộ_nhớ đệm cache 4 MB .
+Ngoài_ra , Intel sẽ thay_đổi một số chi_tiết kỹ_thuật khác và tăng tốc_độ FSB để bắt_kịp khả_năng hoạt_động như chip của AMD mà_không cần áp_dụng thiết_kế điều_chỉnh bộ_nhớ tích_hợp .
+
+Bộ_điều_chỉnh cho_phép truyền_dữ_liệu đến thiết_bị xử_lý với tốc_độ cao nhưng buộc chip phải được thiết_kế chuyên biệt cho một loại bộ_nhớ nhất_định .
+Đây là nguyên_nhân khiến vi xử_lý Timna của Intel bị " chết_yểu " khi nó được trang_bị bộ_điều_chỉnh được thiết_kế riêng cho chuẩn RDRAM ( chỉ tồn_tại trong một thời_gian ngắn ) của Rambus .
+
+AMD chưa có thay_đổi gì cho kiến_trúc chip nhưng họ dự_định sẽ hỗ_trợ bộ_nhớ DDR2 với tốc_độ cao hơn chuẩn DDR đang tồn_tại trong chip AMD hiện_nay .
+
+T.N. ( theo CNet )

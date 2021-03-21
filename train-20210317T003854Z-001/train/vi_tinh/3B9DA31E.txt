@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA31E/
+title=Quản lý doanh nghiệp bằng VIP Enterprise  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Quản_lý doanh_nghiệp bằng VIP Enterprise  
+Với 8 modul chính , sản_phẩm dạng ERP này có_thể đáp_ứng đầy_đủ nhu_cầu quản_lý tổng_thể cho các doanh_nghiệp hoạt_động trong nhiều lĩnh_vực , với quy_mô tổ_chức cũng_như địa_bàn phân_bố khác_nhau .
+
+Các modul chính của VIP Enterprise bao_gồm : kinh_doanh , sản_xuất , tiêu_thụ , tài_sản cố_định , đặc_biệt , tài_vụ , kế_toán và nhân_sự .
+
+Quan_trọng và có_nhiều ý_nghĩa nhất trong VIP Enterprise là modul Kế_toán .
+Phân_hệ này có chức_năng vào_sổ tự_động các chứng_từ ở từng tác_nghiệp , theo_dõi sổ_cái , sổ_con , tài_khoản và có khả_năng tự_động hiệu_chỉnh thuế_suất giá_trị gia_tăng , tạo_ra các bảng cân_đối tài_khoản , báo_cáo tài_chính .
+Ngoài_ra , phân_hệ này cũng cho_phép người_sử_dụng hiệu_chỉnh thủ_công trong trường_hợp cần sữa_chữa , bổ_sung ...
+
+VIP Enterprise cho_phép truy_cập cơ_sở_dữ_liệu từ xa qua mạng Intranet hay Internet với một giao_diện web , hoạt_động theo 2 chế_độ tập_trung và phân_tán .
+Tính_năng này phù_hợp với những doanh_nghiệp có mạng_lưới kinh_doanh và kho_hàng phân_bố trên nhiều địa_bàn khác_nhau .
+Người sử_dụng có_thể xuất các báo_cáo , hóa đơn ... sang file Excel hay HTML để phù_hợp với nhu_cầu sử_dụng trong thực_tế .
+
+Một ưu_điểm của VIP Enterprise là khả_năng tương_thích và độc_lập với hệ_thống phần_cứng có sẵn , không đòi_hỏi cấu hình máy_cao .
+Chương_trình có_thể sử_dụng máy chủ Windows hoặc Linux , việc chuyển_đổi dữ_liệu qua_lại giữa hai hệ_thống khá dễ_dàng .
+
+Thao_tác với VIP Enterprise khá đơn_giản vì đây là phần_mềm hỗ_trợ đa ngôn_ngữ , đa tiền_tệ , tương_thích với hệ_thống kế_toán của Việt_Nam ( VAS ) cũng_như chuẩn kế_toán quốc_tế ( IAS ) Sản_phẩm này được Công_ty VIAMI Software nghiên_cứu và phát_triển trong 2 năm qua và được nhiều hãng như Sony , Honda ... sử_dụng vào hệ_thống phân_phối hàng_hóa .
+ 
+Văn_Thắng

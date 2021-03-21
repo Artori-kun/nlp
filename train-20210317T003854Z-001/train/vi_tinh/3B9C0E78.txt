@@ -1,0 +1,14 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/10/3B9C0E78/
+title=Quản lý file tốt hơn với Super Explorer v1.3 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Quản_lý file tốt_hơn với Super Explorer v1.3
+Sản_phẩm của Glenn Alcott được đánh_giá là có_nhiều tính_năng hơn Windows Explorer .
+Bạn có_thể mở 4 cửa_sổ cùng_lúc , rất tiện cho việc di_chuyển và sao_chép tệp_tin .
+
+Ngoài_ra , Super Explorer cho_phép bạn xem trước nội_dung file trước_khi mở và thực_hiện thao_tác in trong cửa_sổ preview .
+Phần_mềm còn có tính_năng mở cây thư_mục và chuyển file đồ hoạ sang các định dạng khác_nhau .
+
+Chương_trình có dung_lượng 1,04 MB , tương_thích với Windows 9.x / Me/2000/XP / NT và có_thể được_tải .
+
+Minh_Long

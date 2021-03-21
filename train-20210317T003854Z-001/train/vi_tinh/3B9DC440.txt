@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC440/
+title=Tùy biến giao diện trang tin Google bằng công cụ mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tùy biến giao_diện trang tin Google bằng công_cụ mới
+Hãng dịch_vụ tìm_kiếm vừa bổ_sung thêm một số công_cụ vào website tổng_hợp tin_tức của họ , cho_phép người truy_cập thiết_kế cách trình_bày những nội_dung xuất hịên tại_đây theo ý_thích riêng .
+
+Động_thái này được thực_hiện sau_khi các đối_thủ Yahoo và Microsoft MSN tăng_cường những tính_năng cho_phép khách_hàng tạo_ra những trang web mang phong_cách cá_nhân dựa_trên những thông_tin mà họ nhận_được .
+
+Với công_cụ mới , người_dùng Google News có_thể thiết_kế giao_diện trang tùy thích để thu_thập tin_tức từ khắp các nguồn trên Internet .
+Khách_hàng giờ_đây có_thể đặt ưu_tiên cho những chủ_đề thời_sự_như tin nổi_bật , sức_khỏe , giải_trí hay thể_thao , thay_đổi cách trình_bày trên trang_chính ( front page ) .
+Họ cũng có_thể tạo_ra những chuyên mục mới để lấy_thêm thông_tin dựa_theo những từ khóa nhất_định .
+
+Google có nguồn_thu chủ_yếu từ quảng_cáo trên dịch_vụ tìm_kiếm web nhưng họ không hiển_thị những nội_dung thương_mại này tại trang tin_tức của mình .
+Đây là điều chúng_tôi sẽ cân_nhắc , nhưng thời_điểm này thì chưa áp_dụng , Marissa Mayer , Giám_đốc sản_phẩm của hãng , phát_biểu .
+
+Website thu_thập tin_tức của Google vẫn còn trong giai_đoạn thử_nghiệm nhiều tính_năng và hãng dịch_vụ tìm_kiếm trực_tuyến số 1 thế_giới đang cố_gắng không đi_theo cách làm của các đối_thủ , tức_là cho_phép người_sử_dụng xem tin hoặc các nội_dung như tử_vi ( horoscope ) hoặc chỉ_số chứng_khoán , kết_nối nhanh tới các dịch_vụ khác như e - mail .
+Chúng_tôi không có ý định biến trang thu_thập tin_tức thành một dạng cửa_hàng tổng_hợp trên web , Mayer phát_biểu .
+
+Q.T. ( theo Reuters )

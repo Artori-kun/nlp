@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/11/3B9CD3D3/
+title=IBM sắp tung ra máy tính nhanh nhất thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM sắp tung_ra máy_tính nhanh nhất thế_giới
+Được đặt_tên Blue Gene / L , sản_phẩm của hãng máy_tính Mỹ chứa 130.000 bộ_vi xử_lý , cho_phép đạt tới tốc_độ 360 nghìn tỷ phép_tính một giây .
+So với máy_tính giữ kỷ_lục thế_giới hiện_nay , nó nhanh gấp 10 lần song kích_cỡ chỉ bằng 1/8 .
+
+Để xây_dựng này , IBM đã sử_dụng những bộ_vi xử_lý dựa_trên công_nghệ vi chip PowerPC .
+Các nhà_thiết_kế cũng tạo_thành máy nghiêng 11 độ so với phương thẳng_đứng để tăng độ lưu_thông_gió , giảm tiêu_thụ điện_năng cho bộ_phận tản_nhiệt .
+" Trước chúng_tôi chưa có ai thiết_kế một vách nghiêng kiểu này " , ông William Pulleyblank , người đứng_đầu dự_án của IBM , cho_biết .
+
+Trong buổi giới_thiệu hôm 7/11 , IBM đã đưa_ra bản mẫu của Blue Gene / L có kích_thước nhỏ hơn và tốc_độ chậm hơn .
+Dù_vậy , cỗ máy chỉ bằng chiếc TV này cũng có tốc_độ 2 nghìn tỷ phép_tính trên giây và lọt_vào hàng 500 máy_tính mạnh nhất thế_giới .
+
+Các nhà nghiên_cứu của Phòng thí_nghiệm quốc_gia Livermore ( Mỹ ) hy_vọng sẽ dùng Blue Gene / L để tái_tạo và nghiên_cứu một_số hiện_tượng vật_lý phức_tạp như sự_kiện thiên_văn hay cơ_chế của các vụ_nổ .
+IBM có trách_nhiệm cung_cấp máy_tính này cho Livermore vào đầu năm 2005 theo một hợp_đồng trị_giá 267 triệu USD với Bộ Năng_lượng Mỹ .

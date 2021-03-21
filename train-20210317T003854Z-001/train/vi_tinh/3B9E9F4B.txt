@@ -1,0 +1,14 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/05/3B9E9F4B/
+title=Windows Media Player 11 ra mắt cùng kho nhạc URGE 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Windows Media Player 11 ra_mắt cùng kho nhạc URGE
+Bản_thử nghiệm mới cho phần_mềm nghe_nhìn của Microsoft bao_gồm những so với Media Player 10 , cũng_như phản_ánh rõ chiến_lược phát_triển kho nhạc trực_tuyến mà họ liên_minh với MTV.
+được tích_hợp chặt_chẽ trong phiên_bản thứ 11 , nhưng chương_trình này vẫn cho_phép người_sử_dụng truy_cập những dịch_vụ nhạc trực_tuyến khác. còn giúp tìm_kiếm file nhạc bằng cách duyệt qua album , bên_cạnh việc tìm theo danh_sách bài_hát như_cũ .
+
+Tuy_nhiên , ứng_dụng mới chỉ tương_thích nhạc hỗ_trợ phần_mềm quản_lý quyền kỹ_thuật_số ( DRM ) của Microsoft , nghĩa_là nó không_thể phát nhạc lấy trực_tiếp từ .
+Bản_thử_nghiệm URGE cũng không hoạt_động trên máy_tính Macintosh và thiết_bị nghe_nhạc .
+
+Trên thực_tế , Microsoft và MTV hy_vọng dự_án URGE , cho_phép khách_hàng đăng nhập và mua nội_dung_giải_trí nhanh_chóng , có_thể giúp họ chiếm một phần thị_trường nhạc số hiện do Apple thống_trị .
+
+P.T. ( theo InformationWeek )

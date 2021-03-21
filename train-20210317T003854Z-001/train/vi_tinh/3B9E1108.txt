@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/08/3B9E1108/
+title=Star Downloader trợ giúp tải file nhanh  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Star Downloader trợ_giúp tải file nhanh  
+Chương_trình quản_lý này được thiết_kế để hỗ_trợ tăng tốc_độ tải file theo phương_pháp chia nhỏ dữ_liệu thành nhiều phần riêng_lẻ và tải chúng đồng_bộ .
+
+Quá_trình download sẽ được khôi_phục tự_động nếu xảy_ra trục_trặc về kết_nối hoặc máy_tính bị tắt đột_ngột .
+Tuy_nhiên , người_dùng chỉ được tải file vào những thời_điểm nhất_định trong ngày theo thời_gian biểu.  
+Hệ_thống danh_mục cải_tiến và tiện_ích tích_hợp có_thể mở_khoá ( unzip ) và tự_động cài file đã tải xong , tăng hiệu_quả trong việc tổ_chức và quản_lý download .
+Phần_mềm cũng_được xây_dựng kèm chương_trình diệt virus để quét file nhằm đảm_bảo an_toàn cho máy_tính .
+
+Star Downloader hỗ_trợ FTP , HTTP và proxy .
+Giao_diện đơn_giản , dễ_dùng , cho_phép người_sử_dụng lựa_chọn 50 ngôn_ngữ khác_nhau .
+Sản_phẩm có kích_thước 1,58 MB , hoạt_động trên Windows 95/98//2000 và XP.  
+Tải miễn_phí Star Downloader .
+
+P.T .

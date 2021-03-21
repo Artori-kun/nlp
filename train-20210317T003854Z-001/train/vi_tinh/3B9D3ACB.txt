@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3ACB/
+title=Phần mềm chống tải nhạc bất hợp pháp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm chống tải nhạc bất_hợp_pháp
+Nhóm nghiên_cứu của Đại_học Tulsa vừa đăng_ký tác_quyền một phần_mềm được thiết_kế để ngăn_chặn nạn download nhạc bất_hợp_pháp trên Internet .
+Chương_trình này sẽ tung_ra những chú vịt mồi trên các mạng trao_đổi file ngang_hàng ( P2P ) để đánh_lừa người tải_nhạc .
+
+Hiện_nay , nhiều bài_hát đã được đăng_ký tác_quyền vẫn xuất_hiện trên các mạng P2P để người_dùng tải về miễn_phí .
+Phần_mềm , do giáo_sư John Hale và nghiên_cứu_sinh Gavin Manes xây_dựng , sẽ chống_lại sự_vi_phạm này bằng cách làm tràn_ngập những mạng trao_đổi file ngang_hàng như Gnutella , BitTorrent và Kazaa với những nội_dung thay_thế nhưng trông có_vẻ như hàng chính_phẩm .
+
+Những chú vịt mồi được chương_trình thả_ra trên mạng P2P sẽ ngụy trang khéo_léo như những nội_dung có tác_quyền , khó phát_hiện , dễ đặt trên mạng và tải xuống nhanh .
+Tuy_nhiên , khi_chơi , nó sẽ chỉ phát_ra những tạp_âm , bài_hát được thu với chất_lượng thấp hoặc một thông_điệp khuyên người_dùng nên mua bài_hát một_cách hợp_pháp .
+
+Giáo_sư Hale nhận_xét : Phương_pháp này không ngăn_cản việc sử_dụng hợp_pháp các mạng P2P .
+Nó chỉ nhằm chống_lại nạn đánh_cắp tác_quyền một_cách cực_kỳ chính_xác .
+
+Theo số_liệu của ngành_công_nghiệp ghi_âm , nạn vi_phạm bản_quyền trên các mạng P2P năm 2003 đã khiến các công_ty sản_xuất đĩa nhạc và giới ca_sĩ mất khoảng 700 triệu USD .
+
+Thế_Nghĩa ( theo NewsFactor )

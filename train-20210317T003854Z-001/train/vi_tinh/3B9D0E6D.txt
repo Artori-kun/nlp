@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D0E6D/
+title= Âm thanh MP3 nổi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+  Âm_thanh MP3 nổi
+Những nhạc_phẩm MP3 lâu_nay vẫn bị ca_thán là âm_thanh hai chiều , kém chất_lượng .
+Điều này có_thể được cải_thiện khi Fraunhofer Institute , một tổ_chức nghiên_cứu tại Đức , giới_thiệu biện_pháp tạo âm_thanh nổi , có_thể ứng_dụng trong những file nhạc nhỏ xinh .
+
+Thông_thường , âm_thanh nổi được tạo_ra bằng cách ghi_âm trên nhiều rãnh khác_nhau .
+Khi_đó , người_nghe có cảm_giác âm_thanh đến tai mình từ ba hay nhiều chiều .
+Song file nhạc sẽ phình to khi số rãnh tăng_lên , khiến nó khó có_thể trao_đổi trực_tuyến hay đưa_vào các máy chơi nhạc xách_tay .
+
+Để giải_quyết , các nhà nghiên_cứu tại Fraunhofer Institute đã đưa_ra phương_pháp lưu_trữ thông_tin mà_không cần ghi_lại lượng dữ_liệu khổng_lồ .
+Phương_pháp này thêm_vào quá_trình giải_mã dòng MP3 một lượng thông_tin về đặc_tính không_gian của rãnh nhạc chính , xem nó tới từ đâu .
+Chính thông_tin thêm vào tạo_ra hiệu_ứng âm_thanh nổi .
+
+Fraunhofer khẳng_định các file nhạc ghi_âm theo công_nghệ mới này sẽ chạy trơn_tru trên các loại máy và phần_mềm MP3 cả mới lẫn cũ .
+Tuy_nhiên , chỉ các máy_nghe xử_lý được lượng thông_tin thêm vào mới có_thể tạo_ra âm_thanh nổi .
+Còn những máy chơi thông_thường thì chỉ cho ra ra âm_thanh hai chiều .
+
+Người nghe có_thể được kiểm_chứng tuyên_bố của Fraunhofer từ tháng 7 này , khi những sản_phẩm đầu_tiên dung công_nghệ âm_thanh nổi mới được tung_ra .
+
+Thanh_Tùng ( theo BBC )

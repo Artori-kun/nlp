@@ -1,0 +1,23 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D769F/
+title=Sony chuẩn bị trình làng ổ ghi DVD ngoài 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sony chuẩn_bị trình_làng ổ ghi DVD ngoài
+Tháng_tới , hãng điện_tử khổng_lồ này sẽ tung_ra cái mà họ tuyên_bố là ổ ghi DVD ngoài đầu_tiên trên thế_giới với khả_năng hoạt_động không_cần thông_qua máy_tính .
+
+Thiết_bị mang tên DVDDirect đi_kèm với bộ công_cụ đốt và biên_tập DVD dành cho Windows XP và 2000 .
+Sự_hỗ_trợ bổ_sung sẽ cho_phép ghi 2 lớp với tốc_độ 2,4x , ghi 1 lớp đạt tốc_độ 16x và ghi_đè ( rewrite ) ở mức 4x .
+Khả_năng ghi theo định dạng DVD - R đạt tốc_độ 8x và ghi đè cũng là 4x .
+
+Ổ mới của Sony có 8MB RAM sử_dụng công_nghệ bảo_vệ bộ_nhớ đệm .
+DVDDirect còn có_thể kết_nối với máy quay camcorder hoặc thiết_bị VCR để thu từ băng sang đĩa theo thời_gian thực .
+Tuy_nhiên , trong_khi sản_phẩm này sẽ mã_hóa hình video theo định dạng MPEG 2 , tự_động tạo_ra các chương ( chapter ) mới theo chu_kỳ 5 , 10 hoặc 15 phút / lần , thì nó lại chỉ hỗ_trợ đĩa DVD + R đơn và 2 lớp , một yếu_tố làm hạn_chế khả_năng sử_dụng ( playback ) trên các đầu máy nội_địa của Nhật .
+
+DVDDirect có 3 chế_độ ghi HQ , SP và SLP , đặt hình video nén vào một mức chất_lượng đủ để lưu 1 , 2 hoặc 6 tiếng nội_dung tương_ứng với từng chế_độ nói trên .
+Máy có đường video đa_hợp với jack cắm s - video và ngõ tiếng analogue stereo audio .
+
+Sony dự_định dùng sản_phẩm này để khai_thác những khách_hàng đang lưu_trữ nội_dung ghi trên băng_từ và nay có nhu_cầu chuyển_sang DVD nhưng lại không thích dùng máy_tính làm nơi lưu_trữ đầu_tiên .
+
+Theo kế_hoạch , ổ ghi ngoài DVDDirect sẽ xuất_hiện trên thị_trường Mỹ_từ tháng 11 với giá xấp_xỉ 300 USD .
+
+Phan_Khương ( theo The Register )

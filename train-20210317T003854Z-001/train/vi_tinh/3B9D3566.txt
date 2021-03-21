@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3566/
+title=Chia nhỏ tập tin với File Chopper 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chia nhỏ tập_tin với File Chopper
+Bạn đã bao_giờ phải vò_đầu bứt tai khi tải về một bộ phim hay có kích_thước 700 MB , định chia_sẻ với bạn_bè mà trong tay chỉ có thẻ nhớ USB dung_lượng 256 MB chưa ?
+Nếu điều đó xảy_ra hơn một_lần , hãy để File Chopper   giúp bạn .
+ 
+File Chopper chia tập_tin thành những khúc_nhỏ , có kích_thước tùy_ý , để tiện cho việc lưu_trữ và truyền những file quá lớn .
+Sau_đó , bạn có_thể phục_hồi tập_tin gốc bằng cách sử_dụng lại File Chopper hoặc dùng file DOS bó được tạo_ra trong quá_trình cắt .
+
+Bạn có_thể lựa_chọn kích_thước của những tập_tin con cho phù_hợp với dung_lượng của phương_tiện lưu_trữ như đĩa_mềm , đĩa CD , DVD ...
+Sau_đó , bạn vẫn biên_tập , chỉnh sửa tùy_ý .
+
+File Chopper tương_thích với các hệ_điều_hành Windows 95/98/Me/2000/XP và hoạt_động trên tất_cả các file hệ_thống của Windows , như FAT16 ( FAT ) , FAT32 và NTFS .
+Sau_khi tải về , chương_trình sẽ tự cài_đặt .
+
+Bạn có_thể tải bản dùng thử có thời_hạn 30 ngày .
+
+T.N .

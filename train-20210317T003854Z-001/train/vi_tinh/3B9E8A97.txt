@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E8A97/
+title=AMD phát hành chip Opteron đơn lõi cuối cùng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+AMD phát_hành chip Opteron đơn lõi cuối_cùng
+Ngừng sản_xuất đơn lõi là một quyết_định rất quan_trọng đối_với AMD , bởi dòng thiết_bị xử_lý này đã giúp công_ty tăng thị_phần máy chủ_từ 5,4 % lên 12,7 % trong quý IV năm_ngoái .
+
+Các hãng máy_tính Hewlett - Packard ( HP ) , Sun Microsystems và IBM vẫn tuyên_bố sẽ tích_hợp Opteron 156 , 256 và 856 đơn lõi trong một số dòng máy trạm và máy_chủ .
+Ba mẫu chip mới này được ưa_chuộng do chúng tăng khả_năng vận_hành từ 2,8 GHz lên 3,0 GHz trong_khi vẫn duy_trì mức tiêu_thụ 95 watt .
+
+Tập_đoàn Sun dự_định đưa thiết_bị xử_lý 156 vào dòng máy chủ Sun Fire X2100 , còn mẫu 256 sẽ được dùng_cho các hệ_thống chứa 2 CPU , trong_đó có X4100 và X4200 .
+Họ cũng sẽ tích_hợp Opteron 856 trong máy chủ 4 vi xử_lý như V40z .
+
+AMD đang dần chuyển sang các thiết_kế đa lõi .
+Trong tháng 3 , công_ty này đã ra_mắt các mẫu lõi kép 185 , 285 và 885 , hướng đến thị_trường máy_chủ và máy_trạm .
+
+T.N. ( theo InfoWorld )

@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E3133/
+title=Điện thoại nhận dạng dáng đi  
+cat=VI-TINH|SAN-PHAM-MOI
+
+Điện_thoại nhận_dạng dáng_đi  
+Các nhà_khoa_học Phần_Lan vừa phát_minh một công_nghệ mới , theo_dõi chuyển_động của chủ_sở_hữu thiết_bị , khiến kẻ_trộm khó có_thể ăn_cắp điện_thoại di_động hay máy_tính xách_tay .
+
+Thiết_bị di_động sẽ được lắp_đặt bộ_phận cảm_ứng " gaitcode " ( mã dáng_đi ) , ghi_nhớ mọi cử_động 3 chiều của chủ_nhân khi họ lần_đầu_tiên dùng_máy , lặp_lại quá_trình để kiểm_tra và sau_đó lưu vào bộ_nhớ .
+Nếu dáng_đi thay_đổi và thiết_bị không_thể nhận_ra , nó sẽ hỏi mật_khẩu và tự_động khóa máy nếu nhập password không đúng.
+" So với mật_khẩu thông_thường và những biện_pháp nhận_dạng sinh trắc học truyền_thống , phương_pháp mới đơn_giản hơn bởi nó vận_hành tự_động mà_không cần sự_can_thiệp của người_dùng .
+Độ_tin_cậy qua các cuộc thử_nghiệm là 90 % " , Trung_tâm nghiên_cứu kỹ_thuật Phần Lan VTT , đơn_vị phát_triển kỹ_thuật trên , cho_biết .
+Công_nghệ đã được VTT đăng_ký bản_quyền sáng_chế nhưng chưa rõ ngày phát_hành .
+
+Ngoài_ra , gaitcode cũng kết_nối với hệ_thống nhận_dạng giọng_nói và sẽ được tích_hợp trong thẻ thông_minh , vali , vũ_khí và ổ USB .
+
+Công_nghệ này sẽ phần_nào giải_quyết tình_trạng hàng triệu thiết_bị di_động bị thất_lạc hoặc mất_cắp hiện_nay .
+Theo thống_kê mới_đây , trung_bình mỗi năm ở Anh có tới 300.000 điện_thoại di_động bị ăn_trộm và khoảng 100.000 tại Đức và Thụy_Điển .
+
+P.T. ( theo Reuters )

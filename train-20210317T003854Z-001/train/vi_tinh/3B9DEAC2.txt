@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/05/3B9DEAC2/
+title=Yahoo sẽ có giao diện tiếng Việt 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Yahoo sẽ có giao_diện tiếng_Việt
+Trong tháng 6 tới , Yahoo Mail sẽ nâng_cấp thêm 6 ngôn_ngữ mới , và có thêm 7 trang Yahoo được bản_địa_hóa gồm Ba_Lan , Thổ Nhĩ_Kỳ , Thái_Lan , Malaysia , Philippines , Indonesia và Việt_Nam .
+
+Đây là thông_báo chính_thức của Yahoo ngày 24/5 vừa_qua nhân_dịp giới_thiệu tính_năng của hãng .
+Nhà_cung_cấp dịch_vụ trực_tuyến khổng_lồ này cũng vừa tiết_lộ thêm rằng những file tài_liệu không_phải ảnh như văn_bản Word vẫn có_thể gửi trực_tiếp từ giao_diện của PhotoMail .
+Tuy_nhiên , những tệp này không_được lưu trên server của Yahoo , mà sẽ đính_kèm vào mail như một kiểu attach thông_thường .
+
+Bên_cạnh_đó , người_dùng ở Mỹ có_thể xem các tiêu_đề tin_tức ( headline ) từ dịch_vụ Yahoo News trực_tiếp qua trang_chủ của Yahoo Mail .
+
+Đây cũng là lần_đầu_tiên người_dùng sẽ được cung_cấp công_nghệ xác_thực DomainKeys của Yahoo , thông_báo cho họ biết liệu thông_điệp nhận_được có thực_sự bắt_nguồn tại trường người_gửi không ( sender file ) , nhờ_đó bảo_vệ người_dùng khỏi thư rác và lừa_đảo trực_tuyến .
+
+Phương_Thúy

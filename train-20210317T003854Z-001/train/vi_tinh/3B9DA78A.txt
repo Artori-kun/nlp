@@ -1,0 +1,14 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA78A/
+title=Chip nhớ tích hợp có dung lượng lớn nhất 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip nhớ tích_hợp có dung_lượng lớn nhất
+Được tạo_nên từ 8 thành_phần , bộ_nhớ đa_chip ( MCP - Multi Chip ) của Samsung , có tổng dung_lượng lên_đến 3,2 Gb trong kích_thước vẻn_vẹn 11 x 14 x 1,4 mm , hứa_hẹn tạo_ra bước đột_phá vào thế_giới điện_thoại và thiết_bị di_động thông_minh .
+
+8 chip thành_phần bao_gồm 2 chip NAND flash 1Gb , 2 chip DRAM 256 Mb , 2 chip NOR flash 254 Mb , 1 chip UtRAM 128 Mb và 1 chip UtRAM 64 Mb .
+Tất_cả được ghép lại để tạo_thành một chip nhớ lớn nhất từ trước đến_nay .
+
+Với không_gian lớn như_vậy , đây sẽ là một giải_pháp bộ_nhớ quan_trọng dành cho điện_thoại và thiết_bị di_động thông_minh .
+Các tính_năng như nghe_nhạc , xem phim , chơi game và lướt web trên thiết_bị sử_dụng loại chip này sẽ trở_nên dễ_dàng , nhanh_chóng và có chất_lượng cao hơn .
+
+Văn_Thắng ( theo AFP )

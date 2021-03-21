@@ -1,0 +1,14 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D75A9/
+title=Quản lý mật khẩu bằng Password Safe 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Quản_lý mật_khẩu bằng Password Safe Mật_khẩu là vấn_đề đau_đầu với không ít_người : tên người_thân rất dễ_lộ nhưng lại dễ nhớ hơn nhiều so với những password mạnh như A6jX3tZ74w .
+Để thay_đổi điều_đó , hãy sử_dụng phần_mềm miễn_phí Password Safe lưu toàn_bộ mật_khẩu của bạn trong cơ_sở_dữ_liệu được mã_hóa .
+
+Password Safe giúp lưu_trữ một_cách an_toàn tất_cả các tên người_dùng và mật_khẩu của bạn vào một chỗ để bạn có_thể sao_chép và dán những mật_khẩu phức_tạp vào màn_hình đăng nhập của website hoặc hệ_thống .
+Mật_khẩu duy_nhất bạn cần nhớ là password cho_phép bạn truy_cập vào cơ_sở_dữ_liệu của Password Safe .
+Quan_trọng nhất_là , với công_cụ này bạn có_thể sử_dụng những mật_khẩu mạnh : dài , phức_tạp , không trùng lặp và hầu_như không_thể phá cho tất_cả các đăng_nhập .
+
+Chương_trình có dung_lượng 250 KB , có_thể tải .
+
+T.N .

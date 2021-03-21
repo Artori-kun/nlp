@@ -1,0 +1,27 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E22BE/
+title=Pin nhiên liệu cho phép máy MP3 chạy liền hơn 2 ngày 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Pin nhiên_liệu cho_phép máy MP3 chạy liền hơn 2 ngày
+Hai mẫu máy_nghe nhạc số ( một dùng ổ cứng và một dùng bộ_nhớ flash ) mà hãng Toshiba công_bố hôm_nay được tích_hợp pin nhiên_liệu bên_trong thay_vì gắn_ngoài , cho_phép thiết_bị chạy liên_tục tới 60 tiếng không cần xạc .
+
+Sản_phẩm pin methanol ( DMFC ) có_thể nạp lại này của Toshiba , dự_kiến sẽ được bán_ra trên thị_trường sớm nhất là vào năm 2007 , bao_gồm 2 bộ_phận được xây_dựng dựa_trên hệ_thống không_cần bơm mà Toshiba giới_thiệu tháng 6/2004 .
+
+Pin có 2 phiên_bản : loại to bằng phong kẹo cao_su , công_suất 100mW ( cho máy dùng thẻ flash đủ_dùng nghe nhạc trong 35 tiếng ) và loại to bằng quân_bài , công_suất 300mW ( cho máy dùng ổ cứng đủ nghe_nhạc trong 60 tiếng ) .
+
+Khoang pin của Toshiba chứa_chất methanol với độ đậm_đặc 99,5 % sau_đó pha_loãng ra tỷ_lệ 10 % để dùng vào việc tạo_phản_ứng phát_điện .
+Khoang phản_ứng bao_gồm 2 vùng được phân_tách bằng màng_nhầy , một chứa methanol và một chứa không_khí .
+Cả 2 vùng này đều có một điện_cực .
+Chất methanol phản_ứng với nước trong một khu_hòa chế để tạo_ra các ion hydrogen và electron .
+Những thành_phần này sau_đó đi_qua màng_nhầy để tương_tác với khí oxy và tạo_ra nước - chất sẽ được dùng để pha_loãng methanol .
+Bên_cạnh năng_lượng điện , thành_phần phái_sinh của quá_trình phản_ứng nói trên là carbon dioxide .
+
+Pin nhiên_liệu nói_chung thường sử_dụng chất cồn hoặc hydrogen và có_thể cung_cấp năng_lượng cao gấp 5-10 lần so với pin lithium ion .
+Nhiều hãng công_nghệ lớn đang nghiên_cứu phát_triển những sản_phẩm này nhằm tăng_cường thời_lượng pin cho các thiết_bị di_động như máy_tính xách_tay , điện_thoại di_động và máy_nghe nhạc MP3 .
+
+IBM và Sanyo đã phát_triển được mẫu thử_nghiệm hệ_thống pin nhiên_liệu dùng methanol dành cho máy_tính xách tay ThinkPad .
+Sản_phẩm này có_thể xạc năng_lượng bằng một chân đế đi_kèm để làm nguồn năng_lượng dự_trữ .
+Hãng sản_xuất thiết_bị cấp điện nổi_tiếng UltraCell cũng phát_triển thành_công một dạng pin nhiên_liệu mới mà họ tuyên_bố là có mật_độ lưu điện gấp_đôi pin lithium .
+Công_ty Medis thì chế_tạo loại pin nhiên_liệu dùng 1 lần gọi_là Power Pack , giúp tăng_thêm 20 tiếng sử_dụng cho điện thoai di_động , máy_ảnh_số , PDA và máy_nghe nhạc MP3 .
+
+Phan_Khương ( theo The Register , ZDNet )

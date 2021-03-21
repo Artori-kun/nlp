@@ -1,0 +1,15 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/04/3B9BB27A/
+title=Tạo khoảng trống cho folder Temp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Tạo khoảng_trống cho folder Temp
+Temp folder có_thể là phương_thuốc hiệu_nghiệm nếu hệ_thống máy_tính của bạn bị treo khi bạn chưa kịp save văn_bản .
+CleanIt sẽ giúp bạn dọn_dẹp folder này .
+
+CleanIt sẽ tự chạy khi bạn khởi_động máy_tính và nó sẽ xóa các file cũng_như folder từ thư_mục Temp của bạn .
+Tất_nhiên bạn có_thể tự mình thực_hiện thao_tác này , nhưng CleanIt thật thuận_tiện giúp bạn khỏi phải nhúng_tay vào .
+
+Chương_trình có kích_cỡ 1.245 KB , tương_thích với Windows 9.x .
+Bạn có_thể download .
+
+Thanh_Tú

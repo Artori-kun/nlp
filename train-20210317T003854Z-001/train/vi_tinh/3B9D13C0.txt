@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/04/3B9D13C0/
+title=Sharp xuất xưởng PDA dùng Linux 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sharp xuất_xưởng PDA dùng Linux
+Sản_phẩm được coi là có_thể thay_thế máy_tính xách tay sử_dụng hệ_điều_hành Linux vừa được hãng điện_tử Nhật_Bản tung_ra thị_trường .
+Zaurus SL - 6000 có giá_bán 699 USD và nhắm vào khách_hàng là doanh_nghiệp .
+
+Deanna Davis , phát_ngôn_viên của Sharp , cho_biết : " Sản_phẩm được thiết_kế để có_thể trở_thành một phần không_thể thiếu đối_với bất_cứ doanh_nhân nào " .
+SL - 6000 dùng chip XScale 400 MHz của Intel , SDRAM 64 MB và bộ_nhớ flash 64 MB cùng pin lithium có_thể xạc_lại .
+Model được trang_bị màn_hình VGA 4 inch với độ_phân_giải 640x480 , gấp 4 lần so với màn_hình PDA thông_thường .
+Đồng_thời , loa và microphone tích_hợp trong thiết_bị này cho_phép người_dùng có_thể ghi và nghe_lại các cuộc đàm_thoại .
+
+SL - 6000 cũng hỗ_trợ mạng Wi - Fi 802.11b và có các khe cắm CompactFlash và Secure Digital / MultiMediaCard .
+Thiết_bị còn có một bàn_phím tiếng Anh tiêu_chuẩn được bảo_vệ bằng bảng điều_khiển trượt .
+M
+Sản_phẩm hỗ_trợ cả Java và ứng_dụng máy chủ WebSphere của IBM .
+Hai hãng này đang hợp_tác để bán SL - 6000 thông_qua các kênh bán_hàng riêng của mỗi_bên .
+
+Thanh_Tú ( theo PCW )

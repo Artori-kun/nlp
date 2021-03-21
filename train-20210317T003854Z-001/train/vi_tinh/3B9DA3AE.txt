@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA3AE/
+title=Ứng dụng hình ảnh thế hệ mới cho ĐTDĐ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ứng_dụng hình_ảnh thế_hệ mới cho ĐTDĐ
+Các chuyên_gia ở chi_nhánh của hãng Xerox tại Pháp vừa công_bố 2 phần_mềm xử_lý hình_ảnh có khả_năng biến điện_thoại thành một máy quét văn_bản cơ_động và tổ_chức các bức_ảnh theo nội_dung .
+
+Phần_mềm quét văn_bản dành cho mobile phone của Xerox cho_phép điện_thoại camera khắc_phục tình_trạng ánh_sáng yếu , hình_ảnh bị méo_mó và một số vấn_đề thường xảy_ra khi xử_lý ảnh chụp bằng điện_thoại .
+Điện_thoại di_động là môi_trường đầy tiềm_năng cho các công_nghệ hình_ảnh thế_hệ mới , Christopher Dance , chuyên_gia chủ_chốt tại Trung_tâm nghiên_cứu Xerox tại châu_Âu , phát_biểu .
+Tuy_nhiên , chúng_tôi sẽ phải đợi cho tới khi kỹ_thuật sản_xuất điện_thoại di_động bắt_kịp để máy_ảnh tích_hợp bên_trong chúng có độ_phân_giải cao hơn .
+
+Ứng_dụng quét nói trên lưu hình_ảnh độ nén cao theo định dạng fax Group 4 và có_thể truyền qua kết_nối không dây Bluetooth tới những thiết_bị khác .
+IPValue Management , bộ_phận cấp_phép sử_dụng của Xerox , đang lăng - xê phần_mềm này tới các hãng sản_xuất điện_thoại .
+
+Loại phần_mềm thứ 2 mà Xerox đang phát_triển , được hỗ_trợ bằng cơ_sở_dữ_liệu , có_thể xắp xếp một_cách thông_minh các bức_ảnh theo nội_dung .
+Ví_dụ , ảnh mang hình ôtô có_thể được tự_động xép nhóm lại với_nhau .
+Công_nghệ này mới chỉ ở giai_đoạn phát_triển ban_đầu nhưng các nhà nghiên_cứu dự_báo nhu_cầu xắp xếp ảnh trong mạng Intranet ở doanh_nghiệp là rất đáng_kể .
+Kỹ_thuật này còn có_thể tăng_cường chất_lượng ảnh từ các kết_quả tìm_kiếm ở dịch_vụ search trên Internet .
+Hai ứng_dụng thương_mại sẽ được Xerox tung_ra thị_trường trong năm_nay .
+
+P.K. ( theo PCMag )

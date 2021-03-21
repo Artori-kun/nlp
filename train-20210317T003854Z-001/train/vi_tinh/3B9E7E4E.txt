@@ -1,0 +1,13 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E7E4E/
+title=Đầu in OLED đầu tiên trên thế giới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Đầu in OLED đầu_tiên trên thế_giới
+Công_ty Epson vừa phát_triển thành_công đầu in sử_dụng công_nghệ đi - ốt phát_sáng hữu_cơ ( OLED ) nhằm mang đến chất_lượng in ấn cao hơn_hẳn hệ_thống laser hiện_nay .
+
+Epson từ lâu đã tập_trung nghiên_cứu các tính_năng của OLED và phối_hợp với Sumitomo Chemicals để sản_xuất đầu OLED " siêu_sáng " , cho_phép in_dữ_liệu với độ_phân_giải cao và tốc_độ phản_ứng nhanh .
+
+Theo Epson , thành_công này sẽ giúp OLED không_chỉ xuất_hiện trong màn_hình mà còn mở_rộng sang cả công_nghệ in và nhiều lĩnh_vực khác .
+
+Trong thời_gian tới , OLED sẽ được kết_hợp với công_nghệ TFT polysilicon nhiệt_độ thấp của Epson để tăng khả_năng in ấn và giảm chi_phí sản_xuất cũng_như hoạt động.
+( theo EE Times )

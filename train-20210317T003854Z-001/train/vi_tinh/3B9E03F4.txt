@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9E03F4/
+title=Phần mềm tấn công website phát tán spam 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm tấn_công website phát_tán spam
+Một hãng bảo_mật tại Mỹ đã tuyên_chiến với bằng hệ_thống đăng_ký " Do- Not - Intrude " ( Cấm xâm_phạm ) , nhằm mục_đích khiến những kẻ chuyên phát_tán thư rác khó_lòng hoạt_động trơn_tru .
+
+" Nếu ai_đó spam hộp_thư của bạn , bạn có_quyền phàn_nàn về việc đó " , Eran Reshef , Giám_đốc điều_hành công_ty hãng bảo_mật Blue Security tại California ( Mỹ ) , giải_thích .
+" Nếu họ gửi một thư_rác , bạn sẽ đáp trả_lại một_lần .
+Nếu họ gửi 1.000 spam , bạn cũng sẽ phàn_nàn đến họ 1.000 lần " .
+
+Người_dùng có_thể tải miễn_phí chương_trình máy_khách và đăng nhập qua hệ_thống Do- Not - Intrude .
+Sau_khi cài_đặt phần_mềm , khách_hàng có_thể đăng_ký 3 địa_chỉ_e - mail để đối_phó với spam .
+Blue Security sẽ phân_tích thông_điệp nhận_được từ tài_khoản người_dùng , sau_đó lần_theo kết_nối hoặc file đính_kèm bên_trong thư để dò ra site gốc , nơi tiếp_thị cho một sản_phẩm hay dịch_vụ nào_đó .
+Tuy_vậy , hãng sẽ chấp_nhận những mẫu quảng_cáo có kèm hệ_thống " Remove from e - mail list " , nghĩa_là người_dùng có_thể xóa địa_chỉ của mình trong danh_sách spam của dịch_vụ nhất_định .
+
+Nếu không , một thông_điệp sẽ tự_động chuyển đến trang web đó với nội_dung : " I kindly ask that you cease sending me or other registered users spam " ( Tôi rất cảm_ơn nếu quý công_ty ngừng_việc gửi_thư rác đến địa_chỉ_e - mail của tôi cũng_như của người_khác ) .
+
+Reshef cho_biết ý_tưởng này là để trừng_phạt thích_đáng hành_động của những kẻ spam .
+Phương_thức " ăn miếng trả_miếng " sẽ làm_ngập_lụt , thậm_chí có_thể phá_sập trang web quảng_cáo .
+
+Hành_động của Blue Security không trái pháp_luật , vì người_sử_dụng có_quyền phản_ánh về những dịch_vụ không mong_muốn .
+Nhưng kết_quả mang lại có_vẻ khá gần với kiểu tấn_công từ_chối dịch_vụ , trong_đó hàng_loạt máy_tính cùng đồng_thời truy_cập vào một web server với mục_đích làm quá_tải để kéo sập website .
+
+Trọng_Nghĩa ( theo TechWeb )

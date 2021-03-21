@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/07/3B9DFE73/
+title=Nối các đoạn phim bằng All Video Joiner 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Nối các đoạn_phim bằng All Video Joiner
+Chương_trình nối các kiểu file AVI , MPEG , WMV hay ASF vào trong một file duy_nhất , với số_lượng file và dung_lượng không hạn_chế , sắp_xếp chúng theo ý_muốn .
+
+Một_số_phần mềm chỉ có_thể nối các file video có cùng một kiểu nhưng đặc_điểm nổi_bật của All Video Joiner khả_năng nối file có kiểu khác_nhau như AVI , MPEG , WMV hay ASF .
+
+Giao_diện dễ sử_dụng của chương_trình cho_phép bạn xem trực_tiếp file đích được tạo_ra .
+Thật tiện_lợi khi chỉ với vài cú nhấn chuột bạn có_thể thưởng_thức những đoạn_phim do chính tay mình tạo_ra .
+
+Phiên_bản mới nhất là All Video Joiner 1.6.5 .
+Bản dùng thử có dung_lượng 2.16 MB , bạn có_thể tải tại   .
+
+Mạnh_Hưng  

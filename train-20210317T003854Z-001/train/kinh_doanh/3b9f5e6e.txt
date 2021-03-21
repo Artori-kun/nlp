@@ -1,0 +1,15 @@
+url=http://www.vnexpress.net/vietnam/kinh%2Ddoanh/chung%2Dkhoan/2007/05/3b9f5e6e/
+title=VNDirect giao dịch qua mạng 
+cat=KINH%2DDOANH|CHUNG%2DKHOAN
+
+VNDirect giao_dịch qua mạng
+Từ 14/5 , Công_ty chứng_khoán VnDirect cung_cấp dịch_vụ giao_dịch trực_tuyến .
+Khách_hàng có_thể đặt lệnh mua bán chứng_khoán trên cả_hai sàn Hà_Nội , TP HCM và tra_cứu kết_quả khớp lệnh tức thì trên màn_hình .
+
+Để sử_dụng dịch_vụ Online , khách_hàng đăng_ký và được cấp một tài_khoản giao_dịch trực_tuyến và một thẻ bảo_mật VTOS để đăng nhập_vào hệ_thống .
+Ngoài đặt lệnh mua_bán , khách_hàng có_thể theo_dõi và quản_lý danh_mục đầu_tư được cập_nhật theo giá_vốn và giá_thị_trường để có_thể nắm_bắt sơ_qua hiệu_quả hoạt_động đầu_tư .
+Dịch_vụ còn cho_phép tra_cứu trực_tuyến chi_tiết trạng_thái khớp_lệnh , số_dư tài_khoản và lịch_sử giao_dịch .
+
+Để tránh quá_tải , nghẽn mạng , trong giai_đoạn_đầu , VnDirect cung_cấp dịch_vụ cho 1.000 khách_hàng .
+
+Việt_Phong

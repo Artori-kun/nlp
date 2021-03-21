@@ -1,0 +1,19 @@
+url=http://vnexpress.net/Vietnam/Vi%2Dtinh/San%2Dpham%2Dmoi/2002/07/3B9BE6C3/
+title=Bộ xử lý Pentium 4 của Intel đạt ngưỡng 3 GHz 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Bộ xử_lý Pentium 4 của Intel đạt ngưỡng 3 GHz
+Trước nỗ_lực khẳng_định_vị_trí dẫn_đầu của mình trên thị_trường bộ_vi xử_lý , tập_đoàn Intel đang chuẩn_bị ra_mắt người_dùng chip Pentium 4 chạy với tốc_độ 3 GHz trong mùa lễ cuối năm_nay .
+
+Bên_cạnh_đó , Intel sẽ giới_thiệu bộ xử_lý Pentium 4 2,8 GHz vào quý III , sớm hơn dự_tính ban_đầu là quý IV .
+Công_ty cho_biết , khi giới_thiệu các chip mới , hãng sẽ giảm_giá một_số bộ xử_lý Pentium và Celeron đang được tiêu_thụ trên thị_trường .
+
+Việc_công_bố những dòng sản_phẩm mới sắp tới cũng giúp Intel vượt xa đối_thủ lâu_năm của hãng là AMD .
+
+Trong một cuộc thử_nghiệm mới_đây do tạp_chí PCWorld của Mỹ bình_chọn , Pentium 4 đã qua_mặt sản_phẩm Athlon của AMD .
+Hệ_thống dùng chip Pentium 4 2,53 GHz sử_dụng frontside bus mới 533 GHz của Intel , với hai điểm vượt trội trong hàng_loạt thử_nghiệm , cuối_cùng đã đạt được mục_tiêu : đẩy_chip Athlon XP 2100 + 1,73 GHz của AMD ra khỏi cuộc_chơi .
+
+Tuy_nhiên , máy_tính dùng chip của Intel đắt hơn hệ_thống dùng Athlon khoảng 500 USD .
+AMD cũng không chịu để_yên , sắp tới họ sẽ tung_ra những sản_phẩm chiến_lược để lấy_lại vị_thế của mình trên thị_trường .
+
+H.H. ( theo Reuters , PCW )

@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/11/3B9CD977/
+title=HP trình làng máy tính bảng và máy bỏ túi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+HP trình_làng máy_tính bảng và máy bỏ_túi
+Hãng HP vừa giới_thiệu phiên_bản mới của loại máy_tính bảng Tablet PC TC1100 với công_nghệ không dây Intel Centrino nâng_cao sức_mạnh tính_toán di_động , cùng máy cá_nhân bỏ_túi iPAQ h4150 và h4350 có tích hợp Wi - Fi.  
+Tablet PC TC1100 , một loại máy_tính di_động linh_hoạt , đầy_đủ chức_năng với hiệu_quả hoạt_động và sức_mạnh được tăng_cường nhờ kết_hợp sức_mạnh của bộ_vi xử_lý tiết_kiệm điện_năng Intel Pentium M và các tính_năng không dây hỗ_trợ công_nghệ Centrino .
+
+Raymond Wah , Phó_chủ_tịch Bộ_phận kinh_doanh các sản_phẩm di_động thuộc Nhóm các hệ_thống cá_nhân của HP khu_vực châu_Á - Thái_Bình_Dương , phát_biểu : " Loại máy_tính bảng mới cho_phép khách_hàng doanh_nghiệp tăng năng_suất làm_việc và khả_năng di_động , nhờ kết_hợp phương_thức viết_tay và năng_lực điện toán cải_tiến trên cùng một thiết_bị linh_hoạt và hiện_đại .
+
+Với chiều dày chỉ 2 cm và trọng_lượng khoảng 1,4 kg , TC1100 có chức_năng điển_hình của một máy_tính siêu nhẹ chạy hệ_điều_hành Windows XP Professional .
+Ngoài_ra , loại máy này còn có màn_hình TFT 10,4 inch và hiển_thị đồ hoạ phân_giải cao NVIDIA GeForce4 Go 420 , các cổng kết_nối hồng_ngoại , Bluetooth tốc_độ cao và chuẩn không dây 802.11b , ổ cứng SMART 5.400 rpm có dung_lượng lên tới 60 GB , khe cắm kỹ_thuật_số và kết_nối USB 2.0 .
+Ngoài_ra , HP cũng giới_thiệu loại máy_tính cá_nhân bỏ_túi mỏng và nhẹ nhất trên thị_trường   mang   tên iPAQ Pocket PC h4150 , có khả_năng kết_nối mạng LAN không dây và công_nghệ Bluetooth ; máy iPAQ h4350 được trang_bị bàn_phím tích_hợp có đèn_chiếu sau và các chức_năng không dây tích_hợp .
+
+Cả hai loại máy được thiết_kế với RAM 64 MB ( 56 MB của bộ_nhớ chính ) và bộ xử_lý Intel X - Scale PXA255 400 MHz cho các ứng_dụng đa phương_tiện .
+
+Thanh_Tú ( theo PR )

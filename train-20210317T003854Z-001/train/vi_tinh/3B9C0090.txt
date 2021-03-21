@@ -1,0 +1,16 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9C0090/
+title=Chụp màn hình bằng Easy Screen Capture 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chụp màn_hình bằng Easy Screen Capture
+Phần_mềm mới này ( phiên_bản 1.22 ) giúp bạn chụp toàn_bộ hoặc một phần màn_hình và cửa_sổ hiện_hành với chất_lượng rất cao .
+Nó cũng cho_phép bạn hiệu_chỉnh ảnh và lưu dưới nhiều định dạng khác_nhau - BMP , PNG , GIF , JPG ...
+Chương_trình còn có chức_năng chụp cảnh game chạy trên DirectX , đưa ảnh chụp vào clipboard và ghi_lại những thao_tác đã thực_hiện .
+
+Easy Screen Capture ( dung_lượng 819 KB ) yêu_cầu cấu_hình tối_thiểu : hệ_điều_hành Windows , 32 MB RAM , 2 MB trống trên đĩa_cứng và trình_duyệt IE 4.x .
+Bạn có_thể dùng miễn_phí 25 ngày bằng cách_tải   .
+
+Một chương_trình với tính_năng tương_tự nhưng hoàn_toàn miễn_phí là Copyit 2.8 ( dung_lượng 544 KB ) .
+Nó cho_phép bạn lưu ảnh chụp dưới dạng BMP , ICO , JPG , WMF , EMF hoặc PNG và chèn ngày giờ vào file khi in.   Bạn kích để download .
+
+Minh_Long

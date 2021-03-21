@@ -6,8 +6,6 @@ import sklearn_crfsuite
 import os
 import pickle
 import string
-__author__ = "Cao Bot"
-__copyright__ = "Copyright 2018, DeepAI-Solutions"
 
 
 def load_crf_config(file_path):

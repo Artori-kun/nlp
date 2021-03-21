@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/05/3B9E9EF7/
+title=Camera kỹ thuật số có thể chụp 30 ảnh mỗi giây 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Camera kỹ_thuật số có_thể chụp 30 ảnh mỗi_giây
+Hãng sản_xuất Micron tại Idaho ( Mỹ ) vừa phát_triển một chip cảm biến_hình ảnh dành cho camera kỹ_thuật_số , hỗ_trợ người sử_dụng chụp 10 ảnh 8 megapixel hoặc 30 ảnh 2 megapixel chỉ trong một giây .
+
+Chip của Micron còn có khả_năng quay video theo định dạng 720p ( 1280 x 720 pixel ) .
+Hiện_nay , đa_số các camera chụp được 2 - 4 ảnh / giây với độ_phân_giải cực_đại hoặc 10 ảnh ở mức phân_giải thấp hơn .
+Chúng cũng thường có_thể ghi_hình 480 x 640 pixel .
+
+Theo Suresh Venkatrama , Giám_đốc bộ_phận ảnh số của Micron , chip mới sẽ được tích_hợp trong dòng thiết_bị 200 - 300 USD , tức ngay_cả người sử_dụng bình_thường cũng có cơ_hội tận_hưởng những tính_năng ưu_việt của nó .
+
+Cách_đây khoảng hai năm , các nhà sản_xuất camera thường tự thiết_kế chip cho sản_phẩm của họ .
+Nhưng chi_phí đầu_tư cao và thời_gian phát_triển quá lâu đã thôi_thúc họ để_mắt đến những công_ty chuyên về chip ảnh như Texas Instruments , NuCore và Micron .
+
+Micron dự_định bắt_đầu giới_thiệu mẫu 8 megapixel tới khách_hàng trong mùa thu tới và sẽ sản_xuất đại_trà vào nửa_đầu 2007 .
+Thông_thường , các nhà sản_xuất camera cũng sẽ cần thêm 3 - 9 tháng nữa để tích_hợp chip vào trong sản_phẩm của họ .
+
+T.N. ( theo CNet )

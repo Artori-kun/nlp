@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D727B/
+title='Lính gác' thư mục Lock Folder XP 
+cat=VI-TINH|SAN-PHAM-MOI
+
+' Lính_gác ' thư_mục Lock Folder XP
+Khi sử_dụng máy_tính , chắc_chắn ai cũng có những tập_tin hay thư_mục cần giữ bí_mật .
+Đặt password cho máy_tính là cách bảo_vệ tương_đối tốt nhưng bất_tiện và độ_an_toàn không cao .
+Lock Folder XP cung_cấp giải_pháp hợp_lý và tiện_dụng hơn rất nhiều .
+
+Lock Folder XP là một công_cụ bảo_mật cho_phép bạn_khoá ( che_giấu ) các tập_tin , thư_mục hoặc ổ_đĩa với mật_khẩu cá_nhân .
+Việc khoá các thư_mục , tập_tin hay ổ_đĩa cũng bảo_vệ bạn một_cách hiệu_quả trước sự_tấn_công của virus , sâu máy_tính hay các loại trojan .
+Đây là cách tốt nhất để đảm_bảo rằng không có một ai , dù tình_cờ hay cố_ý , có_thể tiếp_cận được các thông_tin về tài_chính , sức_khoẻ , thông_tin riêng_tư hay thông_tin_mật của bạn .
+
+Sau khi thực_hiện khoá , các tập_tin , thư_mục hay ổ_đĩa của bạn sẽ tàng_hình , không_ai có_thể thấy chúng và tác_động , xoá hay thay_đổi nội_dung thông_tin .
+Đặc_biệt Lock Folder XP còn hữu_ích cho người_dùng máy_tính xách tay và phải di_chuyển thường_xuyên : nếu máy_tính của bạn bị mất hoặc bị đánh_cắp , sẽ không một ai có_thể biết_được những thông_tin tài_chính , tín_dụng hoặc mã_số tài_khoản của bạn .
+Chương_trình thậm_chí còn tiếp_tục bảo_vệ hệ_thống của bạn trong trường_hợp nó đã bị xoá_bỏ .
+
+Chương_trình có dung_lượng 1,2 MB và thời_hạn dùng thử 30 ngày , có_thể tải .
+
+T.N .

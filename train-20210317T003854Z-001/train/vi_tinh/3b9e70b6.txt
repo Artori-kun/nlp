@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2006/02/3b9e70b6/
+title=Máy tính lượng tử xử lý kết quả cả khi không chạy 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Máy_tính lượng_tử xử_lý kết_quả cả khi không chạy
+Ý_tưởng về máy_tính lượng_tử có_thể cung_cấp câu trả_lời cho một thuật_toán mà_không cần mở chương_trình nghe có_vẻ " hoang_tưởng " .
+Tuy_nhiên , phát_hiện được công_bố gần_đây cho_thấy chúng sẽ vượt xa khả_năng của những siêu máy_tính hiện_đại nhất hiện_nay .
+
+Năm 1998 , một số_nhà khoa_học đưa_ra lý_thuyết rằng đôi_khi có_thể tìm thấy kết_quả mà_không cần thực_sự hoạt_động .
+Tuần_này , các chuyên_gia nghiên_cứu tại Đại_học Illinois ( UIUC ) tuyên_bố đã xây_dựng thành_công một hệ_thống máy_tính như_thế .
+
+Họ truyền photon ánh_sáng qua một hệ_thống gương và những thiết_bị quang_học khác , cùng một chương_trình đơn_giản , tìm_kiếm cơ_sở_dữ_liệu bằng cách thay_đổi đặc_tính của photon .
+
+Thiết_kế mới được phát_triển dựa_trên một thủ_thuật mang tên hiệu_ứng Zeno .
+Quá_trình lặp đi lặp_lại sẽ ngăn photon thâm_nhập_vào chương_trình thực_sự nhưng lại cho_phép lượng_tử tiếp_xúc với các thành_tố của chương_trình .
+
+" Viễn_cảnh về chiếc máy_tính không chạy nhưng bạn vẫn có_thể biết câu_trả_lời nghe kỳ_quặc nhưng rất thú_vị " , Onur Hosten , thành_viên nhóm phát_triển , nói .
+" Hơn_nữa , một máy_tính như_thế sẽ gây_ra ít lỗi hơn " .
+
+T.N. ( theo Newscientist )

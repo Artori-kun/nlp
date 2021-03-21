@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/03/3B9C658C/
+title=Phần mềm tích hợp thông tin DB2 của IBM 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phần_mềm tích_hợp thông_tin DB2 của IBM
+Hôm_qua , IBM công_bố phần_mềm mới nhằm hỗ_trợ khách_hàng truy_cập , tích_hợp và phân_tích thông_tin trong và ngoài doanh_nghiệp .
+Sản_phẩm sẽ giúp công_ty và tổ_chức giảm thời_gian xây_dựng các ứng_dụng thế_hệ mới , đáp_ứng nhu_cầu khách_hàng nhanh_chóng và hiệu_quả .
+
+Phần_mềm mới hỗ_trợ những phát_kiến " kinh_doanh điện_tử theo nhu_cầu " của IBM , cho_phép các tổ_chức phát_triển từ cơ_sở hạ_tầng công_nghệ hiện_tại , giảm chi_phí cũng_như thời_gian liên_quan tới việc tích_hợp những môi_trường dữ_liệu khác_nhau .
+
+Theo giới phân_tích , hằng năm các công_ty sử_dụng tới 40 % ngân_sách công_nghệ thông_tin vào việc tích_hợp .
+Phần_mềm DB2 giúp tăng năng_suất lao_động , cung_cấp khả_năng truy_cập và hỗ_trợ thông_tin kịp_thời trên tất_cả nền_tảng bao_gồm Linux , Unix và Windows cũng_như môi_trường mainframe .
+
+Sản_phẩm mới thích_hợp cho các ứng_dụng như quản_lý quan_hệ khách_hàng ( CRM ) .
+Nó cũng_được tích_hợp chặt_chẽ với phần_mềm IBM WebSphere Business Integration , cung_cấp cho khách_hàng cơ_sở hạ_tầng kinh_doanh toàn_diện trong ngành công_nghệ .
+
+Thanh_Tú ( theo IBM )

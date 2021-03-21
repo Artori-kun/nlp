@@ -1,0 +1,28 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA613/
+title=Turion: Vũ khí chống lại Centrino 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Turion : Vũ_khí chống_lại Centrino
+Dòng sản_phẩm vi xử_lý tiết_kiệm năng_lượng dùng_cho máy_tính xách tay có tên_gọi Turion , sẽ ra_mắt trong thời_gian tới , được xem là câu trả_của AMD trước những thách_thức từ bộ chip di_động Centrino do đối_thủ Intel sản_xuất .
+
+Mặc_dù không công_bố chi_tiết bất_kỳ đặc_điểm kỹ_thuật nhưng AMD cho_biết Turion sẽ phù_hợp với các loại notebook mỏng và nhẹ , có thời_gian sử_dụng pin lâu nhờ khả_năng tiết_kiệm năng_lượng .
+Hiện_tại , máy_tính xách tay trang_bị bộ_vi xử_lý của AMD hầu_hết đều có hiệu_suất ngang_hàng với máy_tính desktop nhưng thường rất tốn pin và tỏa nhiệt khá mạnh .
+
+Ví_dụ , bộ_vi xử_lý di_động Athlon 64 có công_suất sinh_nhiệt từ 25 đến 64 watt .
+Ngược_lại , dòng Pentium M , đóng_vai trò trung_tâm trong công_nghệ Centrino , chỉ sinh_nhiệt với công_suất 20 watt .
+Lượng nhiệt do bộ_vi xử_lý sinh_ra là thước_đo đánh_giá sự_ảnh_hưởng của nhiệt_độ đến hiệu_suất hoạt_động của hệ_thống máy_tính .
+
+Theo đánh_giá của các chuyên_gia về công_nghệ , về cơ_bản Turion sẽ cho_phép AMD cạnh_tranh hiệu_quả hơn trên thị_trường máy xách_tay .
+Trong những năm vừa_qua , Intel đã chú_trọng nhiều hơn đến việc mở_rộng thị_trường máy xách tay hơn là máy để_bàn , một phần nhờ có công_nghệ Centrino .
+
+Sản_phẩm của chúng_tôi sẽ có_thể so_sánh với Centrino từ hiệu_suất hoạt_động cũng_như tuổi_thọ của pin , Bahr Mahony , Giám_đốc maketing sản_phẩm di_động của AMD , cho_biết .
+
+Notebook sử_dụng bộ_vi xử_lý mới này cũng sẽ ra_mắt cùng thời_gian với chip Turion .
+AMD cũng cho_biết sẽ vẫn tiếp_tục sản_xuất dòng chip Athlon 64 .
+
+Khác với nhiều tên chip khác như Celeron của Intel hay Sempron của AMD , Turion không bắt_nguồn từ tiếng Latinh .
+Turion có_nghĩa là vegetative dormant organs produced by perennial aquatic plants ( nguồn sinh_dưỡng vô_hạn được sản_sinh từ thực_vật quanh_năm sống dưới_nước ) .
+
+Trong vài tuần_tới , Intel cũng sẽ giới_thiệu loại chip mới dành cho máy xách_tay , có tên_gọi là Sonoma để đáp_lại động_thái của AMD .
+
+Văn_Thắng ( theo VNUNet )

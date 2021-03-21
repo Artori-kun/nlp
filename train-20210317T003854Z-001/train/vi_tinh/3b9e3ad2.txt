@@ -1,0 +1,27 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/11/3b9e3ad2/
+title=Microsoft sẽ phát hành Windows trực tuyến 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Microsoft sẽ phát_hành Windows trực_tuyến
+Hãng phần_mềm Mỹ vừa tuyên_bố sẽ cung_cấp phiên_bản " live " cho hệ_điều_hành , Office và một số ứng_dụng phổ_biến , với hy_vọng sẽ " tháo được ngòi thuốc_nổ Google " và đối_phó hiệu_quả hơn_trước những thách_thức ngày một tăng khác .
+
+Với trang web mới mang tên , Microsoft hứa_hẹn sẽ tạo_ra một nền_tảng mới , có khả_năng gỡ_bỏ một số ứng_dụng nhất_định ra khỏi ổ cứng máy_tính .
+Sự_thay_đổi này cho_thấy tập_đoàn đã nhận_thức rõ về xu_hướng " " mà Google là một trong những hãng đi tiên_phong .
+Windows Live và Office Live cung_cấp cho khách_hàng những thiết_lập và dữ_liệu tại bất_cứ đâu , bất_cứ khi_nào họ cần .
+Mọi_người không_còn phải lo_lắng về việc cài_đặt phần_mềm mỗi khi sử_dụng một máy_tính mới , nhờ_đó khoảng_cách giữa văn_phòng và gia_đình được thu_hẹp , thiết_bị di_động cũng trở_nên mạnh_mẽ và năng_suất hơn .
+
+Office Live sẽ hướng tới 28 triệu doanh_nghiệp nhỏ trên toàn thế_giới .
+Nó bao_gồm những thành_tố hỗ_trợ cho ứng_dụng Office thông_thường , và một số tính_năng khác hoạt_động độc_lập với gói phần_mềm .
+" Với dịch_vụ Office Live , chúng_tôi biến công_nghệ phức_tạp thành một sản_phẩm đơn_giản trong sử_dụng , giúp doanh_nghiệp tiếp_cận dễ_dàng hơn , tăng_sức_mạnh cho họ nhanh_chóng đạt mục_tiêu đề_ra " , Rajesh Jha , một giám_đốc của Microsoft , nói .
+
+Bản Beta của Office Live sẽ xuất_hiện dưới dạng thư_mời vào đầu năm 2006 .
+Tập_đoàn dự_định chỉ thu phí theo tháng một_số tính_năng của Live Office , tương_tự như phương_thức hoạt_động của tập_đoàn   Salesforce.com , NetSuite và RightNow Technologies .
+
+Tuy_nhiên , Chủ_tịch Bill Gates khẳng_định Windows Live và Office Live sẽ không_thể thay_thế hoàn_toàn hệ_điều_hành và một số ứng_dụng phổ_biến như trình xử_lý văn_bản và bảng_tính .
+Chúng sẽ vẫn được bán dưới dạng đĩa và phải cài vào trong từng ổ_cứng .
+
+Windows Live sẽ hoàn_toàn miễn_phí và Microsoft dự_định thu_tiền qua dịch_vụ quảng_cáo trực_tuyến .
+Đây chính là phương_châm đã làm_nên " điều kỳ_diệu " của Google và Yahoo , mang lại cho họ tiềm_lực tài_chính và trí_tuệ lớn_mạnh , đủ để khiêu_khích hãng sản_xuất phần_mềm lớn nhất thế_giới .
+Đầu tháng_này , tập_đoàn tìm_kiếm số một cũng hợp_tác với Sun Microsystems xây_dựng phần_mềm .
+
+T.N. ( theo_AP )

@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DB771/
+title=Intel giới thiệu công nghệ vi xử lý dùng tia laser 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Intel giới_thiệu công_nghệ vi xử_lý dùng tia laser
+Hãng sản_xuất chip số 1 thế_giới vừa công_bố kết_quả một nghiên_cứu mà theo đó việc truyền_dữ_liệu trong thiết_bị xử_lý sẽ sớm đạt tốc_độ ánh_sáng .
+
+Các khoa_học gia của Intel đã khắc_phục được một vấn_đề mà trước_đó cản_trở khả_năng sử_dụng silicon để tạo và khuếch_đại ánh_sáng laser .
+Chúng_tôi đã vượt_qua được một hạn_chế cơ_bản , tiến_sỹ Mario Paniccia , Giám_đốc phòng nghiên_cứu công_nghệ lượng_tử ánh_sáng của Intel , phát_biểu .
+Theo Paniccia , các thiết_bị viễn_thông hiện_nay dùng để khuếch_đại ánh_sáng laser đi_qua dây_cáp quang rất đắt vì vật_liệu chế_tạo là gallium arsenide khan_hiếm .
+
+Paniccia cho_biết , do cấu_trúc của silicon , khi tia laser đi_qua chất_liệu này , một_số photon ánh_sáng va_chạm với_nhau sẽ làm tách các điện_tử ra khỏi nguyên_tử trong vật_chất và tạo_ra một đám_mây electron trong silicon và hấp_thu tất_cả tia_sáng .
+Các chuyên_gia của Intel đã tìm_ra cách để hút hết những eletron lang_thang này và biến silicon thành một vật_liệu có khả_năng vừa tạo vừa khuếch_đại tia_sáng .
+Laser được tạo_ra theo cách này còn có_thể được nắm_bắt trên rất nhiều tần_số .
+Các loại laser bán_dẫn trước_đây chỉ tạo được ánh_sáng với lượng tần_số rất hạn_hẹp .
+
+Thành_công của Intel sẽ cho_phép gắn kết tốt_hơn nữa cáp quang truyền_dữ_liệu dưới dạng ánh_sáng cùng với chip xử_lý .
+Tiến sỹ Paniccia cho_biết công_trình nói trên là một trong các bước cần_thiết phải đạt được nếu muốn dùng silicon để tạo_ra những linh_kiện có khả_năng chuyển_tải và xử_lý ánh_sáng dưới dạng xung nhịp dữ_liệu .
+
+Bước_tiến này sẽ tạo thuận_lợi rất nhiều cho việc liên_kết các mạng dữ_liệu với chip xử_lý thông_tin .
+Intel cho_biết những sản_phẩm khai_thác công_nghệ mới sẽ xuất_hiện vào cuối thập_kỷ này .
+Các công_ty viễn_thông và hãng sản_xuất chip thích sử_dụng silicon hơn cho những thành_phần chuyển_động với tốc_độ ánh_sáng này vì nó rẻ và khắc_phục được nhiều vấn_đề liên_quan đến việc sản_xuất số_lượng lớn .
+Trước_đây , silicon chưa được khai_thác thành_công vào việc tạo và khuếch_đại các xung nhịp ánh_sáng laser để gửi dữ_liệu qua khoảng_cách dài mặc_dù khả_năng khuếch_đại tốt_hơn của silicon so với chất thủy_tinh trong cáp quang thì đã được khẳng_định .
+
+Phan_Khương ( theo BBC )

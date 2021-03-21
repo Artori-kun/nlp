@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA8FB/
+title=SAP cung cấp công cụ phát triển Windows 
+cat=VI-TINH|SAN-PHAM-MOI
+
+SAP cung_cấp công_cụ phát_triển Windows
+Bộ phần_mềm hỗ_trợ phát_triển ứng_dụng mới của tập_đoàn Đức được thiết_kế nhằm tạo thuận_lợi cho lập_trình viên sử_dụng môi_trường Visual Studio của Microsoft khi viết các ứng_dụng tương_thích với Enterprise Portal của SAP .
+
+Bộ công_cụ có tên đầy_đủ Portal Development Kit for Microsoft .Net ( download )   là kết_quả của một thỏa_thuận chia_sẻ tác_quyền và hợp_tác phát_triển mà hai gã khổng_lồ phần_mềm ký_kết tháng 5 năm_ngoái , trong_đó cam_kết tạo_ra những công_nghệ thúc_đẩy sự_liên_thông hoạt_động giữa sản_phẩm của 2 bên .
+Chúng_tôi đã có_nhiều bước_tiến tích_cực với hiệp_định này , Giám_đốc sản_phẩm Tim_O ' Brien của Microsoft phát_biểu .
+
+Bộ công_cụ mới được SAP cung_cấp dưới dạng tiện_ích bổ_sung ( add - on ) cho các nhà phát_triển Visual Studio .
+Mục_tiêu là cho_phép họ sử_dụng công_cụ đó và ngôn_ngữ lập_trình mà họ đã biết để tăng_cường các tính_năng , chẳng_hạn như truy_cập đăng nhập một_lần vào môi_trường phần_mềm SAP / Windows .
+
+Microsoft cho_biết gần 2/3 trong_số các ứng_dụng mới của SAP được thực_hiện trên Windows .
+Quý vừa_qua , 2 hãng đã bắt_đầu cung_cấp SAP .Net Connector 2.0 , trong_đó có hỗ_trợ ngôn_ngữ lập_trình cải_tiến .
+Một_số công_nghệ khác đang được phát_triển bao_gồm liên_kết hỗ_trợ các dịch_vụ web , khái_niệm ứng_dụng khách thông_minh của Microsoft , cùng với việc liên_thông hoạt_động giữa môi_trường SAP với BizTalk , Exchange Servers và dịch_vụ SharePoint của Microsoft .
+
+P.K. ( theo InternetWeek )

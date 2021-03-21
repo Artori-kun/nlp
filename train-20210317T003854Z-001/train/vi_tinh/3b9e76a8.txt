@@ -1,0 +1,16 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2006/03/3b9e76a8/
+title=Intel trình diễn 'siêu di động' Origami tại IDF 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Intel trình_diễn ' siêu di_động ' Origami tại IDF
+Trong ngày đầu_tiên diễn_ra Diễn_đàn các nhà phát_triển IDF tại San Francisco ( Mỹ ) , hãng sản_xuất chip hàng_đầu thế_giới đã giới_thiệu hai mẫu máy_tính " Ultra Mobile " ( UMPC ) được chờ_đợi từ vài tuần_nay .
+
+Hai mẫu này mô_phỏng hệ_thống máy_tính bảng mini đầy_đủ tính_năng , tiết_kiệm điện_năng , chạy trên Windows XP và là một phần trong dự_án của Microsoft .
+
+Mẫu máy_tính di_động trên có kích_thước tương_đương một quyển_sách bìa_mềm , có màn_hình cảm_ứng 7 inch và sử_dụng thiết_bị xử_lý x86 chuẩn .
+Nó có_thể hoạt_động với nhiều hệ_điều_hành dành cho desktop ngoài phiên_bản XP đặc_biệt của Origami .
+
+Mô_hình Origami thứ_hai được trang_bị bàn_phím QWERTY có_thể xoay ra ngoài khi cần_thiết .
+Phần_cứng thiết_bị sử_dụng chip tiêu_thụ điện_năng cực thấp của Intel .
+
+P.T. ( theo CNet )

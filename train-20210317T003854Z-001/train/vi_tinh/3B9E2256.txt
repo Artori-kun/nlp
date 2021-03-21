@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/09/3B9E2256/
+title=Khôi phục tệp .zip bị lỗi 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Khôi_phục tệp .zip bị lỗi
+Zip Repair là ứng_dụng sửa và phục_hồi các file nén bị lỗi trong quá_trình tải về máy .
+Chương_trình hoạt_động dễ_dàng và không đòi_hỏi bất_cứ thao_tác chuyên_môn nào .
+
+Công_cụ có giao_diện người_dùng tương_đối đơn_giản , hỗ_trợ cài / gỡ đầy_đủ .
+Zip Repair cũng có_thể sửa lỗi CRC và cho_phép extract file ngay_cả khi tệp nén mất khá nhiều dữ_liệu .
+Chương_trình hỗ_trợ định dạng Zip64 và những file lớn trên 2 GB , miễn_là ổ lưu trong máy bạn có đủ dung_lượng trống .
+
+Sau_khi cài và khởi_động chương_trình , nhấn nút Add Zip File để chọn những tệp .zip cần khôi_phục , tiếp đó bấm Repair và chọn nơi lưu file .
+Tuy_nhiên , cần_đóng chương_trình này lại mới có_thể mở được tệp đã khôi_phục .
+
+Có_thể tải bản miễn_phí hoặc mua Zip Repair , dung_lượng 1,54 MB , với giá 19,95 USD .
+
+P.T .

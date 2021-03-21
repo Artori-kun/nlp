@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/11/3B9D8574/
+title=Novell phát hành hệ điều hành mã mở cho doanh nghiệp 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Novell phát_hành hệ_điều_hành mã mở cho doanh_nghiệp
+Trong tuần_này , hệ_điều_hành Linux Desktop 9 của Novell sẽ bắt_đầu được chào_bán tới các công_ty thông_qua các hãng phân_phối .
+Để thu_hút khách_hàng , hãng phần_mềm mạng tích_hợp nhiều phần_mềm chuyên_biệt cho môi_trường doanh_nghiệp trong gói sản_phẩm .
+
+Linux Desktop 9 dựa_trên mã nguồn của SuSE Linux Enterprise Server 9 , hệ_điều_hành máy chủ được rất nhiều công_ty sử_dụng .
+Với giá cài đặt cho mỗi máy_tính là 50 USD , bao_gồm cả dịch_vụ nâng_cấp và cập_nhật trong 1 năm , hệ_điều_hành này đi_kèm một_số chương_trình do Novell phát_triển như ứng_dụng văn_phòng mã mở OpenOffice tương_thích với các tập_tin Office của Microsoft ; phần_mềm Evolution kết_hợp e - mail , lịch_làm_việc , cơ_sở_dữ_liệu khách_hàng và danh_sách công_tác vào trong cùng một ứng_dụng ; phần_mềm ZENworks Linux Management cho_phép quản_trị dễ_dàng triển_khai , cấu_hình và quản_lý máy_tính Linux từ_vị_trí trung_tâm .
+Ngoài_ra , gói sản_phẩm còn bao_gồm trình_duyệt Firefox của Mozilla Foundation .
+
+Sản_phẩm mới của Novell được các nhà sản_xuất bộ_vi xử_lý hàng_đầu thế_giới Advanced Micro Devices , IBM và Intel hỗ_trợ .
+Hãng cho_biết , Linux Desktop 9 không_phải là sự_thay_thế hàng_loạt cho các hệ_thống chạy trên nền Windows mà chỉ_là một lựa_chọn mã mở hợp_lý , tiết_kiệm thích_hợp với những thời_điểm và mục_đích sử_dụng cụ_thể .
+
+T.N. ( theo PC World )

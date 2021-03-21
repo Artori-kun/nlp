@@ -1,0 +1,23 @@
+url=http://vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/07/3b9e07ae/
+title=Microsoft ra mắt bản thử nghiệm 'Virtual Earth' 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Microsoft ra_mắt bản_thử_nghiệm ' Virtual Earth '
+Phiên_bản Beta miễn_phí cho công_cụ tìm_kiếm   cung_cấp tổng_hợp hình_ảnh , bản_đồ vệ_tinh và những dữ_liệu trong danh_mục các trang vàng để tìm và chia_sẻ thông_tin về các vùng trên nước Mỹ .
+
+Người sử_dụng có_thể nhập địa_chỉ để quan_sát bản_đồ và một bức_ảnh chụp từ vệ_tinh .
+Trường tìm_kiếm đặt ở phía trên bên_trái trang web cho_phép người_dùng thu_nhận thông_tin về doanh_nghiệp hiển_thị trên một bảng có_thể thu_gọn lại được .
+
+Virtual Earth mua bản_quyền thông_tin từ những chỉ_dẫn trong danh_mục các trang vàng của Mỹ .
+Dịch_vụ miễn_phí này được thiết_kế tương_thích với công_cụ của Microsoft , bao_gồm MapPoint , MSN Search và hình_ảnh vệ_tinh từ TerraServer - USA .
+
+Thêm_vào đó , tính_năng " scratch pad " cho_phép mọi_người lưu lại những địa_chỉ mà họ vừa tìm_kiếm .
+Virtual Earth cũng bao_gồm tính_năng " Locate Me " nếu người_dùng đang ở một điểm truy_cập Wi - Fi .
+Vị_trí của họ sẽ được hiển_thị bằng một chấm sáng trên bản_đồ .
+
+" Khi bạn ở một thành_phố lạ và cần tìm một hàng_ăn Trung_Quốc gần đó hay hệ_thống thẻ ATM , kiểu tìm_kiếm truyền_thống sẽ không mang lại những thông_tin về vị_trí cụ_thể mà bạn cần " , Stephen Lawler , Tổng giám_đốc Virtual Earth , khẳng_định .
+
+Sơ_đồ hoá dựa_trên hình_ảnh vệ_tinh đã thu_hút sự_quan_tâm của nhiều hãng tìm_kiếm .
+Google cũng đã cung_cấp một   gần_đây cho_phép mọi_người quan_sát hình_ảnh 3 chiều của một vị_trí cụ_thể .
+
+P.T. ( theo CNet )

@@ -1,0 +1,20 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2006/02/3b9e6efc/
+title=IBM sản xuất chip theo công nghệ 29,9 nm 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+IBM sản_xuất chip theo công_nghệ 29,9 nm
+IBM vừa công_bố một phương_pháp mới : nhúng tấm wafer vào trong nước tinh_lọc và kết_hợp với ánh_sáng laser để tạo_ra các vi_mạch nhỏ chỉ bằng 1/3 so với kỹ_thuật 90 nm trong chip được sản_xuất hàng_loạt hiện_nay .
+
+Giới công_nghệ cho_rằng phương_pháp in quang và chiếu laser lên bảng silicon có_thể hội_tụ ánh_sáng để sản_xuất thiết_bị xử_lý ở mức thấp nhất là 32 nm .
+Tuy_nhiên , IBM đã áp_dụng biện_pháp " in_nhúng " để tạo vi_mạch với chiều_rộng chưa đến 30 nm .
+
+Trong những thập_kỷ qua , ngành_công_nghiệp bán_dẫn đã liên_tục thu_nhỏ vi_mạch nhằm xếp được nhiều thành_tố hơn trên một_chip , nhờ vậy khả_năng vận_hành của vi xử_lý được cải_thiện đáng_kể .
+Nhưng khi các thành_tố này đạt tới mức phân_tử và nguyên_tử , tương_lai của " xu_thế nhân đôi " ( còn được biết đến như_là ) đang đi dần đến và ngành_công_nghiệp lại phải tìm_kiếm phương_pháp sản_xuất mới .
+
+" Mục_tiêu của chúng_tôi là tận_dụng tối_đa công_nghệ in quang để có_thể trì_hoãn quá_trình chuyển sang những lựa_chọn đắt_đỏ khác " , tiến_sĩ Robert D . Allen tại trung_tâm nghiên_cứu của IBM khẳng_định .
+" Mức 29,9 nm là dấu_hiệu rõ_ràng cho_thấy chúng_ta sẽ có thêm ít_nhất 7 năm nữa để thực_hiện thay_đổi cần_thiết và chờ cho các công_nghệ khác trưởng_thành hơn " .
+
+Intel , hãng thiết_bị xử_lý hàng_đầu thế_giới , đã sản_xuất chip theo kỹ_thuật 65 nm từ năm_ngoái và đang tập_trung vào công_nghệ 45 nm .
+" Công_ty cũng đang thí_nghiệm công_nghệ ' nhúng ' nhưng cho_rằng đây chưa phải thời_điểm thích_hợp để áp_dụng bởi chúng_tôi cần giải_quyết một số vấn_đề về mật_độ , kiểm_soát khâu sản_xuất wafer ... " , Mark Bohr , Giám_đốc kiến_trúc xử_lý của Intel , cho_biết .
+
+T.N . ( theo CNet , LATimes )

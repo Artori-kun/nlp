@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/10/3B9CC19A/
+title=Bản vá lỗi mới nhất cho Internet Explorer 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bản vá lỗi mới nhất cho Internet Explorer
+Microsoft sẽ tung_ra phần_mềm nâng_cấp tổng_hợp dành cho công_cụ duyệt web của mình vào cuối tuần_này , nhằm khắc_phục khiếm_khuyết an_ninh đang bị một chương_trình có tên QHosts khai_thác .
+
+Đây là bản nâng_cấp thứ 40 trong năm_nay của hãng phần_mềm và sẽ được áp_dụng đối_với Internet Explorer ( IE ) 5.01 , 5.5 và 6.0 trong tất_cả các phiên_bản Windows , ngoại_trừ Windows Server 2003 vì hệ_điều_hành này có an_ninh trong cài_đặt mặc định được coi là đảm_bảo .
+
+Phần_mềm lần_này sửa lại một lỗ_hổng mà chương_trình lần_trước .
+Đây là khiếm_khuyết mà QHosts tận_dụng để khống_chế máy_tính người sử_dụng khi họ duyệt một trang web có_mang mã tấn_công cài_sẵn .
+Microsoft cho_biết kẻ_tấn_công có_thể tìm được lỗ_hổng này để khai_thác bằng cách mở một website được thiết_kế dặc_biệt .
+Nếu nạn_nhân mở trang này thì IE của họ có_thể bị hỏng và cho_phép mã tấn_công hoạt_động .
+
+Địa_chỉ FortuneCity.com là một nạn_nhân kiểu như_vậy .
+Tại_đây , tin tặc đã thay một banner quảng_cáo bằng loại mã có khả_năng sao_chép QHosts tới bất_cứ máy_tính nào dùng IE mở trang này ra xem .
+Bản_thân chương_trình QHosts không tự_phát_tán , nó không_phải là virus hay sâu máy_tính thông_thường .
+
+Hiện_nay , Microsoft còn đang bị một công_dân tại thành_phố Los Angeles kiện vì sự_yếu_kém trong việc khắc_phục những lỗ_hổng an_ninh , khiến khách_hàng phải chịu nguy_cơ bị thiệt_hại .
+
+Phan_Khương ( theo CNet )

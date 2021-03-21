@@ -1,0 +1,28 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/12/3B9CDC68/
+title=Sun Microsystems ra mắt hệ máy chủ và dịch vụ mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sun Microsystems ra_mắt hệ máy chủ và dịch_vụ mới
+Bằng loạt sản_phẩm mạnh_hơn , rẻ hơn và dịch_vụ đi_kèm , hãng máy_tính và phần_mềm Mỹ đang nỗ_lực dành lại thị_phần đã mất vào tay các đối_thủ chính như IBM , Dell và HP .
+
+Hệ máy này được Sun giới_thiệu hôm_qua .
+Theo_đó , các máy chủ của họ sẽ lần_đầu sử_dụng của hãng AMD , phục_vụ hệ_thống mạng của chính_phủ hay tập_đoàn .
+Trong loạt sản_phẩm vừa trình_làng có máy_chủ giá_rẻ B100x được rao bán 1.795 USD .
+
+Trong các dịch_vụ hỗ_trợ , mọi_người chú_ý nhiều đến cái mà Sun gọi_là Giải_pháp cơ_sở hạ_tầng phục_vụ di_trú máy_chủ .
+Nó giúp khách_hàng chuyển từ máy chủ cũ sang máy mới của Sun .
+Chi_phí cho dịch_vụ này tuỳ vào nhu_cầu cụ_thể .
+
+Ngoài_ra , gần_đây Sun cũng giới_thiệu bộ phần_mềm Java mới trong_đó có các ứng_dụng cho máy cá_nhân và các công_cụ đơn_giản_hoá chiến_lược giá cho doanh_nghiệp .
+Đây là nỗ_lực của Sun nhằm cải_thiện hình_ảnh một tập_đoàn dẫn_đầu trong lĩnh_vực Java .
+
+Theo hãng nghiên_cứu Gartner , hết quý_ba năm_nay , doanh_số máy chủ toàn_cầu tăng 2 % so với một năm trước .
+Tuy_nhiên , thị_phần của Sun_lại tụt từ 12,1 % xuống còn 10,8 % cũng trong khoảng thời_gian này .
+Sự_suy_giảm là do hệ_điều_hành miễn_phí Linux lan_tràn và sự_cạnh_tranh quyết_liệt của IBM , HP và Dell .
+Giới phân_tích cũng chỉ_trích Sun vì không nhất_quán trong chiến_lược phát_triển Linux .
+Lúc_đầu , Sun cung_cấp phiên_bản Linux chính_hãng , song cuối_cùng họ quay sang bán_lại bản của SuSe .
+
+Hai năm vừa qua là thời_điểm khó_khăn với Sun .
+Giờ_đây , họ đang cố_gắng tự kéo mình ra khỏi vũng_lầy để khi nền kinh_tế phục_hồi , công_ty sẽ có vị_trí khả_quan trên thị_trường , ông Jean Bozman , Phó_chủ_tịch hãng nghiên_cứu thị trường IDC , cho_biết .
+
+Thanh_Tùng ( theo Reut ers )

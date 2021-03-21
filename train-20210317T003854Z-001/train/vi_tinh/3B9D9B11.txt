@@ -1,0 +1,34 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/12/3B9D9B11/
+title=Dự thi TTVN 2004: Phần mềm đọc tin tức online 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Dự_thi TTVN 2004 : Phần_mềm đọc tin tức online
+Với iCA Client , chỉ cần mở chương_trình và bấm lệnh cập_nhật , hàng trăm tin_tức được chia theo từng thể loại , nguồn_cung_cấp sẽ truyền_tải về máy_tính của người_sử_dụng , quá_trình này chỉ mất khoảng 5-10 phút đối_với đường truyền dial - up 56,6 Kbps thông_thường .
+
+Giao_diện và cách trình_bày của iCA Client tương_tự như một chương_trình xem e - mail .
+Nhưng thay_vì e - mail là tin_tức .
+Người_dùng có_thể chọn_lọc các thể loại tin mình thích từ các nguồn và chỉ cập_nhật những tin thuộc dạng_đó .
+Tập_trung phân_nhóm một_số tin_tức yêu_thích bằng các từ khóa định_sẵn .
+Hệ_thống có khả_năng bóc tách và chia_sẻ tin trực_tuyến từ các nguồn báo điện_tử như : VnExpress.net , nld.com.vn , thanhnien.com.vn , tuoitre.com.vn ...
+
+Tác_giả của iCA Client là nhóm ZideanART gồm hai thành_viên Đinh_Ngọc_Quang và Trương_Phi_Hùng .
+Cả hai cho_biết mục_đích xây_dựng iCA Client   của nhóm là giúp người đọc thu_thập thông_tin một_cách dễ_dàng , nhanh_chóng mà không gặp_phải những trở_ngại về thời_gian hay chi_phí như phải truy_cập nhiều trang web một_lúc .
+
+" Thời_gian bỏ_ra khi download và xem hàng trăm trang web ( nếu tính một trang là một tin ) trở_nên khó_khăn và nặng_nề hơn so với việc chỉ cần bấm 1 nút cập_nhật , sau_đó chọn tiêu_đề và xem nội_dung hiển_thị phía_dưới " , Ngọc_Quang_nói .
+
+Việc xử_lý bóc tách thông_tin được thực_hiện duy_nhất một_lần tại máy chủ của hệ_thống .
+Các tin_tức người_xem tải về là tin_tức thuần túy được nén lại nhằm tiết_kiệm băng_thông và tăng tốc_độ download .
+Sau khi thực_hiện việc tải thông_tin về , người_xem có_thể ngắt mạng và đọc lại sau .
+Chương_trình này thích_hợp với những người_dùng sử_dụng Internet dial - up .
+
+" Tuy_nhiên , iCA Client   cũng có phiên_bản dành cho PocketPC .
+Ngoài_ra , nếu_có Database Access , hệ_thống có khả_năng tạo_ra các trang tin nội_bộ ( Intranet ) , hoặc trang tin tổng_hợp ( Internet ) trong các công_ty hay tổ_chức riêng " , Ngọc_Quang cho_biết .
+
+Module iSS ( iCA Share Service ) là ứng_dụng giúp website của người sử luôn có tin_tức mới tùy theo các yêu_cầu như theo thể loại , từ khóa tìm_kiếm .
+iSS linh_động trong việc gửi tin_tức trực_tiếp theo yêu_cầu vào website của người cần mà không phân_biệt site sử_dụng ngôn_ngữ hoặc cơ_sở_dữ_liệu nào .
+iSS có 2 chế_độ : cập_nhật tự_động hoặc thủ_công .
+
+Sản_phẩm hiện được cung_cấp miễn_phí tại .
+Để biết thêm chi_tiết hoặc tài_khoản sử_dụng , có_thể liên_lạc với .
+
+N.H .

@@ -1,0 +1,30 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/01/3B9E5DBD/
+title=Thiết bị truy cập không dây đa chức năng WRT-414 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Thiết_bị truy_cập không dây đa chức_năng WRT - 414
+Sản_phẩm do Công_ty máy_tính NETCOM giới_thiệu dành cho kết_nối Internet tốc_độ cao và truyền_thông dữ_liệu qua mạng LAN và LAN không dây .
+Chức_năng AP ( điểm truy_cập không_dây ) của WRT - 414 cho_phép hệ_thống mạng đáp_ứng nhiều ứng_dụng .
+
+WRT - 414 cũng_được tích_hợp một số chức_năng khác như hỗ_trợ DMZ , thiết_lập server ảo ( Virtual Server ) bên_trong , các dịch_vụ QoS phân_lớp băng thông sử_dụng theo loại ứng_dụng ( Application ) , sắp_đặt các cơ_chế quyền_lợi riêng theo địa_chỉ IP_đích / nguồn , theo cổng giao_tiếp ( communication port numbers ) ... .
+
+Đặc_tính của thiết_bị là phù_hợp với các giải_pháp cho văn_phòng vừa và nhỏ , nhu_cầu làm_việc tại nhà .
+WRT - 414 có_thể xây_dựng tường lửa SPI kiểm_soát trên từng gói_tin , cơ_chế chống tấn_công từ_chối dịch_vụ DoS ...
+Đặc_biệt , thiết_bị có_thể hoạt_động ở nhiều mode khác_nhau như AP , Bridge , AP client .
+Ngoài_ra , các phương_thức xác_nhận truy_cập không dây rất đa_dạng để chọn_lựa bảo_mật hệ_thống như 64/128- bit WEP ( Wired Equivalent Privacy ) , WPA - PSK , WPA , WPA2 Encryption và điều_khiển lọc địa_chỉ MAC giúp cho mạng của bạn được an_toàn hơn .
+
+WRT - 414 tương_thích cả_hai chuẩn 802.11b và 802.11g .
+
+Bên cạnh WRT - 414 , Công_ty NETCOM cũng giới_thiệu ADW - 4301 ( 802.11g Wireless ADSL 2/2 + Firewall Router ) .
+Đây là giải_pháp cho các ứng_dụng văn_phòng nhỏ hay văn_phòng tại gia_đình cho_phép chia_sẻ kết_nối Internet tốc_độ cao qua cả_hai đường mạng không dây và có_dây .
+
+Sản_phẩm tương_thích đường ADSL 2/2 + với tốc_độ download tối_đa là 25 mb / giây và upload 3,5 mb / giây .
+Máy_tính xách tay hay PC có lắp_đặt card mạng chuẩn 802.11b hay 802.11g đều có_thể kết_nối đơn_giản với thiết_bị .
+Hơn_nữa , tính_năng switch tích_hợp bên_trong sản_phẩm còn cho_phép kết_nối với 4 máy_tính qua cáp RJ - 45 hoặc nối tầng với các switch khác để mở_rộng mạng .
+
+Sản_phẩm này cũng có_thể ứng_dụng mạng như DHCP ( cung_cấp địa_chỉ IP tự_động ) , Virtual Server ( Server ảo ) , DMZ , PPTP / IPSec pass through ( cơ_chế kiểm_soát tường_lửa và bảo_mật ) , khả_năng lọc địa_chỉ ( URL filter ) .
+ADW - 4301 còn_như một tường_lửa , bảo_vệ hệ_thống mạng khỏi sự_tấn_công từ bên ngoài.  
+WRT - 414 giá 60 USD và   ADW - 4301 được bán 87 USD .
+
+Thông_tin chi_tiết về hai sản_phẩm có tại
+Xuân_Kim

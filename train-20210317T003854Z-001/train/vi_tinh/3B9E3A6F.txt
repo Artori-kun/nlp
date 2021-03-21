@@ -1,0 +1,24 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/11/3B9E3A6F/
+title=Oracle phát hành gói cơ sở dữ liệu miễn phí 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Oracle phát_hành gói cơ_sở_dữ_liệu miễn_phí
+Chỉ vài ngày sau khi MySQL được nâng_cấp lên , hãng Oracle tuyên_bố sẽ phát_hành phần_mềm database miễn_phí với một_số tính_năng hạn_chế nhằm cạnh_tranh hiệu_quả hơn tại thị_trường cấp_thấp .
+
+Bản_thử_nghiệm Express Edition , dành cho hệ_thống Linux và Windows 32 bit , có_thể được hoặc thông_qua sản_phẩm của bên thứ_ba .
+Bản_chính_thức sẽ ra_mắt vào cuối năm .
+Công_ty hy_vọng sẽ thu_hút được một lượng lớn " những người mới sử_dụng " là các nhà phát_triển , các hãng cung_cấp phần mềm độc_lập ( ISV ) , giảng_viên và sinh_viên ...
+
+Phần_mềm mới được phát_triển trên cùng một mã cơ_sở như database 10g hiện_nay của Oracle , nhưng có những giới_hạn nhất_định như 4 GB dữ liệu , RAM 1 GB và chỉ được sử_dụng trên một thiết_bị xử_lý cho mỗi server .
+Tập_đoàn phần_mềm Mỹ cho_rằng khách_hàng sẽ dùng thử bản miễn_phí và nâng_cấp lên sản_phẩm thương_mại nếu_cần thêm dung_lượng lưu_trữ trong quá_trình quản_lý .
+
+Oracle hiện dẫn_đầu thị_trường cơ_sở_dữ_liệu với đối_thủ chính là IBM .
+Nhưng SQL Server của Microsoft cũng đang nhanh_chóng giành_được vị_trí đáng_kể .
+Hãng phần_mềm của Bill Gates đang chuẩn_bị cung_cấp bản cập_nhật SQL Server 2005 với gói SQL Server Express miễn_phí .
+
+Database 10g Express Edition cũng sẽ giúp Oracle đối_phó với MySQL 5.0 , gồm nhiều tính_năng quan_trọng cho doanh_nghiệp và hứa_hẹn sẽ chiếm một thị_phần_lớn của nhà_cung_cấp Thụy_Điển MySQL AB .
+
+Tháng_trước , Oracle đã mua Innobase , công_ty mã nguồn mở Phần_Lan chuyên phát_triển công_cụ lưu_trữ sử_dụng MySQL phổ_biến .
+Oracle khẳng_định Innobase sẽ tiếp_tục hoạt_động với MySQL , tuy_nhiên giới quan_sát nhận_thấy động_thái đó chỉ nhằm mục_đích làm suy_yếu niềm_tin vào cơ_sở_dữ_liệu mã_mở .
+
+T.N. ( theo TechWorld )

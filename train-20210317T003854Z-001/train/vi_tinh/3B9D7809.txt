@@ -1,0 +1,34 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D7809/
+title=XP Media Centre mới kích thích nhiều phần cứng ra đời 
+cat=VI-TINH|SAN-PHAM-MOI
+
+XP Media Centre mới kích_thích nhiều phần_cứng ra_đời
+Microsoft vừa trình_làng phiên_bản cập_nhật Edition 2005 của hệ_điều_hành truyền_thông Windows XP Media Center , tạo động_lực mới cho việc phát_triển và kinh_doanh các tiện_ích giải_trí , nghe_nhìn gia_đình .
+
+Được triển_khai thử_nghiệm từ_đầu năm_nay , bản nâng_cấp Windows XP Media Center Edition ( tên mã là Symphony ) bao_gồm nhiều tính_năng mới , trong_đó có việc hỗ_trợ 2 bộ dò kênh TV , tính_năng ghi DVD , kỹ_thuật truyền_hình độ_phân_giải cao , đường TV vệ_tinh và cáp .
+Phần_mềm này còn tăng_cường hỗ_trợ các thiết_bị di_động và có một giao_diện sử_dụng hoàn_toàn mới .
+Ngoài_ra , người_sử_dụng còn có_thể trao_đổi các tin_nhắn IM của dịch_vụ MSN qua TV và đặt chương_trình theo ý_muốn cho Media Center 2005 thông_qua một tiện_ích do MSN cung_cấp .
+
+Một_số_nhà cung_cấp phần_cứng nhân_dịp này đã công_bố những dự_án sản_phẩm mới , sử_dụng Media Center Edition 2005 .
+HP , hãng đầu_tiên tung_ra thị_trường PC chạy , tuyên_bố sẽ trình_làng một dòng máy_tính mới chạy hệ_điều_hành này vào cuối năm_nay : M1100 Photosmart .
+Tháng 11 , HP sẽ tung_ra hệ_thống HP Digital Entertainment Center , một thiết_bị được thiết_kế với kích_thước nhỏ gọn đủ để gắn lọt trên giá TV gia_đình .
+Digital Entertainment Center có ổ_cứng , ổ ghi DVD và sử_dụng hệ_điều_hành Media Center 2005 .
+Hiện_nay đã có 2 mẫu máy loại này : HP Z 540 DEC , dung_lượng 160GB , giá 1.499 USD và HP Z 545- b DEC , 360 GB , giá 1.999 USD .
+
+Nhờ tính_năng quan_trọng Media Center Extender trong Media Center 2005 ( đây là một công_nghệ mới , cho_phép người_sử_dụng thiết_bị di_động kết_nối tới 5 TV vào máy_tính trung_tâm ) , cuối tháng 10 , HP sẽ phát_hành thiết_bị Media Center Extender X5400 .
+Chiếc hộp thanh_mảnh này sẽ đóng_vai trò cầu nối giữa TV và máy_tính trung_tâm thông_qua kênh ethernet hoặc mạng không dây chuẩn 802.11a / g .
+
+Trong_khi_đó , hãng Gateway công_bố hệ thống 820GM , dựa_trên kiến_trúc BTX của Intel , với hy_vọng sẽ làm giảm bớt tiếng ồn và tăng độ tản_nhiệt .
+Máy_tính có giá 1.250 USD này sử_dụng bộ chipset Intel 915G cùng với card đồ_họa ATI Radeon X300SE PCI - Express 128MB , bộ_nhớ 2 kênh DDR 1GB ( có_thể mở_rộng lên 4 GB ) , kết_nối ethernet Gigabit ( 10/100/1000 ) , đầu đọc thẻ 8 trong 1 và ổ cứng 7200RPM serial ATA 250 GB .
+
+Media Center 2005 sẽ thúc_đẩy hơn_nữa sự_phổ_dụng hệ_điều_hành này , đưa nó trở_thành một xu_hướng chủ_đạo trong lĩnh_vực giải_trí gia_đình , Dave Fester , Tổng giám_đốc bộ_phận Consumer Windows của Microsoft , phát_biểu .
+Phiên_bản Windows này nhằm đáp_ứng nhu_cầu rộng_lớn của người tiêu_dùng trong các hoạt_động giải_trí số liên_quan đến âm_nhạc , hình_ảnh và truyền_hình .
+Nhà phân_tích Rob Enderle của hãng The Enderle Group thì cho_rằng trong một_vài năm tới 1/3 số máy_tính ở Mỹ sẽ sử_dụng hệ_điều_hành này để biến PC thành một trung_tâm giải_trí gia_đình thực_thụ .
+Ông này nói : Đây là phiên_bản hoàn_thiện chính_thức .
+Bản beta năm_ngoái cũng rất thú_vị nhưng chưa có độ chín_muồi như sản_phẩm này .
+
+Windows XP Media Center 2005 là trọng_tâm trong chiến_dịch tiếp_thị của Microsoft nhằm khơi lại nhu_cầu của người tiêu_dùng đối_với hệ_điều_hành Windows XP đã tồn_tại 3 năm .
+Từ_nay tới 2006 sẽ không có bản Windows mới nào được phát_hành nên Microsoft rất hy_vọng XP Media Center 2005 sẽ thúc_đẩy được người tiêu_dùng mua máy_tính mới .
+Máy_tính Media Center đắt hơn PC chạy bản Windows XP Home , với các mức_giá từ 900 USD đến trên 1.999 USD .
+
+Phan_Khương ( theo PC World )

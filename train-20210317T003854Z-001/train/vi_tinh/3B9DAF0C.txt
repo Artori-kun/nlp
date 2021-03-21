@@ -1,0 +1,65 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DAF0C/
+title=Những phần mềm kiến trúc nổi bật 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Những phần_mềm kiến_trúc nổi_bật
+7 chương_trình hỗ_trợ thiết_kế được giới_thiệu dưới đây sẽ giúp người_sử_dụng thỏa_mãn_phần_nào với những tiện_ích có_được trong công_việc của mình .
+
+Poly Trans 3D translation system 4.1.2
+Poly Trans là phần_mềm dịch và hiển_thị những bản_vẽ 3D khá chính_xác .
+Nổi_bật ở chương_trình này là sự_kết_hợp nhuần_nhuyễn khéo_léo các đối_tượng hình_khối 3D từ những phần_mềm cơ_bản có kết_hợp cùng những đối_tượng 3D của chương_trình .
+Poly Trans được sử_dụng để chuyển_đổi các đối_tượng 3D cùng hoạt_cảnh của bản_vẽ .
+
+Chương_trình hỗ_trợ xuất_bản vẽ có kết_hợp các đối_tượng của 3Ds max , .3Ds , ACIS SAT , Apple 3DMF , Biovision , Directx , DXF , Electric Image FACT , FilmBox , GamExchange , IGES , Lightscape , Lightwave , Maya , OpenGL C code , OpenFlight , Rarasolids , POV , Pro / Engineer , Protein Database PDB , Renderman RIB , Renderware / ActiveWorlds , Rhino - 3D , SoftImage - 3D and XSL , Solid Edge , SolidWorks , StereoLithography.STL , STEP , trueSpace , USGS DEM , Vistapro , Viewpoint VET , VRML 1.0 + 2.0 , Wavefront và XGL .
+Có một_số định dạng đặc_biệt chỉ có_thể xuất hoặc nhập chứ không_được hỗ_trợ chuyển_đổi sang định dạng_khác .
+Poly Trans hỗ_trợ cho hầu_hết các định dạng 3D chuyên_nghiệp và cả các định dạng 2D .
+Dung_lượng của Poly Trans   là   237,33 K .
+
+Địa_chỉ download :
+Phần_mềm này cho_phép người_dùng tạo được một ngôi_nhà từ trong ý_tưởng .
+Hỗ_trợ mạnh cho CAD , 3D Home architect home design suite deluxe cung_cấp công_cụ để bố_trí các phòng_ốc , đồ_đạc trong từng phòng và thậm_chí cả việc tính_toán vị_trí đèn trong từng phòng hay cầu_thang với thời_gian nhanh nhất .
+Ngay_khi chỉ nghịch_ngợm với chương_trình này , người_ta cũng có_thể phác_thảo ý_tưởng về một ngôi_nhà với đầy_đủ nội_thất .
+Nó giúp người_dùng có_thể nhìn được toàn_cảnh ngôi_nhà như thật từ trong ý_tưởng , cũng_như hỗ_trợ in ra giấy .
+Nếu trên bản_vẽ có khu_vực nào tối_màu , các đường_nét trên đó sẽ chuyển_đổi sang màu_trắng để cán_bộ thi_công dễ xem_xét .
+Phần_mềm này có dung_lượng 160,97 MB .
+
+Địa_chỉ download :
+CAD.OCX 1.0
+Đây là một ActiveX Control được phát_triển bằng Visual Basic 6.0 giúp cho người_sử_dụng có_thể dễ_dàng thực_hiện những đường_nét phức_tạp trên các bản CAD bởi nó hỗ_trợ rất nhiều kiểu định dạng như dòng_thẳng ( line ) , vòng_tròn ( circle ) , đường_cong ( arc ) , hình chữ_nhật ( rectangle ) , hình_cầu 3D ( sphere ) , hình_nón 3D ( cone ) ...
+CAD.OCX 1.0 ( dung_lượng 94,84 K ) còn có_thể tính_toán nhanh_chóng độ_dài , góc và xác_định trung_điểm của đường_thẳng hay cung tròn .
+Chuyển_đổi góc radians sang góc_độ , gửi các ký_tự vào AutoCAD thông_qua các hộp thoại hỏi_đáp , nhập một hoặc nhiều đường_thẳng text trong bản_vẽ , nhập các lớp mới , tính_toán độ_dốc và góc giữa các đường_thẳng .
+
+Download CAD.OCX 1.0 .
+
+Home Plan Pro 4.5
+Các phần_mềm CAD được sử_dụng để thiết_kế thường tiêu tốn rất nhiều thời_gian của người_sử_dụng để thao_tác trên nó cũng_như học_hỏi những tính_năng mà nó mang_lại .
+Thậm_chí , có những thao_tác trên bản_vẽ rất phức_tạp .
+Tuy_nhiên , Home Plan Pro cho_phép người vẽ có_thể dễ_dàng nhanh_chóng tạo_ra những sản_phẩm chất_lượng cao .
+Những đặc_tính mà phần_mềm được tích_hợp trong nó như tạo nhiều bản_sao , nhiều lớp bản_vẽ multiple , hệ đo metre hoặc hệ_đo của Mỹ , hàng tá các chế_độ phủ hình và hàng trăm kiểu hình vẽ minh họa_khác .
+Chương_trình này có dung_lượng là 3,28 MB .
+
+Địa_chỉ download :
+Abracadata Architechture Home Suite
+Sản_phẩm của Abracadate ( dung_lượng 50 MB ) hỗ_trợ cho khá nhiều hệ_điều_hành chứ không chỉ chạy được trên hệ Windows 32 bit như những phần_mềm khác .
+
+Người sử_dụng sẽ cảm_thấy rất thoải_mái khi trực_tiếp dùng phần_mềm này để tạo cho mình một ngôi_nhà như_ý .
+Architecture là một ứng_dụng CAD đặc_biệt , cung_cấp cho người thiết_kế hầu_hết những công_cụ để vẽ , hiển_thị công_trình của mình và nó rất dễ sử_dụng ngay cho cả những người trình_độ thấp .
+
+Download Abracadata Architechture Home Suite .
+
+CadStd Pro
+CadStd Lite là một ứng_dụng mang tính chuyên sâu về một số lĩnh_vực .
+Phần_mềm rất dễ_dàng học và sử_dụng , bạn có_thể sử_dụng để vẽ thiết_kế các chi_tiết cho máy_móc cơ_khí , thiết_kế nhà ở giản_đồ hoặc các bản_đồ .
+Chương_trình cho_phép bạn có_thể xuất sang định dạng DXF , SVG , HPGL/1 hoặc có_thể sử_dụng chế_độ copy vào bộ_nhớ đệm của Windows sau_đó dán vào các ứng_dụng của Office hoặc những ứng_dụng khác .
+Với định dạng DXF , bạn có_thể tái sử_dụng lại những bản thiết_kế của mình từ phần_mềm này trên những ứng_dụng khác dạng CAD .
+Bạn có_thể sử_dụng phiên_bản miễn_phí CadStd Lite cho công_việc của mình , tất_nhiên ở phiên_bản này không_thể có_được những tính_năng mạnh như CadStd Pro nhưng nó cũng cho_phép bạn biết_được những tính_năng mà bạn cần ở phiên_bản Pro trước_khi quyết_định có nên mua nó để sử_dụng hay_không .
+
+Phần_mềm này cho_phép bạn có_thể nhập file ngoài từ các định dạng DXF , HPGL/1 hoặc Gedcom files .
+
+Địa_chỉ download :
+ArchiCAD 9.0
+ArchiCAD là một sản_phẩm của GraphiSoft hỗ_trợ mạnh cho các bạn khi làm_việc với các bản_vẽ 3D trên những dòng máy_tính hỗ_trợ 3D để mô_phỏng một hệ_thống các toà_nhà trong những dự_án lớn .
+Phần_mềm này hỗ_trợ rất nhiều cho những định dạng mà CAD thường được sử_dụng .
+
+Địa_chỉ download :
+Xã_Hội Thông_Tin

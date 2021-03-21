@@ -1,0 +1,8 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2000/12/3B9AD011/
+title=Bộ vi xử lý nhúng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Bộ vi xử_lý nhúng
+Bộ vi xử_lý nhúng ( Embedded Microprocessor ) là loại chip máy_tính được dùng trong những thiết_bị ngoài máy_tính nhằm mục_đích bổ_sung tính_năng , thường là trong lĩnh_vực điều_khiển và kiểm_soát .
+
+PC World VN , 12/2000 .

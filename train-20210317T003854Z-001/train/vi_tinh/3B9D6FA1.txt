@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/10/3B9D6FA1/
+title=Sản phẩm định tuyến tích hợp đa dịch vụ mới của Cisco 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Sản_phẩm định tuyến tích_hợp đa dịch_vụ mới của Cisco
+Những bộ định tuyến mới cho_phép doanh_nghiệp , các nhà_cung_cấp dịch_vụ triển_khai những giải_pháp truyền_thông hội_tụ đa phương_tiện với năng_lực hoạt_động cao và bảo_toàn đầu_tư .
+Cisco vừa tung_ra loạt sản_phẩm này tại thị_trường Việt_Nam .
+
+Cisco 1800 , 2800 và 3800 là những bộ định tuyến đầu_tiên cung_cấp các dịch_vụ thoại , video và nhiều ứng_dụng cao_cấp khác .
+Những sản_phẩm mới này tạo cho khách_hàng một cơ_sở hạ_tầng cho_phép truy_cập nhanh và an_toàn vào các ứng_dụng kinh_doanh cấp_thiết với độ bảo_mật cao .
+
+Loạt sản_phẩm mới tích_hợp sẵn phần_cứng giải_mã và tăng_tốc mạng riêng_ảo ( VPN ) , cùng với phần_mềm quản_trị SDM 2.0 ( security device manager ) cho_phép dễ_dàng quản_trị Cisco Router và Security Device Manager ( SDM ) để có_thể điều_khiển thiết_bị , firewall cho mạng riêng ảo Cisco IOS Software - based VPN .
+Hơn_nữa , với tính_năng chống xâm_nhập ( intrusion prevention system - IPS ) lần_đầu_tiên được tích_hợp sẵn vào bộ định_tuyến , hệ_thống mạng được tăng_cường bảo_vệ ở mức cao hơn so với những sản_phẩm định tuyến_khác .
+Khách_hàng có_thể tùy chọn thêm các module phụ để có dịch_vụ mạng tăng_cường và tốc_độ mạng cao hơn như module gia_tốc VPN , chống xâm_nhập mức cao IPS , lọc URL .
+
+Chúng_tôi ấn_tượng với khả_năng bảo_mật tăng_cường của bộ định tuyến tích_hợp đa dịch_vụ Cisco mới trong phần tính_toán giá_trị đầu_tư , và tin rằng chúng sẽ giúp tạo_ra một nền_tảng có_thể mở_rộng được cho một_số dự_án , ông Norbert Dähne , trưởng_nhóm dự_án dịch_vụ truyền_thông của công_ty hàng không quốc_tế Lufthansa , phát_biểu .
+
+Cisco 2800 và 3800 có sẵn các khe c ắm DSP ( digital signal processing ) để kích_hoạt thoại bảo_mật , cổng_thoại , hội_thảo , khả_năng chuyển_mã , kết_hợp với xử_lý cuộc gọi tích_hợp sẵn trong phần_mềm Cisco IOS cũng_như với thư_thoại tùy_chọn và tự_động trả_lời có trong module tích_hợp cao_cấp ( advanced integration modules - AIMs ) hay slot của module mạng .
+
+Cisco 1800 , 2800 ( có_mặt trên thị_trường từ tháng 9 ) và 3800 ( ra_mắt vào tháng 10 ) sẽ có giá lần_lượt là 1.395 USD , 1.995 USD và 9.500 USD .
+
+T.T .

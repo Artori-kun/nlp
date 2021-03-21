@@ -1,0 +1,21 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/03/3B9D0840/
+title=Hitachi tung ra ổ 400 GB 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hitachi tung_ra ổ 400 GB
+Hai ngày_sau khi đối_thủ ổ 300 GB , Hitachi đã cho ra_mắt một thiết_bị mà họ gọi là có công_suất lớn nhất thế_giới hiện_nay : ổ cứng ATA Deskstar 7K400 , 3,5 inch , có tốc_độ 7.200 vòng quay / phút .
+Nhà_sản_xuất cho_biết thiết_bị mới phục_vụ mục_đích nghe_nhìn và những ứng_dụng đòi_hỏi ổ công_suất cao .
+
+Tổng giám_đốc lĩnh_vực ổ cứng của Hitachi , Jose Antelo , cho_biết : Ổ_đĩa có dung_lượng cực lớn ngày_càng trở_nên quan_trọng khi mà công_nghệ ghi_hình kỹ_thuật_số đã trở_thành một xu_hướng_chính .
+
+Ổ cứng của Hitachi bao_gồm những tính_năng được thiết_kế riêng phục_vụ thị_trường đầu thu video số ( DVR ) , trong_số đó có chức_năng Streaming Command Set , là một công_nghệ mới dùng để tăng_cường khả_năng chạy suốt trong các ứng_dụng video số .
+Ổ 400 GB này sẽ được cung_cấp cùng với các giao_diện Parallel ATA và Serial ATA ( SATA ) .
+SATA cho_phép tỷ_lệ truyền_dữ_liệu tối_đa là 1,5 GB .
+Deskstar 7K400 có_thể mang một bộ_nhớ đệm 8 MB .
+Hiện_nay , sản_phẩm mới chỉ được bán với số_lượng có_hạn .
+
+Theo dự_đoán của hãng phân_tích thị_trường The Yankee Group , đến năm 2007 , thiết_bị DVR sẽ có_mặt trong khoảng 24,7 triệu hộ gia_đình .
+Mức tăng_trưởng này chủ_yếu là nhờ sự_xuất_hiện của truyền_hình độ_phân_giải cao ( High Definition TV - HDTV ) ở Mỹ , tạo_ra cú hích về nhu_cầu đối_với dung_lượng lưu_trữ dữ_liệu .
+Truyền_hình HDTV đòi_hỏi 8,7 GB lưu_trữ cho mỗi tiếng thu_hình_ảnh .
+
+Phan_Khương ( theo InfoWorld )

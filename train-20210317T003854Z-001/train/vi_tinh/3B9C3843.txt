@@ -1,0 +1,17 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/12/3B9C3843/
+title=Microsoft n âng cấp   SQL Server 2000 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft n âng_cấp   SQL Server 2000
+Tại lễ_kỷ_niệm 10 năm phần_mềm cơ_sở_dữ_liệu SQL Server ( TM ) chạy trên Windows , Phó_chủ_tịch phụ_trách sản_phẩm của Microsoft - Gordon Mangione - đã công_bố phi ên bản beta 2 và Service Pack 3 beta 1 của SQL Server 2000 ( 64- bit ) .
+
+Được thiết_kế để hỗ_trợ những ứng_dụng cần hiệu_năng cao và bộ_nhớ lớn , SQL Server 2000 ( 64- bit ) giúp các website thương_mại điện_tử mở_rộng và đạt được lượng giao_dịch lớn hơn .
+Microsoft cho_rằng sản_phẩm sẽ đem_lại lợi_thế cạnh_tranh cho khách_hàng sử_dụng nền_tảng Intel 64- bit và Windows .NET Server .
+
+Giống như nhiều bản nâng_cấp khác , SQL Server 2000 Service Pack 3 gồm các bản sửa lỗi , tinh_chỉnh , phần_mềm cập_nhật tương_thích và tính_năng bảo_mật mới .
+
+Microsoft SQL Server đã tiến những bước dài kể_từ ngày ra_mắt đầu_tiên trên nền_tảng Windows NT .
+Năm 1993 , có 2.000 cơ_sở khách_hàng tham_gia thử_nghiệm bản SQL Server 1.0 .
+Hiện SQL Server chiếm 40 % thị_phần các hệ quản_trị cơ_sở_dữ_liệu chạy trên Windows .
+
+Minh_Nghĩa ( theo_IT )

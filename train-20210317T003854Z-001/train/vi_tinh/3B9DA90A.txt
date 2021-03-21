@@ -1,0 +1,24 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/01/3B9DA90A/
+title=Chuẩn in ảnh chung cho điện thoại camera 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chuẩn in_ảnh chung_cho điện_thoại camera
+Các nhà_sản_xuất điện_thoại di_động và máy_in hàng_đầu thế_giới đang phối_hợp với_nhau để tạo thuận_lợi cho người tiêu_dùng trong việc in_ảnh chụp bằng mobile phone .
+
+Nokia , Motorola , Samsung , Siemens , Korea Telecom và NEC cùng với HP , Lexmark và Epson đã thành_lập ra Liên_minh hình_ảnh và in ấn di_động ( MIPC ) .
+Tổ_chức mới ra tuyên_bố sẽ phát_triển các chuẩn và hướng_dẫn khách_hàng in_ảnh chụp bằng điện_thoại .
+
+Hiện_tại , người tiêu_dùng đã có_thể kết_nối trực_tiếp điện_thoại chụp_hình với máy_tính hoặc máy_in .
+Tuy_nhiên , nỗ_lực đơn_giản_hóa việc in_ảnh điện_thoại đến nay chủ_yếu vẫn chỉ_là những thỏa_thuận song_phương giữa các công_ty hoặc dự_án phát_triển phần_mềm , phần_cứng bên thứ 3 .
+
+Về lý_thuyết , tổ_chức mới ra_đời MIPC sẽ cho_phép in_ảnh trên điện_thoại bằng máy_in do thành_viên của họ sản_xuất .
+Bản hướng_dẫn triển_khai của MIPC cho_biết chuẩn thống_nhất sẽ dựa_trên các giải_pháp và tiêu_chí kết_nối hiện_hành như Bluetooth , chuẩn in và thẻ nhớ hoặc PictBridge .
+
+Bất_cứ sản_phẩm nào tuân_theo các hướng_dẫn kỹ_thuật của MIPC cũng sẽ tương_thích với_nhau trong công_nghệ ứng_dụng đó , Ramon Garrido , Giám_đốc chương_trình của HP và là Chủ_tịch của MIPC , tuyên_bố .
+
+Cũng theo MIPC , năm 2005 sẽ có 370 triệu máy_ảnh số được bán_ra , hơn 3/4 số này là những module tích_hợp trong điện_thoại di_động .
+Các công_ty viễn_thông di_động coi điện_thoại chụp_hình là yếu_tố then_chốt trong việc thúc_đẩy doanh_số từ dịch_vụ dữ_liệu .
+Tin_nhắn đa phương_tiện ( MMS ) , cho_phép khách_hàng truyền ảnh giữa các điện_thoại với_nhau , đang tăng_trưởng nhanh tại châu Âu và châu_Á ( châu Âu hiện thu phí từ 0,5 euro đến 2 euro mỗi_ảnh ) .
+Tuy_nhiên , nếu người tiêu_dùng có_thể dễ_dàng in_ảnh với mức chi_phí thật thấp hoặc thậm_chí không mất_tiền nữa thì rất có_thể xu_hướng gửi ảnh qua mạng di_động sẽ giảm_sút .
+
+P.K. ( theo The Register )

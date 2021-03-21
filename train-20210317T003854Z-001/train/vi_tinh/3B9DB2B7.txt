@@ -1,0 +1,27 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/02/3B9DB2B7/
+title=Microsoft chính thức ra mắt công cụ tìm kiếm 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Microsoft chính_thức ra_mắt công_cụ tìm_kiếm
+Hãng phần_mềm vừa công_bố sử_dụng công_cụ tìm_kiếm mới của riêng mình , đồng_thời chia_tay với công_nghệ của Yahoo , vốn được sử_dụng trên trang thời_gian qua .
+Phiên_bản chính_thức này hỗ_trợ 25 ngôn_ngữ .
+
+Mặc_dù không_còn trực_tiếp được sử_dụng , Yahoo vẫn đóng vai_trò hỗ_trợ trong thời_gian tới , đặc_biệt là đối_với việc tìm_kiếm thông_tin bằng 2 ngôn_ngữ tiếng Hàn và tiếng Nhật .
+
+Chìa_khóa để giúp MSN thành_công , theo Phó chủ_tịch MSN Search Christopher Payne , là tìm_cách đưa_ra câu trả_lời cụ_thể thay_vì cung_cấp các đường_dẫn .
+Google , Ask Jeeves và các site tìm_kiếm nhỏ như Answers.com cũng đã có_được câu_trả_lời cho những yêu_cầu tìm_kiếm trong lĩnh_vực thời_tiết , giải_trí .
+Với phần_mềm từ_điển bách_khoa Encarta , MSN Search hy_vọng còn làm_được nhiều hơn_thế .
+Hơn_nữa , Microsoft có_thể sẽ tận_dụng lợi_thế trình_duyệt Internet Explorer của mình để phổ_cập công_cụ tìm_kiếm mới .
+
+Microsoft đã đầu_tư 100 triệu USD vào việc phát_triển công_cụ tìm_kiếm của riêng mình .
+Tuy_nhiên , theo tập_đoàn phần_mềm này , đó mới là những bước_đi đầu_tiên .
+Chúng_tôi chỉ mới thiết_lập được nền_tảng ban_đầu , sẽ có rất nhiều thành_tựu mới được tạo_ra trong tương_lai , Payne cho_biết .
+
+Quảng_cáo là động_lực thúc_đẩy các hãng phát_triển công_cụ tìm_kiếm .
+Theo dự_đoán của các nhà phân_tích , doanh_thu từ quảng_cáo trực_tuyến trên các site tìm_kiếm trong năm_nay sẽ đạt 5 tỷ USD .
+MSN Search , vốn chiếm 10 % tương_đương với con_số 500 triệu USD , đang hướng đến thu_nhập cao hơn nhờ công_cụ mới .
+Google vẫn tiếp_tục chiếm ngôi vị_thống_lĩnh nhưng khoảng_cách với các đối_thủ đang dần bị thu_hẹp lại .
+Theo hãng nghiên_cứu thị_trường ComScore Networks , trong tháng 12 vừa_qua , Google giành_được 34,7 % thị_phần , giảm 0,3 % so với cùng kỳ năm trước .
+Trong_khi_đó , Yahoo đã nhảy từ 27 % lên 31,9 % cũng chỉ trong_vòng 1 năm_qua .
+
+Văn_Thắng ( theo CNet )

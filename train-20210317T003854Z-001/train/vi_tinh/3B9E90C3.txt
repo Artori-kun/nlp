@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E90C3/
+title=Oracle phát hành công cụ tìm kiếm thông tin 10g 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Oracle phát_hành công_cụ tìm_kiếm thông_tin 10g
+Oracle Secure Enterprise Search 10g cho_phép các công_ty có_thể cung_cấp thông_tin kinh_doanh quan_trọng tới những người_sử_dụng đã được cấp_phép nhưng vẫn đảm_bảo chính_sách bảo_mật doanh_nghiệp .
+
+10g hiển_thị kết_quả tìm_kiếm dựa_trên cơ_sở_dữ_liệu , hệ_thống tệp_tin , quản_trị nội_dung , cổng thông_tin , e - mail và các ứng_dụng doanh_nghiệp .
+Cơ_chế search này cũng đem_lại mức hoàn_vốn ( return on investment - ROI ) nhanh_chóng nhờ kết_hợp quy_trình cài_đặt nhanh_gọn với giao_diện dễ_dùng .
+Ngoài_ra , chương_trình của Oracle có_thể tích hợp trực_tiếp với nhiều hệ_thống xác_thực người_dùng và là kho lưu_trữ các chỉ mục tìm_kiếm với giao_diện lập_trình bảo_mật .
+
+" Doanh_nghiệp có những đòi_hỏi truy_tìm thông_tin khác với người tiêu_dùng phổ_thông " , Sue Feldman , Phó_chủ_tịch phụ_trách nghiên_cứu của IDC , nhận_định .
+" Việc truy_cập an_toàn vào các kho dữ_liệu , định dạng file ... là một phần thiết_yếu .
+Khi hoạt_động tìm_kiếm thông_tin ngày_càng trở_nên quan_trọng , doanh_nghiệp sẽ muốn những chương_trình này có khả_năng mở_rộng , độ_tin_cậy và sự_hỗ_trợ toàn_cầu với các bộ_phận khác thuộc hạ_tầng công_nghệ thông_tin của họ " .
+
+Michael F .
+Johnson , Phó_chủ_tịch kiêm giám_đốc thông_tin của AT Kearney ( Mỹ ) , cho_biết họ đang thử_nghiệm Secure Enterprise Search 10g và khẳng_định sản_phẩm của Oracle đáp_ứng toàn_vẹn các yêu_cầu của họ.
+" 10g là công_cụ tìm_kiếm lý_tưởng và sẽ được tích_hợp vào cổng thông_tin của chúng_tôi .
+Nó có_thể thực_hiện các bước truy_tìm toàn_văn mang tính học_thuật trên những tài_liệu có nội_dung khác_nhau trong trường đại_học " , Ryugo S .
+Hayano , Giáo_sư khoa vật_lý tại Đại_học Tokyo , nhận_xét .
+
+Oracle Secure Enterprise Search 10g sẽ có_mặt rộng_rãi trên thị_trường vào cuối năm tài_chính của Oracle , tức 31/05/06 .
+Thông_tin chi_tiết về 10g có_thể xem .
+
+T.N .

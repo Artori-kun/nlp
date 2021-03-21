@@ -1,0 +1,37 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2002/09/3B9BFDFA/
+title=Windows Media 9 ra mắt 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Windows Media 9 ra_mắt
+Hôm_qua , Microsoft đã trình_làng phần_mềm nghe nhạc kỹ_thuật số đang được nhiều người trông_ngóng - Windows Media 9 - với mong_muốn thiết_lập sự_thống_trị của hệ_điều_hành có khả_năng cung_cấp nội_dung số chất_lượng cao .
+
+Nhà sáng_lập công_ty , Bill Gates , đã trịnh_trọng giới_thiệu phần_mềm này tại một buổi mang đậm chất Hollywood ở Los Angeles ( Mỹ ) tối_qua , với sự_tham_dự của đạo_diễn phim Titanic James Cameron , nhà_sản_xuất nhạc Beatles , George Martin và nhạc_sĩ LL Cool J . " Đây thực_sự là một bước ngoặt của Microsoft " , Gates phát_biểu , " Tất_cả đều nằm_trong tầm_nhìn về một thập_kỷ kỹ_thuật số mới , nơi mà chúng_tôi thấy rằng PC sẽ đóng_vai trò trung_tâm " .
+
+Bằng việc tung_ra Windows Media 9 , Microsoft đang tìm_cách quyến_rũ Hollywood , vốn đang trong quá_trình hội_nhập giữa truyền_hình và Internet .
+Sự ra_mắt của phần_mềm cũng đẩy công_ty cạnh_tranh quyết_liệt hơn với RealNetworks - đã tung_ra bản nâng_cấp công_nghệ đầu năm_nay .
+
+" Theo cách_nhìn của Microsoft , giải_trí và âm_nhạc kỹ_thuật số là những chất xúc_tác quan_trọng để thúc_đẩy đợt nâng_cấp PC lớn tiếp_theo " , nhà phân_tích Matt Rosoff nhận_định , " Nhưng thách_thức của Microsoft là_phải thuyết_phục các nhà sáng_tạo rằng tài_sản trí_tuệ của họ sẽ không bị đánh_cắp " .
+
+Cùng_với cuộc ra_mắt này , Microsoft công_bố 60 bạn_hàng sẽ hỗ_trợ Windows Media 9 , trong_đó có Intertainer , CinemaNow , FullAudio và Pressplay .
+Microsoft cũng cho_biết hãng BMW Films sẽ sử_dụng Windows Media 9 để thực_hiện loạt phim mini trong các rạp chiếu kỹ_thuật số ở Mỹ vào năm tới .
+
+Một trong những cải_tiến lớn nhất của Windows Media 9 là ở khả_năng nghe_nhìn .
+Microsoft đã tung_ra những codec mới sử_dụng kích_cỡ file nhỏ hơn , như MPEG 4 .
+Đồng_thời nâng_cấp âm_thanh surrounding 5.1 , tăng chất_lượng của các buổi hoà_nhạc hoặc phim_ảnh xem trực_tiếp trên web .
+
+Giống như phiên_bản trước , Windows Media 9 giới_hạn việc hỗ_trợ nhạc MP3 , nếu người_dùng không trả thêm tiền .
+Phần_mềm cũng tăng_cường_độ bảo_mật , cho_phép người_sử_dụng kiểm_soát sự_ra_vào các trang web và theo_dõi lịch_sử CD và DVD .
+
+Ngoài_ra , Microsoft còn bổ_sung Auto Playlists , sắp_xếp tự_động các file nhạc theo thể loại , thứ_hạng hoặc tính phổ_biến .
+Windows Media Player 9 còn đem tới các bộ skin khác_nhau với nhiều màu_sắc và hình_họa đa_dạng .
+Phần_mềm được bổ_sung công_nghệ FastStream , sử_dụng băng_thông rộng để truyền_tải nhiều nội_dung hơn trong cùng một thời_điểm , do_vậy người_xem có_thể tua đi tua lại dễ_dàng .
+
+Tuy_nhiên , một_số tính_năng mới trong Windows Media 9 sẽ chỉ tương_thích với Windows XP .
+Hiện Microsoft đã tung_ra các bản_thử nghiệm dành cho Windows 98 Special Edition , Windows Me , Windows 2000 và Windows XP .
+
+RealNetworks , đối_thủ của Microsoft , cũng đang nhăm_nhe trở_thành một nhà hoạt_động trực_tuyến ngang_ngửa bằng cách cung_cấp nội_dung riêng_biệt cho những người_thuê_bao dịch_vụ của họ .
+Chiến_lược này đã giúp công_ty giành_được 700.000 thuê_bao dịch_vụ giải_trí , bao_gồm cả các video clip của chương_trình truyền_hình và bóng_chày trực_tiếp .
+
+Tháng 7 , RealNetworks đã tung_ra máy chủ hỗ_trợ các định dạng âm_thanh khác_nhau nhằm tăng thị_phần .
+Hôm_qua , hãng này tiết_lộ máy chủ Helix Universal và RealOne Player sẽ hỗ_trợ nội_dung trao_đổi trên phiên_bản thử_nghiệm Windows Media Player 9.  
+Minh_Thi ( theo CNET )

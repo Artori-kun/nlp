@@ -1,0 +1,16 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/09/3B9CBD15/
+title=Công nghệ siêu phân luồng cho máy tính cá nhân di động 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Công_nghệ siêu_phân luồng cho máy_tính cá_nhân di_động
+Hãng Intel vừa ra_mắt bộ_vi xử_lý Mobile Intel Pentium 4 hỗ_trợ công_nghệ này dành cho máy_tính cá_nhân di_động - được coi là có_thể thay_thế máy để_bàn ( như màn_hình lớn , bàn_phím nguyên cỡ và nhiều ổ_đĩa ) .
+Chip mới có tốc_độ lên tới 3,2 GHz .
+
+Công_nghệ siêu_phân luồng cho_phép bộ_vi xử_lý của máy_tính cá_nhân di_động làm_việc đồng_thời trên hai luồng dữ_liệu riêng_biệt , do_đó nâng_cao hiệu_suất hoạt_động khi chạy các ứng_dụng phức_tạp .
+
+Mobile Intel Pentium 4 được chế_tạo trên nền vi kiến_trúc NetBurst và sẽ hoạt_động trên các nền_tảng sử_dụng chipset Intel 852GME và 852PM .
+Bộ vi xử_lý này có kênh truyền hệ_thống chạy ở tốc_độ 533 MHz và hỗ_trợ các chương_trình quản_lý điện_năng di_động tiên_tiến , bao_gồm công_nghệ tăng_tốc Enhanced Intel SpeedStep , Deep Sleep và Deeper Sleep. .
+
+Model mới có giá 653 USD ( 3,2 GHz ) , 433 USD ( 3,06 GHz ) và 294 USD ( 2,8 GHz ) khi mua từ 1.000 đơn_vị trở_lên .
+
+Thanh_Tú ( theo_IT )

@@ -1,0 +1,19 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/09/3B9CB44F/
+title=Chuẩn mới cho công nghệ hội nghị trực tuyến 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chuẩn mới cho công_nghệ hội_nghị trực_tuyến
+Liên_đoàn viễn_thông quốc_tế ( ITU ) trực_thuộc Liên_Hiệp_Quốc vừa thông_qua chuẩn H.350 dành cho dịch_vụ hội_thảo từ_xa ( video conferencing ) , sử_dụng công_nghệ VoIP .
+
+Theo Tyler Johnson , chuyên_gia hệ_thống của Đại_học North Carolina , chuẩn H.350 do họ đề_xuất nhằm thống_nhất phương_thức tìm_kiếm và lưu_trữ hình_ảnh video cũng_như địa_chỉ điện_thoại VoIP .
+
+Với sự_xuất_hiện của chuẩn mới , các nhà sản_xuất sẽ không cần thực_hiện những cuộc thử_nghiệm tốn_kém để kiểm_tra sự_tương_thích giữa sản_phẩm họ với thiết_bị của công_ty khác .
+
+Truyền giọng_nói qua Internet là công_nghệ gọi_điện_thoại rẻ_tiền đang được cá_nhân và doanh_nghiệp dần_dần chấp_nhận sử_dụng rộng_rãi .
+Khác với đường_dây điện_thoại thông_thường , hệ_thống VoIP có_thể kết_hợp hình_ảnh video và giọng_nói để tổ_chức các cuộc hội_nghị từ_xa .
+
+ITU , trước_đây gọi_là Liên_đoàn điện_tín quốc_tế , được thành_lập năm 1865 với mục_đích giám_sát một hiệp_định đa_quốc_gia về chuẩn_hóa mạng điện_tín .
+Thỏa_thuận trên đã góp_phần giải_quyết sự_lộn_xộn trong liên_lạc giữa các nước kéo_dài suốt 20 năm đầu , khi công_nghệ truyền tín_hiệu từ xa mới ra_đời .
+Hiện_nay , tổ_chức này có nhiệm_vụ phối_hợp với chính_phủ và những nhà_sản_xuất tư_nhân trên thế_giới thúc_đẩy sự_thống_nhất hoạt_động của các hệ_thống liên_lạc toàn_cầu .
+
+Phan_Khương ( theo CNet )

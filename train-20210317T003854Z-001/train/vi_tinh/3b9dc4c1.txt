@@ -1,0 +1,18 @@
+url=http://www.vnexpress.net/vietnam/vi%2Dtinh/san%2Dpham%2Dmoi/2005/03/3b9dc4c1/
+title=Epson phát triển 4 vi mạch giao tiếp 
+cat=VI%2DTINH|SAN%2DPHAM%2DMOI
+
+Epson phát_triển 4 vi_mạch giao_tiếp
+Tập_đoàn Seiko Epson vừa công_bố đã chế_tạo thành_công vi_mạch tích_hợp ( IC ) S1R77000 mới .
+Dòng sản_phẩm phẩm này gồm 4 vi_mạch giao_tiếp analog dành cho máy_quét , in đa chức_năng , photocopy và máy fax .
+
+Trong số 4 IC thuộc dòng sản_phẩm này , Epson đã xuất hàng mẫu và bắt_đầu sản_xuất với số_lượng lớn loại S1R7701 .
+Epson sẽ xuất IC S1R77013 , S1R77021 , S1R77081 vào cuối tháng 4 .
+
+Dòng S1R77000 bao_gồm phần xử_lý analog ( mạch CDS - kiểm_toán tín_hiệu và chuyển_đổi A / D ) dành cho các bộ cảm_biến bán_dẫn CCD bên_cạnh đồng_bộ xung nhịp điều_khiển các cảm_biến này .
+
+Công_dụng của dòng sản_phẩm này là giúp tạo_ra những hệ_thống đáp_ứng yêu_cầu chất_lượng hình_ảnh cao một_cách nhanh_chóng .
+Nó cũng góp_phần tiết_kiệm không_gian và chi_phí tổng_thể nhờ_có sự_tích hợp sẵn một_mạch đồng_hồ hỗ_trợ bộ cảm biến_hình .
+IC S1R77013 còn có tính_năng khuếch_đại tín_hiệu , S1R77021 và S1R77081 thì được trang_bị các chuẩn giao_tiếp RSDS - TM ( 1 ) dựng_sẵn , giúp giảm hiện_tượng nhiễu điện_từ một_cách hiệu_quả .
+
+T.V .

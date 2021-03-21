@@ -1,0 +1,18 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/04/3B9C70AF/
+title=NEC và Toshiba ra mắt chip bộ nhớ thế hệ mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+NEC và Toshiba ra_mắt chip bộ_nhớ thế_hệ mới
+Hai công_ty điện_tử hàng_đầu Nhật_Bản vừa công_bố kết_quả đầu_tiên về chip bộ_nhớ Magnetic Random Access Memory ( MRAM ) 1 Mbit và 1 Kbit .
+Họ muốn cạnh_tranh tốt_hơn với các hãng chế_tạo chip nước_ngoài như Motorola , Infineon Technologies AG ...
+
+Chip MRAM 1 Mbit được sản_xuất theo quy_trình công_nghệ 0,6 micron ( nếu sản_phẩm dành cho thiết_bị TMR ) hoặc 0,25 micron ( dành cho những thiết_bị khác ) .
+Sản_phẩm có kích_thước 6,4 x 5 mm .
+Chip MRAM sẽ kéo_dài thời_gian hoạt_động của bộ pin trên máy_tính xách tay hay điện_thoại di_động nhờ khả_năng tiết_kiệm điện .
+
+So với chip MRAM mà Motorola tung_ra thị_trường từ năm 2002 , thiết_bị của liên_doanh NEC - Toshiba có_nhiều ưu_điểm hơn về công_nghệ .
+Ví_dụ trong_khi diện_tích tế_bào nhớ của chip_NEC - Toshiba là 6,55 micron vuông , thì của Motorola lên tới 7,1 micron vuông .
+
+Các nhà_phân_tích cho_rằng nhu_cầu sử_dụng loại chip MRAM để thay_thế chip bộ_nhớ hiện_tại ngày_càng tăng và doanh_thu sẽ đạt mức 8,33 tỷ USD vào năm 2007 .
+ 
+Minh_Nghĩa ( theo NeAsia )

@@ -1,0 +1,25 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/03/3B9DC0C7/
+title=Google chính thức phát hành Desktop Search 1.0 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Google chính_thức phát_hành Desktop Search 1.0
+Sau thời_gian cung_cấp cho khách_hàng dùng_thử , hãng dịch_vụ tìm_kiếm trực_tuyến đã quyết_định tung_ra phiên_bản hoàn_thiện của tiện_ích search thông_tin trên ổ cứng với đầy_đủ tính_năng tìm_kiếm toàn_văn_bản PDF cũng_như các dạng metadata lưu cùng_nhạc , hình_ảnh và video .
+
+Google Desktop Search 1.0 bổ_sung hỗ_trợ trình_duyệt Firefox và NetScape , các ứng_dụng e - mail như Thunderbird , NetScape và có thêm giao_diện ngôn_ngữ Trung_Quốc , Hàn_Quốc .
+Jonathan Rosenberg , Phó_chủ_tịch phụ_trách quản_lý sản_phẩm của Google , phát_biểu : Mọi_thứ giống như một bộ_nhớ bằng hình_ảnh về tất_cả những gì mà bạn nhìn_thấy trên máy_tính và chỉ cần nhấp_chuột .
+Chúng_tôi sẽ tiếp_tục mở_rộng tiện_ích này cho người_sử_dụng toàn_cầu .
+
+Bên_cạnh việc hoàn_tất khả_năng tìm_kiếm toàn_bộ các file máy_tính và thông_điệp e - mail , Google khẳng_định công_cụ của họ là sản_phẩm đầu_tiên có_thể truy_nhập toàn nội_dung ( full text ) những trang web mà người_dùng máy_tính đã truy_nhập ( trong mục History ) và cũng là tiện ích duy_nhất search thông_tin trong dịch_vụ nhắn_tin IM của AOL .
+
+Google Desktop 1.0 còn được tăng_cường một hộp thoại tìm_kiếm cho_phép người_dùng đặt ở bất_cứ đâu trên desktop ( free - standing ) .
+Ngoài việc hỗ_trợ khách_hàng phong_tỏa các trang HTTPS , Google Desktop 1.0 còn có_thể loại_trừ tất_cả những văn_bản có password bảo_vệ khỏi 2 chương_trình Microsoft Word và Excel .
+Công_cụ search này còn được dùng để khôi_phục những thông_tin bị đặt nhầm chỗ hoặc vô_tình bị xóa_mất .
+Ví_dụ , nếu bạn chẳng_may xóa mất một văn_bản Word hoặc file PowerPoint thì có_thể dùng Google Desktop 1.0 để tìm_lại .
+Tất_cả kết_quả tìm_kiếm đều được bổ_sung thêm bằng hình chụp desktop lưu tạm_thời ( snapshot ) về mỗi trang web hoặc văn_bản , do_đó người_sử_dụng có_thể truy xuất thông_tin kể_cả khi không nối mạng hoặc khi một văn_bản đã bị_xóa .
+
+Google cho_biết họ sẽ bổ_sung thêm giao_diện lập_trình ứng_dụng ( API ) để các nhà phát_triển phần_mềm tạo thêm ứng_dụng mới trên nền Google Desktop 1.0 .
+Các chương_trình plug - in đi_kèm với những API này sẽ được cung_cấp , cho_phép người_dùng tìm_kiếm những dạng nội_dung mới như hội_thoại chat trên Trillian và search toàn_văn_bản hình_ảnh quét , chẳng_hạn như fax .
+
+Google Desktop 1.0 ( download ) yêu_cầu cấu_hình : Windows XP , Windows 2000 Service Pack 3 và các phiên_bản về_sau , dung_lượng đĩa trống 500 MB , RAM 128 MB , chip Pentium 400 MHz .
+
+P.K. ( theo VNUNet )

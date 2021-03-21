@@ -1,5 +1,6 @@
 import ast
 import os
+import json
 
 
 def load_n_grams(file_path):
@@ -12,6 +13,12 @@ def load_n_grams(file_path):
         words = fr.read()
         words = ast.literal_eval(words)
     return words
+
+
+def load_corpus(ngram):
+    with open('corpus.json', 'r') as js:
+        corpus = json.load(js)
+    return corpus[ngram]
 
 
 def clean_html(html):

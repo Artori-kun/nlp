@@ -1,0 +1,17 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/03/3B9E7E46/
+title=Chip RFID được cấy trong răng 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chip RFID được cấy trong răng
+Các chuyên_gia nghiên_cứu tại Đại_học công_giáo Leuven ( Bỉ ) đã tích_hợp chip xác_thực tần sóng ( RFID ) trong răng để lưu những thông_tin cơ_bản về mỗi cá_nhân .
+
+Kỹ_sư Patrick Thevissen và nhóm nghiên_cứu đã sử_dụng loại hiện vẫn được các bác_sỹ thú_y cấy trên động_vật .
+Người_ta có_thể biết_được địa_chỉ nhà lưu trong chip của con vật_nuôi nếu nó bị_lạc .
+
+Đối_với con_người , thẻ xác_thực này sẽ cho_phép các tổ_chức giám_định xác_định tên nạn_nhân , quốc_tịch , ngày_sinh , giới_tính ... sau một thảm_họa hoặc tai_nạn nào_đó .
+
+Trong môi_trường thí_nghiệm , chip RFID chịu được những biến_đổi nhiệt_độ lên tới 450 o C .
+Tuy_nhiên , mọi_người sẽ phải sử_dụng một lớp cách_điện khi cấy chip vào răng .
+Dù_sao , Thevissen tin rằng răng là nơi rất thích_hợp để chứa thông_tin bởi nó là bộ_phận khỏe nhất và tồn_tại lâu nhất trên cơ_thể .
+
+( Theo The Register )

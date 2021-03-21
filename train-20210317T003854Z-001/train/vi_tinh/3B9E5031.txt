@@ -1,0 +1,25 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/12/3B9E5031/
+title=Chuyển đổi PDF miễn phí ngay trên web 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Chuyển_đổi PDF miễn_phí ngay trên web
+Chương_trình xử_lý văn_bản trên web mang tên vừa được trang_bị thêm khả_năng chuyển_đổi tài_liệu theo chuẩn định dạng của Adobe Systems , đồng_thời hỗ_trợ OpenDocument và Rich Text Format .
+
+Trình văn_bản Writely của công ty Upstartle ( Mỹ ) hoạt_động như một trang web lưu , chỉnh sửa và chia_sẻ văn_bản .
+Site tạo điều_kiện cho mọi_người đăng tài_liệu Microsoft Word và sau_đó chuyển_đổi sang HTML .
+
+" Người_dùng chỉ cần tìm_nút ' Save as PDF ' ( lưu dưới dạng PDF ) trong trình soạn_thảo " , Claudia Carpenter , nhà đồng sáng_lập Upstartle , hướng_dẫn .
+Bà cho_biết về lâu_dài công_ty sẽ thu phí sử_dụng Writely .
+
+Hiện_nay Writely có khoảng 70.000 người_sử_dụng .
+" Dù mới ra_mắt trong tháng 8 , chúng_tôi đã gần đạt đến con_số 100.000 và công_ty hy_vọng sẽ thu_hút 1 triệu người_đăng_ký ngay cuối tháng_này " , Carpenter nói .
+
+Writely cũng hỗ_trợ OpenDocument , chuẩn xử_lý văn_bản mở được nhiều công_ty như IBM và Sun Microsystems hậu_thuẫn .
+
+Upstartle là một trong những công_ty đang tìm_đường , trong_đó có cả .
+Rất nhiều trong_số đó sử_dụng phần_mềm lập_trình cải_tiến Ajax để mang đến khả_năng tương_tác và cập_nhật dữ_liệu không_thể có trong thế_hệ dịch_vụ web trước_đó .
+
+Những công_ty nhỏ này đang được các " ông_lớn " như Google , Yahoo và Microsoft nhòm_ngó .
+Dịch_vụ chia_sẻ bookmark ( thư_mục chứa địa_chỉ web hay ) trực_tuyến Del.icio.us cuối tuần qua đã sáp_nhập_vào Yahoo với số_tiền không_được tiết_lộ .
+
+P.T. ( theo CNet )

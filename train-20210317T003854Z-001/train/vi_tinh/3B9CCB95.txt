@@ -1,0 +1,21 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/10/3B9CCB95/
+title=Hướng tới Linux 2.6 hoàn thiện 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Hướng tới Linux 2.6 hoàn_thiện
+Trung_tâm phát_triển mã nguồn mở OSDL ( Mỹ ) , hôm_qua , tung_ra phiên_bản thử_nghiệm mới của công_nghệ mã_mở , chủ_yếu nhắm vào đối_tượng doanh_nghiệp .
+Chương_trình đưa thành_phần cốt_lõi ( kernel ) của hệ_điều_hành Linux này tiến thêm một bước_mới , mặc_dù còn chậm .
+
+Phiên_bản mới có những tính_năng cải_tiến sẽ cho_phép Linux đáp_ứng được cấu_trúc 32 bit hoặc nhiều bộ_vi xử_lý hơn , đồng_thời hoạt_động trên nhiều loại thiết_bị cá_nhân khác_nhau .
+Ngoài quy_mô hoạt_động rộng , trong_số những cải_tiến ở bản_thử_nghiệm của Linux 2.6 còn có tính_năng lập lịch_trình CPU ( scheduler ) , công_cụ quản_lý bộ_nhớ được tăng_cường và mã hệ_thống file .
+Phiên_bản mới ( được gọi_là Test9 ) còn có một lớp_ổ ( driver layer ) để nhờ_đó những thiết_bị I / O ( đầu vào - đầu_ra ) như đĩa có_thể hoạt_động tốt và dễ quản_lý hơn .
+
+OSDL kêu_gọi tất_cả khách_hàng sử_dụng Linux , các công_ty phát_triển phần_mềm và cung_cấp giải_pháp tập_trung vào Test9 , để kiểm_nghiệm , xác_thực và nâng_cấp , nhằm chuẩn_bị cho sự_ra_đời của phiên_bản hoàn_thiện - dự_kiến là cuối năm_nay hoặc đầu 2004 .
+Timothy Witham , Giám_đốc OSDL , nói : Chúng_tôi cho_rằng 2.6 sẽ góp_phần mở_rộng thị_trường sản_phẩm mã_mở , để Linux có_thể thực_sự thay_thế những nền hoạt_động truyền_thống .
+
+Tháng 7 , OSDL phát_hành bản_thử nghiệm đầu_tiên của lõi 2.6 , trong_đó có các API ( giao_diện lập_trình ứng_dụng ) ổn_định , Posix và giao_diện phân_luồng ( thread interface ) .
+Kể từ_đó , nhóm nghiên_cứu tiếp_tục tìm_hiểu và kiểm_tra thử_nghiệm cả ở Mỹ và Nhật .
+OSDL tin rằng phiên_bản 2.6 của lõi hệ_điều_hành mã mở sẽ tăng_thêm sức_hút đối_với doanh_nghiệp lớn , bởi một loạt tính_năng bổ_sung sẽ cho_phép nó vận_hành tốt_hơn các ứng_dụng quan_trọng và những môi_trường điều_hành cao_cấp .
+Phiên_bản mới hiện_có_thể tải về từ hoặc .
+
+Phan_Khương ( theo InfoWorld )

@@ -1,0 +1,13 @@
+url=http://vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2003/03/3B9C5FD2/
+title=Ra mắt phần mềm kế toán hỗ trợ doanh nghiệp vừa và nhỏ 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Ra_mắt phần_mềm kế_toán hỗ_trợ doanh_nghiệp vừa và nhỏ
+Đó là phiên_bản MISA SME 7.0 được công_ty_cổ_phần tin_học MISA công_bố hôm_qua .
+Theo Tổng giám_đốc Lữ Thành_Long , phần_mềm này có 11 phân_hệ độc_lập với giao_diện hình_ảnh và ngôn_ngữ hiển_thị tiếng_Việt , giúp doanh_nghiệp thực_hiện thao_tác tính_toán nhanh_chóng , chính_xác hơn .
+
+Ông Long cho_biết các phân_hệ được cài_đặt như mua_hàng , quản_lý kho , quỹ , ngân_hàng , trả_lương , thuế ... có khả_năng hỗ_trợ doanh_nghiệp tiến_hành các hoạt_động giao_dịch trực_tuyến , thanh_toán những khoản_nợ bằng tiền_mặt , séc , thẻ_tín_dụng .
+
+Ngoài_ra , MISA SME 7.0 có_thể tính giá_trị hàng tồn_kho bằng nhiều phương_pháp , thiết_lập bảng tài_khoản theo chế_độ kế_toán áp_dụng cho doanh_nghiệp vừa và nhỏ do Bộ Tài_chính ban_hành , đồng_thời thực_hiện nhiều chức_năng khác như : hỗ_trợ quản_lý tài_sản cố_định , lắp_ráp vật_tư , hạch_toán thuế ...
+
+Hiền_Hòa

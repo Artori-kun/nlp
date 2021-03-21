@@ -1,0 +1,48 @@
+url=http://www.vnexpress.net/Vietnam/Kinh-doanh/Chung-khoan/2006/12/3B9F0FFB/
+title=Loạn số trên bảng giá chứng khoán trực tuyến 
+cat=KINH-DOANH|CHUNG-KHOAN
+
+Loạn số trên bảng_giá chứng_khoán trực_tuyến
+Công_việc bận_rộn khiến nhiều nhà đầu_tư chọn biện_pháp xem giá chứng_khoán trực_tuyến .
+Thế_nhưng , không_phải khi nào bảng điện_tử cũng_thể hiện đầy_đủ và chính_xác .
+Mỗi bảng lại có cách thể_hiện khác_nhau khiến những tay_chơi mới vào nghề không ít phen lúng_túng .
+
+4/12 , chỉ_số VN - Index tăng nhẹ trở_lại sau một tuần đi xuống .
+Top 5 chứng_khoán khớp lệnh với khối_lượng lớn nhất phiên là PRUBF1 , VNM , STB , VF1 và VSH .
+Tuy_nhiên , đến 19h45 phút cùng ngày , khi phiên giao_dịch đã kết_thúc hơn 8 tiếng đồng_hồ , trên trang_chủ website Công_ty chứng_khoán Bảo_Việt ( BVSC ) , top 5 chứng_khoán năng_động nhất phiên lại là AGF , DFC , DHA , BT6 , BPC. Đến 15h30 chiều_nay , số_liệu này vẫn chưa được cập_nhật .
+
+Cùng thời_gian ấy , trang web của Công_ty cổ_phần Chứng_khoán Sài_Gòn , liên_tục báo lỗi do quá_tải , phần chuyển font từ tiếng Việt sang Anh và ngược_lại cũng trục_trặc .
+Là một trong những website chứng_khoán lớn nhất Việt_Nam , song đến cuối_ngày SSI vẫn chưa cập_nhật thêm mã PRUBF , dù tân_binh này chào sàn vào buổi_sáng , với khối_lượng khớp lệnh kỷ_lục , 377.000 đơn_vị .
+
+Các trang khác như BSC , ACBS cũng gặp sự_cố tương_tự .
+
+Thời_gian gần_đây , Công_ty chứng_khoán Ngân_hàng Ngoại_thương ( VCBS ) không cập nhất giao_dịch trái_phiếu trong_ngày trên bảng_giá trực_tuyến .
+Chính vì_vậy số_liệu trên website của công_ty vênh khá xa so với các trang_khác .
+Vào_lúc 18h20 ngày 4/12 , trên bảng_giá trực_tuyến đầy_đủ của Công_ty chứng_khoán Ngân_hàng Ngoại_Thương ( VCBS ) , tổng_giá_trị giao_dịch được ghi là gần 180 tỷ đồng .
+Trong_khi tại trang_chủ của website , phần tóm_tắt kết_quả giao_dịch , khối_lượng khớp lệnh là 2,4 triệu đơn_vị , đạt giá_trị 77,6 tỷ đồng .
+Kết_quả chính_xác do Ủy_ban Chứng_khoán công_bố hôm đó là 4,64 triệu đơn_vị , tương_đương hơn 328 tỷ đồng .
+
+Ông Đỗ_Hữu_Phúc , phụ_trách thông_tin Trung_tâm giao_dịch Chứng_khoán TP HCM cho_biết , số_liệu giao_dịch được lấy từ nguồn của Trung_tâm và truyền đến các công_ty chứng_khoán , nên rất thống_nhất .
+" Sở_dĩ có tình_trạng trên là do trục_trặc về máy_móc hoặc lỗi cập_nhật tại các công_ty trực_thuộc .
+Hơn_nữa , mỗi trang lại có cách trình_bày thông_tin khác_nhau " , ông nói thêm.  
+Nói về sự_cố trên trang web của mình , ông Quách Thành_Khôn , phụ_trách kỹ_thuật Công_ty Cổ_phần Chứng_khoán Sài_Gòn ( SSI ) cho_biết , thứ_hai đầu tuần thường là ngày giao_dịch nhiều nhất trong tuần , số_lượng đặt lệnh liên_tục khiến máy_móc không cập_nhật kịp và đã xảy_ra sự_cố .
+
+Còn ông Phạm_Đức_Thắng , Trưởng_phòng Môi_giới Kinh_doanh và Tư_vấn niêm_yết VCBS giải_thích rằng , lúc_trước , trang web của công_ty vẫn cập_nhật lượng giao_dịch trái_phiếu lên đầu trang , nhưng vì đây là giao_dịch thỏa_thuận , thậm_chí không khống_chế biên_độ nên số_liệu trên được dời xuống dưới cùng của trang web .
+Thêm_vào đó , cổ_phiếu và chứng_chỉ quỹ là phần có ảnh_hưởng lớn đến thị_trường nên được đưa lên đầu trang .
+" Chính vì_vậy , khách_hàng không để ý kỹ dễ_hiểu nhầm là công_ty không cập_nhật đủ lượng giao_dịch .
+Thực_tế , chỉ_là sai_khác vị_trí và thứ_tự trình_bày mà_thôi " , ông nói .
+
+Ông Thắng cho_biết thêm , lượng hàng_hóa lên sàn ngày một nhiều , số_nhà đầu_tư tham_gia đặt lệnh cũng ngày một_đông , dẫn đến tình_trạng quá_tải .
+Đôi_lúc , máy_móc của Trung_tâm Giao_dịch Chứng_khoán cũng xảy_ra sự_cố như đứt đường truyền khiến thông_tin tạm_thời bị gián_đoạn , nhưng đó là trường_hợp không thường_xuyên .
+
+Anh Nguyễn_Phú_Thịnh , nhà đầu_tư sàn BSC chia_sẻ rằng , do tính_chất công_việc anh thường_xuyên theo_dõi và đặt lệnh qua mạng trên các trực_tuyến của sàn này , nhưng lắm_lúc khớp lệnh quá chậm cộng với sự_cập_nhật thông_tin quá_trễ khiến nhà đầu_tư gặp khó_khăn trong khâu mua_bán và chuyển_nhượng .
+Sự_khác_biệt về cách trình_bày giữa các bảng điện_tử , buộc các nhà đầu_tư phải trung_thành với một_bảng , và khi_bảng " ruột " của mình sai_lệch thông_tin thì thật khó mà đối_chiếu .
+" Nên_chăng có sự_thống_nhất trong cách trình_bày để nhà đầu_tư dễ so_sánh số_liệu " , anh đề_nghị .
+
+Theo số_liệu khảo_sát về của trang web chứng_khoán Vietstock về chất_lượng phục_vụ của các công_ty chứng_khoán , bao_gồm cả dịch_vụ trực_tuyến , SSI hiện đang là công_ty dẫn_đầu với 827 phiếu ủng_hộ , chiếm tỉ_lệ 21,1 % , tiếp_theo là ACBS với 696 phiếu ( 17,68 % ) và DAS xếp thứ 3 với 405 phiếu ( 10,29 % ) .
+
+Hiện_nay , hầu_như mọi công_ty chứng_khoán đều có dịch_vụ bảng điện_tử trực_tuyến .
+Tính_chung , có khoảng 15 bảng điện_tử đang hoạt_động .
+Một_số công_ty mới thành_lập đang trong giai_đoạn xây_dựng bảng_giá trực_tuyến như Công_ty chứng_khoán SBS , Kim_Long ...
+
+A.H .

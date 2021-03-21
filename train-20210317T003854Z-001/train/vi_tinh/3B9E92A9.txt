@@ -1,0 +1,22 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2006/04/3B9E92A9/
+title=IBM đưa điện toán lưới vào phần mềm SMB mới 
+cat=VI-TINH|SAN-PHAM-MOI
+
+IBM đưa điện toán lưới vào phần_mềm SMB mới
+Gói sản_phẩm vừa phát_hành dành cho các doanh_nghiệp vừa và nhỏ ( SMB - Small and Medium Business ) , gồm phần_cứng , phần_mềm và dịch_vụ được thiết_kế nhằm khuyến_khích người_sử_dụng chấp_nhận công_nghệ .
+
+Judy Smolski , Phó giám_đốc thị_trường SMB của IBM tại Mỹ , cho_biết gói " Grid and Grow Express " này hoạt_động dựa_trên máy chủ phiến IBM eServer BladeCenter .
+Sản_phẩm gồm 7 phiến ( blade ) và người_sử_dụng có_thể tùy chọn loại vi xử_lý , hệ_điều_hành và lập biểu .
+
+" Grid and Grow Express " được phân_phối với giá tối_thiểu 1.369 USD / tháng ( đối_với hợp_đồng 36 tháng ) tại Mỹ , Canada và 12 nước khác ở châu_Âu , Trung_Đông và châu_Phi .
+IBM tiết_lộ khoảng 20 % doanh_thu của họ là từ thị_trường doanh_nghiệp vừa và nhỏ - những công_ty có_số nhân_viên 100 - 1.000 người .
+
+Theo Sanjeev Aggarwal , chuyên_gia phân_tích của tổ_chức nghiên_cứu thị_trường Yankee Group ( Mỹ ) , mức_giá trên " rất linh_hoạt " và sẽ khuyến_khích những doanh_nghiệp đang có_ý định đầu_tư mua PC chuyển sang chia_sẻ nguồn_điện toán cao_cấp với công_nghệ lưới .
+
+IBM đã giới_thiệu gói " Grid and Grow " theo công_nghệ này cho các công_ty vừa và lớn tại triển_lãm LinuxWorld , diễn_ra hồi tháng 8 năm_ngoái ở San Francisco ( Mỹ ) , giá 49.000 USD .
+
+Trong tháng 5 tới , IBM sẽ cho ra_mắt Express Desktop Management Services - gói dịch_vụ web , quản_lý máy_tính để_bàn và máy xách_tay .
+Trong_khi_đó , sản_phẩm Tivoli Directory Integrator Express sẽ giúp người_sử_dụng chia sẽ dữ_liệu bảo_mật , đáng_tin_cậy qua những ứng_dụng riêng .
+Phần_mềm này có giá 16 USD / tài_khoản và sẽ xuất_hiện vào tháng 6 trên toàn thế_giới , trừ Nhật_Bản .
+
+T.N. ( theo InfoWorld )

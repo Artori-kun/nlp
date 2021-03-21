@@ -1,0 +1,27 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2005/10/3B9E2F10/
+title=Yahoo thử nghiệm công cụ tìm kiếm podcast 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Yahoo thử_nghiệm công_cụ tìm_kiếm podcast
+Hãng dịch_vụ trực_tuyến lớn nhất thế_giới hôm_qua đã chính_thức gia_nhập lãnh_địa   và khẳng_định họ nắm đủ " vũ_khí " trong tay để chiến_đấu với   của Apple.
+cho_phép mọi_người tìm_kiếm hàng chục nghìn chương_trình audio khác_nhau .
+Khách_hàng có_thể chọn thiết_bị phát podcast tùy_ý , như Yahoo Music Engine , iTunes và Windows Media Player .
+Các file này cũng_được phép lưu và tải tới nhiều loại máy nghe_nhạc , ví_dụ Apple , , hay Creative Zen .
+
+Yahoo cũng liệt_kê những podcast phổ_biến và được đánh_giá cao nhất , đồng_thời cung_cấp công_cụ tạo và phát_hành podcast miến phí ngay trên dịch_vụ của mình .
+
+Hiện_nay , trên web đã xuất_hiện hàng nghìn podcast với nội_dung đa_dạng từ những cuộc tán_gẫu , bài phát_biểu đến các file âm_nhạc theo đủ mọi phong_cách khác_nhau , và người_nghe có_thể lưu trên các thiết_bị MP3 .
+Một_số đài_phát_thanh , hãng tin và công_ty nghe_nhìn cũng bắt_đầu phân_phối chương_trình qua podcast .
+
+Nhóm phát_triển của Yahoo đang tiến_hành đăng_ký bản_quyền cho khẩu_hiệu quảng_cáo của họ là " Dig It .
+Tag It .
+Share It. " ( Tìm_kiếm , lấy về và chia_sẻ ) .
+
+Trong_khi_đó , Google cũng vừa giới_thiệu bản_thử_nghiệm chương_trình đọc_tin ( newsreader ) , hỗ_trợ mọi_người cập_nhật , thu_thập và tổ_chức thông_tin .
+
+cho_phép mọi_người tìm_kiếm nội_dung trên website và sau_đó đăng_ký để nhập tin qua chương_trình - chuẩn phân_phối thông_tin qua mạng tới công_cụ newsreader .
+
+Mọi_người cũng có_thể e - mail hoặc nội_dung trong newsreader và đặt_tên những gì họ lưu_lại .
+Phần_mềm này theo_dõi và tự_động loại_bỏ những nội_dung đã được đọc mỗi khi người_dùng tải lại ( refresh ) .
+
+P.T. ( theo InformationWeek )

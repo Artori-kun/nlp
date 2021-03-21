@@ -1,0 +1,23 @@
+url=http://www.vnexpress.net/Vietnam/Vi-tinh/San-pham-moi/2004/06/3B9D3938/
+title=Phục hồi dữ liệu bằng VirtualLab Data Recovery 
+cat=VI-TINH|SAN-PHAM-MOI
+
+Phục_hồi dữ_liệu bằng VirtualLab Data Recovery
+Một_lần , nhận_thấy chiếc máy_tính trở_nên ì_ạch , bạn đem_ra dọn_dẹp và thật phấn_khởi vì nó phục_hồi được phần_nào tốc_độ .
+Đột_nhiên , bạn giật_mình nhận_thấy mình đã quá_tay xóa_mất vài chục tập_tin quý_giá .
+Khi_ấy , hãy cầu_viện đến VirtualLab Data Recovery .
+
+Sử_dụng một công_nghệ mới , đang chờ cấp bản_quyền , VirtualLab Data Recovery sẽ quét các ổ_đĩa để tìm những phân_vùng có chứa_dữ_liệu .
+Những gì được tìm thấy sẽ hiển_thị trên một cửa_sổ giống với trình_duyệt web với các tệp tin và thư_mục bạn có_thể chép vào một thiết_bị lưu_trữ an_toàn khác .
+Khi tìm được tập_tin muốn phục_hồi , bạn cần kết_nối với máy chủ của VirtualLap để nó thực_hiện các tác_vụ cần_thiết .
+
+Làm_việc trên các phân_vùng FAT 12 , FAT 16 , FAT 32 và NTFS .
+VirtualLab Data Recovery có_thể phục_hồi dữ_liệu từ hầu_hết các phương_tiện lưu_trữ , lấy_lại những file đã bị_xóa , những phân_vùng bị hỏng và thậm_chí còn cứu_vãn được cả những dữ_liệu tưởng_chừng đã mất hẳn sau_khi format ổ_đĩa .
+Ngay_cả khi Windows không_nhận ổ_đĩa , vẫn có khả_năng VirtualLab tìm và phục_hồi được dữ_liệu cho_bạn .
+
+Lưu_ý : Chương_trình được cung_cấp miễn_phí , nhưng nếu bạn dùng chúng để phục_hồi dữ_liệu cho máy_chủ , bạn sẽ phải trả_tiền và mức phí sẽ phụ_thuộc vào số_lượng dữ_liệu cần phục_hồi .
+
+Phần_mềm tương_thích với Windows 95 trở_lên và máy chủ 2003 , có dung_lượng 2 MB .
+Bạn có_thể tải .
+
+Thế_Nghĩa
