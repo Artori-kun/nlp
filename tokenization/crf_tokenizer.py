@@ -1,11 +1,13 @@
 import ast
-from .base_tokenizer import BaseTokenizer
-from .utils import load_n_grams
+from base_tokenizer import BaseTokenizer
+from utils import load_n_grams, load_corpus
 import pycrfsuite
 import sklearn_crfsuite
 import os
 import pickle
 import string
+import json
+import datetime
 
 
 def load_crf_config(file_path):
@@ -18,6 +20,13 @@ def load_crf_config(file_path):
     with open(file_path) as fr:
         param_dict = fr.read()
         param_dict = ast.literal_eval(param_dict)
+    return param_dict
+
+
+def load_config(config_file):
+    with open(config_file, "r", encoding="utf8") as conf:
+        param_dict = json.load(conf)
+
     return param_dict
 
 
@@ -53,6 +62,7 @@ def load_data_from_file(data_path):
             sentences.append(sent)
             labels.append(sent_labels)
 
+    print("Done loading data from file")
     return sentences, labels
 
 
@@ -81,10 +91,10 @@ def load_data_from_dir(data_path):
 
 class CrfTokenizer(BaseTokenizer):
     def __init__(self, config_root_path="", bi_grams_path='bi_grams.txt', tri_grams_path='tri_grams.txt',
-                 crf_config_path='crf_config.txt',
+                 crf_config_path='crf_config.json',
                  features_path='crf_features.txt',
-                 model_path='vi-segmentation.crfsuite',
-                 load_data_f_file=load_data_from_dir,
+                 model_path='../models/tokenizer.crfsuite',
+                 load_data_f_file=load_data_from_file,
                  base_lib='sklearn_crfsuite'):
         """
         Initial config
@@ -97,9 +107,9 @@ class CrfTokenizer(BaseTokenizer):
         :param load_data_f_file: method using to load data from file to return sentences and labels
         :param base_lib: library to use for CRF algorithm, default: sklearn_crfsuite, other choices are pycrfsuite
         """
-        self.bi_grams = load_n_grams(config_root_path + bi_grams_path)
-        self.tri_grams = load_n_grams(config_root_path + tri_grams_path)
-        self.crf_config = load_crf_config(config_root_path + crf_config_path)
+        self.bi_grams = load_corpus("bi")
+        self.tri_grams = load_corpus("tri")
+        self.crf_config = load_config(config_root_path + crf_config_path)
         self.features_cfg_arr = load_crf_config(config_root_path + features_path)
         self.center_id = int((len(self.features_cfg_arr) - 1) / 2)
         self.function_dict = {
@@ -158,7 +168,7 @@ class CrfTokenizer(BaseTokenizer):
 
         features_dict = dict()
         for ft_cfg in features_cfg_arr:
-            features_dict.update({prefix+ft_cfg: wrapper(self.function_dict[ft_cfg], word_list + [relative_id])})
+            features_dict.update({prefix + ft_cfg: wrapper(self.function_dict[ft_cfg], word_list + [relative_id])})
         return features_dict
 
     @staticmethod
@@ -240,6 +250,9 @@ class CrfTokenizer(BaseTokenizer):
         :param data_path: path to data file or directory depending on self.load_data_from_file method
         :return: None
         """
+        start = datetime.datetime.now()
+        print("Start training at: " + str(start))
+
         sentences, labels = self.load_data_from_file(data_path)
         X, y = self.prepare_training_data(sentences, labels)
 
@@ -263,6 +276,11 @@ class CrfTokenizer(BaseTokenizer):
 
             trainer.set_params(self.crf_config)
             trainer.train(self.model_path)
+
+        end = datetime.datetime.now()
+        print("Training ends at: " + str(end))
+        total_time = end - start
+        print("Total time (seconds): " + str(total_time.seconds))
 
     def load_tagger(self):
         """
@@ -298,7 +316,7 @@ class CrfTokenizer(BaseTokenizer):
         word_list = []
         pre_word = sent[0]
         for i, p in enumerate(prediction[1:], start=1):
-            if p == 'I_W' and not self._check_special_case(sent[i-1:i+1]):
+            if p == 'I_W' and not self._check_special_case(sent[i - 1:i + 1]):
                 pre_word += "_" + sent[i]
                 if i == (syl_len - 1):
                     word_list.append(pre_word)
@@ -329,7 +347,7 @@ class CrfTokenizer(BaseTokenizer):
             prediction = self.tagger.tag(test_features)
         complete = sent[0]
         for i, p in enumerate(prediction[1:], start=1):
-            if p == 'I_W' and not self._check_special_case(sent[i-1:i+1]):
+            if p == 'I_W' and not self._check_special_case(sent[i - 1:i + 1]):
                 complete = complete + '_' + sent[i]
             else:
                 complete = complete + ' ' + sent[i]
@@ -340,7 +358,7 @@ class CrfTokenizer(BaseTokenizer):
 
 
 def test_base():
-    params = load_crf_config('crf_config.txt')
+    params = load_config('crf_config.json')
     print(params)
     sents = [["Thuế", "thu", "nhập", "cá", "nhân"]]
     crf_tokenizer_obj = CrfTokenizer(load_data_f_file=load_data_from_file)
@@ -358,11 +376,12 @@ def test_base():
 def test():
     crf_tokenizer_obj = CrfTokenizer()
     test_sent = "Thuế thu nhập cá nhân"
-    crf_tokenizer_obj.train('../data/tokenized/samples/training')
+    crf_tokenizer_obj.train('../VNESEcorpus_tok.txt')
     tokenized_sent = crf_tokenizer_obj.get_tokenized(test_sent)
     print(tokenized_sent)
     tokens = crf_tokenizer_obj.tokenize(test_sent)
     print(tokens)
 
-if __name__ == '__main__':
-    test()
+
+# if __name__ == '__main__':
+# test()
