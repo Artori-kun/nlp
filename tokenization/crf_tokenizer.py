@@ -93,7 +93,7 @@ class CrfTokenizer(BaseTokenizer):
     def __init__(self, config_root_path="", bi_grams_path='bi_grams.txt', tri_grams_path='tri_grams.txt',
                  crf_config_path='crf_config.json',
                  features_path='crf_features.txt',
-                 model_path='../models/tokenizer.crfsuite',
+                 model_path='tokenizer.crfsuite',
                  load_data_f_file=load_data_from_file,
                  base_lib='sklearn_crfsuite'):
         """
